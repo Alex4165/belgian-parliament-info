@@ -1,0 +1,5005 @@
+{
+ "doc": "1243",
+ "docs": [
+  "1243"
+ ],
+ "legislature": 56,
+ "title": {
+  "nl": "Wetsontwerp tot hervorming van de personenbelasting (1243/1-10)",
+  "fr": "Projet de loi portant réforme de l'impôt des personnes physiques (1243/1-10)",
+  "subtitles": {
+   "nl": [],
+   "fr": []
+  }
+ },
+ "sessions": [
+  {
+   "session": 134,
+   "date": "2026-07-09",
+   "part": "afternoon",
+   "url": "https://www.dekamer.be/doc/PCRI/html/56/ip134x.html"
+  },
+  {
+   "session": 135,
+   "date": "2026-07-09",
+   "part": "evening",
+   "url": "https://www.dekamer.be/doc/PCRI/html/56/ip135x.html"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Charlotte Verkeyn",
+   "party": "N-VA",
+   "role": null,
+   "refs": [
+    "134/16.01",
+    "134/16.03",
+    "134/16.05",
+    "134/16.07",
+    "134/16.13"
+   ]
+  },
+  {
+   "name": "Vincent Van Quickenborne",
+   "party": "Anders.",
+   "role": null,
+   "refs": [
+    "134/16.02",
+    "134/16.04",
+    "134/16.06",
+    "134/16.08",
+    "134/16.12",
+    "134/16.25",
+    "134/16.26",
+    "134/16.36",
+    "134/16.38",
+    "134/16.40",
+    "134/16.41",
+    "134/16.44",
+    "134/16.49",
+    "134/16.57",
+    "134/16.59",
+    "135/01.04",
+    "135/01.06",
+    "135/01.10",
+    "135/01.16",
+    "135/01.17",
+    "135/01.21",
+    "135/01.22",
+    "135/01.23",
+    "135/01.26",
+    "135/01.28",
+    "135/01.29",
+    "135/01.30",
+    "135/01.31",
+    "135/01.33",
+    "135/01.34",
+    "135/01.35",
+    "135/01.37",
+    "135/01.42",
+    "135/01.45",
+    "135/01.51",
+    "135/01.53"
+   ]
+  },
+  {
+   "name": "Benoît Piedboeuf",
+   "party": "MR",
+   "role": null,
+   "refs": [
+    "134/16.09",
+    "134/16.16",
+    "134/16.19"
+   ]
+  },
+  {
+   "name": "Barbara Pas",
+   "party": "VB",
+   "role": null,
+   "refs": [
+    "134/16.10"
+   ]
+  },
+  {
+   "name": "Jan Jambon",
+   "party": null,
+   "role": "government",
+   "refs": [
+    "134/16.11",
+    "134/16.58",
+    "135/01.36",
+    "135/01.47",
+    "135/01.54"
+   ]
+  },
+  {
+   "name": "Lode Vereeck",
+   "party": "VB",
+   "role": null,
+   "refs": [
+    "134/16.14",
+    "134/16.15",
+    "135/01.07",
+    "135/01.11",
+    "135/01.13",
+    "135/01.14",
+    "135/01.25",
+    "135/01.27",
+    "135/01.38",
+    "135/01.40",
+    "135/01.41",
+    "135/01.43",
+    "135/01.48"
+   ]
+  },
+  {
+   "name": "Hugues Bayet",
+   "party": "PS",
+   "role": null,
+   "refs": [
+    "134/16.17",
+    "134/16.24"
+   ]
+  },
+  {
+   "name": "Sofie Merckx",
+   "party": "PVDA-PTB",
+   "role": null,
+   "refs": [
+    "134/16.18",
+    "134/16.20",
+    "134/16.21",
+    "134/16.22",
+    "134/16.27",
+    "134/16.28",
+    "134/16.33",
+    "134/16.34",
+    "134/16.45",
+    "134/16.50",
+    "134/16.53",
+    "134/16.55",
+    "134/16.60",
+    "135/01.49"
+   ]
+  },
+  {
+   "name": "Georges-Louis Bouchez",
+   "party": "MR",
+   "role": null,
+   "refs": [
+    "134/16.23",
+    "134/16.29",
+    "134/16.31",
+    "134/16.35",
+    "134/16.37",
+    "134/16.39",
+    "134/16.43",
+    "134/16.46"
+   ]
+  },
+  {
+   "name": "Pierre-Yves Dermagne",
+   "party": "PS",
+   "role": null,
+   "refs": [
+    "134/16.30",
+    "134/16.32"
+   ]
+  },
+  {
+   "name": "Axel Ronse",
+   "party": "N-VA",
+   "role": null,
+   "refs": [
+    "134/16.42",
+    "134/16.48"
+   ]
+  },
+  {
+   "name": "Ismaël Nuino",
+   "party": "Les Engagés",
+   "role": null,
+   "refs": [
+    "134/16.51",
+    "134/16.52"
+   ]
+  },
+  {
+   "name": "Stéphane Lasseaux",
+   "party": "Les Engagés",
+   "role": null,
+   "refs": [
+    "134/16.54",
+    "134/16.56",
+    "135/01.01",
+    "135/01.50",
+    "135/01.52"
+   ]
+  },
+  {
+   "name": "Niels Tas",
+   "party": "Vooruit",
+   "role": null,
+   "refs": [
+    "135/01.02"
+   ]
+  },
+  {
+   "name": "Steven Matheï",
+   "party": "cd&v",
+   "role": null,
+   "refs": [
+    "135/01.03",
+    "135/01.05",
+    "135/01.09",
+    "135/01.12"
+   ]
+  },
+  {
+   "name": "Dieter Vanbesien",
+   "party": "Ecolo-Groen",
+   "role": null,
+   "refs": [
+    "135/01.08",
+    "135/01.15",
+    "135/01.18",
+    "135/01.20"
+   ]
+  },
+  {
+   "name": "Denis Ducarme",
+   "party": "MR",
+   "role": null,
+   "refs": [
+    "135/01.19",
+    "135/01.24",
+    "135/01.44"
+   ]
+  },
+  {
+   "name": "Katja Gabriëls",
+   "party": "Anders.",
+   "role": null,
+   "refs": [
+    "135/01.32",
+    "135/01.39"
+   ]
+  },
+  {
+   "name": "François De Smet",
+   "party": "DéFI",
+   "role": null,
+   "refs": [
+    "135/01.46"
+   ]
+  }
+ ],
+ "votes": [
+  {
+   "ref": "135/vote 3",
+   "session": 135,
+   "date": "2026-07-09",
+   "subject": "Stemming over artikel 1. (1243/9)",
+   "item_title": "Aangehouden amendementen en artikelen van het wetsontwerp tot hervorming van de personenbelasting (1243/1-10)",
+   "result": {
+    "nl": "Bijgevolg neemt de Kamer artikel 1 aan.",
+    "fr": "En conséquence, la Chambre adopte l'article 1."
+   },
+   "yes": 135,
+   "no": 0,
+   "abstain": 0,
+   "total": 135,
+   "reused": false,
+   "docs": [
+    "1243"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "voor",
+     "yes": 1,
+     "no": 0,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "voor",
+     "yes": 7,
+     "no": 0,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "voor",
+     "yes": 1,
+     "no": 0,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "voor",
+     "yes": 8,
+     "no": 0,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "voor",
+     "yes": 14,
+     "no": 0,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "voor",
+     "yes": 16,
+     "no": 0,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "voor",
+     "yes": 23,
+     "no": 0,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "voor",
+     "yes": 13,
+     "no": 0,
+     "abstain": 0
+    },
+    "PVDA-PTB": {
+     "stance": "voor",
+     "yes": 11,
+     "no": 0,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "voor",
+     "yes": 19,
+     "no": 0,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "voor",
+     "yes": 12,
+     "no": 0,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "voor",
+     "yes": 10,
+     "no": 0,
+     "abstain": 0
+    }
+   },
+   "kind": "article",
+   "final": false
+  },
+  {
+   "ref": "135/vote 4",
+   "session": 135,
+   "date": "2026-07-09",
+   "subject": "Stemming over amendement nr. 40 van Vincent Van Quickenborne op artikel 2. ( 1243/10)",
+   "item_title": "Aangehouden amendementen en artikelen van het wetsontwerp tot hervorming van de personenbelasting (1243/1-10)",
+   "result": {
+    "nl": "Bijgevolg is het amendement verworpen.",
+    "fr": "En conséquence, l'amendement est rejeté."
+   },
+   "yes": 25,
+   "no": 93,
+   "abstain": 15,
+   "total": 133,
+   "reused": false,
+   "docs": [
+    "1243"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "verdeeld",
+     "yes": 6,
+     "no": 0,
+     "abstain": 1
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 8,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "verdeeld",
+     "yes": 0,
+     "no": 13,
+     "abstain": 1
+    },
+    "MR": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 16,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 23,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 13
+    },
+    "PVDA-PTB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 9,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "voor",
+     "yes": 19,
+     "no": 0,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 12,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 10,
+     "abstain": 0
+    }
+   },
+   "kind": "amendment",
+   "final": false
+  },
+  {
+   "ref": "135/vote 5",
+   "session": 135,
+   "date": "2026-07-09",
+   "subject": "Stemming over amendement nr. 39 van Vincent Van Quickenborne tot weglating van de artikelen 2 en 4. ( 1243/10)",
+   "item_title": "Aangehouden amendementen en artikelen van het wetsontwerp tot hervorming van de personenbelasting (1243/1-10)",
+   "result": {
+    "nl": "Bijgevolg is het amendement verworpen.",
+    "fr": "En conséquence, l'amendement est rejeté."
+   },
+   "yes": 25,
+   "no": 96,
+   "abstain": 14,
+   "total": 135,
+   "reused": false,
+   "docs": [
+    "1243"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "verdeeld",
+     "yes": 6,
+     "no": 0,
+     "abstain": 1
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 8,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 14,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 16,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 23,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 13
+    },
+    "PVDA-PTB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "voor",
+     "yes": 19,
+     "no": 0,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 12,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 10,
+     "abstain": 0
+    }
+   },
+   "kind": "amendment",
+   "final": false
+  },
+  {
+   "ref": "135/vote 5",
+   "session": 135,
+   "date": "2026-07-09",
+   "subject": "Stemming over amendement nr. 41 van Vincent Van Quickenborne tot invoeging van een artikel 2(n). ( 1243/10)",
+   "item_title": "Aangehouden amendementen en artikelen van het wetsontwerp tot hervorming van de personenbelasting (1243/1-10)",
+   "result": {
+    "nl": "Bijgevolg is het amendement verworpen.",
+    "fr": "En conséquence, l'amendement est rejeté."
+   },
+   "yes": 25,
+   "no": 96,
+   "abstain": 14,
+   "total": 135,
+   "reused": true,
+   "docs": [
+    "1243"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "verdeeld",
+     "yes": 6,
+     "no": 0,
+     "abstain": 1
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 8,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 14,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 16,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 23,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 13
+    },
+    "PVDA-PTB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "voor",
+     "yes": 19,
+     "no": 0,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 12,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 10,
+     "abstain": 0
+    }
+   },
+   "kind": "amendment",
+   "final": false
+  },
+  {
+   "ref": "135/vote 6",
+   "session": 135,
+   "date": "2026-07-09",
+   "subject": "Stemming over artikel 2. (1243/9)",
+   "item_title": "Aangehouden amendementen en artikelen van het wetsontwerp tot hervorming van de personenbelasting (1243/1-10)",
+   "result": {
+    "nl": "Bijgevolg neemt de Kamer artikel 2 aan.",
+    "fr": "En conséquence, la Chambre adopte l'article 2."
+   },
+   "yes": 130,
+   "no": 0,
+   "abstain": 5,
+   "total": 135,
+   "reused": false,
+   "docs": [
+    "1243"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "voor",
+     "yes": 1,
+     "no": 0,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "verdeeld",
+     "yes": 2,
+     "no": 0,
+     "abstain": 5
+    },
+    "DéFI": {
+     "stance": "voor",
+     "yes": 1,
+     "no": 0,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "voor",
+     "yes": 8,
+     "no": 0,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "voor",
+     "yes": 14,
+     "no": 0,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "voor",
+     "yes": 16,
+     "no": 0,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "voor",
+     "yes": 23,
+     "no": 0,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "voor",
+     "yes": 13,
+     "no": 0,
+     "abstain": 0
+    },
+    "PVDA-PTB": {
+     "stance": "voor",
+     "yes": 11,
+     "no": 0,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "voor",
+     "yes": 19,
+     "no": 0,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "voor",
+     "yes": 12,
+     "no": 0,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "voor",
+     "yes": 10,
+     "no": 0,
+     "abstain": 0
+    }
+   },
+   "kind": "article",
+   "final": false
+  },
+  {
+   "ref": "135/vote 7",
+   "session": 135,
+   "date": "2026-07-09",
+   "subject": "Stemming over amendement nr. 38 van Vincent Van Quickenborne op artikel 3. ( 1243/10)",
+   "item_title": "Aangehouden amendementen en artikelen van het wetsontwerp tot hervorming van de personenbelasting (1243/1-10)",
+   "result": {
+    "nl": "Bijgevolg is het amendement verworpen en is artikel 3 aangenomen.",
+    "fr": "En conséquence, l'amendement est rejeté et l'article 3 est adopté."
+   },
+   "yes": 6,
+   "no": 114,
+   "abstain": 15,
+   "total": 135,
+   "reused": false,
+   "docs": [
+    "1243"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "verdeeld",
+     "yes": 6,
+     "no": 0,
+     "abstain": 1
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 8,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "verdeeld",
+     "yes": 0,
+     "no": 13,
+     "abstain": 1
+    },
+    "MR": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 16,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 23,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 13
+    },
+    "PVDA-PTB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 19,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 12,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 10,
+     "abstain": 0
+    }
+   },
+   "kind": "amendment",
+   "final": false
+  },
+  {
+   "ref": "135/vote 8",
+   "session": 135,
+   "date": "2026-07-09",
+   "subject": "Stemming over amendement nr. 42 van Vincent Van Quickenborne tot invoeging van een artikel 4(n). ( 1243/10)",
+   "item_title": "Aangehouden amendementen en artikelen van het wetsontwerp tot hervorming van de personenbelasting (1243/1-10)",
+   "result": {
+    "nl": "Bijgevolg is het amendement verworpen.",
+    "fr": "En conséquence, l'amendement est rejeté."
+   },
+   "yes": 6,
+   "no": 94,
+   "abstain": 33,
+   "total": 133,
+   "reused": false,
+   "docs": [
+    "1243"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "verdeeld",
+     "yes": 6,
+     "no": 0,
+     "abstain": 1
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 7,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 14,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 16,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 23,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 13
+    },
+    "PVDA-PTB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 19
+    },
+    "Vooruit": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 10,
+     "abstain": 0
+    }
+   },
+   "kind": "amendment",
+   "final": false
+  },
+  {
+   "ref": "135/vote 9",
+   "session": 135,
+   "date": "2026-07-09",
+   "subject": "Stemming over de artikelen 5 en 6. (1243/9)",
+   "item_title": "Aangehouden amendementen en artikelen van het wetsontwerp tot hervorming van de personenbelasting (1243/1-10)",
+   "result": {
+    "nl": "Bijgevolg neemt de Kamer de artikelen 5 en 6 aan.",
+    "fr": "En conséquence, la Chambre adopte les articles 5 et 6."
+   },
+   "yes": 135,
+   "no": 0,
+   "abstain": 0,
+   "total": 135,
+   "reused": false,
+   "docs": [
+    "1243"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "voor",
+     "yes": 1,
+     "no": 0,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "voor",
+     "yes": 7,
+     "no": 0,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "voor",
+     "yes": 1,
+     "no": 0,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "voor",
+     "yes": 8,
+     "no": 0,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "voor",
+     "yes": 14,
+     "no": 0,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "voor",
+     "yes": 16,
+     "no": 0,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "voor",
+     "yes": 23,
+     "no": 0,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "voor",
+     "yes": 13,
+     "no": 0,
+     "abstain": 0
+    },
+    "PVDA-PTB": {
+     "stance": "voor",
+     "yes": 11,
+     "no": 0,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "voor",
+     "yes": 19,
+     "no": 0,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "voor",
+     "yes": 12,
+     "no": 0,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "voor",
+     "yes": 10,
+     "no": 0,
+     "abstain": 0
+    }
+   },
+   "kind": "article",
+   "final": false
+  },
+  {
+   "ref": "135/vote 10",
+   "session": 135,
+   "date": "2026-07-09",
+   "subject": "Stemming over de artikelen 7 en 8. (1243/9)",
+   "item_title": "Aangehouden amendementen en artikelen van het wetsontwerp tot hervorming van de personenbelasting (1243/1-10)",
+   "result": {
+    "nl": "Bijgevolg neemt de Kamer de artikelen 7 en 8 aan.",
+    "fr": "En conséquence, la Chambre adopte les articles 7 et 8."
+   },
+   "yes": 126,
+   "no": 0,
+   "abstain": 7,
+   "total": 133,
+   "reused": false,
+   "docs": [
+    "1243"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "voor",
+     "yes": 1,
+     "no": 0,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 7
+    },
+    "DéFI": {
+     "stance": "voor",
+     "yes": 1,
+     "no": 0,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "voor",
+     "yes": 8,
+     "no": 0,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "voor",
+     "yes": 14,
+     "no": 0,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "voor",
+     "yes": 16,
+     "no": 0,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "voor",
+     "yes": 22,
+     "no": 0,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "voor",
+     "yes": 13,
+     "no": 0,
+     "abstain": 0
+    },
+    "PVDA-PTB": {
+     "stance": "voor",
+     "yes": 11,
+     "no": 0,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "voor",
+     "yes": 19,
+     "no": 0,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "voor",
+     "yes": 11,
+     "no": 0,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "voor",
+     "yes": 10,
+     "no": 0,
+     "abstain": 0
+    }
+   },
+   "kind": "article",
+   "final": false
+  },
+  {
+   "ref": "135/vote 11",
+   "session": 135,
+   "date": "2026-07-09",
+   "subject": "Stemming over artikel 9. (1243/9)",
+   "item_title": "Aangehouden amendementen en artikelen van het wetsontwerp tot hervorming van de personenbelasting (1243/1-10)",
+   "result": {
+    "nl": "Bijgevolg neemt de Kamer artikel 9 aan.",
+    "fr": "En conséquence, la Chambre adopte l'article 9."
+   },
+   "yes": 92,
+   "no": 23,
+   "abstain": 20,
+   "total": 135,
+   "reused": false,
+   "docs": [
+    "1243"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "voor",
+     "yes": 1,
+     "no": 0,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "voor",
+     "yes": 7,
+     "no": 0,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "voor",
+     "yes": 1,
+     "no": 0,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "voor",
+     "yes": 8,
+     "no": 0,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "voor",
+     "yes": 14,
+     "no": 0,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "voor",
+     "yes": 16,
+     "no": 0,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "voor",
+     "yes": 23,
+     "no": 0,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "verdeeld",
+     "yes": 0,
+     "no": 12,
+     "abstain": 1
+    },
+    "PVDA-PTB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 19
+    },
+    "Vooruit": {
+     "stance": "voor",
+     "yes": 12,
+     "no": 0,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "voor",
+     "yes": 10,
+     "no": 0,
+     "abstain": 0
+    }
+   },
+   "kind": "article",
+   "final": false
+  },
+  {
+   "ref": "135/vote 12",
+   "session": 135,
+   "date": "2026-07-09",
+   "subject": "Stemming over amendement nr. 43 van Vincent Van Quickenborne op artikel 10. ( 1243/10)",
+   "item_title": "Aangehouden amendementen en artikelen van het wetsontwerp tot hervorming van de personenbelasting (1243/1-10)",
+   "result": {
+    "nl": "Bijgevolg is het amendement verworpen en is artikel 10 aangenomen.",
+    "fr": "En conséquence, l'amendement est rejeté et l'article 10 est adopté."
+   },
+   "yes": 26,
+   "no": 76,
+   "abstain": 33,
+   "total": 135,
+   "reused": false,
+   "docs": [
+    "1243"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "verdeeld",
+     "yes": 6,
+     "no": 0,
+     "abstain": 1
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "voor",
+     "yes": 8,
+     "no": 0,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "verdeeld",
+     "yes": 0,
+     "no": 13,
+     "abstain": 1
+    },
+    "MR": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 16,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 23,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "verdeeld",
+     "yes": 1,
+     "no": 0,
+     "abstain": 12
+    },
+    "PVDA-PTB": {
+     "stance": "voor",
+     "yes": 11,
+     "no": 0,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 19
+    },
+    "Vooruit": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 12,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 10,
+     "abstain": 0
+    }
+   },
+   "kind": "amendment",
+   "final": false
+  },
+  {
+   "ref": "135/vote 13",
+   "session": 135,
+   "date": "2026-07-09",
+   "subject": "Stemming over de artikelen 11 en 12. (1243/9)",
+   "item_title": "Aangehouden amendementen en artikelen van het wetsontwerp tot hervorming van de personenbelasting (1243/1-10)",
+   "result": {
+    "nl": "Bijgevolg neemt de Kamer de artikelen 11 en 12 aan.",
+    "fr": "En conséquence, la Chambre adopte les articles 11 et 12."
+   },
+   "yes": 83,
+   "no": 32,
+   "abstain": 20,
+   "total": 135,
+   "reused": false,
+   "docs": [
+    "1243"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "voor",
+     "yes": 1,
+     "no": 0,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "voor",
+     "yes": 7,
+     "no": 0,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 8,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "voor",
+     "yes": 14,
+     "no": 0,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "voor",
+     "yes": 16,
+     "no": 0,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "voor",
+     "yes": 23,
+     "no": 0,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "verdeeld",
+     "yes": 0,
+     "no": 12,
+     "abstain": 1
+    },
+    "PVDA-PTB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 19
+    },
+    "Vooruit": {
+     "stance": "voor",
+     "yes": 12,
+     "no": 0,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "voor",
+     "yes": 10,
+     "no": 0,
+     "abstain": 0
+    }
+   },
+   "kind": "article",
+   "final": false
+  },
+  {
+   "ref": "135/vote 14",
+   "session": 135,
+   "date": "2026-07-09",
+   "subject": "Stemming over amendement nr. 44 van Vincent Van Quickenborne op artikel 13. (1243/10)",
+   "item_title": "Aangehouden amendementen en artikelen van het wetsontwerp tot hervorming van de personenbelasting (1243/1-10)",
+   "result": {
+    "nl": "Bijgevolg is het amendement verworpen en is artikel 13 aangenomen.",
+    "fr": "En conséquence, l'amendement est rejeté et l'article 13 est adopté."
+   },
+   "yes": 6,
+   "no": 127,
+   "abstain": 1,
+   "total": 134,
+   "reused": false,
+   "docs": [
+    "1243"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "verdeeld",
+     "yes": 6,
+     "no": 0,
+     "abstain": 1
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 8,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 14,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 16,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 22,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 13,
+     "abstain": 0
+    },
+    "PVDA-PTB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 19,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 12,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 10,
+     "abstain": 0
+    }
+   },
+   "kind": "amendment",
+   "final": false
+  },
+  {
+   "ref": "135/vote 15",
+   "session": 135,
+   "date": "2026-07-09",
+   "subject": "Stemming over de artikelen 14 tot 16. (1243/9)",
+   "item_title": "Aangehouden amendementen en artikelen van het wetsontwerp tot hervorming van de personenbelasting (1243/1-10)",
+   "result": {
+    "nl": "Bijgevolg neemt de Kamer de artikelen 14 tot 16 aan.",
+    "fr": "En conséquence, la Chambre adopte les articles 14 à 16."
+   },
+   "yes": 83,
+   "no": 51,
+   "abstain": 1,
+   "total": 135,
+   "reused": false,
+   "docs": [
+    "1243"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "voor",
+     "yes": 1,
+     "no": 0,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "voor",
+     "yes": 7,
+     "no": 0,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 8,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "voor",
+     "yes": 14,
+     "no": 0,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "voor",
+     "yes": 16,
+     "no": 0,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "voor",
+     "yes": 23,
+     "no": 0,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "verdeeld",
+     "yes": 0,
+     "no": 12,
+     "abstain": 1
+    },
+    "PVDA-PTB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 19,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "voor",
+     "yes": 12,
+     "no": 0,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "voor",
+     "yes": 10,
+     "no": 0,
+     "abstain": 0
+    }
+   },
+   "kind": "article",
+   "final": false
+  },
+  {
+   "ref": "135/vote 16",
+   "session": 135,
+   "date": "2026-07-09",
+   "subject": "Stemming over de artikelen 18 tot 20. (1243/9)",
+   "item_title": "Aangehouden amendementen en artikelen van het wetsontwerp tot hervorming van de personenbelasting (1243/1-10)",
+   "result": {
+    "nl": "Bijgevolg neemt de Kamer de artikelen 18 tot 20 aan.",
+    "fr": "En conséquence, la Chambre adopte les articles 18 à 20."
+   },
+   "yes": 81,
+   "no": 51,
+   "abstain": 1,
+   "total": 133,
+   "reused": false,
+   "docs": [
+    "1243"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "voor",
+     "yes": 1,
+     "no": 0,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "voor",
+     "yes": 7,
+     "no": 0,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 8,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "voor",
+     "yes": 14,
+     "no": 0,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "voor",
+     "yes": 16,
+     "no": 0,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "voor",
+     "yes": 22,
+     "no": 0,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "verdeeld",
+     "yes": 0,
+     "no": 12,
+     "abstain": 1
+    },
+    "PVDA-PTB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 19,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "voor",
+     "yes": 12,
+     "no": 0,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "voor",
+     "yes": 9,
+     "no": 0,
+     "abstain": 0
+    }
+   },
+   "kind": "article",
+   "final": false
+  },
+  {
+   "ref": "135/vote 17",
+   "session": 135,
+   "date": "2026-07-09",
+   "subject": "Stemming over de artikelen 22 tot 25. (1243/9)",
+   "item_title": "Aangehouden amendementen en artikelen van het wetsontwerp tot hervorming van de personenbelasting (1243/1-10)",
+   "result": {
+    "nl": "Bijgevolg neemt de Kamer de artikelen 22 tot 25 aan.",
+    "fr": "En conséquence, la Chambre adopte les articles 22 à 25."
+   },
+   "yes": 83,
+   "no": 39,
+   "abstain": 12,
+   "total": 134,
+   "reused": false,
+   "docs": [
+    "1243"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "voor",
+     "yes": 1,
+     "no": 0,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "voor",
+     "yes": 7,
+     "no": 0,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 8,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "voor",
+     "yes": 14,
+     "no": 0,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "voor",
+     "yes": 16,
+     "no": 0,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "voor",
+     "yes": 23,
+     "no": 0,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "verdeeld",
+     "yes": 0,
+     "no": 12,
+     "abstain": 1
+    },
+    "PVDA-PTB": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 11
+    },
+    "VB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 18,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "voor",
+     "yes": 12,
+     "no": 0,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "voor",
+     "yes": 10,
+     "no": 0,
+     "abstain": 0
+    }
+   },
+   "kind": "article",
+   "final": false
+  },
+  {
+   "ref": "135/vote 18",
+   "session": 135,
+   "date": "2026-07-09",
+   "subject": "Stemming over amendement nr. 46 van Vincent Van Quickenborne op de artikelen 27 tot 34. (1243/10)",
+   "item_title": "Aangehouden amendementen en artikelen van het wetsontwerp tot hervorming van de personenbelasting (1243/1-10)",
+   "result": {
+    "nl": "Bijgevolg is het amendement verworpen en zijn de artikelen 28 tot 31 en 34 aangenomen.",
+    "fr": "En conséquence, l'amendement est rejeté et les articles 28 à 31 et 34 sont adoptés."
+   },
+   "yes": 25,
+   "no": 109,
+   "abstain": 1,
+   "total": 135,
+   "reused": false,
+   "docs": [
+    "1243"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "verdeeld",
+     "yes": 6,
+     "no": 0,
+     "abstain": 1
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 8,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 14,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 16,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 23,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 13,
+     "abstain": 0
+    },
+    "PVDA-PTB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "voor",
+     "yes": 19,
+     "no": 0,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 12,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 10,
+     "abstain": 0
+    }
+   },
+   "kind": "amendment",
+   "final": false
+  },
+  {
+   "ref": "135/vote 19",
+   "session": 135,
+   "date": "2026-07-09",
+   "subject": "Stemming over amendement nr. 45 van Vincent Van Quickenborne op artikel 27. (1243/10)",
+   "item_title": "Aangehouden amendementen en artikelen van het wetsontwerp tot hervorming van de personenbelasting (1243/1-10)",
+   "result": {
+    "nl": "Bijgevolg is het amendement verworpen en is artikel 27 aangenomen.",
+    "fr": "En conséquence, l'amendement est rejeté et l'article 27 est adopté."
+   },
+   "yes": 6,
+   "no": 127,
+   "abstain": 1,
+   "total": 134,
+   "reused": false,
+   "docs": [
+    "1243"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "verdeeld",
+     "yes": 6,
+     "no": 0,
+     "abstain": 1
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 8,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 14,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 16,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 23,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 13,
+     "abstain": 0
+    },
+    "PVDA-PTB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 18,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 12,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 10,
+     "abstain": 0
+    }
+   },
+   "kind": "amendment",
+   "final": false
+  },
+  {
+   "ref": "135/vote 20",
+   "session": 135,
+   "date": "2026-07-09",
+   "subject": "Stemming over de artikelen 32 en 33. (1243/9)",
+   "item_title": "Aangehouden amendementen en artikelen van het wetsontwerp tot hervorming van de personenbelasting (1243/1-10)",
+   "result": {
+    "nl": "Bijgevolg neemt de Kamer de artikelen 32 en 33 aan.",
+    "fr": "En conséquence, la Chambre adopte les articles 32 et 33."
+   },
+   "yes": 83,
+   "no": 51,
+   "abstain": 1,
+   "total": 135,
+   "reused": false,
+   "docs": [
+    "1243"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "voor",
+     "yes": 1,
+     "no": 0,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "voor",
+     "yes": 7,
+     "no": 0,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 8,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "voor",
+     "yes": 14,
+     "no": 0,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "voor",
+     "yes": 16,
+     "no": 0,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "voor",
+     "yes": 23,
+     "no": 0,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "verdeeld",
+     "yes": 0,
+     "no": 12,
+     "abstain": 1
+    },
+    "PVDA-PTB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 19,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "voor",
+     "yes": 12,
+     "no": 0,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "voor",
+     "yes": 10,
+     "no": 0,
+     "abstain": 0
+    }
+   },
+   "kind": "article",
+   "final": false
+  },
+  {
+   "ref": "135/vote 21",
+   "session": 135,
+   "date": "2026-07-09",
+   "subject": "Stemming over amendement nr. 55 van Sofie Merckx cs op artikel 35. (1243/10)",
+   "item_title": "Aangehouden amendementen en artikelen van het wetsontwerp tot hervorming van de personenbelasting (1243/1-10)",
+   "result": {
+    "nl": "Bijgevolg is het amendement verworpen.",
+    "fr": "En conséquence, l'amendement est rejeté."
+   },
+   "yes": 31,
+   "no": 76,
+   "abstain": 27,
+   "total": 134,
+   "reused": false,
+   "docs": [
+    "1243"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 7
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "voor",
+     "yes": 8,
+     "no": 0,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 14,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 16,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 22,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "verdeeld",
+     "yes": 12,
+     "no": 0,
+     "abstain": 1
+    },
+    "PVDA-PTB": {
+     "stance": "voor",
+     "yes": 11,
+     "no": 0,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 19
+    },
+    "Vooruit": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 12,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 10,
+     "abstain": 0
+    }
+   },
+   "kind": "amendment",
+   "final": false
+  },
+  {
+   "ref": "135/vote 21",
+   "session": 135,
+   "date": "2026-07-09",
+   "subject": "Stemming over amendement nr. 56 van Sofie Merckx cs op artikel 41. (1243/10)",
+   "item_title": "Aangehouden amendementen en artikelen van het wetsontwerp tot hervorming van de personenbelasting (1243/1-10)",
+   "result": {
+    "nl": "Bijgevolg is het amendement verworpen.",
+    "fr": "En conséquence, l'amendement est rejeté."
+   },
+   "yes": 31,
+   "no": 76,
+   "abstain": 27,
+   "total": 134,
+   "reused": true,
+   "docs": [
+    "1243"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 7
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "voor",
+     "yes": 8,
+     "no": 0,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 14,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 16,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 22,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "verdeeld",
+     "yes": 12,
+     "no": 0,
+     "abstain": 1
+    },
+    "PVDA-PTB": {
+     "stance": "voor",
+     "yes": 11,
+     "no": 0,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 19
+    },
+    "Vooruit": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 12,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 10,
+     "abstain": 0
+    }
+   },
+   "kind": "amendment",
+   "final": false
+  },
+  {
+   "ref": "135/vote 22",
+   "session": 135,
+   "date": "2026-07-09",
+   "subject": "Stemming over de artikelen 35 tot 41. (1243/9)",
+   "item_title": "Aangehouden amendementen en artikelen van het wetsontwerp tot hervorming van de personenbelasting (1243/1-10)",
+   "result": {
+    "nl": "Bijgevolg neemt de Kamer de artikelen 35 tot 41 aan.",
+    "fr": "En conséquence, la Chambre adopte les articles 35 à 41."
+   },
+   "yes": 110,
+   "no": 22,
+   "abstain": 1,
+   "total": 133,
+   "reused": false,
+   "docs": [
+    "1243"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "voor",
+     "yes": 1,
+     "no": 0,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "voor",
+     "yes": 6,
+     "no": 0,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "voor",
+     "yes": 1,
+     "no": 0,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "voor",
+     "yes": 8,
+     "no": 0,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "voor",
+     "yes": 14,
+     "no": 0,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "voor",
+     "yes": 16,
+     "no": 0,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "voor",
+     "yes": 23,
+     "no": 0,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "verdeeld",
+     "yes": 0,
+     "no": 11,
+     "abstain": 1
+    },
+    "PVDA-PTB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "voor",
+     "yes": 19,
+     "no": 0,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "voor",
+     "yes": 12,
+     "no": 0,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "voor",
+     "yes": 10,
+     "no": 0,
+     "abstain": 0
+    }
+   },
+   "kind": "article",
+   "final": false
+  },
+  {
+   "ref": "135/vote 23",
+   "session": 135,
+   "date": "2026-07-09",
+   "subject": "Stemming over amendement nr. 57 van Sofie Merckx cs tot invoeging van een artikel 41/1(n). (1243/10)",
+   "item_title": "Aangehouden amendementen en artikelen van het wetsontwerp tot hervorming van de personenbelasting (1243/1-10)",
+   "result": {
+    "nl": "Bijgevolg is het amendement verworpen.",
+    "fr": "En conséquence, l'amendement est rejeté."
+   },
+   "yes": 50,
+   "no": 75,
+   "abstain": 10,
+   "total": 135,
+   "reused": false,
+   "docs": [
+    "1243"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 7
+    },
+    "DéFI": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 1
+    },
+    "Ecolo-Groen": {
+     "stance": "voor",
+     "yes": 8,
+     "no": 0,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "verdeeld",
+     "yes": 0,
+     "no": 13,
+     "abstain": 1
+    },
+    "MR": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 16,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 23,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "verdeeld",
+     "yes": 12,
+     "no": 0,
+     "abstain": 1
+    },
+    "PVDA-PTB": {
+     "stance": "voor",
+     "yes": 11,
+     "no": 0,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "voor",
+     "yes": 19,
+     "no": 0,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 12,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 10,
+     "abstain": 0
+    }
+   },
+   "kind": "amendment",
+   "final": false
+  },
+  {
+   "ref": "135/vote 24",
+   "session": 135,
+   "date": "2026-07-09",
+   "subject": "Stemming over amendement nr. 58 van Sofie Merckx cs op artikel 42. (1243/10)",
+   "item_title": "Aangehouden amendementen en artikelen van het wetsontwerp tot hervorming van de personenbelasting (1243/1-10)",
+   "result": {
+    "nl": "Bijgevolg is het amendement verworpen en is artikel 42 aangenomen.",
+    "fr": "En conséquence, l'amendement est rejeté et l'article 42 est adopté."
+   },
+   "yes": 31,
+   "no": 76,
+   "abstain": 28,
+   "total": 135,
+   "reused": false,
+   "docs": [
+    "1243"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 7
+    },
+    "DéFI": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 1
+    },
+    "Ecolo-Groen": {
+     "stance": "voor",
+     "yes": 8,
+     "no": 0,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 14,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 16,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 23,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "verdeeld",
+     "yes": 12,
+     "no": 0,
+     "abstain": 1
+    },
+    "PVDA-PTB": {
+     "stance": "voor",
+     "yes": 11,
+     "no": 0,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 19
+    },
+    "Vooruit": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 12,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 10,
+     "abstain": 0
+    }
+   },
+   "kind": "amendment",
+   "final": false
+  },
+  {
+   "ref": "135/vote 25",
+   "session": 135,
+   "date": "2026-07-09",
+   "subject": "Stemming over de artikelen 43 tot 49. (1243/9)",
+   "item_title": "Aangehouden amendementen en artikelen van het wetsontwerp tot hervorming van de personenbelasting (1243/1-10)",
+   "result": {
+    "nl": "Bijgevolg neemt de Kamer de artikelen 43 tot 49 aan.",
+    "fr": "En conséquence, la Chambre adopte les articles 43 à 49."
+   },
+   "yes": 102,
+   "no": 31,
+   "abstain": 2,
+   "total": 135,
+   "reused": false,
+   "docs": [
+    "1243"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "voor",
+     "yes": 1,
+     "no": 0,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "voor",
+     "yes": 7,
+     "no": 0,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "verdeeld",
+     "yes": 0,
+     "no": 7,
+     "abstain": 1
+    },
+    "Les Engagés": {
+     "stance": "voor",
+     "yes": 14,
+     "no": 0,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "voor",
+     "yes": 16,
+     "no": 0,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "voor",
+     "yes": 23,
+     "no": 0,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "verdeeld",
+     "yes": 0,
+     "no": 12,
+     "abstain": 1
+    },
+    "PVDA-PTB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "voor",
+     "yes": 19,
+     "no": 0,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "voor",
+     "yes": 12,
+     "no": 0,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "voor",
+     "yes": 10,
+     "no": 0,
+     "abstain": 0
+    }
+   },
+   "kind": "article",
+   "final": false
+  },
+  {
+   "ref": "135/vote 26",
+   "session": 135,
+   "date": "2026-07-09",
+   "subject": "Stemming over de artikelen 50 tot 51. (1243/9)",
+   "item_title": "Aangehouden amendementen en artikelen van het wetsontwerp tot hervorming van de personenbelasting (1243/1-10)",
+   "result": {
+    "nl": "Bijgevolg neemt de Kamer de artikelen 50 tot 51 aan.",
+    "fr": "En conséquence, la Chambre adopte les articles 50 à 51."
+   },
+   "yes": 111,
+   "no": 23,
+   "abstain": 1,
+   "total": 135,
+   "reused": false,
+   "docs": [
+    "1243"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "voor",
+     "yes": 1,
+     "no": 0,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "voor",
+     "yes": 7,
+     "no": 0,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "voor",
+     "yes": 1,
+     "no": 0,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "voor",
+     "yes": 8,
+     "no": 0,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "voor",
+     "yes": 14,
+     "no": 0,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "voor",
+     "yes": 16,
+     "no": 0,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "voor",
+     "yes": 23,
+     "no": 0,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "verdeeld",
+     "yes": 0,
+     "no": 12,
+     "abstain": 1
+    },
+    "PVDA-PTB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "voor",
+     "yes": 19,
+     "no": 0,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "voor",
+     "yes": 12,
+     "no": 0,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "voor",
+     "yes": 10,
+     "no": 0,
+     "abstain": 0
+    }
+   },
+   "kind": "article",
+   "final": false
+  },
+  {
+   "ref": "135/vote 27",
+   "session": 135,
+   "date": "2026-07-09",
+   "subject": "Stemming over amendement nr. 47 van Vincent Van Quickenborne op artikel 55. (1243/10)",
+   "item_title": "Aangehouden amendementen en artikelen van het wetsontwerp tot hervorming van de personenbelasting (1243/1-10)",
+   "result": {
+    "nl": "Bijgevolg is het amendement verworpen en is artikel 55 aangenomen.",
+    "fr": "En conséquence, l'amendement est rejeté et l'article 55 est adopté."
+   },
+   "yes": 36,
+   "no": 84,
+   "abstain": 14,
+   "total": 134,
+   "reused": false,
+   "docs": [
+    "1243"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "verdeeld",
+     "yes": 6,
+     "no": 0,
+     "abstain": 1
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "verdeeld",
+     "yes": 0,
+     "no": 7,
+     "abstain": 1
+    },
+    "Les Engagés": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 14,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 16,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 23,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "verdeeld",
+     "yes": 12,
+     "no": 0,
+     "abstain": 1
+    },
+    "PVDA-PTB": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 11
+    },
+    "VB": {
+     "stance": "voor",
+     "yes": 18,
+     "no": 0,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 12,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 10,
+     "abstain": 0
+    }
+   },
+   "kind": "amendment",
+   "final": false
+  },
+  {
+   "ref": "135/vote 28",
+   "session": 135,
+   "date": "2026-07-09",
+   "subject": "Stemming over de artikelen 57 tot 62. (1243/9)",
+   "item_title": "Aangehouden amendementen en artikelen van het wetsontwerp tot hervorming van de personenbelasting (1243/1-10)",
+   "result": {
+    "nl": "Bijgevolg neemt de Kamer de artikelen 57 tot 62 aan.",
+    "fr": "En conséquence, la Chambre adopte les articles 57 à 62."
+   },
+   "yes": 109,
+   "no": 12,
+   "abstain": 13,
+   "total": 134,
+   "reused": false,
+   "docs": [
+    "1243"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "voor",
+     "yes": 1,
+     "no": 0,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "voor",
+     "yes": 7,
+     "no": 0,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 1
+    },
+    "Ecolo-Groen": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 7
+    },
+    "Les Engagés": {
+     "stance": "voor",
+     "yes": 14,
+     "no": 0,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "voor",
+     "yes": 16,
+     "no": 0,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "voor",
+     "yes": 23,
+     "no": 0,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "verdeeld",
+     "yes": 0,
+     "no": 12,
+     "abstain": 1
+    },
+    "PVDA-PTB": {
+     "stance": "voor",
+     "yes": 11,
+     "no": 0,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "verdeeld",
+     "yes": 15,
+     "no": 0,
+     "abstain": 4
+    },
+    "Vooruit": {
+     "stance": "voor",
+     "yes": 12,
+     "no": 0,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "voor",
+     "yes": 10,
+     "no": 0,
+     "abstain": 0
+    }
+   },
+   "kind": "article",
+   "final": false
+  },
+  {
+   "ref": "135/vote 29",
+   "session": 135,
+   "date": "2026-07-09",
+   "subject": "Stemming over de artikelen 63 tot 73. (1243/9)",
+   "item_title": "Aangehouden amendementen en artikelen van het wetsontwerp tot hervorming van de personenbelasting (1243/1-10)",
+   "result": {
+    "nl": "Bijgevolg neemt de Kamer de artikelen 63 tot 73 aan.",
+    "fr": "En conséquence, la Chambre adopte les articles 63 à 73."
+   },
+   "yes": 111,
+   "no": 11,
+   "abstain": 12,
+   "total": 134,
+   "reused": false,
+   "docs": [
+    "1243"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "voor",
+     "yes": 1,
+     "no": 0,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "voor",
+     "yes": 7,
+     "no": 0,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "voor",
+     "yes": 1,
+     "no": 0,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "voor",
+     "yes": 8,
+     "no": 0,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "voor",
+     "yes": 14,
+     "no": 0,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "voor",
+     "yes": 16,
+     "no": 0,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "voor",
+     "yes": 23,
+     "no": 0,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "verdeeld",
+     "yes": 1,
+     "no": 11,
+     "abstain": 1
+    },
+    "PVDA-PTB": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 11
+    },
+    "VB": {
+     "stance": "voor",
+     "yes": 18,
+     "no": 0,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "voor",
+     "yes": 12,
+     "no": 0,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "voor",
+     "yes": 10,
+     "no": 0,
+     "abstain": 0
+    }
+   },
+   "kind": "article",
+   "final": false
+  },
+  {
+   "ref": "135/vote 30",
+   "session": 135,
+   "date": "2026-07-09",
+   "subject": "Stemming over de artikelen 74 en 75. (1243/9)",
+   "item_title": "Aangehouden amendementen en artikelen van het wetsontwerp tot hervorming van de personenbelasting (1243/1-10)",
+   "result": {
+    "nl": "Bijgevolg neemt de Kamer de artikelen 74 en 75 aan.",
+    "fr": "En conséquence, la Chambre adopte les articles 74 et 75."
+   },
+   "yes": 83,
+   "no": 32,
+   "abstain": 20,
+   "total": 135,
+   "reused": false,
+   "docs": [
+    "1243"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "voor",
+     "yes": 1,
+     "no": 0,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "voor",
+     "yes": 7,
+     "no": 0,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 8,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "voor",
+     "yes": 14,
+     "no": 0,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "voor",
+     "yes": 16,
+     "no": 0,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "voor",
+     "yes": 23,
+     "no": 0,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "verdeeld",
+     "yes": 0,
+     "no": 12,
+     "abstain": 1
+    },
+    "PVDA-PTB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 19
+    },
+    "Vooruit": {
+     "stance": "voor",
+     "yes": 12,
+     "no": 0,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "voor",
+     "yes": 10,
+     "no": 0,
+     "abstain": 0
+    }
+   },
+   "kind": "article",
+   "final": false
+  },
+  {
+   "ref": "135/vote 31",
+   "session": 135,
+   "date": "2026-07-09",
+   "subject": "Stemming over amendement nr. 36 van Hugues Bayet cs op artikel 79. (1243/10)",
+   "item_title": "Aangehouden amendementen en artikelen van het wetsontwerp tot hervorming van de personenbelasting (1243/1-10)",
+   "result": {
+    "nl": "Bijgevolg is het amendement verworpen.",
+    "fr": "En conséquence, l'amendement est rejeté."
+   },
+   "yes": 32,
+   "no": 82,
+   "abstain": 21,
+   "total": 135,
+   "reused": false,
+   "docs": [
+    "1243"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 7,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "voor",
+     "yes": 1,
+     "no": 0,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "voor",
+     "yes": 8,
+     "no": 0,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "verdeeld",
+     "yes": 0,
+     "no": 13,
+     "abstain": 1
+    },
+    "MR": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 16,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 23,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "verdeeld",
+     "yes": 12,
+     "no": 0,
+     "abstain": 1
+    },
+    "PVDA-PTB": {
+     "stance": "voor",
+     "yes": 11,
+     "no": 0,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 19
+    },
+    "Vooruit": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 12,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 10,
+     "abstain": 0
+    }
+   },
+   "kind": "amendment",
+   "final": false
+  },
+  {
+   "ref": "135/vote 31",
+   "session": 135,
+   "date": "2026-07-09",
+   "subject": "Stemming over amendement nr. 37 van Hugues Bayet cs op artikel 81. (1243/10)",
+   "item_title": "Aangehouden amendementen en artikelen van het wetsontwerp tot hervorming van de personenbelasting (1243/1-10)",
+   "result": {
+    "nl": "Bijgevolg is het amendement verworpen.",
+    "fr": "En conséquence, l'amendement est rejeté."
+   },
+   "yes": 32,
+   "no": 82,
+   "abstain": 21,
+   "total": 135,
+   "reused": true,
+   "docs": [
+    "1243"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 7,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "voor",
+     "yes": 1,
+     "no": 0,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "voor",
+     "yes": 8,
+     "no": 0,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "verdeeld",
+     "yes": 0,
+     "no": 13,
+     "abstain": 1
+    },
+    "MR": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 16,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 23,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "verdeeld",
+     "yes": 12,
+     "no": 0,
+     "abstain": 1
+    },
+    "PVDA-PTB": {
+     "stance": "voor",
+     "yes": 11,
+     "no": 0,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 19
+    },
+    "Vooruit": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 12,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 10,
+     "abstain": 0
+    }
+   },
+   "kind": "amendment",
+   "final": false
+  },
+  {
+   "ref": "135/vote 32",
+   "session": 135,
+   "date": "2026-07-09",
+   "subject": "Stemming over de artikelen 76 tot 88. (1243/9)",
+   "item_title": "Aangehouden amendementen en artikelen van het wetsontwerp tot hervorming van de personenbelasting (1243/1-10)",
+   "result": {
+    "nl": "Bijgevolg neemt de Kamer de artikelen 76 tot 88 aan.",
+    "fr": "En conséquence, la Chambre adopte les articles 76 à 88."
+   },
+   "yes": 100,
+   "no": 25,
+   "abstain": 10,
+   "total": 135,
+   "reused": false,
+   "docs": [
+    "1243"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "voor",
+     "yes": 1,
+     "no": 0,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "verdeeld",
+     "yes": 0,
+     "no": 6,
+     "abstain": 1
+    },
+    "DéFI": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 1
+    },
+    "Ecolo-Groen": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 8
+    },
+    "Les Engagés": {
+     "stance": "voor",
+     "yes": 14,
+     "no": 0,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "voor",
+     "yes": 16,
+     "no": 0,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "voor",
+     "yes": 23,
+     "no": 0,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "voor",
+     "yes": 13,
+     "no": 0,
+     "abstain": 0
+    },
+    "PVDA-PTB": {
+     "stance": "voor",
+     "yes": 11,
+     "no": 0,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 19,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "voor",
+     "yes": 12,
+     "no": 0,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "voor",
+     "yes": 10,
+     "no": 0,
+     "abstain": 0
+    }
+   },
+   "kind": "article",
+   "final": false
+  },
+  {
+   "ref": "135/vote 33",
+   "session": 135,
+   "date": "2026-07-09",
+   "subject": "Stemming over de artikelen 89 tot 97. (1243/9)",
+   "item_title": "Aangehouden amendementen en artikelen van het wetsontwerp tot hervorming van de personenbelasting (1243/1-10)",
+   "result": {
+    "nl": "Bijgevolg neemt de Kamer de artikelen 89 tot 97 aan.",
+    "fr": "En conséquence, la Chambre adopte les articles 89 à 97."
+   },
+   "yes": 128,
+   "no": 0,
+   "abstain": 7,
+   "total": 135,
+   "reused": false,
+   "docs": [
+    "1243"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "voor",
+     "yes": 1,
+     "no": 0,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 7
+    },
+    "DéFI": {
+     "stance": "voor",
+     "yes": 1,
+     "no": 0,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "voor",
+     "yes": 8,
+     "no": 0,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "voor",
+     "yes": 14,
+     "no": 0,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "voor",
+     "yes": 16,
+     "no": 0,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "voor",
+     "yes": 23,
+     "no": 0,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "voor",
+     "yes": 13,
+     "no": 0,
+     "abstain": 0
+    },
+    "PVDA-PTB": {
+     "stance": "voor",
+     "yes": 11,
+     "no": 0,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "voor",
+     "yes": 19,
+     "no": 0,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "voor",
+     "yes": 12,
+     "no": 0,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "voor",
+     "yes": 10,
+     "no": 0,
+     "abstain": 0
+    }
+   },
+   "kind": "article",
+   "final": false
+  },
+  {
+   "ref": "135/vote 34",
+   "session": 135,
+   "date": "2026-07-09",
+   "subject": "Stemming over amendement nr. 59 van Sofie Merckx cs op artikel 104. (1243/10)",
+   "item_title": "Aangehouden amendementen en artikelen van het wetsontwerp tot hervorming van de personenbelasting (1243/1-10)",
+   "result": {
+    "nl": "Bijgevolg is het amendement verworpen.",
+    "fr": "En conséquence, l'amendement est rejeté."
+   },
+   "yes": 31,
+   "no": 77,
+   "abstain": 27,
+   "total": 135,
+   "reused": false,
+   "docs": [
+    "1243"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 7
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "voor",
+     "yes": 8,
+     "no": 0,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 14,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 16,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 23,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "verdeeld",
+     "yes": 12,
+     "no": 0,
+     "abstain": 1
+    },
+    "PVDA-PTB": {
+     "stance": "voor",
+     "yes": 11,
+     "no": 0,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 19
+    },
+    "Vooruit": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 12,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 10,
+     "abstain": 0
+    }
+   },
+   "kind": "amendment",
+   "final": false
+  },
+  {
+   "ref": "135/vote 34",
+   "session": 135,
+   "date": "2026-07-09",
+   "subject": "Stemming over amendement nr. 60 van Sofie Merckx cs op artikel 105. (1243/10)",
+   "item_title": "Aangehouden amendementen en artikelen van het wetsontwerp tot hervorming van de personenbelasting (1243/1-10)",
+   "result": {
+    "nl": "Bijgevolg is het amendement verworpen.",
+    "fr": "En conséquence, l'amendement est rejeté."
+   },
+   "yes": 31,
+   "no": 77,
+   "abstain": 27,
+   "total": 135,
+   "reused": true,
+   "docs": [
+    "1243"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 7
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "voor",
+     "yes": 8,
+     "no": 0,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 14,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 16,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 23,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "verdeeld",
+     "yes": 12,
+     "no": 0,
+     "abstain": 1
+    },
+    "PVDA-PTB": {
+     "stance": "voor",
+     "yes": 11,
+     "no": 0,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 19
+    },
+    "Vooruit": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 12,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 10,
+     "abstain": 0
+    }
+   },
+   "kind": "amendment",
+   "final": false
+  },
+  {
+   "ref": "135/vote 35",
+   "session": 135,
+   "date": "2026-07-09",
+   "subject": "Stemming over de artikelen 103 tot 105. (1243/9)",
+   "item_title": "Aangehouden amendementen en artikelen van het wetsontwerp tot hervorming van de personenbelasting (1243/1-10)",
+   "result": {
+    "nl": "Bijgevolg neemt de Kamer de artikelen 103 tot 105 aan.",
+    "fr": "En conséquence, la Chambre adopte les articles 103 à 105."
+   },
+   "yes": 92,
+   "no": 23,
+   "abstain": 20,
+   "total": 135,
+   "reused": false,
+   "docs": [
+    "1243"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "voor",
+     "yes": 1,
+     "no": 0,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "voor",
+     "yes": 7,
+     "no": 0,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "voor",
+     "yes": 8,
+     "no": 0,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "voor",
+     "yes": 14,
+     "no": 0,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "voor",
+     "yes": 16,
+     "no": 0,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "voor",
+     "yes": 23,
+     "no": 0,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "verdeeld",
+     "yes": 0,
+     "no": 12,
+     "abstain": 1
+    },
+    "PVDA-PTB": {
+     "stance": "verdeeld",
+     "yes": 1,
+     "no": 10,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 19
+    },
+    "Vooruit": {
+     "stance": "voor",
+     "yes": 12,
+     "no": 0,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "voor",
+     "yes": 10,
+     "no": 0,
+     "abstain": 0
+    }
+   },
+   "kind": "article",
+   "final": false
+  },
+  {
+   "ref": "135/vote 36",
+   "session": 135,
+   "date": "2026-07-09",
+   "subject": "Stemming over de artikelen 106 en 107. (1243/9)",
+   "item_title": "Aangehouden amendementen en artikelen van het wetsontwerp tot hervorming van de personenbelasting (1243/1-10)",
+   "result": {
+    "nl": "Bijgevolg neemt de Kamer artikel 106 aan.",
+    "fr": "En conséquence, la Chambre adopte l'article 106."
+   },
+   "yes": 83,
+   "no": 39,
+   "abstain": 12,
+   "total": 134,
+   "reused": false,
+   "docs": [
+    "1243"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "voor",
+     "yes": 1,
+     "no": 0,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "voor",
+     "yes": 7,
+     "no": 0,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 8,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "voor",
+     "yes": 14,
+     "no": 0,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "voor",
+     "yes": 16,
+     "no": 0,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "voor",
+     "yes": 23,
+     "no": 0,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "verdeeld",
+     "yes": 0,
+     "no": 11,
+     "abstain": 1
+    },
+    "PVDA-PTB": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 11
+    },
+    "VB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 19,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "voor",
+     "yes": 12,
+     "no": 0,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "voor",
+     "yes": 10,
+     "no": 0,
+     "abstain": 0
+    }
+   },
+   "kind": "article",
+   "final": false
+  },
+  {
+   "ref": "135/vote 37",
+   "session": 135,
+   "date": "2026-07-09",
+   "subject": "Stemming over amendement nr. 48 van Vincent Van Quickenborne op artikel 107. (1243/10)",
+   "item_title": "Aangehouden amendementen en artikelen van het wetsontwerp tot hervorming van de personenbelasting (1243/1-10)",
+   "result": {
+    "nl": "Bijgevolg is het amendement verworpen en is artikel 107 aangenomen.",
+    "fr": "En conséquence, l'amendement est rejeté et l'article 107 est adopté."
+   },
+   "yes": 56,
+   "no": 77,
+   "abstain": 2,
+   "total": 135,
+   "reused": false,
+   "docs": [
+    "1243"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "verdeeld",
+     "yes": 6,
+     "no": 0,
+     "abstain": 1
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "voor",
+     "yes": 8,
+     "no": 0,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 14,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 16,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 23,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "verdeeld",
+     "yes": 12,
+     "no": 0,
+     "abstain": 1
+    },
+    "PVDA-PTB": {
+     "stance": "voor",
+     "yes": 11,
+     "no": 0,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "voor",
+     "yes": 19,
+     "no": 0,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 12,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 10,
+     "abstain": 0
+    }
+   },
+   "kind": "amendment",
+   "final": false
+  },
+  {
+   "ref": "135/vote 37",
+   "session": 135,
+   "date": "2026-07-09",
+   "subject": "Stemming over amendement nr. 49 van Vincent Van Quickenborne tot invoeging van een artikel 108(n). (1243/10)",
+   "item_title": "Aangehouden amendementen en artikelen van het wetsontwerp tot hervorming van de personenbelasting (1243/1-10)",
+   "result": {
+    "nl": "Bijgevolg is het amendement verworpen.",
+    "fr": "En conséquence, l'amendement est rejeté."
+   },
+   "yes": 56,
+   "no": 77,
+   "abstain": 2,
+   "total": 135,
+   "reused": true,
+   "docs": [
+    "1243"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "verdeeld",
+     "yes": 6,
+     "no": 0,
+     "abstain": 1
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "voor",
+     "yes": 8,
+     "no": 0,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 14,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 16,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 23,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "verdeeld",
+     "yes": 12,
+     "no": 0,
+     "abstain": 1
+    },
+    "PVDA-PTB": {
+     "stance": "voor",
+     "yes": 11,
+     "no": 0,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "voor",
+     "yes": 19,
+     "no": 0,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 12,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 10,
+     "abstain": 0
+    }
+   },
+   "kind": "amendment",
+   "final": false
+  },
+  {
+   "ref": "135/vote 37",
+   "session": 135,
+   "date": "2026-07-09",
+   "subject": "Stemming over amendement nr. 50 van Vincent Van Quickenborne tot invoeging van een artikel 109(n). (1243/10)",
+   "item_title": "Aangehouden amendementen en artikelen van het wetsontwerp tot hervorming van de personenbelasting (1243/1-10)",
+   "result": {
+    "nl": "Bijgevolg is het amendement verworpen.",
+    "fr": "En conséquence, l'amendement est rejeté."
+   },
+   "yes": 56,
+   "no": 77,
+   "abstain": 2,
+   "total": 135,
+   "reused": true,
+   "docs": [
+    "1243"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "verdeeld",
+     "yes": 6,
+     "no": 0,
+     "abstain": 1
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "voor",
+     "yes": 8,
+     "no": 0,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 14,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 16,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 23,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "verdeeld",
+     "yes": 12,
+     "no": 0,
+     "abstain": 1
+    },
+    "PVDA-PTB": {
+     "stance": "voor",
+     "yes": 11,
+     "no": 0,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "voor",
+     "yes": 19,
+     "no": 0,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 12,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 10,
+     "abstain": 0
+    }
+   },
+   "kind": "amendment",
+   "final": false
+  },
+  {
+   "ref": "135/vote 37",
+   "session": 135,
+   "date": "2026-07-09",
+   "subject": "Stemming over amendement nr. 51 van Vincent Van Quickenborne tot invoeging van een artikel 110(n). (1243/10)",
+   "item_title": "Aangehouden amendementen en artikelen van het wetsontwerp tot hervorming van de personenbelasting (1243/1-10)",
+   "result": {
+    "nl": "Bijgevolg is het amendement verworpen.",
+    "fr": "En conséquence, l'amendement est rejeté."
+   },
+   "yes": 56,
+   "no": 77,
+   "abstain": 2,
+   "total": 135,
+   "reused": true,
+   "docs": [
+    "1243"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "verdeeld",
+     "yes": 6,
+     "no": 0,
+     "abstain": 1
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "voor",
+     "yes": 8,
+     "no": 0,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 14,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 16,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 23,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "verdeeld",
+     "yes": 12,
+     "no": 0,
+     "abstain": 1
+    },
+    "PVDA-PTB": {
+     "stance": "voor",
+     "yes": 11,
+     "no": 0,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "voor",
+     "yes": 19,
+     "no": 0,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 12,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 10,
+     "abstain": 0
+    }
+   },
+   "kind": "amendment",
+   "final": false
+  },
+  {
+   "ref": "135/vote 37",
+   "session": 135,
+   "date": "2026-07-09",
+   "subject": "Stemming over amendement nr. 52 van Vincent Van Quickenborne tot invoeging van een artikel 111(n). (1243/10)",
+   "item_title": "Aangehouden amendementen en artikelen van het wetsontwerp tot hervorming van de personenbelasting (1243/1-10)",
+   "result": {
+    "nl": "Bijgevolg is het amendement verworpen.",
+    "fr": "En conséquence, l'amendement est rejeté."
+   },
+   "yes": 56,
+   "no": 77,
+   "abstain": 2,
+   "total": 135,
+   "reused": true,
+   "docs": [
+    "1243"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "verdeeld",
+     "yes": 6,
+     "no": 0,
+     "abstain": 1
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "voor",
+     "yes": 8,
+     "no": 0,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 14,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 16,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 23,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "verdeeld",
+     "yes": 12,
+     "no": 0,
+     "abstain": 1
+    },
+    "PVDA-PTB": {
+     "stance": "voor",
+     "yes": 11,
+     "no": 0,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "voor",
+     "yes": 19,
+     "no": 0,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 12,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 10,
+     "abstain": 0
+    }
+   },
+   "kind": "amendment",
+   "final": false
+  },
+  {
+   "ref": "135/vote 38",
+   "session": 135,
+   "date": "2026-07-09",
+   "subject": "Stemming over amendement nr. 53 van Vincent Van Quickenborne tot invoeging van een artikel 112(n). (1243/10)",
+   "item_title": "Aangehouden amendementen en artikelen van het wetsontwerp tot hervorming van de personenbelasting (1243/1-10)",
+   "result": {
+    "nl": "Bijgevolg is het amendement verworpen.",
+    "fr": "En conséquence, l'amendement est rejeté."
+   },
+   "yes": 43,
+   "no": 91,
+   "abstain": 1,
+   "total": 135,
+   "reused": false,
+   "docs": [
+    "1243"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "verdeeld",
+     "yes": 6,
+     "no": 0,
+     "abstain": 1
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "verdeeld",
+     "yes": 7,
+     "no": 1,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 14,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 16,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 23,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 13,
+     "abstain": 0
+    },
+    "PVDA-PTB": {
+     "stance": "voor",
+     "yes": 11,
+     "no": 0,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "voor",
+     "yes": 19,
+     "no": 0,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 12,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 10,
+     "abstain": 0
+    }
+   },
+   "kind": "amendment",
+   "final": false
+  },
+  {
+   "ref": "135/vote 39",
+   "session": 135,
+   "date": "2026-07-09",
+   "subject": "Stemming over amendement nr. 54 van Vincent Van Quickenborne op het opschrift. (1243/10)",
+   "item_title": "Aangehouden amendementen en artikelen van het wetsontwerp tot hervorming van de personenbelasting (1243/1-10)",
+   "result": {
+    "nl": "Bijgevolg is het amendement verworpen.",
+    "fr": "En conséquence, l'amendement est rejeté."
+   },
+   "yes": 6,
+   "no": 94,
+   "abstain": 33,
+   "total": 133,
+   "reused": false,
+   "docs": [
+    "1243"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "verdeeld",
+     "yes": 6,
+     "no": 0,
+     "abstain": 1
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 8,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 14,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 16,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 22,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 13
+    },
+    "PVDA-PTB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 19
+    },
+    "Vooruit": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 10,
+     "abstain": 0
+    }
+   },
+   "kind": "amendment",
+   "final": false
+  },
+  {
+   "ref": "135/vote 40",
+   "session": 135,
+   "date": "2026-07-09",
+   "subject": null,
+   "item_title": "Geheel van het wetsontwerp tot hervorming van de personenbelasting (1243/9)",
+   "result": {
+    "nl": "Bijgevolg neemt de Kamer het wetsontwerp aan. Het zal aan de Koning ter bekrachtiging worden voorgelegd. (1243/9)",
+    "fr": "En conséquence, la Chambre adopte le projet de loi. Il sera soumis à la sanction royale. (1243/9)"
+   },
+   "yes": 76,
+   "no": 32,
+   "abstain": 27,
+   "total": 135,
+   "reused": false,
+   "docs": [
+    "1243"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "voor",
+     "yes": 1,
+     "no": 0,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 7
+    },
+    "DéFI": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 1
+    },
+    "Ecolo-Groen": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 8,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "voor",
+     "yes": 14,
+     "no": 0,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "voor",
+     "yes": 16,
+     "no": 0,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "voor",
+     "yes": 23,
+     "no": 0,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 13,
+     "abstain": 0
+    },
+    "PVDA-PTB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 19
+    },
+    "Vooruit": {
+     "stance": "voor",
+     "yes": 12,
+     "no": 0,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "voor",
+     "yes": 10,
+     "no": 0,
+     "abstain": 0
+    }
+   },
+   "kind": "whole",
+   "final": true
+  }
+ ],
+ "summary": {
+  "plain_title": "Hervorming van de personenbelasting: minder belasting op werk",
+  "problem": "Volgens de regering en de partijen die het voorstel steunen, betalen werkende mensen in België een van de hoogste belastingen ter wereld. Daardoor houden ze te weinig netto over, en is het verschil tussen werken en niet werken te klein. Dat maakt het minder aantrekkelijk om te gaan werken of meer te werken. Ook vinden zij dat de belastingen niet meer passen bij de manier waarop gezinnen vandaag samenleven.",
+  "proposal": [
+   "Het bedrag waarop je geen belasting betaalt (de belastingvrije som), stijgt stap voor stap naar 15.600 euro in 2030. Daarnaast worden de fiscale werkbonus voor lage lonen verhoogd en de bijzondere bijdrage voor de sociale zekerheid gehalveerd. Die bijdrage wordt ook per persoon berekend.",
+   "Het huwelijksquotiënt (een belastingvoordeel voor koppels waarvan één partner weinig of geen inkomen heeft) wordt gehalveerd voor wie nog niet met pensioen is. Voor gepensioneerden verdwijnt het geleidelijk. De belastingvermindering op werkloosheidsuitkeringen verdwijnt. Het leefloon wordt in principe belastbaar.",
+   "Het belastingvoordeel voor het eerste en tweede kind gaat omhoog. De toeslagen voor kinderen worden tot 2030 niet meer aangepast aan de stijgende prijzen (niet geïndexeerd).",
+   "Gepensioneerden die als werknemer bijverdienen, betalen daarop een vast tarief van 33 %. Werknemers mogen meer vrijwillige overuren doen tegen een lagere belasting. Softwareontwikkelaars kunnen weer gebruikmaken van het voordelige belastingstelsel voor auteursrechten.",
+   "Voor zelfstandigen komt er een ondernemersaftrek, en de boete voor te lage voorafbetalingen verdwijnt. Bedrijfsleiders moeten zichzelf een hoger minimumloon uitbetalen om het lagere tarief van de vennootschapsbelasting te krijgen."
+  ],
+  "positions": [
+   {
+    "actor": "N-VA",
+    "summary": "Steunt de hervorming als eerste stap: een lastenverlaging van 4 miljard euro zodat werken meer loont. Heeft wel bezwaar tegen het viseren van kleine vennootschappen van zelfstandigen.",
+    "refs": [
+     "134/16.01",
+     "134/16.13",
+     "134/16.42",
+     "134/16.48"
+    ]
+   },
+   {
+    "actor": "Anders.",
+    "summary": "Noemt enkele maatregelen goed, zoals de auteursrechten voor de IT-sector, de ondernemersaftrek en meer overuren. Vindt de hervorming wel te duur voor te weinig effect: ze maakt de promotieval groter, doet weinig voor de middenklasse en behandelt gepensioneerde zelfstandigen anders dan gepensioneerde werknemers. De partij onthield zich bij de stemming.",
+    "refs": [
+     "134/16.02",
+     "134/16.12",
+     "135/01.06",
+     "135/01.10",
+     "135/01.28",
+     "135/01.45",
+     "135/01.51"
+    ]
+   },
+   {
+    "actor": "MR",
+    "summary": "Steunt de hervorming als een belangrijke eerste stap: werken moet meer opbrengen dan niet werken. Ze steunt ook zelfstandigen en de IT-sector. Volgens de partij heeft ze nooit 500 euro meer loon beloofd, wel een verschil van 500 euro tussen werken en niet werken.",
+    "refs": [
+     "134/16.09",
+     "134/16.16",
+     "134/16.23",
+     "134/16.29",
+     "134/16.43",
+     "135/01.44"
+    ]
+   },
+   {
+    "actor": "VB",
+    "summary": "Is voor minder belasting op arbeid, maar noemt de hervorming 'reclame': ze is onzeker en niet gefinancierd. Nieuwe belastingen nemen de winst weer weg, en harder werken of promotie maken loont minder. De partij onthield zich.",
+    "refs": [
+     "134/16.14",
+     "134/16.15",
+     "135/01.07",
+     "135/01.11",
+     "135/01.14",
+     "135/01.48"
+    ]
+   },
+   {
+    "actor": "PS",
+    "summary": "Stemt tegen. Vindt de hervorming te weinig en te laat, en niet zeker gefinancierd. Ze treft volgens de partij gepensioneerden, vrouwen, grote gezinnen en tijdelijk werklozen, terwijl de grootste vermogens niet worden belast.",
+    "refs": [
+     "134/16.17",
+     "134/16.24",
+     "134/16.32"
+    ]
+   },
+   {
+    "actor": "PVDA-PTB",
+    "summary": "Stemt tegen, al steunt de partij de verhoging van de belastingvrije som (bij een aparte stemming over dat artikel). Ze vindt het voordeel te klein: 55 euro per maand in 2029 voor iemand met een gemiddeld loon. Werklozen, gezinnen en alleenstaande moeders met een leefloon gaan erop achteruit. De partij wil een belasting op miljonairs.",
+    "refs": [
+     "134/16.18",
+     "134/16.22",
+     "134/16.45",
+     "134/16.53",
+     "134/16.60",
+     "135/01.49"
+    ]
+   },
+   {
+    "actor": "Les Engagés",
+    "summary": "Steunt de hervorming als de meest ambitieuze in tientallen jaren: ze beloont werken, behandelt gezinsvormen gelijk en maakt de belastingen eenvoudiger. Het verlies voor alleenstaande ouders met een leefloon wil de partij oplossen bij het opstellen van de begroting.",
+    "refs": [
+     "134/16.51",
+     "134/16.54",
+     "134/16.56",
+     "135/01.01",
+     "135/01.50",
+     "135/01.52"
+    ]
+   },
+   {
+    "actor": "Vooruit",
+    "summary": "Steunt de hervorming omdat vooral de laagste lonen netto meer overhouden. De verlaging wordt volgens de partij mee betaald doordat de mensen met de meeste middelen (de 'sterkste schouders') meer bijdragen.",
+    "refs": [
+     "135/01.02"
+    ]
+   },
+   {
+    "actor": "cd&v",
+    "summary": "Steunt de hervorming en noemt ze een ingeloste belofte. De belastingvrije som, de werkbonus en de lagere bijzondere bijdrage samen zorgen ervoor dat elke werkende Belg erop vooruitgaat.",
+    "refs": [
+     "135/01.03",
+     "135/01.05",
+     "135/01.09",
+     "135/01.12"
+    ]
+   },
+   {
+    "actor": "Ecolo-Groen",
+    "summary": "Steunt een aantal onderdelen, zoals de hogere belastingvrije som, de werkbonus en de 33 % voor gepensioneerden, maar stemt tegen het geheel. Gepensioneerden, mensen met een uitkering en gezinnen worden volgens de partij benadeeld. Ze is tegen het voordelige stelsel voor auteursrechten in de IT-sector en vindt dat de hervorming een gat in de begroting slaat.",
+    "refs": [
+     "135/01.08",
+     "135/01.15",
+     "135/01.18",
+     "135/01.20"
+    ]
+   },
+   {
+    "actor": "DéFI",
+    "summary": "Deelt het doel om werken minder te belasten, maar vindt de hervorming niet gefinancierd, oneerlijk voor gepensioneerden en vrouwen, en juridisch onzeker. De partij onthield zich.",
+    "refs": [
+     "135/01.46"
+    ]
+   },
+   {
+    "actor": "Regering",
+    "summary": "Minister Jambon noemt de hervorming een gedragen compromis en een stevige stap naar een modernere fiscaliteit die werken aanmoedigt. Hij geeft toe dat de promotieval niet kleiner wordt en noemt dat een bewuste keuze voor de laagste lonen. Het probleem van de alleenstaande ouders met een leefloon wil hij bij de begroting bekijken.",
+    "refs": [
+     "134/16.11",
+     "134/16.58",
+     "135/01.47",
+     "135/01.54"
+    ]
+   }
+  ],
+  "arguments_for": [
+   {
+    "point": "Werkende mensen houden netto meer over omdat de belasting op arbeid daalt, met in totaal 4 miljard euro.",
+    "actors": [
+     "N-VA",
+     "cd&v",
+     "Vooruit",
+     "MR",
+     "Les Engagés",
+     "Regering"
+    ],
+    "refs": [
+     "134/16.01",
+     "135/01.03",
+     "135/01.02",
+     "134/16.16",
+     "135/01.01",
+     "135/01.47"
+    ],
+    "quote": "Vandaag stemmen we over de loonbrief van elke werknemer en over het inkomen van elke zelfstandige in dit land.",
+    "quote_ref": "135/01.03"
+   },
+   {
+    "point": "Vooral mensen met de laagste lonen gaan erop vooruit, bijvoorbeeld tot 150 euro netto per maand extra bij een minimumloon in 2030.",
+    "actors": [
+     "Vooruit",
+     "cd&v",
+     "Regering"
+    ],
+    "refs": [
+     "135/01.02",
+     "135/01.12",
+     "135/01.47"
+    ],
+    "quote": "Meer dan 90 % van deze belastingverlaging gaat naar maatregelen die de laagste lonen extra ondersteunen.",
+    "quote_ref": "135/01.02"
+   },
+   {
+    "point": "Het verschil tussen werken en niet werken wordt groter (minstens 500 euro per maand). Zo worden mensen aangemoedigd om te gaan werken.",
+    "actors": [
+     "MR",
+     "N-VA",
+     "cd&v",
+     "Regering"
+    ],
+    "refs": [
+     "134/16.16",
+     "134/16.01",
+     "135/01.12",
+     "135/01.47"
+    ],
+    "quote": "Le travail doit davantage payer que l'inactivité.",
+    "quote_ref": "134/16.16"
+   },
+   {
+    "point": "De belastingen worden neutraler tegenover gezinsvormen: het afbouwen van het huwelijksquotiënt en de gelijkere kinderbijslagen passen bij hoe gezinnen vandaag samenleven.",
+    "actors": [
+     "Les Engagés",
+     "N-VA",
+     "MR"
+    ],
+    "refs": [
+     "135/01.01",
+     "134/16.01",
+     "134/16.16"
+    ],
+    "quote": "L'impôt n'a pas vocation à favoriser un modèle familial plutôt qu'un autre.",
+    "quote_ref": "135/01.01"
+   },
+   {
+    "point": "Zelfstandigen, de IT-sector en gepensioneerden die willen bijverdienen krijgen concrete voordelen. Voorbeelden zijn de ondernemersaftrek, het afschaffen van de boete voor te lage voorafbetalingen, de auteursrechten en de 33 % voor gepensioneerden. Ook enkele oppositiepartijen steunen sommige van deze maatregelen.",
+    "actors": [
+     "N-VA",
+     "MR",
+     "cd&v",
+     "Anders.",
+     "Ecolo-Groen"
+    ],
+    "refs": [
+     "134/16.13",
+     "134/16.16",
+     "135/01.12",
+     "135/01.23",
+     "135/01.18"
+    ],
+    "quote": "Voor beginnende zelfstandigen, collega Van Quickenborne, is dat zeker een goede zaak, omdat ze die middelen eerst in hun zaak kunnen investeren.",
+    "quote_ref": "134/16.13"
+   },
+   {
+    "point": "De hervorming maakt de belastingen eenvoudiger en zorgt voor meer rechtszekerheid.",
+    "actors": [
+     "Les Engagés",
+     "MR"
+    ],
+    "refs": [
+     "135/01.01",
+     "134/16.16"
+    ],
+    "quote": "Une fiscalité plus juste doit aussi être une fiscalité compréhensible.",
+    "quote_ref": "135/01.01"
+   }
+  ],
+  "arguments_against": [
+   {
+    "point": "De hervorming is niet gefinancierd. De regering moet nog miljarden vinden in de begroting, en het is onzeker of de verlaging er volledig komt.",
+    "actors": [
+     "DéFI",
+     "VB",
+     "PS",
+     "Ecolo-Groen",
+     "Anders."
+    ],
+    "refs": [
+     "135/01.46",
+     "134/16.14",
+     "134/16.17",
+     "135/01.20",
+     "135/01.28"
+    ],
+    "quote": "Cette réforme n'est tout simplement pas financée.",
+    "quote_ref": "135/01.46"
+   },
+   {
+    "point": "Andere belastingen en maatregelen van de regering nemen de winst weer weg, zoals hogere accijnzen, de beperkte indexering en de besparingen op pensioenen. Daardoor stijgt de koopkracht niet echt.",
+    "actors": [
+     "VB",
+     "PS",
+     "PVDA-PTB",
+     "DéFI"
+    ],
+    "refs": [
+     "134/16.14",
+     "134/16.15",
+     "134/16.17",
+     "134/16.27",
+     "135/01.46"
+    ],
+    "quote": "De conclusie is eigenlijk heel eenvoudig, de burger krijgt langs rechts een belastingverlaging maar langs links een spervuur aan hogere en nieuwe belastingen.",
+    "quote_ref": "134/16.15"
+   },
+   {
+    "point": "De promotieval wordt groter: wie bruto meer gaat verdienen, houdt netto steeds minder over. Volgens deze partijen remt dat de productiviteit en de groei af, en de middenklasse krijgt weinig.",
+    "actors": [
+     "VB",
+     "Anders.",
+     "Ecolo-Groen"
+    ],
+    "refs": [
+     "134/16.15",
+     "135/01.06",
+     "135/01.08",
+     "135/01.35",
+     "135/01.37"
+    ],
+    "quote": "Met andere woorden, werken loont iets meer, maar meer en harder werken loont minder.",
+    "quote_ref": "134/16.15"
+   },
+   {
+    "point": "Gepensioneerden, werklozen, zieken, grote gezinnen en alleenstaande moeders met een leefloon gaan erop achteruit, onder meer door het afschaffen van het huwelijksquotiënt en het niet indexeren van de toeslagen voor kinderen.",
+    "actors": [
+     "PS",
+     "PVDA-PTB",
+     "Ecolo-Groen",
+     "DéFI"
+    ],
+    "refs": [
+     "134/16.17",
+     "134/16.53",
+     "134/16.55",
+     "135/01.15",
+     "135/01.46"
+    ],
+    "quote": "Alors que vous prétendez vouloir récompenser le travail, votre première mesure consiste précisément à punir ceux qui ont travaillé toute leur vie.",
+    "quote_ref": "134/16.17"
+   },
+   {
+    "point": "De Raad van State heeft juridische vragen. Gepensioneerde zelfstandigen worden anders behandeld dan gepensioneerde werknemers, en de uitbreiding van de auteursrechten zou kunnen ingaan tegen het principe dat iedereen gelijk is voor de belasting.",
+    "actors": [
+     "Anders.",
+     "PS",
+     "DéFI",
+     "Ecolo-Groen"
+    ],
+    "refs": [
+     "134/16.02",
+     "134/16.12",
+     "134/16.17",
+     "135/01.46",
+     "135/01.20"
+    ],
+    "quote": "Waarom voert men een discriminatie in tussen enerzijds gepensioneerde werknemers en anderzijds gepensioneerde zelfstandigen?",
+    "quote_ref": "134/16.02"
+   },
+   {
+    "point": "De verlaging is klein en komt laat, vooral pas in 2029-2030. Voor een gemiddeld loon gaat het om ongeveer 50 euro per maand. De grootste vermogens worden niet belast.",
+    "actors": [
+     "PS",
+     "PVDA-PTB",
+     "Anders.",
+     "Ecolo-Groen"
+    ],
+    "refs": [
+     "134/16.17",
+     "134/16.22",
+     "134/16.60",
+     "135/01.28",
+     "135/01.20"
+    ],
+    "quote": "Monsieur le ministre, votre réforme, c'est trop peu et c'est trop tard.",
+    "quote_ref": "134/16.17"
+   }
+  ]
+ },
+ "checks": [],
+ "meta": {
+  "generator": "claude-cli",
+  "prompt_version": "1",
+  "generated_at": "2026-11-22T21:54:29+00:00"
+ },
+ "repairs": []
+}

@@ -1,0 +1,558 @@
+{
+ "doc": "1715",
+ "docs": [
+  "1715"
+ ],
+ "legislature": 56,
+ "title": {
+  "nl": "Wetsontwerp betreffende de energienorm (1715/1-4)",
+  "fr": "Projet de loi concernant la norme énergétique (1715/1-4)",
+  "subtitles": {
+   "nl": [],
+   "fr": []
+  }
+ },
+ "sessions": [
+  {
+   "session": 146,
+   "date": "2026-10-22",
+   "part": "afternoon",
+   "url": "https://www.dekamer.be/doc/PCRI/html/56/ip146x.html"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Charlotte Verkeyn",
+   "party": "N-VA",
+   "role": null,
+   "refs": [
+    "146/27.01"
+   ]
+  },
+  {
+   "name": "Kurt Ravyts",
+   "party": "VB",
+   "role": null,
+   "refs": [
+    "146/27.02",
+    "146/27.04",
+    "146/27.05"
+   ]
+  },
+  {
+   "name": "Jan Jambon",
+   "party": null,
+   "role": "government",
+   "refs": [
+    "146/27.03",
+    "146/27.13",
+    "146/27.19"
+   ]
+  },
+  {
+   "name": "Benoît Piedboeuf",
+   "party": "MR",
+   "role": null,
+   "refs": [
+    "146/27.06"
+   ]
+  },
+  {
+   "name": "Robin Tonniau",
+   "party": "PVDA-PTB",
+   "role": null,
+   "refs": [
+    "146/27.07",
+    "146/27.14",
+    "146/27.16"
+   ]
+  },
+  {
+   "name": "Xavier Dubois",
+   "party": "Les Engagés",
+   "role": null,
+   "refs": [
+    "146/27.08"
+   ]
+  },
+  {
+   "name": "Steven Matheï",
+   "party": "cd&v",
+   "role": null,
+   "refs": [
+    "146/27.09"
+   ]
+  },
+  {
+   "name": "Dieter Vanbesien",
+   "party": "Ecolo-Groen",
+   "role": null,
+   "refs": [
+    "146/27.10"
+   ]
+  },
+  {
+   "name": "Steven Coenegrachts",
+   "party": "Anders.",
+   "role": null,
+   "refs": [
+    "146/27.11",
+    "146/27.12",
+    "146/27.18"
+   ]
+  },
+  {
+   "name": "Jean-Marie Dedecker",
+   "party": "ONAFH",
+   "role": null,
+   "refs": [
+    "146/27.15",
+    "146/27.17"
+   ]
+  }
+ ],
+ "votes": [
+  {
+   "ref": "146/vote 20",
+   "session": 146,
+   "date": "2026-10-22",
+   "subject": "Stemming over amendement nr. 2 van Dieter Vanbesien cs op artikel 2. (1715/5)",
+   "item_title": "Aangehouden amendement en artikel van het wetsontwerp betreffende de energienorm (1715/1-5)",
+   "result": {
+    "nl": null,
+    "fr": null
+   },
+   "yes": 46,
+   "no": 77,
+   "abstain": 8,
+   "total": 131,
+   "reused": false,
+   "docs": [
+    "1715"
+   ],
+   "by_party": {
+    "Anders.": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 8
+    },
+    "DéFI": {
+     "stance": "voor",
+     "yes": 1,
+     "no": 0,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "voor",
+     "yes": 7,
+     "no": 0,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 14,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 17,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 23,
+     "abstain": 0
+    },
+    "Onafhankelijk": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "voor",
+     "yes": 11,
+     "no": 0,
+     "abstain": 0
+    },
+    "PVDA-PTB": {
+     "stance": "voor",
+     "yes": 12,
+     "no": 0,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "voor",
+     "yes": 15,
+     "no": 0,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 12,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 10,
+     "abstain": 0
+    }
+   },
+   "kind": "amendment",
+   "final": false
+  },
+  {
+   "ref": "146/vote 21",
+   "session": 146,
+   "date": "2026-10-22",
+   "subject": null,
+   "item_title": "Geheel van het wetsontwerp betreffende de energienorm (1715/4)",
+   "result": {
+    "nl": null,
+    "fr": null
+   },
+   "yes": 131,
+   "no": 0,
+   "abstain": 0,
+   "total": 131,
+   "reused": false,
+   "docs": [
+    "1715"
+   ],
+   "by_party": {
+    "Anders.": {
+     "stance": "voor",
+     "yes": 8,
+     "no": 0,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "voor",
+     "yes": 1,
+     "no": 0,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "voor",
+     "yes": 7,
+     "no": 0,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "voor",
+     "yes": 14,
+     "no": 0,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "voor",
+     "yes": 17,
+     "no": 0,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "voor",
+     "yes": 23,
+     "no": 0,
+     "abstain": 0
+    },
+    "Onafhankelijk": {
+     "stance": "voor",
+     "yes": 1,
+     "no": 0,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "voor",
+     "yes": 11,
+     "no": 0,
+     "abstain": 0
+    },
+    "PVDA-PTB": {
+     "stance": "voor",
+     "yes": 12,
+     "no": 0,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "voor",
+     "yes": 15,
+     "no": 0,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "voor",
+     "yes": 12,
+     "no": 0,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "voor",
+     "yes": 10,
+     "no": 0,
+     "abstain": 0
+    }
+   },
+   "kind": "whole",
+   "final": true
+  }
+ ],
+ "summary": {
+  "plain_title": "Lagere accijnzen op elektriciteit zodat gezinnen en kleine bedrijven niet meer betalen door de energienorm",
+  "problem": "De hoge energieprijzen in België maken het moeilijk voor bedrijven die veel energie gebruiken om te concurreren met bedrijven in de buurlanden. Daarom verlaagt de regering met de 'energienorm' de nettarieven voor die grote energieverbruikers. Daardoor zouden de nettarieven voor gezinnen en kleinere bedrijven stijgen. Dit wetsontwerp moet die stijging compenseren.",
+  "proposal": [
+   "De accijnzen (een belasting) op elektriciteit gaan omlaag, voor gezinnen en voor bedrijven.",
+   "Die verlaging compenseert de hogere nettarieven voor gebruikers die de korting voor grote energieverbruikers niet krijgen.",
+   "De regels voor de accijnzen worden eenvoudiger, met minder administratieve verschillen.",
+   "Bestaande vrijstellingen, zoals voor het sociaal tarief en de landbouw, blijven bestaan.",
+   "De wet gaat alleen over elektriciteit, niet over gas."
+  ],
+  "positions": [
+   {
+    "actor": "N-VA",
+    "summary": "N-VA steunt het wetsontwerp. De partij zegt dat de minister van Financiën met deze accijnsverlaging zijn deel doet om de elektriciteitskosten voor gezinnen en bedrijven te verlagen.",
+    "refs": [
+     "146/27.01"
+    ]
+   },
+   {
+    "actor": "VB",
+    "summary": "Vlaams Belang keurt het wetsontwerp goed, maar noemt het vooral een compensatie en geen echte belastingverlaging. De partij wijst op de belastingverschuiving van elektriciteit naar gas, op hogere nettarieven in de toekomst en op de deelstaten, die hun deel nog niet hebben uitgevoerd.",
+    "refs": [
+     "146/27.05"
+    ]
+   },
+   {
+    "actor": "MR",
+    "summary": "MR steunt het ontwerp omdat het de energiekosten voor bedrijven en gezinnen verlaagt, elektrificatie aanmoedigt en de regels eenvoudiger maakt.",
+    "refs": [
+     "146/27.06"
+    ]
+   },
+   {
+    "actor": "PVDA-PTB",
+    "summary": "PVDA-PTB stemt voor, omdat elke euro minder op de factuur helpt. Volgens de partij redt de maatregel de industrie niet: het probleem zit in hoe de energiemarkt werkt. De partij wil publieke investeringen en prijscontrole.",
+    "refs": [
+     "146/27.07",
+     "146/27.14",
+     "146/27.16"
+    ]
+   },
+   {
+    "actor": "Les Engagés",
+    "summary": "Les Engagés steunt het ontwerp. Het helpt de industrie die veel elektriciteit gebruikt, zonder dat de andere verbruikers de rekening betalen.",
+    "refs": [
+     "146/27.08"
+    ]
+   },
+   {
+    "actor": "cd&v",
+    "summary": "cd&v keurt het ontwerp goed, omdat het gezinnen en kmo's beschermt tegen hogere nettarieven en elektrificatie stimuleert. De partij vraagt wel om na te gaan of de compensatie groot genoeg is.",
+    "refs": [
+     "146/27.09"
+    ]
+   },
+   {
+    "actor": "Ecolo-Groen",
+    "summary": "Ecolo-Groen steunt het ontwerp, maar wil verder gaan. De partij diende een amendement in om de accijnzen te verlagen tot het Europese minimum en wil dat betalen door subsidies voor fossiele brandstoffen af te bouwen.",
+    "refs": [
+     "146/27.10"
+    ]
+   },
+   {
+    "actor": "Anders.",
+    "summary": "Anders. stemt voor elke belastingverlaging, ook voor deze. De partij vraagt wel wat de energie-intensieve bedrijven concreet winnen en hoe een bedrag van 300 miljoen euro betaald wordt.",
+    "refs": [
+     "146/27.11",
+     "146/27.12",
+     "146/27.18"
+    ]
+   },
+   {
+    "actor": "Onafhankelijk",
+    "summary": "Jean-Marie Dedecker sprak niet over het wetsontwerp zelf. Hij zei dat bedrijven wegtrekken door de hoge energieprijzen, de sluiting van de kerncentrales en het Europese klimaatbeleid.",
+    "refs": [
+     "146/27.15",
+     "146/27.17"
+    ]
+   },
+   {
+    "actor": "Regering",
+    "summary": "Minister Jambon bedankt alle partijen voor hun steun. Hij beperkt zich tot de compensatie van de tariefbeslissingen van de energieregulator CREG. Voor de detailvragen verwijst hij naar het verslag van de commissie. Hij verdedigt de vrije markt.",
+    "refs": [
+     "146/27.13",
+     "146/27.19"
+    ]
+   }
+  ],
+  "arguments_for": [
+   {
+    "point": "Gezinnen en kmo's mogen niet meer betalen omdat de nettarieven voor grote bedrijven dalen. De accijnsverlaging vangt die stijging op.",
+    "actors": [
+     "cd&v",
+     "Les Engagés",
+     "VB",
+     "N-VA"
+    ],
+    "refs": [
+     "146/27.09",
+     "146/27.08",
+     "146/27.05",
+     "146/27.01"
+    ],
+    "quote": "Onze gezinnen en kmo's mogen evenwel niet het slachtoffer worden van die verlaging.",
+    "quote_ref": "146/27.09"
+   },
+   {
+    "point": "Lagere energiekosten zijn nodig voor de concurrentiekracht van de Belgische bedrijven, voor investeringen en voor jobs.",
+    "actors": [
+     "cd&v",
+     "Les Engagés",
+     "MR",
+     "VB"
+    ],
+    "refs": [
+     "146/27.09",
+     "146/27.08",
+     "146/27.06",
+     "146/27.05"
+    ],
+    "quote": "Betaalbare energie is dan ook geen luxeproduct maar een pure noodzaak.",
+    "quote_ref": "146/27.09"
+   },
+   {
+    "point": "Goedkopere elektriciteit moedigt gezinnen en bedrijven aan om over te stappen op bijvoorbeeld warmtepompen en elektrische wagens. Dat helpt de energietransitie.",
+    "actors": [
+     "Ecolo-Groen",
+     "MR",
+     "cd&v",
+     "Les Engagés"
+    ],
+    "refs": [
+     "146/27.10",
+     "146/27.06",
+     "146/27.09",
+     "146/27.08"
+    ],
+    "quote": "Om die transitie te ondersteunen, is het goed ervoor te zorgen dat het gebruik van elektriciteit wordt gestimuleerd boven dat van fossiele brandstoffen.",
+    "quote_ref": "146/27.10"
+   },
+   {
+    "point": "De regels voor de accijnzen worden eenvoudiger voor leveranciers en voor de overheid.",
+    "actors": [
+     "MR",
+     "cd&v"
+    ],
+    "refs": [
+     "146/27.06",
+     "146/27.09"
+    ],
+    "quote": "Nous saluons également, monsieur le ministre, la simplification de la tarification.",
+    "quote_ref": "146/27.06"
+   },
+   {
+    "point": "Elke verlaging van de energiefactuur of van belastingen is goed nieuws voor de mensen.",
+    "actors": [
+     "PVDA-PTB",
+     "Anders."
+    ],
+    "refs": [
+     "146/27.07",
+     "146/27.12"
+    ],
+    "quote": "want elke euro minder op de factuur is een euro minder voor de gezinnen en de werknemers",
+    "quote_ref": "146/27.07"
+   }
+  ],
+  "arguments_against": [
+   {
+    "point": "De accijnsverlaging is geen echte vermindering. Ze compenseert alleen een stijging van de nettarieven die de regering zelf veroorzaakt. Volgens deze partijen winnen de gezinnen er dus geen koopkracht mee.",
+    "actors": [
+     "PVDA-PTB",
+     "VB"
+    ],
+    "refs": [
+     "146/27.07",
+     "146/27.05"
+    ],
+    "quote": "De accijnsverlaging die u ons vandaag voorlegt, dient dus om een verhoging te compenseren die u zelf eerst hebt veroorzaakt.",
+    "quote_ref": "146/27.07"
+   },
+   {
+    "point": "Het is onduidelijk wat de energie-intensieve bedrijven concreet winnen. Het geld voor de compensatie komt uit het budget dat voor hen bedoeld was, en een deel van 300 miljoen euro is niet betaald.",
+    "actors": [
+     "Anders.",
+     "VB"
+    ],
+    "refs": [
+     "146/27.12",
+     "146/27.18",
+     "146/27.05"
+    ],
+    "quote": "Kunt u mij zeggen wat de waarde is van de verlaging van de transmissienettarieven voor de energie-intensieve bedrijven?",
+    "quote_ref": "146/27.18"
+   },
+   {
+    "point": "De belastingen op energie stijgen netto toch. Ook de nettarieven gaan in de toekomst sterk omhoog. Het is niet zeker dat de compensatie groot genoeg is.",
+    "actors": [
+     "VB",
+     "cd&v"
+    ],
+    "refs": [
+     "146/27.05",
+     "146/27.09"
+    ],
+    "quote": "Netto betekent dat voor de mensen nog altijd een verhoging van bijna 200 miljoen euro aan energiebelastingen.",
+    "quote_ref": "146/27.05"
+   },
+   {
+    "point": "De maatregel is te klein in vergelijking met de veel lagere energieprijzen in de Verenigde Staten. Volgens PVDA-PTB zit het probleem in de werking van de markt, niet in de belastingen.",
+    "actors": [
+     "PVDA-PTB"
+    ],
+    "refs": [
+     "146/27.07"
+    ],
+    "quote": "Tegenover dat verschil zijn enkele euro's accijnzen per megawattuur niet meer dan een pleister op een houten been.",
+    "quote_ref": "146/27.07"
+   },
+   {
+    "point": "De verlaging gaat niet ver genoeg. Ecolo-Groen wil de accijnzen verlagen tot het Europese minimum, zodat een gemiddeld gezin ongeveer 150 euro per jaar wint in plaats van 36 euro.",
+    "actors": [
+     "Ecolo-Groen"
+    ],
+    "refs": [
+     "146/27.10"
+    ],
+    "quote": "Zoals ik zei, is dat een goede zaak, maar het zal u wellicht niet verbazen dat het onze ambitie is om daarin sneller en verder te gaan.",
+    "quote_ref": "146/27.10"
+   },
+   {
+    "point": "De deelstaten hebben hun deel van de steun aan de industrie nog niet uitgevoerd. Het is onzeker of dat geld echt bij de energie-intensieve bedrijven terechtkomt.",
+    "actors": [
+     "VB",
+     "Anders."
+    ],
+    "refs": [
+     "146/27.05",
+     "146/27.11"
+    ],
+    "quote": "Mijnheer de minister, de industrie zit daarop te wachten.",
+    "quote_ref": "146/27.05"
+   }
+  ]
+ },
+ "checks": [],
+ "meta": {
+  "generator": "claude-cli",
+  "prompt_version": "1",
+  "generated_at": "2026-11-22T21:58:02+00:00"
+ },
+ "repairs": []
+}

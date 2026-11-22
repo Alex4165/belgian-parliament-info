@@ -1,0 +1,361 @@
+{
+ "source": {
+  "type": "plenary",
+  "legislature": 56,
+  "session": 103,
+  "url": "https://www.dekamer.be/doc/PCRI/html/56/ip103x.html",
+  "date": "2026-03-25",
+  "part": null,
+  "provisional": false
+ },
+ "items": [
+  {
+   "number": "01",
+   "section": null,
+   "title": {
+    "nl": "Agenda",
+    "fr": "Ordre du jour"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Overeenkomstig het advies van de Conferentie van voorzitters van 24 maart 2026 hebt u een gewijzigde agenda voor de vergadering van vandaag en morgen ontvangen."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Conformément à l’avis de la Conférence des présidents du 24 mars 2026, vous avez reçu un ordre du jour modifié pour la séance d'aujourd'hui et de demain."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Zijn er dienaangaande opmerkingen? (Nee)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Y a-t-il une observation à ce sujet? (Non)"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Bijgevolg is de agenda aangenomen."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "En conséquence, l'ordre du jour est adopté."
+    }
+   ]
+  },
+  {
+   "number": "02",
+   "section": {
+    "nl": "Ontwerp van programmawet",
+    "fr": "Projet de loi-programme"
+   },
+   "title": {
+    "nl": "Ontwerp van programmawet (1378/1-28)",
+    "fr": "Projet de loi-programme (1378/1-28)"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [
+    "1378"
+   ],
+   "events": [
+    {
+     "type": "heading",
+     "level": 4,
+     "nl": "Motie tot agendawijziging",
+     "fr": "Motion de modification de l'ordre du jour"
+    },
+    {
+     "type": "speech",
+     "id": "02.01",
+     "name": "Pierre-Yves Dermagne",
+     "party": "PS",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le président, nous allons dans quelques instants – c'est en tout cas le souhait de la majorité et du gouvernement – commencer la discussion sur le texte d'une loi-programme importante. Cette dernière est significative pour le quotidien de millions de Belges puisqu'elle prévoit notamment un double saut d'index partiel au moment où les prix de l'énergie explosent, faisant en sorte que l'inflation augmente et impacte négativement le pouvoir d'achat des Belges, en plus des conséquences des politiques menées par cette majorité et par ce gouvernement.",
+      "Monsieur le président, vous savez que ce texte, singulièrement le chapitre relevant des compétences des ministres Clarinval et Vandenbroucke, devait être soumis à l'avis des partenaires sociaux au sein du Conseil National du Travail (CNT). S'agissant de dispositions relatives au droit du travail et au droit social, la législation prévoit que l'avis des partenaires sociaux doit être demandé par le législateur, en l'espèce le gouvernement.",
+      "Le gouvernement avait manifestement oublié de demander l'avis de ces partenaires sociaux – et nous n'avons jamais eu de réponse quant aux raisons de cet oubli. Le gouvernement ne l'a fait que quelques heures avant le début de nos travaux sur ce projet de loi important et significatif pour le pouvoir d'achat des Belges en envoyant un courrier signé par le premier ministre aux interlocuteurs sociaux au sein du CNT ainsi que du Conseil Central de l'Économie (CCE). Le gouvernement a donné un délai de 30 jours à ces instances pour remettre leur avis.",
+      "Nous sommes aujourd'hui le 25 mars, le délai donné aux interlocuteurs sociaux n'est pas encore dépassé et nous avons reçu hier soir à 19 h 32 un mail nous transmettant un courrier signé du président et de la secrétaire du CNT. Celui-ci pointait que l'avis avait été sollicité tardivement, qu'un délai de 30 jours avait été octroyé au CNT et que ce délai n'avait pas encore expiré à ce jour. Les interlocuteurs sociaux du CNT demandent à l'Assemblée – et donc en premier lieu à la majorité et au gouvernement – de surseoir au vote devant intervenir aujourd'hui ou demain sur cette loi-programme.",
+      "Cela fait également écho à un engagement pris par le ministre Clarinval – qui est présent –, pris en présence du ministre Vandenbroucke, de ne pas procéder aux débats et aux votes sur la loi-programme tant que l'avis du CNT n'est pas à disposition des parlementaires. Le ministre Clarinval l'a répété à plusieurs reprises lors de nos interpellations en commission concernant la loi-programme il y a une quinzaine de jours.",
+      "Donc, monsieur le président, sur la base des engagements pris par le gouvernement, mais surtout de la demande formulée par les partenaires sociaux au sein du CNT, nous allons déposer une motion d'ordre demandant à ce Parlement de modifier l'ordre du jour de cette séance plénière et de renvoyer à une plénière ultérieure l'examen de cette loi-programme en attendant que l'avis des partenaires sociaux ait été rendu et transmis, bien entendu, aux parlementaires, afin que nous puissions l'examiner et qu'il puisse alimenter nos débats au sujet de modalités et de décisions importantes qui concernent la vie quotidienne et le pouvoir d'achat de millions de Belges."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Het woord is aan mevrouw Pas."
+    },
+    {
+     "type": "speech",
+     "id": "02.02",
+     "name": "Barbara Pas",
+     "party": "VB",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de voorzitter, wij mochten inderdaad gisteren een brief ontvangen van de Nationale Arbeidsraad.",
+      "Deze regering heeft op 1 maart – ik herhaal, op 1 maart – aan de Nationale Arbeidsraad en de Centrale Raad voor het Bedrijfsleven een advies gevraagd over de programmawet. Bij de adviesvraag preciseerde de eerste minister dat het advies van de raden binnen een termijn van 30 dagen wordt verwacht. De adviezen zijn er nog niet, maar de regering wil vandaag wel de programmawet behandelen en die morgen laten goedkeuren. De regering slaagt er dus in zelf adviezen te vragen, maar die niet eens af te wachten.",
+      "Wetteksten over de pensioenen worden terecht uitgesteld tot de analyse van het Planbureau voorligt. Het is erg dat de oppositie daarop heel lang heeft moeten aandringen, maar dat is een terechte beslissing. Het is immers de logica zelve dat eerst de adviezen en impactanalyses worden verkregen alvorens de behandeling kan plaatsvinden.",
+      "Als de regering dus zelf een advies vraagt en daarvoor een termijn oplegt, wordt ze verwacht die termijnen te respecteren en de behandeling uit te stellen tot de adviezen er zijn."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Bedankt, collega."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Ik geef zo meteen nog het woord aan mevrouw Merckx, de heer Ronse en mevrouw Schlitz."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Ik heb een ordemotie ontvangen. U weet dat het het prerogatief is van de voorzitter om te beslissen wanneer daarover wordt gestemd. De ordemotie vraagt echter de wijziging van de agenda, dus het zou nogal gek zijn om daarover pas te stemmen als de agenda is afgerond. Het is dus logisch om ons straks over die motie uit te spreken."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "In de motie wordt gevraagd om de behandeling van de debatten uit te stellen tot wanneer het advies binnen is of tot wanneer de periode verstreken is waarbinnen het advies kan worden ingediend."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "We zullen daarover dus zo dadelijk stemmen. Gelieve dat in het achterhoofd te houden bij uw tussenkomsten."
+    },
+    {
+     "type": "speech",
+     "id": "02.03",
+     "name": "Sofie Merckx",
+     "party": "PVDA-PTB",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Dank u, mijnheer de voorzitter.",
+      "Wij steunen de ordemotie die de PS zonet heeft ingediend. Die ordemotie vraagt om de bespreking van de programmawet uit te stellen, omdat in de programmawet verschillende maatregelen staan, zoals het verhogen van de accijnzen op gas, wat vrij hallucinant is vandaag, gezien de evolutie van de energieprijzen en de impact daarvan op de portemonnee van de mensen. Daarnaast is er nog een andere belangrijke maatregel, namelijk het aftoppen van de indexering van de lonen, wat neerkomt op een aantasting van de automatische indexering van onze lonen. Dat betekent ook een flinke hap uit de koopkracht van de mensen. Concreet gaat het om 4.000 euro bruto voor een voltijdse betrekking en 2.000 euro bruto voor een halftijdse betrekking. Dat treft bijvoorbeeld ook vrouwen die halftijds werken, onder meer als verpleegkundige, en die zo een deel van hun loon verliezen.",
+      "Normaal gezien wordt dat besproken door de sociale partners. De regering heeft echter pas zeer laat een advies gevraagd aan de sociale partners, met name aan de Nationale Arbeidsraad. Bij de aanvang van de bespreking heeft minister Clarinval zich ertoe geëngageerd het ontwerp niet te laten stemmen zolang het advies van de Nationale Arbeidsraad – waarin zowel de werkgevers- als de werknemersorganisaties vertegenwoordigd zijn – niet is uitgebracht. Dat advies is vandaag nog niet beschikbaar.",
+      "We lezen bovendien vandaag in Le Soir dat de leden van de Nationale Arbeidsraad een brief hebben gestuurd naar de eerste minister met de vraag om de bespreking en stemming uit te stellen.",
+      "We steunen dus de ordemotie, maar vragen ook, mijnheer de voorzitter, of we die brief van de Nationale Arbeidsraad aan de eerste minister kunnen ontvangen.",
+      "(…) : (…)"
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "02.04",
+     "name": "Sofie Merckx",
+     "party": "PVDA-PTB",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "We hebben die al ontvangen? Prima, dan zal ik mijn mailbox even nakijken. Mijn excuses, daarvan was ik nog niet op de hoogte.",
+      "Hoe dan ook denk ik dat het niet mogelijk is om de bespreking nu te starten. Bedankt."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Mevrouw Merckx, u wordt ongelofelijk op uw wenken bediend."
+    },
+    {
+     "type": "speech",
+     "id": "02.05",
+     "name": "Sarah Schlitz",
+     "party": "Ecolo-Groen",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Nous avons reçu hier soir le courrier adressé au premier ministre au sujet de l'avis du CNT. Nous avions déjà eu cette discussion en commission parce qu'au moment où l'on nous avait présenté le texte, nous nous étions aperçu qu'il ne contenait pas l'avis du CNT. Il est tout à fait inédit d'avoir un projet qui touche en particulier à l'index et qui n'est pas assorti d'un avis du CNT, des partenaires sociaux. Même le gouvernement Michel avait demandé un tel avis en son temps.",
+      "Du côté de l'opposition, nous avons accepté de mener quand même les discussions en commission malgré l’absence de cet avis. Aujourd'hui, vous souhaitez forcer une discussion et un vote sans que nous ayons l'avis du CNT. Déjà à l'époque, je m'interrogeais sur la prise en compte, par le gouvernement, de cet avis au final. Nous sommes habitués, de la part de ce gouvernement, au peu de concertation, d'écoute et de respect des recommandations, notamment des avis du Conseil d'État, sur lesquels vous vous asseyez largement et régulièrement. Mais demander un avis le dimanche 1 er mars pour un texte qui est déjà rédigé et qui arrive sur la table du Parlement, avis à remettre dans les 30 jours, et tenter de le faire voter le 25 mars, avant même l’expiration du délai est tout de même quelque chose qui dépasse l'entendement!",
+      "Nous soutenons donc la motion d'ordre et nous demandons que le vote et les discussions en plénière sur ce texte attendent que l'avis du CNT soit rendu.",
+      "Je vous remercie."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "02.06",
+     "name": "Alexia Bertrand",
+     "party": "Anders.",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de voorzitter, dank u voor de snelle behandeling, op basis van artikel 49 en artikel 17, nr. 3, van het Reglement. U handelt absoluut correct.",
+      "Wij willen de ordemotie ook steunen. De centenindex heeft, zoals de collega’s al hebben gezegd, een impact op niet alleen de werknemers, maar ook op de werkgevers, zoals al wekenlang door Voka, het VBO en UNIZO wordt herhaald. De loonkosten zullen door de loonmatigingsbijdrage stijgen.",
+      "In de Nationale Arbeidsraad zijn niet alleen de werknemers, maar ook de werkgevers vertegenwoordigd. Als we het sociaal overleg ernstig willen nemen, moeten we wachten tot zij hun advies uitbrengen. Wij kijken uit naar dat advies van de NAR."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "02.07",
+     "name": "Axel Ronse",
+     "party": "N-VA",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de voorzitter, ik begin met een disclaimer: wij steunen als meerderheidspartij de ordemotie van collega Dermagne. Ik zal uitleggen waarom.",
+      "We zijn ons er zeer goed van bewust dat het een bijzonder pittig jaar is in het Parlement. Heel wat belangrijke hervormingen ten gunste van onze competitiviteit en onze koopkracht, ongezien in dit land, zijn ondertussen in wetsontwerpen, wetsvoorstellen en teksten gegoten en worden in sneltempo aan het Parlement voorgelegd.",
+      "Ik ben zelf lid van de commissie voor Sociale Zaken en ik moet toegeven dat het daar best pittig is. Gisteren hebben we nog over de pensioenen gesproken. We hebben daarover eigenlijk niet lang moeten discussiëren. De heer Dermagne, daarin bijgetreden door de heer Van Quickenborne, wees erop, net als nu, dat het Federaal Planbureau na de derde lezing van de pensioenwet nog een aantal updates moet maken. We hebben toen vrij snel beslist om de stemming na de eerste lezing uit te stellen. We hebben ook de goede afspraak gemaakt met de oppositie om tegen 28 april te landen.",
+      "Met betrekking tot de programmawet, waar de centenindex ook deel van uitmaakt, hebben we in de commissie voor Sociale Zaken een belofte gedaan. Het klopt dat het advies van de NAR niet tijdig werd gevraagd. Dat kan gebeuren, als men veel hervormt. Wie weinig doet, kan ook weinig fouten maken. We hebben bevestigd dat er geen eindstemming zou komen, totdat dat advies er is.",
+      "Eerlijk gezegd gingen wij er al van uit dat er vandaag geen eindstemming zou volgen, aangezien ik eergisteren nog een collega van het Vlaams Belang op de radio hoorde zeggen dat men een deal had met de andere oppositiepartijen om minstens 50 stemmen te leveren voor een verwijzing naar de Raad van State en zo de eindstemming uit te stellen.",
+      "Als de oppositie de bespreking niet wil voortzetten zonder dat finale NAR-advies, dan willen wij daar in de geest van een goede samenwerking rond hervormingen in meegaan. Ik denk dat het publiek en de bevolking geen boodschap hebben aan grote procedurespelletjes. Laten we goede ideologische debatten voeren over onze maatregelen en ons niet verliezen in procedures. Daarin kunnen meerderheid en oppositie elkaar op een constructieve manier vinden, mijnheer Dermagne. Dat is ook de reden waarom we de ordemotie die u hebt ingediend, steunen, weliswaar op voorwaarde dat de Nationale Arbeidsraad zijn advies binnen de gestelde termijn van 30 dagen bezorgt. Ik meen dat het advies begin maart is gevraagd, op 1 maart, en dat het dus ook tijdig moet worden ingediend. Als dat het geval is, kunnen we de bespreking in de best mogelijke omstandigheden voortzetten. Wat ons betreft, geven wij alle steun aan de ordemotie."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Zijn er nog fracties die zich willen uitspreken?"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Voor alle duidelijkheid, puur technisch, mijnheer Dermagne, ce n’est pas une motion d’ordre . U merkt het, collega’s, mijn schorre stem verraadt hoe aangedaan ik ben door de collegialiteit, die hier heerst. Ik geraak nog moeilijk uit mijn woorden. (Hilariteit)"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Ik heb van de heer Pierre-Yves Dermagne een motie ontvangen en die luidt als volgt:"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "\"Aangaande titel 3 van het voorontwerp van programmawet heeft de eerste minister op 1 maart 2026 de Nationale Arbeidsraad (NAR) verzocht een advies uit te brengen binnen een termijn van 30 dagen. Uit de brief van de NAR blijkt dat deze termijn nog niet verstreken is en dat de werkzaamheden van de NAR nog gaande zijn. De NAR vraagt uitdrukkelijk dat de adviestermijn in acht wordt genomen en dat de stemming wordt uitgesteld."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Het Parlement kan moeilijk serieus en zorgvuldig debatteren over bepalingen waarover een essentieel adviesorgaan nog advies moet uitbrengen binnen de toegekende termijn. Als men tot de bespreking en de stemming zou overgaan zonder dit advies, dan wordt er afbreuk gedaan aan het belang van sociaal overleg en aan een zorgvuldig wetgevend proces."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Ondergetekende stelt derhalve voor:"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "1. artikel 17, nr. 3, toe te passen, teneinde de bespreking van het ontwerp van programmawet en de stemming hierover van de agenda van deze plenaire vergadering te halen;"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "2. dit punt pas opnieuw op de agenda te plaatsen na ontvangst van het advies van de Nationale Arbeidsraad;"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "3. en, indien dit advies op dat moment nog niet beschikbaar zou zijn, de bespreking ten minste uit te stellen tot de eerste plenaire vergadering na het verstrijken van de termijn van dertig dagen, te weten donderdag 2 april.\""
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "J'ai reçu une motion de M. Pierre-Yves Dermagne libellée comme suit:"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "\"En ce qui concerne le titre 3 de l'avant-projet de loi-programme, le premier ministre a demandé, le 1 er mars 2026, un avis au Conseil national du travail dans un délai de trente jours. Il ressort de la lettre du Conseil national du travail que ce délai n'est pas encore expiré et que les travaux du Conseil sont toujours en cours. Le Conseil demande expressément que ce délai d'avis soit respecté et que le vote soit reporté."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Le Parlement peut difficilement délibérer de manière sérieuse et soigneuse sur des dispositions au sujet desquelles un organe consultatif essentiel doit encore rendre son avis dans le délai qui lui a été accordé. La poursuite de la discussion et du vote sans cet avis méconnaît l'importance de la concertation sociale et d'un processus législatif soigneux."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "C'est pourquoi le soussigné propose:"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "1. d'appliquer l'article 17, n° 3, afin de retirer de l'ordre du jour de la présente séance plénière la discussion et le vote du projet de loi-programme;"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "2. de ne réinscrire ce point à l'ordre du jour qu'une fois l'avis du Conseil national du travail reçu;"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "3. et à tout le moins, si cet avis ne devait pas encore être disponible à ce moment-là, de reporter l'examen à la première séance plénière suivant l'expiration du délai de trente jours, à savoir le jeudi 2 avril.\""
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Er wordt dus een wijziging van de agenda gevraagd. Aangezien er vandaag slechts één punt op de agenda staat, betekent dat we bij instemming met de wijziging in een zwart gat vallen. Het punt kan opnieuw op de agenda worden geplaatst wanneer het advies van de Nationale Arbeidsraad beschikbaar is, tenware dat advies niet wordt bezorgd tegen 1 april. In dat geval gebeurt de heragendering tijdens de eerste plenaire vergadering na het verstrijken van de termijn van 30 dagen."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Gaat iedereen akkoord met de wijziging van de agenda? (Instemming)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Êtes-vous tous d'accord avec la modification de l'ordre du jour? (Assentiment)"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De Kamer neemt de motie aan."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "La Chambre adopte la motion."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Ik dank u voor uw boeiende bijdragen."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De vergadering wordt gesloten. Volgende vergadering donderdag 26 maart 2026 om 14.15 uur."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "La séance est levée. Prochaine séance le jeudi 26 mars 2026 à 14 h 15."
+    },
+    {
+     "type": "note",
+     "lang": "nl",
+     "text": "De vergadering wordt gesloten om 09.19 uur."
+    },
+    {
+     "type": "note",
+     "lang": "fr",
+     "text": "La séance est levée à 09 h 19."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "De bijlage is opgenomen in een aparte brochure met nummer CRIV 56 PLEN 103 bijlage."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "L'annexe est reprise dans une brochure séparée, portant le numéro CRIV 56 PLEN 103 annexe."
+    }
+   ]
+  }
+ ],
+ "named_votes": {}
+}

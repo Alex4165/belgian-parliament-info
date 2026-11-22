@@ -1,0 +1,2315 @@
+{
+ "doc": "1480",
+ "docs": [
+  "1480",
+  "1481"
+ ],
+ "legislature": 56,
+ "title": {
+  "nl": "Projet de révision de l'article 195 de la Constitution (1480/1-6)",
+  "fr": null,
+  "subtitles": {
+   "nl": [],
+   "fr": [
+    "Projet de loi spéciale modifiant la loi ordinaire du 9 août 1980 de réformes institutionnelles (1481/1-6)"
+   ]
+  }
+ },
+ "sessions": [
+  {
+   "session": 132,
+   "date": "2026-07-02",
+   "part": "afternoon",
+   "url": "https://www.dekamer.be/doc/PCRI/html/56/ip132x.html"
+  },
+  {
+   "session": 133,
+   "date": "2026-07-02",
+   "part": "evening",
+   "url": "https://www.dekamer.be/doc/PCRI/html/56/ip133x.html"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Kristien Van Vaerenbergh",
+   "party": "N-VA",
+   "role": null,
+   "refs": [
+    "132/17.01"
+   ]
+  },
+  {
+   "name": "Barbara Pas",
+   "party": "VB",
+   "role": null,
+   "refs": [
+    "132/17.02",
+    "132/17.03",
+    "132/17.12",
+    "132/17.14",
+    "132/17.16",
+    "132/17.30"
+   ]
+  },
+  {
+   "name": "Victoria Vandeberg",
+   "party": "MR",
+   "role": null,
+   "refs": [
+    "132/17.04"
+   ]
+  },
+  {
+   "name": "Pierre-Yves Dermagne",
+   "party": "PS",
+   "role": null,
+   "refs": [
+    "132/17.05",
+    "132/17.31"
+   ]
+  },
+  {
+   "name": "Julien Ribaudo",
+   "party": "PVDA-PTB",
+   "role": null,
+   "refs": [
+    "132/17.06"
+   ]
+  },
+  {
+   "name": "Aurore Tourneur",
+   "party": "Les Engagés",
+   "role": null,
+   "refs": [
+    "132/17.07"
+   ]
+  },
+  {
+   "name": "Axel Weydts",
+   "party": "Vooruit",
+   "role": null,
+   "refs": [
+    "132/17.08"
+   ]
+  },
+  {
+   "name": "Franky Demon",
+   "party": "cd&v",
+   "role": null,
+   "refs": [
+    "132/17.09",
+    "132/17.34"
+   ]
+  },
+  {
+   "name": "Claire Hugon Lecharlier",
+   "party": "Ecolo-Groen",
+   "role": null,
+   "refs": [
+    "132/17.10"
+   ]
+  },
+  {
+   "name": "Steven Coenegrachts",
+   "party": "Anders.",
+   "role": null,
+   "refs": [
+    "132/17.11",
+    "132/17.13",
+    "132/17.15",
+    "132/17.19"
+   ]
+  },
+  {
+   "name": "François De Smet",
+   "party": "DéFI",
+   "role": null,
+   "refs": [
+    "132/17.17",
+    "132/17.35"
+   ]
+  },
+  {
+   "name": "Werner Somers",
+   "party": "VB",
+   "role": null,
+   "refs": [
+    "132/17.18",
+    "132/17.20",
+    "132/17.21",
+    "132/17.27"
+   ]
+  },
+  {
+   "name": "Stefaan Van Hecke",
+   "party": "Ecolo-Groen",
+   "role": null,
+   "refs": [
+    "132/17.22",
+    "132/17.24",
+    "132/17.26",
+    "132/17.28"
+   ]
+  },
+  {
+   "name": "Philippe Courard",
+   "party": "PS",
+   "role": null,
+   "refs": [
+    "132/17.23",
+    "132/17.25",
+    "132/17.32"
+   ]
+  },
+  {
+   "name": "Bart De Wever",
+   "party": null,
+   "role": "government",
+   "refs": [
+    "132/17.29"
+   ]
+  },
+  {
+   "name": "Luc Frank",
+   "party": "Les Engagés",
+   "role": null,
+   "refs": [
+    "132/17.33",
+    "133/17.01"
+   ]
+  }
+ ],
+ "votes": [
+  {
+   "ref": "133/vote 5",
+   "session": 133,
+   "date": "2026-07-02",
+   "subject": "Stemming over amendement nr. 26 van Werner Somers cs op het enige artikel. ( 1480/6)",
+   "item_title": "Aangehouden amendementen en enige artikel van het ontwerp tot herziening van artikel 195 van de Grondwet (1480/1-6)",
+   "result": {
+    "nl": "Bijgevolg is het amendement verworpen.",
+    "fr": "En conséquence, l'amendement est rejeté."
+   },
+   "yes": 17,
+   "no": 120,
+   "abstain": 0,
+   "total": 137,
+   "reused": false,
+   "docs": [
+    "1480"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 8,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 7,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 15,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 17,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 23,
+     "abstain": 0
+    },
+    "ONAFH": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 14,
+     "abstain": 0
+    },
+    "PVDA-PTB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 10,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "voor",
+     "yes": 17,
+     "no": 0,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 12,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    }
+   },
+   "kind": "amendment",
+   "final": false
+  },
+  {
+   "ref": "133/vote 5",
+   "session": 133,
+   "date": "2026-07-02",
+   "subject": "Stemming over amendement nr. 15 van Barbara Pas cs op het enige artikel. ( 1480/6)",
+   "item_title": "Aangehouden amendementen en enige artikel van het ontwerp tot herziening van artikel 195 van de Grondwet (1480/1-6)",
+   "result": {
+    "nl": "Bijgevolg is het amendement verworpen.",
+    "fr": "En conséquence, l'amendement est rejeté."
+   },
+   "yes": 17,
+   "no": 120,
+   "abstain": 0,
+   "total": 137,
+   "reused": true,
+   "docs": [
+    "1480"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 8,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 7,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 15,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 17,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 23,
+     "abstain": 0
+    },
+    "ONAFH": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 14,
+     "abstain": 0
+    },
+    "PVDA-PTB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 10,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "voor",
+     "yes": 17,
+     "no": 0,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 12,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    }
+   },
+   "kind": "amendment",
+   "final": false
+  },
+  {
+   "ref": "133/vote 5",
+   "session": 133,
+   "date": "2026-07-02",
+   "subject": "Stemming over amendement nr. 16 van Barbara Pas cs op het enige artikel. ( 1480/6)",
+   "item_title": "Aangehouden amendementen en enige artikel van het ontwerp tot herziening van artikel 195 van de Grondwet (1480/1-6)",
+   "result": {
+    "nl": "Bijgevolg is het amendement verworpen.",
+    "fr": "En conséquence, l'amendement est rejeté."
+   },
+   "yes": 17,
+   "no": 120,
+   "abstain": 0,
+   "total": 137,
+   "reused": true,
+   "docs": [
+    "1480"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 8,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 7,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 15,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 17,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 23,
+     "abstain": 0
+    },
+    "ONAFH": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 14,
+     "abstain": 0
+    },
+    "PVDA-PTB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 10,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "voor",
+     "yes": 17,
+     "no": 0,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 12,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    }
+   },
+   "kind": "amendment",
+   "final": false
+  },
+  {
+   "ref": "133/vote 5",
+   "session": 133,
+   "date": "2026-07-02",
+   "subject": "Stemming over amendement nr. 17 van Barbara Pas cs op het enige artikel. ( 1480/6)",
+   "item_title": "Aangehouden amendementen en enige artikel van het ontwerp tot herziening van artikel 195 van de Grondwet (1480/1-6)",
+   "result": {
+    "nl": "Bijgevolg is het amendement verworpen.",
+    "fr": "En conséquence, l'amendement est rejeté."
+   },
+   "yes": 17,
+   "no": 120,
+   "abstain": 0,
+   "total": 137,
+   "reused": true,
+   "docs": [
+    "1480"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 8,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 7,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 15,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 17,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 23,
+     "abstain": 0
+    },
+    "ONAFH": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 14,
+     "abstain": 0
+    },
+    "PVDA-PTB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 10,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "voor",
+     "yes": 17,
+     "no": 0,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 12,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    }
+   },
+   "kind": "amendment",
+   "final": false
+  },
+  {
+   "ref": "133/vote 5",
+   "session": 133,
+   "date": "2026-07-02",
+   "subject": "Stemming over amendement nr. 18 van Barbara Pas cs op het enige artikel. ( 1480/6)",
+   "item_title": "Aangehouden amendementen en enige artikel van het ontwerp tot herziening van artikel 195 van de Grondwet (1480/1-6)",
+   "result": {
+    "nl": "Bijgevolg is het amendement verworpen.",
+    "fr": "En conséquence, l'amendement est rejeté."
+   },
+   "yes": 17,
+   "no": 120,
+   "abstain": 0,
+   "total": 137,
+   "reused": true,
+   "docs": [
+    "1480"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 8,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 7,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 15,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 17,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 23,
+     "abstain": 0
+    },
+    "ONAFH": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 14,
+     "abstain": 0
+    },
+    "PVDA-PTB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 10,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "voor",
+     "yes": 17,
+     "no": 0,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 12,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    }
+   },
+   "kind": "amendment",
+   "final": false
+  },
+  {
+   "ref": "133/vote 5",
+   "session": 133,
+   "date": "2026-07-02",
+   "subject": "Stemming over amendement nr. 19 van Barbara Pas cs op het enige artikel. ( 1480/6)",
+   "item_title": "Aangehouden amendementen en enige artikel van het ontwerp tot herziening van artikel 195 van de Grondwet (1480/1-6)",
+   "result": {
+    "nl": "Bijgevolg is het amendement verworpen.",
+    "fr": "En conséquence, l'amendement est rejeté."
+   },
+   "yes": 17,
+   "no": 120,
+   "abstain": 0,
+   "total": 137,
+   "reused": true,
+   "docs": [
+    "1480"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 8,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 7,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 15,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 17,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 23,
+     "abstain": 0
+    },
+    "ONAFH": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 14,
+     "abstain": 0
+    },
+    "PVDA-PTB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 10,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "voor",
+     "yes": 17,
+     "no": 0,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 12,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    }
+   },
+   "kind": "amendment",
+   "final": false
+  },
+  {
+   "ref": "133/vote 5",
+   "session": 133,
+   "date": "2026-07-02",
+   "subject": "Stemming over amendement nr. 20 van Barbara Pas cs op het enige artikel. ( 1480/6)",
+   "item_title": "Aangehouden amendementen en enige artikel van het ontwerp tot herziening van artikel 195 van de Grondwet (1480/1-6)",
+   "result": {
+    "nl": "Bijgevolg is het amendement verworpen.",
+    "fr": "En conséquence, l'amendement est rejeté."
+   },
+   "yes": 17,
+   "no": 120,
+   "abstain": 0,
+   "total": 137,
+   "reused": true,
+   "docs": [
+    "1480"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 8,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 7,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 15,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 17,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 23,
+     "abstain": 0
+    },
+    "ONAFH": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 14,
+     "abstain": 0
+    },
+    "PVDA-PTB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 10,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "voor",
+     "yes": 17,
+     "no": 0,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 12,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    }
+   },
+   "kind": "amendment",
+   "final": false
+  },
+  {
+   "ref": "133/vote 5",
+   "session": 133,
+   "date": "2026-07-02",
+   "subject": "Stemming over amendement nr. 21 van Barbara Pas cs op het enige artikel. ( 1480/6)",
+   "item_title": "Aangehouden amendementen en enige artikel van het ontwerp tot herziening van artikel 195 van de Grondwet (1480/1-6)",
+   "result": {
+    "nl": "Bijgevolg is het amendement verworpen.",
+    "fr": "En conséquence, l'amendement est rejeté."
+   },
+   "yes": 17,
+   "no": 120,
+   "abstain": 0,
+   "total": 137,
+   "reused": true,
+   "docs": [
+    "1480"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 8,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 7,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 15,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 17,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 23,
+     "abstain": 0
+    },
+    "ONAFH": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 14,
+     "abstain": 0
+    },
+    "PVDA-PTB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 10,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "voor",
+     "yes": 17,
+     "no": 0,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 12,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    }
+   },
+   "kind": "amendment",
+   "final": false
+  },
+  {
+   "ref": "133/vote 5",
+   "session": 133,
+   "date": "2026-07-02",
+   "subject": "Stemming over amendement nr. 22 van Barbara Pas cs op het enige artikel. ( 1480/6)",
+   "item_title": "Aangehouden amendementen en enige artikel van het ontwerp tot herziening van artikel 195 van de Grondwet (1480/1-6)",
+   "result": {
+    "nl": "Bijgevolg is het amendement verworpen.",
+    "fr": "En conséquence, l'amendement est rejeté."
+   },
+   "yes": 17,
+   "no": 120,
+   "abstain": 0,
+   "total": 137,
+   "reused": true,
+   "docs": [
+    "1480"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 8,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 7,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 15,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 17,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 23,
+     "abstain": 0
+    },
+    "ONAFH": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 14,
+     "abstain": 0
+    },
+    "PVDA-PTB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 10,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "voor",
+     "yes": 17,
+     "no": 0,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 12,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    }
+   },
+   "kind": "amendment",
+   "final": false
+  },
+  {
+   "ref": "133/vote 5",
+   "session": 133,
+   "date": "2026-07-02",
+   "subject": "Stemming over amendement nr. 23 van Barbara Pas cs op het enige artikel. ( 1480/6)",
+   "item_title": "Aangehouden amendementen en enige artikel van het ontwerp tot herziening van artikel 195 van de Grondwet (1480/1-6)",
+   "result": {
+    "nl": "Bijgevolg is het amendement verworpen.",
+    "fr": "En conséquence, l'amendement est rejeté."
+   },
+   "yes": 17,
+   "no": 120,
+   "abstain": 0,
+   "total": 137,
+   "reused": true,
+   "docs": [
+    "1480"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 8,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 7,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 15,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 17,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 23,
+     "abstain": 0
+    },
+    "ONAFH": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 14,
+     "abstain": 0
+    },
+    "PVDA-PTB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 10,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "voor",
+     "yes": 17,
+     "no": 0,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 12,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    }
+   },
+   "kind": "amendment",
+   "final": false
+  },
+  {
+   "ref": "133/vote 5",
+   "session": 133,
+   "date": "2026-07-02",
+   "subject": "Stemming over amendement nr. 24 van Barbara Pas cs op het enige artikel. ( 1480/6)",
+   "item_title": "Aangehouden amendementen en enige artikel van het ontwerp tot herziening van artikel 195 van de Grondwet (1480/1-6)",
+   "result": {
+    "nl": "Bijgevolg is het amendement verworpen.",
+    "fr": "En conséquence, l'amendement est rejeté."
+   },
+   "yes": 17,
+   "no": 120,
+   "abstain": 0,
+   "total": 137,
+   "reused": true,
+   "docs": [
+    "1480"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 8,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 7,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 15,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 17,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 23,
+     "abstain": 0
+    },
+    "ONAFH": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 14,
+     "abstain": 0
+    },
+    "PVDA-PTB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 10,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "voor",
+     "yes": 17,
+     "no": 0,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 12,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    }
+   },
+   "kind": "amendment",
+   "final": false
+  },
+  {
+   "ref": "133/vote 5",
+   "session": 133,
+   "date": "2026-07-02",
+   "subject": "Stemming over amendement nr. 25 van Barbara Pas cs op het enige artikel. ( 1480/6)",
+   "item_title": "Aangehouden amendementen en enige artikel van het ontwerp tot herziening van artikel 195 van de Grondwet (1480/1-6)",
+   "result": {
+    "nl": "Bijgevolg is het amendement verworpen.",
+    "fr": "En conséquence, l'amendement est rejeté."
+   },
+   "yes": 17,
+   "no": 120,
+   "abstain": 0,
+   "total": 137,
+   "reused": true,
+   "docs": [
+    "1480"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 8,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 7,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 15,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 17,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 23,
+     "abstain": 0
+    },
+    "ONAFH": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 14,
+     "abstain": 0
+    },
+    "PVDA-PTB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 10,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "voor",
+     "yes": 17,
+     "no": 0,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 12,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    }
+   },
+   "kind": "amendment",
+   "final": false
+  },
+  {
+   "ref": "133/vote 6",
+   "session": 133,
+   "date": "2026-07-02",
+   "subject": "Stemming over amendement nr. 27 van Julien Ribaudo op het enige artikel. ( 1480/6)",
+   "item_title": "Aangehouden amendementen en enige artikel van het ontwerp tot herziening van artikel 195 van de Grondwet (1480/1-6)",
+   "result": {
+    "nl": "Bijgevolg is het amendement verworpen en is het enige artikel aangenomen.",
+    "fr": "En conséquence, l'amendement est rejeté et l'article unique est adopté."
+   },
+   "yes": 10,
+   "no": 126,
+   "abstain": 0,
+   "total": 136,
+   "reused": false,
+   "docs": [
+    "1480"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 8,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 7,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 15,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 16,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 23,
+     "abstain": 0
+    },
+    "ONAFH": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 14,
+     "abstain": 0
+    },
+    "PVDA-PTB": {
+     "stance": "voor",
+     "yes": 10,
+     "no": 0,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 17,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 12,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    }
+   },
+   "kind": "amendment",
+   "final": false
+  },
+  {
+   "ref": "133/vote 7",
+   "session": 133,
+   "date": "2026-07-02",
+   "subject": null,
+   "item_title": "Geheel van het ontwerp tot herziening van artikel 195 van de Grondwet (1480/1)",
+   "result": {
+    "nl": "Het quorum van de aanwezigen is bereikt. De tweederdemeerderheid is bereikt. Bijgevolg neemt de Kamer het ontwerp tot herziening van artikel 195 van de Grondwet aan. Het zal aan de Koning ter bekrachtiging worden voorgelegd. (1480/7)",
+    "fr": "Le quorum des présences est atteint. La majorité des deux tiers est atteinte. En conséquence, la Chambre adopte le projet de révision de l'article 195 de la Constitution. Il sera soumis à la sanction royale. (1480/7)"
+   },
+   "yes": 110,
+   "no": 16,
+   "abstain": 11,
+   "total": 137,
+   "reused": false,
+   "docs": [
+    "1480"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "voor",
+     "yes": 1,
+     "no": 0,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "voor",
+     "yes": 8,
+     "no": 0,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "verdeeld",
+     "yes": 6,
+     "no": 1,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "verdeeld",
+     "yes": 14,
+     "no": 0,
+     "abstain": 1
+    },
+    "MR": {
+     "stance": "voor",
+     "yes": 17,
+     "no": 0,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "voor",
+     "yes": 23,
+     "no": 0,
+     "abstain": 0
+    },
+    "ONAFH": {
+     "stance": "voor",
+     "yes": 1,
+     "no": 0,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 14,
+     "abstain": 0
+    },
+    "PVDA-PTB": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 10
+    },
+    "VB": {
+     "stance": "voor",
+     "yes": 17,
+     "no": 0,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "voor",
+     "yes": 12,
+     "no": 0,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "voor",
+     "yes": 11,
+     "no": 0,
+     "abstain": 0
+    }
+   },
+   "kind": "whole",
+   "final": true
+  },
+  {
+   "ref": "133/vote 8",
+   "session": 133,
+   "date": "2026-07-02",
+   "subject": "Stemming over amendement nr. 4 van Barbara Pas cs op artikel 2. (1481/6)",
+   "item_title": "Aangehouden amendementen en artikelen van het ontwerp van bijzondere wet tot wijziging van de gewone wet van 9 augustus 1980 tot hervorming der instellingen (1481/1-6)",
+   "result": {
+    "nl": "De meerderheid van de stemmen in elke taalgroep is niet bereikt. De meerderheid van de aanwezigen in elke taalgroep is bereikt. De tweederdemeerderheid is niet bereikt.",
+    "fr": "La majorité des suffrages de chaque groupe n'est pas atteinte. Le quorum des présences dans chaque groupe linguistique est atteint. La majorité des deux tiers des suffrages n'est pas atteinte."
+   },
+   "yes": 17,
+   "no": 119,
+   "abstain": 0,
+   "total": 136,
+   "reused": false,
+   "docs": [
+    "1481"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 8,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 7,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 15,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 17,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 23,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 14,
+     "abstain": 0
+    },
+    "PVDA-PTB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 10,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "voor",
+     "yes": 17,
+     "no": 0,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 12,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    }
+   },
+   "kind": "amendment",
+   "final": false
+  },
+  {
+   "ref": "133/vote 8",
+   "session": 133,
+   "date": "2026-07-02",
+   "subject": "Stemming over amendement nr. 6 van Barbara Pas cs op artikel 2. (1481/6)",
+   "item_title": "Aangehouden amendementen en artikelen van het ontwerp van bijzondere wet tot wijziging van de gewone wet van 9 augustus 1980 tot hervorming der instellingen (1481/1-6)",
+   "result": {
+    "nl": "Bijgevolg is het amendement verworpen en is artikel 2 aangenomen.",
+    "fr": "En conséquence, l'amendement est rejeté et l'article 2 est adopté."
+   },
+   "yes": 17,
+   "no": 119,
+   "abstain": 0,
+   "total": 136,
+   "reused": true,
+   "docs": [
+    "1481"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 8,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 7,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 15,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 17,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 23,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 14,
+     "abstain": 0
+    },
+    "PVDA-PTB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 10,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "voor",
+     "yes": 17,
+     "no": 0,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 12,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    }
+   },
+   "kind": "amendment",
+   "final": false
+  },
+  {
+   "ref": "133/vote 8",
+   "session": 133,
+   "date": "2026-07-02",
+   "subject": "Stemming over amendement nr. 5 van Barbara Pas cs op artikel 3. (1481/6)",
+   "item_title": "Aangehouden amendementen en artikelen van het ontwerp van bijzondere wet tot wijziging van de gewone wet van 9 augustus 1980 tot hervorming der instellingen (1481/1-6)",
+   "result": {
+    "nl": "Bijgevolg is het amendement verworpen en is artikel 3 aangenomen.",
+    "fr": "En conséquence, l'amendement est rejeté et l'article 3 est adopté."
+   },
+   "yes": 17,
+   "no": 119,
+   "abstain": 0,
+   "total": 136,
+   "reused": true,
+   "docs": [
+    "1481"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 8,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 7,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 15,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 17,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 23,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 14,
+     "abstain": 0
+    },
+    "PVDA-PTB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 10,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "voor",
+     "yes": 17,
+     "no": 0,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 12,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    }
+   },
+   "kind": "amendment",
+   "final": false
+  },
+  {
+   "ref": "133/vote 9",
+   "session": 133,
+   "date": "2026-07-02",
+   "subject": null,
+   "item_title": "Geheel van het ontwerp van bijzondere wet tot wijziging van de gewone wet van 9 augustus 1980 tot hervorming der instellingen (1481/1)",
+   "result": {
+    "nl": "De meerderheid van de stemmen in elke taalgroep is bereikt. De meerderheid van de aanwezigen in elke taalgroep is bereikt. De tweederdemeerderheid is bereikt. Bijgevolg neemt de Kamer het ontwerp van bijzondere wet aan. Het zal aan de Koning ter bekrachtiging worden voorgelegd. (1481/7)",
+    "fr": "Le quorum des suffrages dans chaque groupe est atteint. Le quorum des présences dans chaque groupe linguistique est atteint. La majorité des deux tiers des suffrages est atteinte. En conséquence, la Chambre adopte le projet de loi spéciale. Il sera soumis à la sanction royale. (1481/7)"
+   },
+   "yes": 105,
+   "no": 15,
+   "abstain": 17,
+   "total": 137,
+   "reused": false,
+   "docs": [
+    "1481"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "voor",
+     "yes": 1,
+     "no": 0,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "voor",
+     "yes": 8,
+     "no": 0,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 7
+    },
+    "Les Engagés": {
+     "stance": "voor",
+     "yes": 15,
+     "no": 0,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "voor",
+     "yes": 17,
+     "no": 0,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "voor",
+     "yes": 23,
+     "no": 0,
+     "abstain": 0
+    },
+    "ONAFH": {
+     "stance": "voor",
+     "yes": 1,
+     "no": 0,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 14,
+     "abstain": 0
+    },
+    "PVDA-PTB": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 10
+    },
+    "VB": {
+     "stance": "voor",
+     "yes": 17,
+     "no": 0,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "voor",
+     "yes": 12,
+     "no": 0,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "voor",
+     "yes": 11,
+     "no": 0,
+     "abstain": 0
+    }
+   },
+   "kind": "whole",
+   "final": true
+  }
+ ],
+ "summary": {
+  "plain_title": "Grondwet aanpassen om de afschaffing van de Senaat mogelijk te maken en hervorming van het Overlegcomité",
+  "problem": "De regering wil de Senaat afschaffen. Volgens de indieners heeft de Senaat sinds de zesde staatshervorming bijna geen bevoegdheden meer, kost hij veel geld en is hij voor burgers onduidelijk. Vijf artikels van de Grondwet die over de Senaat gaan, mogen in deze legislatuur niet worden gewijzigd, want ze stonden niet op de lijst die vóór de verkiezingen werd opgesteld. Zonder aanpassing zouden er na een afschaffing nog verwijzingen naar de Senaat in de Grondwet blijven staan.",
+  "proposal": [
+   "In artikel 195 van de Grondwet komt een tijdelijke regel (een overgangsbepaling). Daardoor mogen de vijf ontbrekende artikels (36, 74, 100, 143 en 198) in deze legislatuur toch worden gewijzigd.",
+   "De Senaat wordt hiermee nog niet afgeschaft. Volgens de regering zijn dit de derde en vierde van acht stappen.",
+   "Een bijzondere wet verandert de samenstelling van het Overlegcomité. Daarin komen meer vertegenwoordigers van de deelstaten (gewesten en gemeenschappen), met meer plaats voor de gemeenschappen.",
+   "Bij een belangenconflict krijgt het Overlegcomité 60 dagen in plaats van 30 dagen voor overleg. Zo wordt opgevangen dat het advies van de Senaat in die procedure wegvalt."
+  ],
+  "positions": [
+   {
+    "actor": "N-VA",
+    "summary": "N-VA steunt de tekst als een noodzakelijke stap naar de afschaffing van de Senaat, zoals in het regeerakkoord staat. Volgens de partij is de Senaat overbodig en duur, is de gekozen procedure correct en zijn er geen nieuwe hoorzittingen nodig.",
+    "refs": [
+     "132/17.01"
+    ]
+   },
+   {
+    "actor": "VB",
+    "summary": "Vlaams Belang stemt voor en wil de Senaat zelfs meteen afschaffen. De partij waarschuwt wel dat de deelstaten hun inspraak niet mogen verliezen. Ze stelt een grondwetgevende vergadering voor waarin vooral vertegenwoordigers van de deelstaten zitten, en heeft kritiek op de beperkte besparing en op het verlies van een gegarandeerde vertegenwoordiging voor de Duitstaligen.",
+    "refs": [
+     "132/17.02",
+     "132/17.03",
+     "132/17.12",
+     "132/17.14",
+     "132/17.16",
+     "132/17.18",
+     "132/17.20",
+     "132/17.21",
+     "132/17.27",
+     "132/17.30"
+    ]
+   },
+   {
+    "actor": "MR",
+    "summary": "MR steunt de tekst uit trouw aan het regeerakkoord, maar zegt dat de partij waakzaam blijft. Ze eist dat de Duitstalige Gemeenschap een echte stem op federaal niveau houdt. Ze vindt ook dat zo'n hervorming niet mag steunen op de stemmen van extreme partijen.",
+    "refs": [
+     "132/17.04"
+    ]
+   },
+   {
+    "actor": "PS",
+    "summary": "PS stemt tegen. Volgens de partij gaat de hervorming te snel, zonder hoorzittingen, verzwakt ze de democratie en kon ze alleen doorgaan met de stemmen van Vlaams Belang. PS wil de Senaat alleen afschaffen als er een permanente vorm van burgerparticipatie in de plaats komt en als de vertegenwoordiging van de Duitstaligen gegarandeerd is.",
+    "refs": [
+     "132/17.05",
+     "132/17.23",
+     "132/17.25",
+     "132/17.31",
+     "132/17.32"
+    ]
+   },
+   {
+    "actor": "PVDA-PTB",
+    "summary": "PVDA-PTB vindt dat de afschaffing het federale niveau en de tegenmachten verzwakt, en het later makkelijker maakt om de Grondwet te wijzigen. De partij heeft kritiek op de werkwijze zonder hoorzittingen en stelt een federale kieskring voor. Bij de stemming onthield ze zich.",
+    "refs": [
+     "132/17.06"
+    ]
+   },
+   {
+    "actor": "Les Engagés",
+    "summary": "Les Engagés steunt deze stap, omdat er geen steun is om de Senaat grondig te hervormen. Voor de volgende stappen stelt de partij drie voorwaarden: alle bevoegdheden van de Senaat gaan naar de Kamer, de Duitstaligen krijgen een gegarandeerde vertegenwoordiging en de procedure om de Grondwet te wijzigen blijft streng. Luc Frank onthield zich bij de stemming over artikel 195 tot er een oplossing is voor de Duitstaligen.",
+    "refs": [
+     "132/17.07",
+     "132/17.33",
+     "133/17.01"
+    ]
+   },
+   {
+    "actor": "Vooruit",
+    "summary": "Vooruit vindt dat de Senaat geen enkele bestaansreden meer heeft. Volgens de partij moet de politiek ook zelf besparen, en voor Vooruit kan de afschaffing niet snel genoeg gaan.",
+    "refs": [
+     "132/17.08"
+    ]
+   },
+   {
+    "actor": "cd&v",
+    "summary": "cd&v steunt de tekst uit loyaliteit en vindt de procedure correct. De partij eist wel dat er een mechanisme komt waardoor de deelstaten inspraak houden bij grondwetswijzigingen en bij de benoeming van magistraten.",
+    "refs": [
+     "132/17.09",
+     "132/17.34"
+    ]
+   },
+   {
+    "actor": "Ecolo-Groen",
+    "summary": "De fractie was verdeeld. Ecolo steunt de teksten niet: de partij betreurt dat er geen hoorzittingen waren en vindt het gebruik van artikel 195 een gevaarlijk signaal. Volgens Ecolo komt er geen burgerparticipatie in de plaats en blijft het Overlegcomité ondoorzichtig. Groen steunt de wijziging van artikel 195, omdat de partij de Senaat al lang wil afschaffen en de Kamer volgens haar de echte ontmoetingsplaats is.",
+    "refs": [
+     "132/17.10",
+     "132/17.22",
+     "132/17.24",
+     "132/17.26",
+     "132/17.28"
+    ]
+   },
+   {
+    "actor": "Anders.",
+    "summary": "Anders. steunt de afschaffing zonder voorbehoud. Volgens de partij heeft de inspraak van de deelstaten via de Senaat in de praktijk nooit gewerkt, en is er al 25 jaar genoeg over gedebatteerd. Alleen de vertegenwoordiging van de Duitstaligen moet volgens Anders. nog worden opgelost.",
+    "refs": [
+     "132/17.11",
+     "132/17.13",
+     "132/17.15",
+     "132/17.19"
+    ]
+   },
+   {
+    "actor": "DéFI",
+    "summary": "DéFI stemt tegen beide teksten. Volgens de partij omzeilt het gebruik van artikel 195 de wil van de kiezer, verliezen de Duitstaligen hun enige gegarandeerde vertegenwoordiging en verschuift het nieuwe Overlegcomité het land richting confederalisme. DéFI wil de Senaat hervormen in plaats van afschaffen.",
+    "refs": [
+     "132/17.17",
+     "132/17.35"
+    ]
+   },
+   {
+    "actor": "Regering",
+    "summary": "Eerste minister De Wever vindt de Senaat een overbodige instelling. Volgens hem zou de politiek zonder afschaffing geen geloofwaardigheid hebben om te besparen. Hij belooft dat er vóór de volgende stap oplossingen komen voor de inspraak van de deelstaten en de vertegenwoordiging van de Duitstaligen, en ontkent dat hij rekent op steun van extreme partijen.",
+    "refs": [
+     "132/17.29"
+    ]
+   }
+  ],
+  "arguments_for": [
+   {
+    "point": "De Senaat heeft na de vorige staatshervormingen bijna geen bevoegdheden of eigen opdracht meer en voegt weinig toe.",
+    "actors": [
+     "N-VA",
+     "VB",
+     "Vooruit",
+     "Ecolo-Groen",
+     "Anders.",
+     "Les Engagés",
+     "Regering"
+    ],
+    "refs": [
+     "132/17.01",
+     "132/17.02",
+     "132/17.08",
+     "132/17.22",
+     "132/17.11",
+     "132/17.07",
+     "132/17.29"
+    ],
+    "quote": "Zoals ik ook in de commissie benadrukte, is de Senaat vandaag nog slechts een schim van wat hij ooit was.",
+    "quote_ref": "132/17.01"
+   },
+   {
+    "point": "Als iedereen moet besparen, moet de politiek het goede voorbeeld geven. De Senaat kost veel geld.",
+    "actors": [
+     "Vooruit",
+     "cd&v",
+     "VB",
+     "N-VA",
+     "Regering"
+    ],
+    "refs": [
+     "132/17.08",
+     "132/17.09",
+     "132/17.18",
+     "132/17.01",
+     "132/17.29"
+    ],
+    "quote": "In tijden dat we van iedereen in ons land inspanningen vragen, moeten we ook inspanningen leveren op het niveau van de politiek.",
+    "quote_ref": "132/17.08"
+   },
+   {
+    "point": "Het gebruik van artikel 195 is correct. Het werd al gebruikt bij de zesde staatshervorming, de Commissie van Venetië aanvaardde het, en de vorige legislatuur wilde al artikels openstellen om de Senaat af te schaffen.",
+    "actors": [
+     "N-VA",
+     "cd&v",
+     "Les Engagés",
+     "Ecolo-Groen",
+     "VB"
+    ],
+    "refs": [
+     "132/17.01",
+     "132/17.09",
+     "132/17.07",
+     "132/17.22",
+     "132/17.18"
+    ],
+    "quote": "Ik wil herhalen dat die werkwijze niet strijdig is met de Grondwet en evenmin met het internationaal recht.",
+    "quote_ref": "132/17.09"
+   },
+   {
+    "point": "De ontmoeting tussen de gemeenschappen gebeurt al in de Kamer, en het overleg tussen de regeringen verloopt via het Overlegcomité.",
+    "actors": [
+     "Vooruit",
+     "Ecolo-Groen",
+     "N-VA",
+     "Les Engagés"
+    ],
+    "refs": [
+     "132/17.08",
+     "132/17.22",
+     "132/17.01",
+     "132/17.07"
+    ],
+    "quote": "Dit is de ontmoetingsplek, collega's, of we het nu graag horen of niet.",
+    "quote_ref": "132/17.22"
+   },
+   {
+    "point": "Er is al tientallen jaren over de afschaffing van de Senaat gedebatteerd, dus nieuwe hoorzittingen zijn niet nodig. Bovendien kan de tweede lezing in de Kamer de kwaliteit van de wetten bewaken.",
+    "actors": [
+     "Anders.",
+     "N-VA",
+     "Ecolo-Groen",
+     "Regering"
+    ],
+    "refs": [
+     "132/17.11",
+     "132/17.01",
+     "132/17.22",
+     "132/17.29"
+    ],
+    "quote": "Het is dus echt wel voldoende uitgedebatteerd.",
+    "quote_ref": "132/17.11"
+   },
+   {
+    "point": "Het nieuwe Overlegcomité geeft de deelstaten een evenwichtigere vertegenwoordiging. Omdat het blijft beslissen bij consensus, houdt elk niveau een vetorecht.",
+    "actors": [
+     "Les Engagés"
+    ],
+    "refs": [
+     "132/17.07"
+    ],
+    "quote": "Parce que le Codeco continue de décider par consensus.",
+    "quote_ref": "132/17.07"
+   }
+  ],
+  "arguments_against": [
+   {
+    "point": "De hervorming gebeurt te snel en zonder hoorzittingen met experten, het middenveld of de Duitstalige Gemeenschap, terwijl zij daar wel om vroegen.",
+    "actors": [
+     "PS",
+     "PVDA-PTB",
+     "Ecolo-Groen"
+    ],
+    "refs": [
+     "132/17.05",
+     "132/17.06",
+     "132/17.10"
+    ],
+    "quote": "Dans aucune démocratie digne de ce nom, on ne procéderait à une telle réforme en deux simples réunions de commission.",
+    "quote_ref": "132/17.05"
+   },
+   {
+    "point": "Met artikel 195 worden artikels gewijzigd die vóór de verkiezingen niet voor herziening waren opengesteld. Volgens de tegenstanders omzeilt dat de kiezer en schept het een gevaarlijk precedent voor latere wijzigingen van de Grondwet.",
+    "actors": [
+     "DéFI",
+     "Ecolo-Groen"
+    ],
+    "refs": [
+     "132/17.17",
+     "132/17.10"
+    ],
+    "quote": "Ce mécanisme crée un précédent très dangereux.",
+    "quote_ref": "132/17.17"
+   },
+   {
+    "point": "Zonder Senaat verdwijnt de enige gegarandeerde vertegenwoordiging van de Duitstalige Gemeenschap in het federale parlement, en er ligt nog geen oplossing klaar.",
+    "actors": [
+     "DéFI",
+     "PS",
+     "Ecolo-Groen",
+     "PVDA-PTB",
+     "MR",
+     "Les Engagés",
+     "VB"
+    ],
+    "refs": [
+     "132/17.17",
+     "132/17.05",
+     "132/17.10",
+     "132/17.06",
+     "132/17.04",
+     "132/17.33",
+     "132/17.02"
+    ],
+    "quote": "Le sénateur germanophone constitue l'unique représentation garantie de cette minorité au niveau du Parlement fédéral.",
+    "quote_ref": "132/17.17"
+   },
+   {
+    "point": "De deelstaten verliezen hun inspraak bij grondwetswijzigingen, bij de benoeming van hoge magistraten en in de internationale vertegenwoordiging, als daar niets in de plaats komt.",
+    "actors": [
+     "VB",
+     "cd&v",
+     "PS"
+    ],
+    "refs": [
+     "132/17.18",
+     "132/17.09",
+     "132/17.23"
+    ],
+    "quote": "De Senaat mag niet botweg worden afgeschaft.",
+    "quote_ref": "132/17.18"
+   },
+   {
+    "point": "De afschaffing verzwakt de democratie en de tegenmachten, en er komt geen nieuwe vorm van burgerparticipatie in de plaats. Volgens PS kon de hervorming bovendien alleen doorgaan met de stemmen van Vlaams Belang.",
+    "actors": [
+     "PS",
+     "PVDA-PTB",
+     "Ecolo-Groen"
+    ],
+    "refs": [
+     "132/17.05",
+     "132/17.06",
+     "132/17.10"
+    ],
+    "quote": "Et donc, oui à une simplification du paysage politique, mais non à un affaiblissement de la démocratie purement et simplement!",
+    "quote_ref": "132/17.05"
+   },
+   {
+    "point": "In het nieuwe Overlegcomité krijgen de deelstaten meer gewicht dan de federale overheid. Volgens de tegenstanders schuift het land zo op naar confederalisme, en blijft het comité ondoorzichtig.",
+    "actors": [
+     "DéFI",
+     "Ecolo-Groen"
+    ],
+    "refs": [
+     "132/17.17",
+     "132/17.10"
+    ],
+    "quote": "Elles auront désormais plus de poids que le fédéral, c'est arithmétique",
+    "quote_ref": "132/17.17"
+   }
+  ]
+ },
+ "checks": [],
+ "meta": {
+  "generator": "claude-cli",
+  "prompt_version": "1",
+  "generated_at": "2026-11-22T21:56:00+00:00"
+ },
+ "repairs": []
+}

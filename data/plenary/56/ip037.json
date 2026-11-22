@@ -1,0 +1,2961 @@
+{
+ "source": {
+  "type": "plenary",
+  "legislature": 56,
+  "session": 37,
+  "url": "https://www.dekamer.be/doc/PCRI/html/56/ip037x.html",
+  "date": "2025-03-27",
+  "part": "evening",
+  "provisional": false
+ },
+ "items": [
+  {
+   "number": "01",
+   "section": {
+    "nl": "Wetsvoorstel",
+    "fr": "Proposition de loi"
+   },
+   "title": {
+    "nl": "Wetsvoorstel betreffende het tijdelijke uitstel van de registratie in de Federal Learning Account (784/1-8)",
+    "fr": "Proposition de loi en vue du report temporaire de l'enregistrement dans le Federal Learning Account (784/1-8)"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [
+    "784"
+   ],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Voorstel ingediend door:"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Proposition déposée par:"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Florence Reuter, Axel Ronse, Isabelle Hansez, Anja Vanrobaeys, Nathalie Muylle."
+    },
+    {
+     "type": "heading",
+     "level": 3,
+     "nl": "Algemene bespreking",
+     "fr": "Discussion générale"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De algemene bespreking is geopend."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "La discussion générale est ouverte."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De rapporteurs, de dames Thémont et Meunier, verwijzen naar het schriftelijk verslag."
+    },
+    {
+     "type": "speech",
+     "id": "01.01",
+     "name": "Florence Reuter",
+     "party": "MR",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le président, je serai très brève car je pense avoir répété à de nombreuses reprises l'intérêt de voter ce report. En effet, je pourrais m'en référer à mon intervention lors du dernier report du Federal Learning Account (FLA), ce qui ne remet absolument pas en cause l'obligation de formation. Je pourrais donc m'en référer à ma dernière intervention sauf, qu'à l'époque, il n'y avait pas de gouvernement. Or, maintenant, il y a un gouvernement et un accord de gouvernement qui prévoit de revenir à un système d'enregistrement des formations mais beaucoup plus efficace et surtout beaucoup moins lourd pour les entreprises.",
+      "Si on ne fait rien aujourd'hui, les entreprises seront contraintes d'utiliser ce FLA dès le 1 er avril 2025, soit demain. Je pense qu'il faut être pragmatique et concret, penser à nouveau aux entreprises sur le terrain et donner la possibilité au gouvernement de travailler consciencieusement sur un système efficace et surtout beaucoup moins lourd administrativement. Voilà pourquoi on demande une fois de plus le report: pour répondre à l'accord de gouvernement et laisser le ministre travailler."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "01.02",
+     "name": "Kurt Moons",
+     "party": "VB",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer Ronse, u moet niet gaan lopen, want het zal vaak over u gaan.",
+      "Mijnheer de voorzitter, collega's, hier sta ik weer, precies vier maanden na mijn eerste uiteenzetting op dit spreekgestoelte op 27 november. Sommigen onder u zullen nog lang nagenoten hebben van mijn toenmalige ontzettend grote politieke naïviteit. Ik had me immers bij het begin van mijn politieke carrière begoochelingen gemaakt over een met politieke olie gesmeerd lopende commissie voor Sociale Zaken, over de mogelijkheid om collega-parlementsleden met rationele argumenten te overtuigen van bepaalde visies in het belang van de burger en ook over de gezamenlijke wil om eindelijk een voorbeeld van politieke efficiëntie te zijn voor diezelfde kiezer die er niets meer van snapt en zich telkenmale bekocht en onbegrepen voelt.",
+      "Helaas, ik kwam vrij snel ontgoocheld en een tikkeltje gefrustreerd tot de bevestiging van de vele vooroordelen. Ik had me een rad voor de ogen laten draaien en me door gehaaide politieke krokodillen laten vangen. Ter informatie en waarschuwing, zo'n eerder negatieve gemoedstoestand blijft niet lang duren bij mij, maar is in tegendeel de motor om snel en hard maar fair in de tegenaanval te gaan.",
+      "Wat was er toen gebeurd? Ik had voor de eerste keer een aantal amendementen ingediend op het wetsvoorstel van collega Ronse. Collega Ronse, u zult vaak genoemd worden in mijn toespraak. U bent een beetje de held, maar ook de anti-held. Het wetsvoorstel ging over hetzelfde onderwerp dat hier nu ter discussie en ter stemming voorligt, de Federal Learning Account, totaal onbekend bij de meesten van u en dus ook een ver-van-mijn-bedshow. De honderdduizenden bedrijven met werknemers liggen daar echter wel wakker van. Al vele maanden vragen zij zich wachtend en smachtend af wanneer nu eindelijk een beslissing wordt genomen en waar de politici nu in godsnaam mee bezig zijn.",
+      "Omdat er toch verhaaltjes mogen worden verteld –daarnet ging het al over het verkopen van boules de Berlin en dies meer – geef ik mee dat ik vandaag een telefoontje heb gekregen van mijn dochter. Zij werkt in een groot advocatenkantoor en vroeg me of 31 maart 2025 haar deadline was. Ik antwoordde haar dat zij naar de videobeelden moest kijken en dat zij dan zou weten wat er zou gebeuren.",
+      "De Federal Learning Account, afgekort FLA, betreft een nieuwe IT-tool, die in 2023 in het leven werd geroepen ter facilitering van en voor het beheer en de registratie van individuele en sectorale opleidingsrechten en -kredieten voor bedrijven met werknemers. Laat me voor eens en altijd duidelijk zijn. Het gaat hier helemaal niet over de onderliggende opdracht aan de ondernemers om in opleidingen te voorzien voor hun werknemers. Het Vlaams Belang ontkent natuurlijk niet het belang voor zowel werkgevers als werknemers van een permanent en kwalitatief opleidingsbeleid. In een snel evoluerende wereld zijn lerende organisaties immers de voortrekkers en de overlevers. Dat is dus helemaal niet het probleem. Dat voor die opleidingen een nieuwe registratie- en controletool moest worden opgezet en ontwikkeld, was evenwel andere koek. Dat leek een nieuw speeltje voor de overheid, maar was alweer een administratieve nachtmerrie voor de ondernemers.",
+      "De N-VA had na de nationale verkiezingen het licht gezien. Tijdens de ellenlang aanslepende arizonaonderhandelingen wou de partij eindelijk aan de bedrijfsleiders laten zien dat zij hen niet alleen voor de verkiezingen goed had aanhoord, maar dat zij ook na de verkiezingen haar beloftes zou nakomen. Heel stoer verkondigde de heer Ronse – toen nog gewoon parlementslid – aan al wie het wou weten en op alle mogelijke sociale media dat de Federal Learning Account zou worden afgeschaft en begraven. De FLA zou op de schop gaan. Het was finished en over and out . Weg met die rotzooi.",
+      "Onze partij, het Vlaams Belang, kon de piste met die finaliteit tot afschaffing wel volgen. Die FLA, die had moeten bijdragen tot een weldoordacht opleidingsbeleid voor ondernemingen was inderdaad verworden tot een gedrocht, een controle-instrument voor de overheid, met geen enkele visie en nog minder meerwaarde. De tool was administratief belastend en niet klaar voor een soepele implementatie. Ik zal echter niet verder ingaan op alle mogelijke mankementen ervan; dat heb ik een viertal maanden geleden uitgebreid gedaan.",
+      "De afschaffing ervan was dus de enige mogelijke rationele oplossing. Daarvan zouden later ook minstens zeven partijen in dit halfrond getuigen. Toen was ik nog echt goedgelovig en volgde ik de N-VA-klasbak waarvan sprake. Hij was een vernuftig man met groot inzicht, die een schitterend wetsvoorstel ingediend had tot opheffing van dat FLA, een tekst groots in zijn eenvoud.",
+      "Ik zou later ook gelijk krijgen. Mijn intuïtie en mensenkennis hadden me niet in de steek gelaten, niet zozeer met betrekking tot het wetsvoorstel zelf, maar wel met betrekking tot de persoon. Collega Ronse zou immers een paar maanden later zelfs fractieleider worden van de grootste partij hier, ondanks – of misschien wel juist dankzij – zijn onvoorstelbaar bochtenwerk en gespartel dat hij een paar weken later als een volleerd beroepspoliticus en een ware gladjanus zou moeten tentoonspreiden in dit dossier, maar ook in andere dossiers gisteren, vandaag en morgen. Politiek is een rotstiel, dat kan hij u wel vertellen.",
+      "Wat was er immers gebeurd? Opeens werden we geconfronteerd met een aantal amendementen van de N-VA, van collega Ronse zelf, die zijn eigen wetsvoorstel moest afzwakken. Van afstel werd het uitstel. De FLA zou worden uitgesteld. Alle stoere woorden moesten worden ingeslikt toen ook Vooruit, MR, cd&v en Les Engagés die amendementen steunden. Het uitstel zou gelden tot 1 april 2025 om \"de onderhandelaars in staat te stellen vooruitgang te boeken met het oog op de vorming van de volgende coalitie\" en om \"de partijen die onderhandelen over een regeringsvorming de tijd te geven om het debat over het bestaan van de FLA verder te zetten\".",
+      "Niettegenstaande het Vlaams regeerakkoord – ter herinnering, van een regering bestaande uit de N-VA, cd&v en Vooruit – heel duidelijk bepaalt dat de FLA ten grave zou worden gedragen, komen die drie partijen blijkbaar niet tot een overeenkomst ter afschaffing van de FLA.",
+      "Zo geschiedde dus. Mijn helder maar klaarblijkelijk lichtzinnig betoog haalde niets uit. Ik had trouwens exact dezelfde bewoordingen gebruikt als degene uit het initiële wetsvoorstel tot afschaffing van de FLA van collega Ronse. De wet van 8 december 2024 houdende diverse wijzigingsbepalingen met het oog op het tijdelijk uitstel van de verplichting tot registratie binnen de Federal Learning Account werd weggestemd en stelde de verplichte registratie via de FLA-tool uit tot 1 april 2025.",
+      "Belangrijk is te vermelden dat indien geen andere acties zouden worden ondernomen, de FLA verplicht in voege zal treden op 1 april, volgende week dus, zoals mijn dochter zegt. Nu begrijpt u ook de hoogdringendheid, want vandaag ligt een nieuw wetsvoorstel voor van de vijf federale regeringspartijen, die nu weerom uitstel vragen tot 1 september 2025.",
+      "Nu wordt het pas echt grappig, of moeten we het schouwspel eerder een beetje meewarig bekijken? Ik leg u even haarfijn uit wat die partijen hebben bekokstoofd in de hoop dat u nog zult kunnen volgen, want het wettelijk traject zou in de toekomst wel eens als referentie kunnen dienen voor derden – niet-politici – om nader te verklaren hoe de werking van het Belgisch Parlement nu werkelijk is. Het is een echt kafkaiaans verhaal, een echt absurd Belgisch verhaal, waarbij anderen zich bij het aanhoren van zoveel onzin zwaar zullen moeten inhouden om zich niet te verslikken in een onophoudelijke brullende lachbui.",
+      "Ik zet toch nog enkele feiten chronologisch op een rijtje.",
+      "Ten eerste, het Vlaams regeerakkoord zegt letterlijk het volgende: \"Vorming en opleiding is een exclusieve bevoegdheid van de gemeenschappen. We vragen aan de federale regering om de Federal Learning Accounttool te schrappen.\" Veel duidelijker kan het niet zijn.",
+      "Ten tweede, het wetsvoorstel-Ronse vraagt de afschaffing van de FLA, waarmee hij gevolg gaf aan het Vlaams regeerakkoord.",
+      "Dan komen de onderhandelingen van Arizona. Wat blijkt? Er volgen amendementen van de onderhandelende partijen, er komt geen afschaffing meer, maar uitstel van de FLA. De wet treedt in voege en er komt uitstel tot 1 april 25. Dan krijgen we het federaal regeerakkoord waarin staat dat we de Federal Learning Account schrappen en vervolgens een minder administratief belastend systeem onderzoeken. Vandaag, maart 2025, zitten we hier met een nieuw wetsvoorstel met een vraag om uitstel tot september 2025.",
+      "Wat zijn de conclusies? Ten eerste, niettegenstaande een duidelijke overeenkomst in het Vlaams regeerakkoord over afstel wordt dat afstel uitstel. Ten tweede, niettegenstaande een duidelijke overeenkomst in het federaal regeerakkoord over afstel blijft uitstel uitstel tot afstel. Wie kan dat bedenken? Van afstel gaan we naar tijdelijk uitstel, terug naar een tijdelijk uitstel, om het dan af te stellen.",
+      "Nog een doordenkertje. Tijdens het eerste tijdelijk uitstel tot 1 april was het woordje tijdelijk eigenlijk overbodig. Inderdaad, in de feiten en per definitie is elk uitstel tijdelijk. Als het niet tijdelijk zou zijn, is het juist afstel."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Voorzitter: Peter De Roover, voorzitter."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Président: Peter De Roover, président."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Mevrouw Vanrobaeys vraagt het woord."
+    },
+    {
+     "type": "speech",
+     "id": "01.03",
+     "name": "Anja Vanrobaeys",
+     "party": "Vooruit",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer Moons, ik heb u al verschillende keren bezig gehoord. Ik vraag mij soms af of u sprookjes voorleest in de bibliotheek. Ik denk dat u daarvoor de geknipte persoon zou zijn. U leeft wel in een sprookje, want ondertussen zijn er dingen veranderd. Dat heb ik ook in de commissie gezegd.",
+      "Er is een sociaal akkoord tussen de sociale partners. Zij hebben gevraagd om de FLA nog eens uit te stellen. Met dit wetsvoorstel geven wij hun die tijd. Zij zeggen dat zij een alternatief dat administratief eenvoudiger is, zullen uitwerken. Dat is de reden. Voor ons is het sociaal overleg ook belangrijk. Met Vooruit geven we de sociale partners de tijd om een gedragen voorstel uit te werken dat de individuele opleiding garandeert, maar ook administratief veel eenvoudiger is en toepasbaar voor kleine ondernemingen en socialprofitondernemingen."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "01.04",
+     "name": "Kurt Moons",
+     "party": "VB",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "In de bibliotheek luistert men wel aandachtig naar mij en krijg ik niet zulke moeilijke vragen. Mevrouw Vanrobaeys, wat u hier vertelt, heb ik eigenlijk nergens in het regeerakkoord gelezen. Ik benoem gewoon de feiten zoals ze zijn. U hebt mij echt onderbroken op het moment dat ik tot de climax ging komen, dus ik zal mijn betoog moeten herhalen. Ik ga even terug tot dat doordenkertje, want dat vond ik plezant.",
+      "Voor het eerste tijdelijke uitstel tot 1 april was het woord tijdelijk eigenlijk overbodig. Immers, in feite en in de definitie is elk uitstel tijdelijk, want als het niet tijdelijk is, is het geen uitstel, maar afstel. Eigenaardig genoeg is tijdens het tweede tijdelijk uitstel het woord 'tijdelijk' wel belangrijk, want dat uitstel is echt tijdelijk, namelijk totdat het op 1 september wordt afgeschaft. Dat begrijpt u, toch?",
+      "Waarom nu nog uitstellen? Kunnen we niet beter nu al overgaan tot afstel, aangezien de afschaffing toch gepland is op 1 september? Wat wordt er in feite uitgesteld en waarom? Er gebeurt namelijk niets tijdens het tijdelijk uitstel. In alle regeerakkoorden zijn alle regeringspartijen het blijkbaar toch roerend met elkaar eens over afstel. Toch? Het staat letterlijk in de twee regeerakkoorden, want, zoals ik daarnet al letterlijk heb voorgelezen, ook in het federaal akkoord is er sprake van sequentiële en niet van parallelle werkzaamheden. Eerst afstel en vervolgens een onderzoek.",
+      "In dit geval is, beste parlementsleden, de Franse versie nu eens wel de juiste versie. Ook in het Frans zegt de tekst: \" Nous supprimons le Federal Learning Account et examinons ensuite un système moins contraignant sur le plan administratif .\" Dat klopt dus, daarover kan geen twijfel bestaan. Of moeten de regeringspartijen ook over die zinsnede de juiste zogenaamde modaliteiten afspreken, zoals we het hier intussen gewoon zijn? De regeringspartijen weten dus blijkbaar niet eens of er nog een nieuw en minder belastend systeem komt, want dat moet nog onderzocht worden, en ze weten evenmin wat er navolgend op het afstel zal zijn, en dus niet gelijktijdig met het uitstel, want er is ook geen sprake van uitstel, enkel van afstel. Weet u, alle gekheid op een stokje, dat is toch echt niet te vatten.",
+      "De onzekerheid van het uitstel blijft de bedrijven, de hr-departementen en de sociaal secretariaten beroeren. Wordt de FLA nu afgeschaft of niet? Zo ja, wanneer? Wat moeten we intussen doen? Wat als er geen ander systeem komt? Wanneer weten we dat? Tijdens het uitstel? Zal het uitstel nog eens uitgesteld worden, tijdelijk dan, weliswaar? Er is maar één partij die van in het begin consequent de afschaffing heeft voorgestaan, namelijk het Vlaams Belang, met het oog op de belangen van de werknemers, maar ook van de werkgevers.",
+      "Waarom laten de meerderheidspartijen de ondernemers niet gewoon hun verantwoordelijkheid opnemen? Laat ze gerust de opleidingen op regelmatige basis rapporteren, maar wel op hun manier. Er bestaan systemen genoeg bij alle sociaal secretariaten om aan de reeds bestaande hr-rapporteringsverlichting te voldoen.",
+      "Om alles heel helder en duidelijk te maken voor iedereen en om verder gevolg te geven aan onze consequente houding ter zake heeft de Vlaams Belangfractie geoordeeld het allereerste wetsvoorstel tot afstel – dat van collega Ronse – als amendement letterlijk over te nemen.",
+      "Die onverkwikkelijke saga, die gang van zaken krijgt men toch aan niemand verkocht? Ik was verbouwereerd, vier maanden geleden, over de politieke wendingen in het verhaal; maar ze waren blijkbaar klein bier tegenover wat zou volgen in de maanden nadien. Maar allicht later meer daarover. Ik wil u dan ook vragen ons amendement goed te keuren, zodat we die ongemakkelijke wettelijke martelgang aan niemand hoeven uit te leggen.",
+      "Heel fijntjes geef ik ook nog mee dat opleiding en vorming in feite gemeenschapsaangelegenheden zijn en hier zelfs niet aan bod hadden moeten komen. Dat werd trouwens in het verleden bevestigd door de Raad van State en ook door de N-VA, tot ze in de federale regering stapte. Alle communautaire zaken zijn verbannen van het politieke toneel. Het Belgische systeem heeft u op de knieën, beste N-VA'ers. Een plaatsvervangende schaamte maakt zich meester van mij, nog een echte Vlaams-nationalist."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : De volgorde van de sprekers moeten we een beetje door elkaar hutselen. Collega Ronse heeft het woord gevraagd."
+    },
+    {
+     "type": "speech",
+     "id": "01.05",
+     "name": "Axel Ronse",
+     "party": "N-VA",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de voorzitter, ik had mij voorgenomen om naar voren te komen om mijn betoog te houden, maar na het lange sprookje dat collega Moons bracht, durf ik dat niet meer. Vroeger had ik, nadat men mij sprookjes vertelde, zoete dromen, maar van zijn sprookje zou ik wel eens nachtmerries kunnen krijgen. Mijnheer Moons, er is een groot verschil tussen ons. U bent een zeer goede sprookjesverteller, maar ik realiseer dingen. Dat appte een zeer goede en wijze collega daarnet althans naar mij, nietwaar, collega Vanrobaeys?",
+      "Collega's, de waarheid werkt soms bevrijdend. Onderhavig voorstel verdient absoluut geen schoonheidsprijs. Toen wij hier de eed aflegden, hebben we erkend dat de verduivelde FLA, die eigenlijk vooral hr-verantwoordelijken, zowel uit de private als de sociale sector, letterlijk nachtmerries bezorgt, zijn doel niet dient. Men is meer bezig met onderzoeken hoe men die tool moet gebruiken, dan met het organiseren van opleidingen. De idee achter die tool, namelijk dat men werknemers de kans geeft om te zien hoe hun opleidingsrecht evolueert en wat dat omvat, is goed. Het instrument zelf is echter niet goed.",
+      "Zoals het een parlementslid betaamt, volgt men zijn overtuiging en dient men een wetsvoorstel in. In de politiek moet men ook compromissen durven te sluiten om dingen te realiseren. Er werd op dat moment onderhandeld over de vorming van een regering en ik ben erg blij dat Vooruit ons toen het vertrouwen heeft gegeven en heeft aangegeven om nog geen een grote voorafname op het regeerakkoord te doen, maar wel aan de idee achter de tool van de FLA vast te houden. Samen met Vooruit, MR, Les Engagés en cd&v hebben we de werkgevers uit de sociale en private sector een enorme nachtmerrie bespaard.",
+      "Had ik liever dat de FLA meteen geschrapt werd? Dat spreekt voor zich, maar men moet compromissen durven te sluiten. Het is een uitstel tot in april geworden. De regerings­onderhandelingen hebben iets langer geduurd. Ik vind dat niet erg en we mogen ontzettend fier zijn op het resultaat van die onderhandelingen. Dat is een manier waarop we het land zeer grondig en fors kunnen hervormen. We hebben ons miskeken op dat uitstel. We hadden inderdaad onderling afgesproken om rekening te houden met de bekommeringen van de coalitiepartners. Vooruit gaf aan de schrapping mee goed te keuren, op voorwaarde dat er op een intelligente manier zou worden nagedacht over wat in de plaats kan komen en over wat aanvaardbaar en verteerbaar is voor werkgevers en hr-mensen.",
+      "Minister Clarinval vroeg evenwel om wat tijd en verwacht dat hij tegen september klaar zal zijn. En dus geven de sector nu zekerheid: de FLA wordt afgeschaft. We keuren nu opnieuw een uitstel goed en ja, dat komt een beetje vreemd over. Ik begrijp dat, maar we doen het wel. Straks komt de heer Van Quickenborne aan het woord. Het verschil tussen zijn partij en de onze is dat hij de FLA heeft ingevoerd en dat wij degenen zullen zijn die de regeling afschaffen. Dat is het grote verschil.",
+      "Dat verdient zeker geen schoonheidsprijs, maar ik ben blij, collega Moons, dat het u inspireert om hier sprookjes te komen vertellen en dat het u tot literaire inzichten brengt. Ik kan u beloven dat er inderdaad de komende jaren nog wel wat literaire inzichten tot u zullen komen. Dat is nu eenmaal eigen aan compromissen sluiten, beleid voeren en stenen verleggen. Dat is iets anders dan hier elke week maagd spelen. Dat is iets anders dan Team Kookwekker, dat de rest laat doen en bekijkt hoe alles verziekt. Dat is het verschil tussen ons. Wij zijn Team Arizona en wij verleggen stenen."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "01.06",
+     "name": "Wouter Vermeersch",
+     "party": "VB",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "(…)"
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "01.07",
+     "name": "Axel Ronse",
+     "party": "N-VA",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Ja, dat is het niveau, collega, en ik ben er fier op dat we stenen verleggen.",
+      "Met die vrolijke noot eindig ik."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "01.08",
+     "name": "Wouter Vermeersch",
+     "party": "VB",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "(…)"
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "01.09",
+     "name": "Axel Ronse",
+     "party": "N-VA",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Lachen en brullen en gieren, is dat uw reactie?",
+      "Onze fractie zal uiteraard unaniem voor ons wetsvoorstel stemmen."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "01.10",
+     "name": "Kurt Moons",
+     "party": "VB",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Collega Ronse, ik dank u voor die mooie woorden en om mij te omschrijven als een sprookjesschrijver. Sprookjes zijn echter vaak gebaseerd op feiten. Dat heb ik net proberen aan te tonen. Sprookjes bevatten altijd een grond van waarheid en ideeën en principes waarop mensen zich kunnen baseren. Als u het een sprookje noemt, dan zou u die richting ook best uitgaan en kijken naar wat de toekomst zal brengen in het licht van die principes."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "01.11",
+     "name": "Robin Tonniau",
+     "party": "PVDA-PTB",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de voorzitter, in tegenstelling tot de heer Moons zal ik iets sneller overgaan tot de essentie van mijn verhaal.",
+      "De Federal Learning Account was het enige positieve dat uit de arbeidsdeal van Vivaldi is voortgekomen, maar wat doet Arizona? Arizona wil dat laten doodbloeden. Ik begrijp niet waarom. Meer dan 60 % van de werkende mensen in België heeft geen diploma hoger onderwijs, een meerderheid in onze samenleving dus. De FLA is een heel simpel middel om hun opleidingsrechten af te dwingen.",
+      "Toen ik in de commissie voor Sociale Zaken zei dat de FLA er vooral is voor mensen zoals ik, voor werknemers zonder hoger diploma die vroeg aan hun carrière zijn begonnen en vastzitten in uitvoerende jobs, werd ik terechtgewezen door mevrouw Muylle van cd&v. Zij zei me dat opleiding belangrijk is voor alle werknemers. Mevrouw Muylle, u hebt gelijk. Dat is een bijkomende reden om de FLA te behouden. Die is inderdaad belangrijk voor alle werknemers.",
+      "Toen ik zei dat de FLA de beste controletool is om werknemers te helpen bijscholen, zei de heer Ronse dat ook de werkgevers dat willen. Hij had het over de war on talent . De best opgeleide werknemers zijn de meest gegeerde, aldus de heer Ronse. Ook dat is een extra reden om de FLA effectief te gebruiken.",
+      "Wat is eigenlijk het probleem? Het is simpel. Voka, het patronaat, is tegen. De grote bedrijven willen geen controle, ze willen niet dat iemand, de overheid of de vakbonden, controleert of ze de opleidingsrechten van hun werknemers wel respecteren. Voka windt er geen doekjes om en heeft twee weken geleden nog een nieuwsbrief rondgestuurd waarin letterlijk stond dat de FLA werd opgezet als een controletool om bedrijven te doen naleven wat in de arbeidsdeal is afgesproken. De maatregel wordt nu maar best zo snel mogelijk en voorgoed afgevoerd, aldus Voka. Kijk, vandaag stemmen we opnieuw over het uitstel van de FLA. Voka blaast op zijn fluitje en Arizona gehoorzaamt.",
+      "Axel Ronse heeft al eerder verklaard dat hij wil dat de VDAB, de overheid en de Sociale Inspectie controleren en sanctioneren, maar wel enkel de werknemers natuurlijk. Elk controleorgaan voor de werkgevers wilt u kapot, mijnheer Ronse, want ja, de FLA controleert wel degelijk. Het is een controletool. Naast de werknemer en de werkgever krijgen verschillende overheidsinstellingen toegang tot de Federal Learning Account. De VDAB, FOREM, Actiris, de opleidingsfondsen, de fondsen voor bestaanszekerheid enzovoort hebben die gegevens nodig voor wetenschappelijk en statistisch onderzoek met het oog op de verbetering van hun dienstverlening.",
+      "Ook de overheid krijgt toegang tot de FLA om de registratieverplichting van werkgevers te controleren. Werkgevers die hun verplichtingen niet nakomen, kunnen op een naming-and-shaminglijst worden geplaatst. Ze krijgen dan 30 dagen de tijd om alles in orde te brengen. Die lijst wordt gepubliceerd op de website van de FOD WASO en per kwartaal overgemaakt aan de NAR en de paritaire comités. Sociaal inspecteurs houden toezicht op de naleving van die regelgeving en zij beschikken over bevoegdheden uit het Sociaal Strafwerkboek om controles uit te voeren.",
+      "U gooit vandaag liever miljoenen euro's belastinggeld weg dan de werkgevers te controleren op de naleving van de wetten die we hier maken in het voordeel van de arbeiders en de werknemers, specifiek de laagopgeleiden. De FLA is klaar vandaag, is operationeel en al veel bedrijven hebben zich erop ingeschreven. Dat werkt dus.",
+      "Wie beslist er om die FLA nu te laten schieten? Dat zijn de mensen met de hoogste diploma's en de hoogste inkomens, de indieners van dit voorstel: Florence Reuter, Axel Ronse, Isabelle Hansez, Anja Vanrobaeys en Nathalie Muylle. U beslist vandaag doodleuk om de kansen op bijscholing, op persoonlijke groei van gewone werknemers in te perken. U moest zich schamen. De FLA is niet voor u gemaakt; niet voor beroepspolitici, maar voor werknemers die vooruit willen in het leven, die zich willen bijscholen en ontwikkelen. Daarop hebben ze recht.",
+      "Hoeveel heeft de ontwikkeling van de FLA eigenlijk gekost? Ik heb dat al verschillende keren gevraagd aan minister Clarinval en andere leden van de meerderheid, maar niemand kan erop antwoorden. Misschien kan de heer Beenders als uitverkorene daarop vandaag wel een antwoord geven. Er zijn immers miljoenen euro's belastinggeld naartoe gegaan. Als u dus straks op dat knopje duwt, gooit u die miljoenen euro's overheidsgeld in de vuilnisbak."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "01.12",
+     "name": "Isabelle Hansez",
+     "party": "Les Engagés",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le président, chers collègues, une note de temporalité vient compléter cette note poétique.",
+      "Le gouvernement prévoit de remplacer ce dispositif d'ici quelques mois par un autre plus simple et efficace tout en maintenant, bien sûr, l'accès à la formation. Nous avons soutenu la loi sur le Federal Learning Account (FLA) mais cet outil a suscité beaucoup d'inquiétude chez les employeurs, et son entrée en vigueur d'ici quelques jours risquait de plonger dans l'embarras un grand nombre d'entre eux. Maintenir l'entrée en vigueur de cette loi serait insensé vu son remplacement imminent; cela créerait une instabilité juridique et administrative inutile. Nous maintenons, bien entendu, notre engagement en faveur de la formation. Celle-ci est un droit tout au long de la vie. Elle est un levier d'émancipation pour les travailleurs mais aussi un outil de compétitivité pour les entreprises dans le contexte de changement que nous vivons actuellement. Nous voulons un système qui soit accessible aux travailleurs mais aussi soutenable pour les entreprises.",
+      "Pour ces raisons, nous soutenons ce report temporaire de l'enregistrement dans le FLA."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "01.13",
+     "name": "Sarah Schlitz",
+     "party": "Ecolo-Groen",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le président, cela avance plus vite que sur le précédent débat.",
+      "Chers collègues, j'ai déjà donné mon point de vue sur ce dossier. Je pense que c'est un immense gâchis. On a un outil qui a été créé il y a un peu plus d'un an, qui est entré en vigueur le 1 er janvier 2024. Et là, on se précipite pour l'empêcher de déployer tous ces effets le 1 er avril. Ici, on parle d'efforts qui ont été faits par des entreprises qui, elles, ont joué le jeu. D'après l'avis de sigedis qu'on a reçu en commission, 8,4 employeurs sur 10 sont favorables à cet outil. Par ailleurs, toujours d'après sigedis, si des difficultés de fonctionnement sont apparues au début, elles ont été corrigées et des efforts sont encore mis en place pour continuer à améliorer l'outil.",
+      "Ce qui est scandaleux dans cette histoire, c'est que le FLA a fait l'objet de campagnes de boycott du banc patronal. Agoria a appelé ses affiliés à ne pas l'utiliser.",
+      "Vous accordez donc une prime aux mauvais élèves, à ceux qui ont empêché l'outil de fonctionner, pour ensuite affirmer qu'il ne fonctionnait pas. C'est vraiment un très mauvais signal envoyé à la société, sans parler évidemment des coûts engendrés par la mise en place de cet outil. Cet argent va maintenant être jeté à la poubelle.",
+      "On nous parle d'un nouvel outil qui va être mis en place par le nouveau ministre. On est en droit de se demander en quoi ce nouvel outil conviendrait soudainement au banc patronal, qui, jusqu'ici, le critiquait ouvertement. J'imagine qu'Agoria et d'autres seront invités autour de la table pour concevoir ce nouvel outil qui leur conviendra bien, et donc qui ne leur permettra pas d'être véritablement contrôlés, et de savoir ce qu'ils mettent en place. J'espère que les bénéficiaires du CPAS seront aussi associés aux réflexions sur les outils que vous allez mettre en place pour mieux les contrôler, chers collègues. Je n'en doute pas.",
+      "Je pense qu'il est important de rappeler, une fois de plus, à quel point la formation des travailleurs est essentielle. Vous pourriez me dire que les gens ont le droit de se former. Il y a évidemment des employeurs qui jouent le jeu, qui ont d'ailleurs intégré le FLA dans leur entreprise et offrent ce droit à la formation. Cependant, admettez que certains employeurs, eux, ne jouent pas le jeu et n'offrent pas à leurs employés le droit à la formation auquel ils devraient pourtant avoir accès. Ainsi, nous avons besoin de cet outil de contrôle pour garantir que les droits de tous les travailleurs sont effectivement respectés et, par ailleurs, pour recueillir des données statistiques.",
+      "La formation est nécessaire dans un marché de l'emploi en constante évolution, que ce soit pour répondre aux pénuries, pallier certaines maladies professionnelles, se réorienter au cours de sa carrière ou simplement changer de voie par choix ou par envie. Ni les entreprises, ni les pouvoirs publics, et encore moins les travailleurs, n'ont intérêt à ce que notre société produise des travailleurs \"Kleenex\": mal formés, incapables de se réorienter, malheureux dans leur emploi et bloqués dans des postes qu'ils ne peuvent plus exercer physiquement ou qu'ils n'ont plus envie d'occuper. Je pense donc que la décision prise aujourd'hui est très mauvaise.",
+      "Nous avons besoin d'un marché de l'emploi offrant des postes stables, permettant de vivre dignement, et non des emplois produisant des travailleurs pauvres. Ces emplois doivent être compatibles avec une vie de famille, permettre l'ouverture d'horizons, l'apprentissage et également la possibilité de se former. C'est la vision de l'emploi que nous devons déployer au XXI e siècle.",
+      "Ce n'est malheureusement pas la vision que je perçois depuis des semaines en lisant les notes des différents ministres en matière sociale. Celles-ci semblent orientées vers davantage de flexibilisation, plus de travail de nuit, un épuisement des corps accru et une incertitude croissante. Selon moi, c'est une grave erreur, à long terme, de s'orienter vers un marché de l'emploi conçu de cette manière."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "01.14",
+     "name": "Vincent Van Quickenborne (Open Vld)",
+     "party": null,
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de voorzitter, collega's, bij de behandeling van dit onderwerp kwam mij een uitspraak voor de geest die ik bijzonder treffend vond. Mijn excuses, maar het is in het Engels: \" Nothing is so permanent as a temporary government programme .\" Het was niet Ronald Reagan die dat zei – hij werd enkele weken geleden al eens geciteerd, toen het ging over de invoerrechten – en ook niet Churchill, mevrouw de Sutter, die vandaag al twee keer werd geciteerd. Het was een uitspraak van Milton Friedman, een interessante econoom die zei dat een tijdelijk overheidsprogramma altijd eindigt in een definitief programma. Als de FLA een prijs verdient – de heer Ronse zei dat hij geen schoonheidsprijs verdient – is het waarschijnlijk dat het tijdelijke uiteindelijk permanent zal worden.",
+      "Ik zal u zeggen waarom. Wij hebben die discussie in november al gevoerd. Toen vroeg de meerderheid in wording – er was immers nog geen meerderheid – om haar nog even tijd te geven en het nog even uit te stellen. Dat was toen de argumentatie om de FLA nog even uit te stellen. Open Vld heeft de meerderheid toen respijt gegeven in afwachting van de nieuwe regering.",
+      "Sinds begin februari hebben we een nieuwe regering en tot ons allergrootste genoegen hoorden we op dat moment dat Arizona voorstelde om de FLA af te schaffen. Wij verwachtten dus dat er weldra een wetsvoorstel zou volgen om de Federal Learning Account af te schaffen. Waarom zijn wij voor de afschaffing? Omdat het opleidingsrecht weliswaar belangrijk is, maar de manier waarop er moest worden geregistreerd veel te omslachtig en veel te zwaar was.",
+      "Lange tijd werd beweerd dat de FLA nodig was om van Europa, van het Nationaal Herstel- en Veerkrachtplan, de middelen voor die opleiding te krijgen. Men zei dat men niet zonder die FLA kon, omdat men anders die middelen van Europa niet zou krijgen. Midden december vorig jaar kwam er dan het duidelijk signaal van Europa dat het niet langer nodig was. Men kan dus ook perfect die middelen krijgen zonder een FLA. Niets staat ons dus in de weg om dat ook te doen, collega's.",
+      "Wat blijkt evenwel? De meerderheid vraagt opnieuw uitstel. De reden waarom de meerderheid dat doet, is omdat daarover verdeeldheid bestaat. De heer Ronse houdt immers nog altijd vast aan de afschaffing. Voor alle duidelijkheid, hij heeft het regeerakkoord aan zijn kant, want daarin staat dat we de FLA afschaffen en vervolgens een minder belastend instrument onderzoeken. Toch wordt de FLA niet afgeschaft en volgt er een nieuw uitstel.",
+      "Collega's, het is misschien vreemd om te zeggen, maar we hebben ons onthouden in november omdat we de meerderheid in wording de kans wilden geven om in een volgend stadium de FLA af te schaffen. Dat blijkt nu niet het geval te zijn. Dat is de reden waarom wij vandaag tegen zullen stemmen. Hoe vreemd het ook mogen klinken, collega's, mijnheer Ronse, wij willen op dit punt de hoeder van het regeerakkoord zijn. U legt de lat hoog, maar in dit dossier gaat u onder de lat.",
+      "Dat is ook zo met het dossier van het brugpensioen, het SWT. Ook daarover staat in het regeerakkoord dat er vanaf eind januari geen nieuwe bruggepensioneerden zullen worden toegelaten, tenzij in twee uitzonderlijke gevallen. Nu blijkt echter dat de sociale partners een akkoord hebben gemaakt en dat de datum van eind januari wordt verschoven naar eind juni van dit jaar. Dat is een uitholling van het regeerakkoord.",
+      "Collega's, hier was er ambitie en legde men de lat hoog. Minder dan acht weken later blijkt echter dat de FLA niet wordt afgeschaft.",
+      "Mijnheer de voorzitter, collega's, ik zal nu onze twee amendementen toelichten. Wij stellen voor om te doen wat er in het regeerakkoord staat, namelijk de FLA van de wet van 2023 afschaffen. Als onze amendementen niet worden goedgekeurd, dan zullen we tegen deze tekst stemmen."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Vraagt nog iemand het woord? (Nee)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Quelqu'un demande-t-il encore la parole? (Non)"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De algemene bespreking is gesloten."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "La discussion générale est close."
+    },
+    {
+     "type": "heading",
+     "level": 3,
+     "nl": "Bespreking van de artikelen",
+     "fr": "Discussion des articles"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Wij vatten de bespreking van de artikelen aan. De door de commissie aangenomen tekst geldt als basis voor de bespreking. (Rgt 85, 4) ( 784/7 )"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Nous passons à la discussion des articles. Le texte adopté par la commission sert de base à la discussion. (Rgt 85, 4) (784/7)"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Het voorstel telt 4 artikelen."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "La proposition compte 4 articles."
+    },
+    {
+     "type": "note",
+     "lang": "nl",
+     "text": "Ingediende amendementen:"
+    },
+    {
+     "type": "note",
+     "lang": "fr",
+     "text": "Amendements déposés:"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Art. 2"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "• 7 – Kurt Moons cs (784/8)"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "• 11 – Vincent Van Quickenborne (784/8)"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Art. 3"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "• 8 – Kurt Moons cs (784/8)"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "• 12 – Vincent Van Quickenborne (784/8)"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Art. 4"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "• 9 – Kurt Moons cs (784/8)"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "• 10 – Kurt Moons cs (784/8)"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Opschrift / Intitulé"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "• 6 – Kurt Moons cs (784/8)"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Besluit van de artikelsgewijze bespreking:"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Conclusion de la discussion des articles:"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Aangehouden: de amendementen en de artikelen 2 tot 4."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Réservés: les amendements et les articles 2 à 4."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Artikel per artikel aangenomen: het artikel 1."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Adoptés article par article: l'article 1."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De bespreking van de artikelen is gesloten. De stemming over de aangehouden amendementen, de aangehouden artikelen en over het geheel zal later plaatsvinden."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "La discussion des articles est close. Le vote sur les amendements et les articles réservés ainsi que sur l'ensemble aura lieu ultérieurement."
+    }
+   ]
+  },
+  {
+   "number": "02",
+   "section": {
+    "nl": "Geheime stemmingen",
+    "fr": "Scrutins secrets"
+   },
+   "title": {
+    "nl": "Vaste Commissie voor Taaltoezicht – Aanwijzing van de voorzitter – Uitslag van de stemming",
+    "fr": "Commission permanente de contrôle linguistique – Désignation du président – Résultat du scrutin"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Stemmen"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "125"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Votants"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Blanco of ongeldig"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "3"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Blancs ou nuls"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Geldig"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "122"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Valables"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Volstrekte meerderheid"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "62"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Majorité absolue"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De heer Patrick D’hondt heeft 43 stemmen gekregen."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "M. Patrick D’hondt a obtenu 43 voix."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De heer Philippe Vande Casteele heeft 14 stemmen gekregen."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "M. Philippe Vande Casteele a obtenu 14 voix."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De heer Sven Vaneycken heeft 65 stemmen gekregen."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "M. Sven Vaneycken a obtenu 65 voix."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Aangezien de heer Sven Vaneycken 65 stemmen heeft gekregen, dit is de volstrekte meerderheid, is hij aangewezen als voorzitter van de Vaste Commissie voor Taaltoezicht."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "M. Sven Vaneycken ayant obtenu 65 voix, soit la majorité absolue, est désigné en qualité de président de la Commission permanente de contrôle linguistique."
+    }
+   ]
+  },
+  {
+   "number": "03",
+   "section": {
+    "nl": "Geheime stemmingen",
+    "fr": "Scrutins secrets"
+   },
+   "title": {
+    "nl": "Gegevensbeschermingsautoriteit – Benoeming van de leden van het directiecomité – Uitslag van de stemming",
+    "fr": "Autorité de protection des données – Nomination des membres du comité de direction – Résultat du scrutin"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Stemmen"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "125"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Votants"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Blanco of ongeldig"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "5"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Blancs ou nuls"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Geldig"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "120"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Valables"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Volstrekte meerderheid"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "61"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Majorité absolue"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De heer Koen Gorissen heeft 91 stemmen gekregen."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "M. Koen Gorissen a obtenu 91 voix."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De heer Hielke Hijmans heeft 0 stemmen gekregen."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "M. Hielke Hijmans a obtenu 0 voix."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Mevrouw Alexandra Jaspar heeft 9 stemmen gekregen."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Mme Alexandra Jaspar a obtenu 9 voix."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Vincent Medaer Bours heeft 0 stemmen gekregen."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Vincent Medaer Bours a obtenu 0 voix."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Mevrouw Cédrine Morlière heeft 13 stemmen gekregen."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Mme Cédrine Morlière a obtenu 13 voix."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De heer Peter Van den Eynde heeft 7 stemmen gekregen."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "M. Peter Van den Eynde a obtenu 7 voix."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De heer Koen Gorissen, die de volstrekte meerderheid heeft gekregen, is benoemd tot voorzitter van de Gegevens­­beschermings­autoriteit."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "M. Koen Gorissen ayant obtenu la majorité absolue, est proclamé président de l’Autorité de protection des données."
+    }
+   ]
+  },
+  {
+   "number": "04",
+   "section": {
+    "nl": "Geheime stemmingen",
+    "fr": "Scrutins secrets"
+   },
+   "title": {
+    "nl": "Inoverwegingnemingen",
+    "fr": "Prises en considération"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "In de laatst rondgedeelde agenda komt een lijst van voorstellen voor waarvan de inoverwegingneming is gevraagd."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Vous avez pris connaissance dans l'ordre du jour qui vous a été distribué de la liste des propositions dont la prise en considération est demandée."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Indien er geen bezwaar is, beschouw ik de inoverwegingneming van deze voorstellen als aangenomen. Overeenkomstig het Reglement worden die voorstellen naar de bevoegde commissies verzonden."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "S'il n'y a pas d'observations à ce sujet, je considère la prise en considération de ces propositions comme acquise. Je renvoie les propositions aux commissions compétentes conformément au Règlement."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Geen bezwaar? (Nee)"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Aldus zal geschieden."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Pas d'observation? (Non)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Il en sera ainsi."
+    },
+    {
+     "type": "heading",
+     "level": 4,
+     "nl": "Urgentieverzoeken",
+     "fr": "Demandes d'urgence"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "J'ai reçu trois demandes d'urgence."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "D'abord, la proposition de résolution de M. De Smet visant à exiger la libération immédiate de l'écrivain Boualem Sansal, arbitrairement détenu en Algérie, n° 810/1."
+    },
+    {
+     "type": "speech",
+     "id": "04.01",
+     "name": "François De Smet",
+     "party": "DéFI",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le président, chers collègues, Boualem Sansal est un écrivainfranco-algérien qui est emprisonné de manière arbitraire depuis son arrestation à Alger le 16 novembre dernier. Aujourd'hui même, le 27 mars, il vient d'être condamné à cinq années de prison par le régime militaire de ce pays, une peine aussi injuste qu'inacceptable.",
+      "Boualem Sansal, c'est un écrivain reconnu plusieurs fois primé par l'Académie française, mais aussi en Belgique par l'Académie royale de langue et de littérature française. Il a des liens étroits avec notre pays et sa voix compte en France, en Belgique et dans tout l'espace européen.",
+      "Alors pourquoi est-ce un dossier important? M. Sansal est en prison parce qu'il écrit. Il est en prison à cause de ses opinions. Il est devenu, malgré lui, un symbole de la liberté d'expression mise au silence par la force d'un régime militaire. Ce seul fait rend le dossier universel, raison pour laquelle l'Assemblée nationale en France mais aussi le Parlement européen ont entrepris de voter des résolutions pour le soutenir.",
+      "Après avoir posé des questions en commission aux ministres successifs des Affaires étrangères, j'ai rédigé cette proposition de résolution appelant à sa libération immédiate. J'ai cosigné ce texte avec notre collègue du MR, M. Bacquelaine, que je remercie parce que je sais qu'il est sensible de longue date au sort de l'écrivain. Je remercie aussi Michel De Maegd qui nous rejoint dans cette démarche. Et si d'autres collègues de l'opposition ou de la majorité veulent nous rejoindre pour construire un consensus, j'en serais ravi.",
+      "Pourquoi est-ce urgent? Parce que nous parlons d'un homme de 80 ans qui est malade, qui croupit en prison pour ses idées depuis quatre mois et qui est condamné aujourd'hui même à une peine équivalente, dans son cas, à une peine de mort. Si ça, ce n'est pas un dossier urgent, chers collègues, je ne sais pas ce qu'est un dossier urgent.",
+      "C'est pourtant avec un brin d'amertume que je sollicite cette urgence parce que je sais qu'elle ne passera probablement pas, même si je sais que je serai soutenu par une partie de l'opposition que je remercie. Malgré mes efforts, je ne suis pas parvenu à convaincre tous les partis de l'Arizona de soutenir cette urgence. Certains le voudraient, mais il n'y a pas de consensus, paraît-il.",
+      "Et je vous avoue que pour moi, c'est incompréhensible. C'est incompréhensible parce que c'est un dossier humanitaire et que ce n'est pas un dossier politique. C'est incompréhensible parce que l'ensemble des familles politiques de l'Arizona ont soutenu cette résolution au Parlement européen.",
+      "Mais il semble que dans ce gouvernement, comme dans les précédents, si un texte est porté par l'opposition, même cosigné par un parti de la majorité, on ne peut pas accorder l'urgence, quel que soit son sujet, parce que c'est ainsi que fonctionne la particratie. Moi, ça me dépasse de me dire que dans 30 secondes, vous serez 80 à vous lever contre l'urgence d'un texte réclamant la libération d'un homme de 80 ans embastillé pour ses idées. Et j'espère que si c'est le cas, les esprits auront évolué lors des débats en commission en espérant qu'il ne sera pas trop tard à ce moment-là pour M. Boualem Sansal. Je vous remercie."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Le président : Je vous propose de nous prononcer sur cette demande."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Ik stel u voor om ons over deze vraag uit te spreken."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "L'urgence est rejetée par assis et levé."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De urgentie wordt verworpen bij zitten en opstaan ."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Monsieur De Smet, vous demandez également l'urgence pour la proposition de résolution visant à la création d'une Agence fédérale anticorruption, n° 817/1."
+    },
+    {
+     "type": "speech",
+     "id": "04.02",
+     "name": "François De Smet",
+     "party": "DéFI",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le président, voyons si nous aurons plus de chance avec la lutte contre la corruption. Notre pays ne fait pas assez pour lutter contre la corruption. Ce n'est pas moi qui le dit mais bien l'Organisation de coopération et de développement économiques (OCDE) dans un rapport sorti ce lundi encore. Les affaires qui se multiplient le montrent: le Qatargate, le Huawei-gate récemment.",
+      "En raison de notre position centrale, de la présence de nombreux lobbies et d'espions dans notre capitale, nous sommes très exposés aux pratiques corruptives. Personne ne dit que nous ne faisons rien mais nous ne faisons pas assez. Les enquêteurs de l'OCDE démontrent, par exemple, que le nombre d'enquêteurs à l'Office central pour la répression de la corruption (OCRC) n'a pas augmenté en dix ans et que, même quand des enquêtes sont lancées, c'est la justice qui ne suit pas assez, faute de moyens.",
+      "Il faut un électrochoc et il y a donc urgence si on en croit le rapport de l'OCDE sorti ce lundi. C'est la raison pour laquelle nous proposons avec ce texte la création d'une agence anticorruption. Elle sera beaucoup plus indépendante que l'est l'office aujourd'hui. Le travail de cette agence sera plus large sur la base des avis des lanceurs d'alerte. Elle ne travaillera pas sur ordre et, comme en France, elle pourra avancer plus rapidement, notamment par le biais d'amendes et de transactions pénales. J'ai dit, monsieur le président."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Le président : Je vous propose de nous prononcer sur cette demande."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Ik stel u voor om ons over deze vraag uit te spreken."
+    },
+    {
+     "type": "note",
+     "lang": "fr",
+     "text": "L'urgence est rejetée par assis et levé."
+    },
+    {
+     "type": "note",
+     "lang": "nl",
+     "text": "De urgentie wordt verworpen bij zitten en opstaan."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Collega Kjell Vander Elst vraagt de urgentie voor zijn voorstel van resolutie betreffende de arrestatie van Ekrem İmamoğlu en de politieke onrust in Turkije, nr. 821/1."
+    },
+    {
+     "type": "speech",
+     "id": "04.03",
+     "name": "Kjell Vander Elst (Open Vld)",
+     "party": null,
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de voorzitter, collega's, oppositielid en lid van de oppositie İmamoğlu zit sinds 19 maart gearresteerd in de cel. De oppositie wordt vervolgd, de kritische massa wordt monddood gemaakt, betogers worden opgepakt en fundamentele rechten en vrijheden worden zwaar geschonden. Dat een burgemeester die democratisch verkozen is vanwege drogredenen vastzit in de cel, mogen we in ons land niet aanvaarden. We moeten ons daarover dringend uitspreken.",
+      "Voor de goede orde, gisteren, in het Vlaams Parlement, werd exact dezelfde resolutie gesteund door Open Vld, N-VA, cd&v en Vooruit, drie meerderheidspartijen die hier vandaag ook aanwezig zijn. Daarom vraag ik de urgentie voor dit voorstel, want het is hoog tijd dat we een signaal uitsturen naar Turkije."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Ik stel u voor om ons over deze vraag uit te spreken."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Je vous propose de nous prononcer sur cette demande.."
+    },
+    {
+     "type": "note",
+     "lang": "nl",
+     "text": "De urgentie wordt verworpen bij zitten en opstaan."
+    },
+    {
+     "type": "note",
+     "lang": "fr",
+     "text": "L'urgence est rejetée par assis et levé."
+    },
+    {
+     "type": "heading",
+     "level": 4,
+     "nl": "Stemafspraken",
+     "fr": "Pairages"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Collega’s, alvorens we overgaan tot de naamstemmingen, vraag ik u de stemafspraken bekend te maken waarbij een lid zich onthoudt bij de stemming in overleg met een afwezig lid."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Chers collègues, avant de procéder aux votes nominatifs, je vous propose d'annoncer les pairages par lesquels un membre s'abstient de voter en accord avec un membre absent."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Zijn er stemafspraken?"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Y a-t-il des accords de pairage?"
+    },
+    {
+     "type": "speech",
+     "id": "04.04",
+     "name": "Alexia Bertrand (Open Vld)",
+     "party": null,
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Wij ontvingen twee vragen voor stemafspraak, één van Georges-Louis Bouchez waarvoor ik zal zorgen, en een tweede van Axel Weydts, waarvoor Kjell Vander Elst zal zorgen."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.05",
+     "name": "Christophe Lacroix",
+     "party": "PS",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le président, j’assurerai un pairage pour M. Michel De Maegd."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.06",
+     "name": "Patrick Prévot",
+     "party": "PS",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le président, Mme Julie Taton, qui est souffrante, m’a demandé de pairer. J’adapterai donc mon vote en conséquence."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : We gaan over tot de naamstemmingen."
+    }
+   ]
+  },
+  {
+   "number": "05",
+   "section": {
+    "nl": "Naamstemmingen",
+    "fr": "Votes nominatifs"
+   },
+   "title": {
+    "nl": "Moties ingediend tot besluit van de interpellatie van mevrouw Kristien Verbelen over \"de alternatieve locaties voor de defensie-industrie\" (nr. 28)",
+    "fr": "Motions déposées en conclusion de l'interpellation de Mme Kristien Verbelen sur \"les sites alternatifs pour l'industrie de la défense\" (n° 28)"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Deze interpellatie werd gehouden in de openbare vergadering van de commissie voor Landsverdediging van 19 maart 2025."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Cette interpellation a été développée en réunion publique de la commission de la Défense du 19 mars 2025."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Twee moties werden ingediend (MOT nr. 28/1):"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "- een motie van aanbeveling werd ingediend door mevrouw Kristien Verbelen;"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "- een eenvoudige motie werd ingediend door de heren Peter Buysrogge, Koen Metsu, de dames Darya Safai en Charlotte Deborsu, de heren Mathieu Michel, Stéphane Lasseaux, Axel Weydts en Koen Van den Heuvel."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Deux motions ont été déposées (MOT n ° 28/1):"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "- une motion de recommandation a été déposée par Mme Kristien Verbelen;"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "- une motion pure et simple a été déposée par MM. Peter Buysrogge, Koen Metsu, Mmes Darya Safai et Charlotte Deborsu, MM. Mathieu Michel, Stéphane Lasseaux, Axel Weydts et Koen Van den Heuvel."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Daar de eenvoudige motie van rechtswege voorrang heeft, breng ik deze motie in stemming."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "La motion pure et simple ayant la priorité de droit, je mets cette motion aux voix."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Vraagt iemand het woord voor een stemverklaring?"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Quelqu'un demande-t-il la parole pour une déclaration avant le vote?"
+    },
+    {
+     "type": "speech",
+     "id": "05.01",
+     "name": "Kristien Verbelen",
+     "party": "VB",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Collega's, de huidige geopolitieke situatie laat er geen twijfel over bestaan: onze defensiecapaciteit moet worden versterkt. Investeren in veiligheid, in autonomie en in strategische onafhankelijkheid is essentieel. Daarom steunen wij ook de oprichting van een militaire productiesite, wat niet alleen onze slagkracht zal verhogen, maar ook jobs, economische kansen en innovatie zal creëren. Vlaanderen is daarvoor de ideale locatie. De haven van Antwerpen is al een cruciale schakel in de logistieke keten van de NAVO en ook andere havens in Vlaanderen, zoals die in Gent of Zeebrugge, zijn zeer goed bereikbaar. Desondanks moeten we vaststellen dat investeringen in de defensieproductie keer op keer naar Wallonië en Brussel vloeien. Het is tijd dat Vlaanderen de vruchten van zijn inspanningen plukt en dat we investeren waar dat op economisch en strategisch vlak het efficiëntst is.",
+      "We willen zekerheid over de rol die Vlaanderen zal spelen in de uitbouw van onze defensie-industrie. Om daar duidelijkheid over te krijgen, vragen we de minister om te onderzoeken welke NMBS-gronden in havengebied kunnen worden aangewend voor de oprichting van een ontwikkelings- of productiecentrum voor militaire toepassingen. Daarnaast dringen we erop aan dat de minister op zeer korte termijn contact opneemt met het havenbedrijf en met de lokale en gewestelijke overheden opdat er zo snel mogelijk opportuniteiten gecreëerd worden voor een militaire ontwikkelings- of productiesite in het havengebied.",
+      "Collega's, het is geen louter economische of politieke kwestie. Het gaat over de toekomst van onze strategische positie in Europa. Ik reken op u om daarvoor de nodige stappen te zetten. Vlaanderen mag niet langer aan de zijlijn staan."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Dank u wel, mevrouw Verbelen."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Begin van de stemming / Début du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Heeft iedereen gestemd en zijn stem nagekeken / Tout le monde a-t-il voté et vérifié son vote?"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Einde van de stemming / Fin du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Uitslag van de stemming / Résultat du vote."
+    },
+    {
+     "type": "vote",
+     "number": 1,
+     "subject": null,
+     "yes": 105,
+     "no": 32,
+     "abstain": 0,
+     "total": 137,
+     "result": {
+      "nl": "De eenvoudige motie is aangenomen. Bijgevolg vervalt de motie van aanbeveling.",
+      "fr": "La motion pure et simple est adoptée. Par conséquent, la motion de recommandation est caduque."
+     }
+    }
+   ]
+  },
+  {
+   "number": "06",
+   "section": {
+    "nl": "Naamstemmingen",
+    "fr": "Votes nominatifs"
+   },
+   "title": {
+    "nl": "Wetsontwerp houdende aanpassing van de financiewet voor het begrotingsjaar 2025 van 20 december 2024 (713/3)",
+    "fr": "Projet de loi portant ajustement de la loi de finances pour l'année budgétaire 2025 du 20 décembre 2024 (713/3)"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [
+    "713"
+   ],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Vraagt iemand het woord voor een stemverklaring?"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Quelqu'un demande-t-il la parole pour une déclaration avant le vote?"
+    },
+    {
+     "type": "speech",
+     "id": "06.01",
+     "name": "Dimitri Legasse",
+     "party": "PS",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Il s'agit, à notre sens, de vraies économies mais d'une supercherie. C'est un faux effort et nous tenions à le mentionner une fois encore, singulièrement d'ailleurs en ce qui concerne les cabinets ministériels pour la Défense."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Le président : Merci, cher collègue."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Begin van de stemming / Début du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Heeft iedereen gestemd en zijn stem nagekeken? / Tout le monde a-t-il voté et vérifié son vote?"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Einde van de stemming / Fin du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Uitslag van de stemming / Résultat du vote."
+    },
+    {
+     "type": "vote",
+     "number": 2,
+     "subject": null,
+     "yes": 78,
+     "no": 15,
+     "abstain": 45,
+     "total": 138,
+     "result": {
+      "nl": "Bijgevolg neemt de Kamer het wetsontwerp en de bijgevoegde tabellen aan. Het zal aan de Koning ter bekrachtiging worden voorgelegd. (713/4)",
+      "fr": "En conséquence, la Chambre adopte le projet de loi et les tableaux annexés. Il sera soumis à la sanction royale. (713/4)"
+     }
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Reden van onthouding? (Nee)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Raison d'abstention? (Non)"
+    }
+   ]
+  },
+  {
+   "number": "07",
+   "section": {
+    "nl": "Naamstemmingen",
+    "fr": "Votes nominatifs"
+   },
+   "title": {
+    "nl": "Aangehouden amendementen en artikel van het wetsvoorstel strekkende tot het vaststellen van de grens voor studentenarbeid op 650 uur (nieuw opschrift) (443/1-14)",
+    "fr": "Amendements et article réservés de la proposition de loi visant à fixer le plafond applicable au travail des étudiants à 650 heures (nouvel intitulé) (443/1-14)"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [
+    "443"
+   ],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Stemming over amendement nr. 24 van Marie Meunier cs op artikel 2. (443/14)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Vote sur l'amendement n° 24 de Marie Meunier cs à l'article 2. (443/14)"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Begin van de stemming / Début du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Heeft iedereen gestemd en zijn stem nagekeken? / Tout le monde a-t-il voté et vérifié son vote?"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Einde van de stemming / Fin du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Uitslag van de stemming / Résultat du vote."
+    },
+    {
+     "type": "vote",
+     "number": 3,
+     "subject": "Stemming over amendement nr. 24 van Marie Meunier cs op artikel 2. (443/14)",
+     "yes": 37,
+     "no": 98,
+     "abstain": 3,
+     "total": 138,
+     "result": {
+      "nl": "Bijgevolg is het amendement verworpen.",
+      "fr": "En conséquence, l'amendement est rejeté."
+     }
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Stemming over amendement nr. 23 van Kurt Moons cs op artikel 2. (443/14)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Vote sur l'amendement n° 23 de Kurt Moons cs à l'article 2. (443/14)"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Begin van de stemming / Début du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Heeft iedereen gestemd en zijn stem nagekeken? / Tout le monde a-t-il voté et vérifié son vote?"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Einde van de stemming / Fin du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Uitslag van de stemming / Résultat du vote."
+    },
+    {
+     "type": "vote",
+     "number": 4,
+     "subject": "Stemming over amendement nr. 23 van Kurt Moons cs op artikel 2. (443/14)",
+     "yes": 17,
+     "no": 116,
+     "abstain": 2,
+     "total": 135,
+     "result": {
+      "nl": "Bijgevolg is het amendement verworpen en is artikel 2 aangenomen.",
+      "fr": "En conséquence, l'amendement est rejeté et l'article 2 est adopté."
+     }
+    },
+    {
+     "type": "note",
+     "lang": "nl",
+     "text": "(Mevrouw Alexia Bertrand, de heer Steven Coenegrachts en mevrouw Petra De Sutter hebben tegengestemd.)"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Stemming over amendement nr. 25 van Marie Meunier cs tot invoeging van een artikel 2/1(n). (443/14)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Vote sur l'amendement n° 25 de Marie Meunier cs tendant à insérer un article 2/1(n). (443/14)"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Begin van de stemming / Début du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Heeft iedereen gestemd en zijn stem nagekeken? / Tout le monde a-t-il voté et vérifié son vote?"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Einde van de stemming / Fin du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Uitslag van de stemming / Résultat du vote."
+    },
+    {
+     "type": "vote",
+     "number": 5,
+     "subject": "Stemming over amendement nr. 25 van Marie Meunier cs tot invoeging van een artikel 2/1(n). (443/14)",
+     "yes": 36,
+     "no": 99,
+     "abstain": 3,
+     "total": 138,
+     "result": {
+      "nl": "Bijgevolg is het amendement verworpen.",
+      "fr": "En conséquence, l'amendement est rejeté."
+     }
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Stemming over amendement nr. 26 van Marie Meunier cs tot invoeging van een artikel 2/2(n). (443/14)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Vote sur l'amendement n° 26 de Marie Meunier cs tendant à insérer un article 2/2(n). (443/14)"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Mag de uitslag van de vorige stemming ook gelden voor deze stemming? (Ja)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Peut-on considérer que le résultat du vote précédent est valable pour celui-ci? (Oui)"
+    },
+    {
+     "type": "vote",
+     "number": 5,
+     "subject": "Stemming over amendement nr. 26 van Marie Meunier cs tot invoeging van een artikel 2/2(n). (443/14)",
+     "yes": 36,
+     "no": 99,
+     "abstain": 3,
+     "total": 138,
+     "result": {
+      "nl": "Bijgevolg is het amendement verworpen.",
+      "fr": "En conséquence, l'amendement est rejeté."
+     },
+     "reused": true
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Stemming over amendement nr. 27 van Marie Meunier cs tot invoeging van een artikel 2/3(n). (443/14)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Vote sur l'amendement n° 27 de Marie Meunier cs tendant à insérer un article 2/3(n). (443/14)"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Mag de uitslag van de vorige stemming ook gelden voor deze stemming? (Ja)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Peut-on considérer que le résultat du vote précédent est valable pour celui-ci? (Oui)"
+    },
+    {
+     "type": "vote",
+     "number": 5,
+     "subject": "Stemming over amendement nr. 27 van Marie Meunier cs tot invoeging van een artikel 2/3(n). (443/14)",
+     "yes": 36,
+     "no": 99,
+     "abstain": 3,
+     "total": 138,
+     "result": {
+      "nl": "Bijgevolg is het amendement verworpen.",
+      "fr": "En conséquence, l'amendement est rejeté."
+     },
+     "reused": true
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Stemming over amendement nr. 28 van Marie Meunier cs tot invoeging van een artikel 2/4(n). (443/14)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Vote sur l'amendement n° 28 de Marie Meunier cs tendant à insérer un article 2/4(n). (443/14)"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Mag de uitslag van de vorige stemming ook gelden voor deze stemming? (Ja)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Peut-on considérer que le résultat du vote précédent est valable pour celui-ci? (Oui)"
+    },
+    {
+     "type": "vote",
+     "number": 5,
+     "subject": "Stemming over amendement nr. 28 van Marie Meunier cs tot invoeging van een artikel 2/4(n). (443/14)",
+     "yes": 36,
+     "no": 99,
+     "abstain": 3,
+     "total": 138,
+     "result": {
+      "nl": "Bijgevolg is het amendement verworpen.",
+      "fr": "En conséquence, l'amendement est rejeté."
+     },
+     "reused": true
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Stemming over amendement nr. 29 van Marie Meunier cs tot invoeging van een artikel 2/5(n). (443/14)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Vote sur l'amendement n° 29 de Marie Meunier cs tendant à insérer un article 2/5(n). (443/14)"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Mag de uitslag van de vorige stemming ook gelden voor deze stemming? (Ja)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Peut-on considérer que le résultat du vote précédent est valable pour celui-ci? (Oui)"
+    },
+    {
+     "type": "vote",
+     "number": 5,
+     "subject": "Stemming over amendement nr. 29 van Marie Meunier cs tot invoeging van een artikel 2/5(n). (443/14)",
+     "yes": 36,
+     "no": 99,
+     "abstain": 3,
+     "total": 138,
+     "result": {
+      "nl": "Bijgevolg is het amendement verworpen.",
+      "fr": "En conséquence, l'amendement est rejeté."
+     },
+     "reused": true
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Stemming over amendement nr. 30 van Marie Meunier cs tot invoeging van een artikel 2/6(n). (443/14)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Vote sur l'amendement n° 30 de Marie Meunier cs tendant à insérer un article 2/6(n). (443/14)"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Mag de uitslag van de vorige stemming ook gelden voor deze stemming? (Ja)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Peut-on considérer que le résultat du vote précédent est valable pour celui-ci? (Oui)"
+    },
+    {
+     "type": "vote",
+     "number": 5,
+     "subject": "Stemming over amendement nr. 30 van Marie Meunier cs tot invoeging van een artikel 2/6(n). (443/14)",
+     "yes": 36,
+     "no": 99,
+     "abstain": 3,
+     "total": 138,
+     "result": {
+      "nl": "Bijgevolg is het amendement verworpen.",
+      "fr": "En conséquence, l'amendement est rejeté."
+     },
+     "reused": true
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Stemming over amendement nr. 31 van Marie Meunier cs tot invoeging van een artikel 2/7(n). (443/14)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Vote sur l'amendement n° 31 de Marie Meunier cs tendant à insérer un article 2/7(n). (443/14)"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Mag de uitslag van de vorige stemming ook gelden voor deze stemming? (Ja)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Peut-on considérer que le résultat du vote précédent est valable pour celui-ci? (Oui)"
+    },
+    {
+     "type": "vote",
+     "number": 5,
+     "subject": "Stemming over amendement nr. 31 van Marie Meunier cs tot invoeging van een artikel 2/7(n). (443/14)",
+     "yes": 36,
+     "no": 99,
+     "abstain": 3,
+     "total": 138,
+     "result": {
+      "nl": "Bijgevolg is het amendement verworpen.",
+      "fr": "En conséquence, l'amendement est rejeté."
+     },
+     "reused": true
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Stemming over amendement nr. 32 van Marie Meunier cs tot invoeging van een artikel 2/8(n). (443/14)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Vote sur l'amendement n° 32 de Marie Meunier cs tendant à insérer un article 2/8(n). (443/14)"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Mag de uitslag van de vorige stemming ook gelden voor deze stemming? (Ja)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Peut-on considérer que le résultat du vote précédent est valable pour celui-ci? (Oui)"
+    },
+    {
+     "type": "vote",
+     "number": 5,
+     "subject": "Stemming over amendement nr. 32 van Marie Meunier cs tot invoeging van een artikel 2/8(n). (443/14)",
+     "yes": 36,
+     "no": 99,
+     "abstain": 3,
+     "total": 138,
+     "result": {
+      "nl": "Bijgevolg is het amendement verworpen.",
+      "fr": "En conséquence, l'amendement est rejeté."
+     },
+     "reused": true
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Stemming over amendement nr. 33 van Marie Meunier cs tot invoeging van een artikel 2/9(n). ( 443/14)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Vote sur l'amendement n° 33 de Marie Meunier cs tendant à insérer un article 2/9(n). ( 443/14)"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Mag de uitslag van de vorige stemming ook gelden voor deze stemming? (Ja)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Peut-on considérer que le résultat du vote précédent est valable pour celui-ci? (Oui)"
+    },
+    {
+     "type": "vote",
+     "number": 5,
+     "subject": "Stemming over amendement nr. 33 van Marie Meunier cs tot invoeging van een artikel 2/9(n). ( 443/14)",
+     "yes": 36,
+     "no": 99,
+     "abstain": 3,
+     "total": 138,
+     "result": {
+      "nl": "Bijgevolg is het amendement verworpen.",
+      "fr": "En conséquence, l'amendement est rejeté."
+     },
+     "reused": true
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Stemming over amendement nr. 34 van Marie Meunier cs tot invoeging van een artikel 2/10(n). (443/14)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Vote sur l'amendement n° 34 de Marie Meunier cs tendant à insérer un article 2/10(n). (443/14)"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Mag de uitslag van de vorige stemming ook gelden voor deze stemming? (Ja)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Peut-on considérer que le résultat du vote précédent est valable pour celui-ci? (Oui)"
+    },
+    {
+     "type": "vote",
+     "number": 5,
+     "subject": "Stemming over amendement nr. 34 van Marie Meunier cs tot invoeging van een artikel 2/10(n). (443/14)",
+     "yes": 36,
+     "no": 99,
+     "abstain": 3,
+     "total": 138,
+     "result": {
+      "nl": "Bijgevolg is het amendement verworpen.",
+      "fr": "En conséquence, l'amendement est rejeté."
+     },
+     "reused": true
+    }
+   ]
+  },
+  {
+   "number": "08",
+   "section": {
+    "nl": "Naamstemmingen",
+    "fr": "Votes nominatifs"
+   },
+   "title": {
+    "nl": "Geheel van het wetsvoorstel strekkende tot het vaststellen van de grens voor studentenarbeid op 650 uur (nieuw opschrift) (443/13)",
+    "fr": "Ensemble de la proposition de loi visant à fixer le plafond applicable au travail des étudiants à 650 heures (nouvel intitulé) (443/13)"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [
+    "443"
+   ],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Vraagt iemand het woord voor een stemverklaring? (Nee)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Quelqu'un demande-t-il la parole pour une déclaration avant le vote? (Non)"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Begin van de stemming / Début du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Heeft iedereen gestemd en zijn stem nagekeken? / Tout le monde a-t-il voté et vérifié son vote?"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Einde van de stemming / Fin du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Uitslag van de stemming / Résultat du vote."
+    },
+    {
+     "type": "vote",
+     "number": 6,
+     "subject": null,
+     "yes": 82,
+     "no": 36,
+     "abstain": 18,
+     "total": 136,
+     "result": {
+      "nl": "Bijgevolg neemt de Kamer het wetsvoorstel aan. Het zal als wetsontwerp aan de Koning ter bekrachtiging worden voorgelegd. (443/15)",
+      "fr": "En conséquence, la Chambre adopte la proposition de loi. Elle sera soumise en tant que projet de loi à la sanction royale. (443/15)"
+     }
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Reden van onthouding? (Nee)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Raison d'abstention? (Non)"
+    },
+    {
+     "type": "note",
+     "lang": "nl",
+     "text": "(De heer Steven Vandeput heeft voorgestemd.)"
+    }
+   ]
+  },
+  {
+   "number": "09",
+   "section": {
+    "nl": "Naamstemmingen",
+    "fr": "Votes nominatifs"
+   },
+   "title": {
+    "nl": "Aangehouden amendementen en artikelen van het wetsvoorstel betreffende het tijdelijke uitstel van de registratie in de Federal Learning Account (784/1-8)",
+    "fr": "Amendements et articles réservés de la proposition de loi en vue du report temporaire de l'enregistrement dans le Federal Learning Account (784/1-8)"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [
+    "784"
+   ],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Stemming over amendement nr. 7 van Kurt Moons cs op artikel 2. ( 784/8)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Vote sur l'amendement n° 7 de Kurt Moons cs à l'article 2. ( 784/8)"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Begin van de stemming / Début du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Heeft iedereen gestemd en zijn stem nagekeken? / Tout le monde a-t-il voté et vérifié son vote?"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Einde van de stemming / Fin du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Uitslag van de stemming / Résultat du vote."
+    },
+    {
+     "type": "vote",
+     "number": 7,
+     "subject": "Stemming over amendement nr. 7 van Kurt Moons cs op artikel 2. ( 784/8)",
+     "yes": 17,
+     "no": 118,
+     "abstain": 3,
+     "total": 138,
+     "result": {
+      "nl": "Bijgevolg is het amendement verworpen.",
+      "fr": "En conséquence, l'amendement est rejeté."
+     }
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Stemming over amendement nr. 11 van Vincent Van Quickenborne op artikel 2. ( 784/8)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Vote sur l'amendement n° 11 de Vincent Van Quickenborne à l'article 2. ( 784/8)"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Begin van de stemming / Début du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Heeft iedereen gestemd en zijn stem nagekeken? / Tout le monde a-t-il voté et vérifié son vote?"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Einde van de stemming / Fin du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Uitslag van de stemming / Résultat du vote."
+    },
+    {
+     "type": "vote",
+     "number": 8,
+     "subject": "Stemming over amendement nr. 11 van Vincent Van Quickenborne op artikel 2. ( 784/8)",
+     "yes": 21,
+     "no": 116,
+     "abstain": 1,
+     "total": 138,
+     "result": {
+      "nl": "Bijgevolg is het amendement verworpen en is artikel 2 aangenomen.",
+      "fr": "En conséquence, l'amendement est rejeté et l'article 2 est adopté."
+     }
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Stemming over amendement nr. 8 van Kurt Moons cs op artikel 3. ( 784/8)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Vote sur l'amendement n° 8 de Kurt Moons cs à l'article 3. ( 784/8)"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Begin van de stemming / Début du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Heeft iedereen gestemd en zijn stem nagekeken? / Tout le monde a-t-il voté et vérifié son vote?"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Einde van de stemming / Fin du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Uitslag van de stemming / Résultat du vote."
+    },
+    {
+     "type": "vote",
+     "number": 9,
+     "subject": "Stemming over amendement nr. 8 van Kurt Moons cs op artikel 3. ( 784/8)",
+     "yes": 17,
+     "no": 118,
+     "abstain": 3,
+     "total": 138,
+     "result": {
+      "nl": "Bijgevolg is het amendement verworpen.",
+      "fr": "En conséquence, l'amendement est rejeté."
+     }
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Stemming over amendement nr. 12 van Vincent Van Quickenborne op artikel 3. ( 784/8)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Vote sur l'amendement n° 12 de Vincent Van Quickenborne à l'article 3. ( 784/8)"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Begin van de stemming / Début du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Heeft iedereen gestemd en zijn stem nagekeken? / Tout le monde a-t-il voté et vérifié son vote?"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Einde van de stemming / Fin du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Uitslag van de stemming / Résultat du vote."
+    },
+    {
+     "type": "vote",
+     "number": 10,
+     "subject": "Stemming over amendement nr. 12 van Vincent Van Quickenborne op artikel 3. ( 784/8)",
+     "yes": 21,
+     "no": 116,
+     "abstain": 1,
+     "total": 138,
+     "result": {
+      "nl": "Bijgevolg is het amendement verworpen en is artikel 3 aangenomen.",
+      "fr": "En conséquence, l'amendement est rejeté et l'article 3 est adopté."
+     }
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Stemming over amendement nr. 9 van Kurt Moons cs tot weglating van artikel 4. ( 784/8)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Vote sur l'amendement n° 9 de Kurt Moons cs visant à supprimer l'article 4. ( 784/8)"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Begin van de stemming / Début du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Heeft iedereen gestemd en zijn stem nagekeken? / Tout le monde a-t-il voté et vérifié son vote?"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Einde van de stemming / Fin du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Uitslag van de stemming / Résultat du vote."
+    },
+    {
+     "type": "vote",
+     "number": 11,
+     "subject": "Stemming over amendement nr. 9 van Kurt Moons cs tot weglating van artikel 4. ( 784/8)",
+     "yes": 17,
+     "no": 118,
+     "abstain": 3,
+     "total": 138,
+     "result": {
+      "nl": "Bijgevolg is het amendement verworpen.",
+      "fr": "En conséquence, l'amendement est rejeté."
+     }
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Stemming over amendement nr. 10 van Kurt Moons cs tot invoeging van een artikel 4(n). ( 784/8)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Vote sur l'amendement n° 10 de Kurt Moons cs tendant à insérer un article 4(n). ( 784/8)"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Mag de uitslag van de vorige stemming ook gelden voor deze stemming? (Ja)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Peut-on considérer que le résultat du vote précédent est valable pour celui-ci? (Oui)"
+    },
+    {
+     "type": "vote",
+     "number": 11,
+     "subject": "Stemming over amendement nr. 10 van Kurt Moons cs tot invoeging van een artikel 4(n). ( 784/8)",
+     "yes": 17,
+     "no": 118,
+     "abstain": 3,
+     "total": 138,
+     "result": {
+      "nl": "Bijgevolg is het amendement verworpen en is artikel 4 aangenomen.",
+      "fr": "En conséquence, l'amendement est rejeté et l'article 4 est adopté."
+     },
+     "reused": true
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Stemming over amendement nr. 6 van Kurt Moons cs op het opschrift. ( 784/8)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Vote sur l'amendement n° 6 de Kurt Moons cs à l'intitulé. ( 784/8)"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Mag de uitslag van de vorige stemming ook gelden voor deze stemming? (Ja)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Peut-on considérer que le résultat du vote précédent est valable pour celui-ci? (Oui)"
+    },
+    {
+     "type": "vote",
+     "number": 11,
+     "subject": "Stemming over amendement nr. 6 van Kurt Moons cs op het opschrift. ( 784/8)",
+     "yes": 17,
+     "no": 118,
+     "abstain": 3,
+     "total": 138,
+     "result": {
+      "nl": "Bijgevolg is het amendement verworpen.",
+      "fr": "En conséquence, l'amendement est rejeté."
+     },
+     "reused": true
+    }
+   ]
+  },
+  {
+   "number": "10",
+   "section": {
+    "nl": "Naamstemmingen",
+    "fr": "Votes nominatifs"
+   },
+   "title": {
+    "nl": "Geheel van het wetsvoorstel betreffende het tijdelijke uitstel van de registratie in de Federal Learning Account (784/7)",
+    "fr": "Ensemble de la proposition de loi en vue du report temporaire de l'enregistrement dans le Federal Learning Account (784/7)"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [
+    "784"
+   ],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Vraagt iemand het woord voor een stemverklaring? (Nee)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Quelqu'un demande-t-il la parole pour une déclaration avant le vote? (Non)"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Begin van de stemming / Début du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Heeft iedereen gestemd en zijn stem nagekeken? / Tout le monde a-t-il voté et vérifié son vote?"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Einde van de stemming / Fin du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Uitslag van de stemming / Résultat du vote."
+    },
+    {
+     "type": "vote",
+     "number": 12,
+     "subject": null,
+     "yes": 77,
+     "no": 42,
+     "abstain": 19,
+     "total": 138,
+     "result": {
+      "nl": "Bijgevolg neemt de Kamer het wetsvoorstel aan. Het zal als wetsontwerp aan de Koning ter bekrachtiging worden voorgelegd. (784/9)",
+      "fr": "En conséquence, la Chambre adopte la proposition de loi. Elle sera soumise en tant que projet de loi à la sanction royale. (784/9)"
+     }
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Reden van onthouding? ( Nee )"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Raison d'abstention? ( Non )"
+    }
+   ]
+  },
+  {
+   "number": "11",
+   "section": {
+    "nl": "Naamstemmingen",
+    "fr": "Votes nominatifs"
+   },
+   "title": {
+    "nl": "Goedkeuring van de agenda",
+    "fr": "Adoption de l’ordre du jour"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "We moeten overgaan tot de goedkeuring van de agenda voor de vergadering van volgende week."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Nous devons procéder à l’approbation de l'ordre du jour de la séance de la semaine prochaine."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Zijn er dienaangaande opmerkingen? (Nee)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Y a-t-il une observation à ce sujet? (Non)"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Bijgevolg is de agenda aangenomen."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "En conséquence, l'ordre du jour est adopté."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De vergadering wordt gesloten. Volgende vergadering donderdag 3 april 2025 om 14.15 uur."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "La séance est levée. Prochaine séance le jeudi 3 avril 2025 à 14 h 15."
+    },
+    {
+     "type": "note",
+     "lang": "nl",
+     "text": "De vergadering wordt gesloten om 21.58 uur."
+    },
+    {
+     "type": "note",
+     "lang": "fr",
+     "text": "La séance est levée à 21 h 58."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "De bijlage is opgenomen in een aparte brochure met nummer CRIV 56 PLEN 037 bijlage."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "L'annexe est reprise dans une brochure séparée, portant le numéro CRIV 56 PLEN 037 annexe."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Vote nominatif - Naamstemming: 1"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Oui"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "105"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Ja"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Aerts Staf, Aouasti Khalil, Bacquelaine Daniel, Bayet Hugues, Bergers Jeroen, Bertels Jan, Bertrand Alexia, Bombled Christophe, Buysrogge Peter, Chahid Ridouane, Coenegrachts Steven, Cornillie Hervé, Courard Philippe, Cuylaerts Dorien, Daenen Nele, Daerden Frédéric, Deborsu Charlotte, De Croo Alexander, Dedonder Ludivine, Delcourt Catherine, Demesmaeker Eva, Demon Franky, Depoorter Kathleen, Dermagne Pierre-Yves, De Roover Peter, Désir Caroline, De Smet François, De Sutter Petra, Dethier Simon, De Vreese Maaike, De Wit Sophie, D'Haese Christoph, Dubois Xavier, Ducarme Denis, Dufrane Anthony, El Yakhloufi Achraf, Farih Nawal, Foret Gilles, Frank Luc, Freilich Michael, Gatelier Jean-François, Gielis Tine, Gijbels Frieda, Goffin Philippe, Grillaert Leentje, Handichi Youssef, Hansez Isabelle, Jadoul Pierre, Kompany Pierre, Lacroix Christophe, Lamarti Fatima, Lambrecht Annick, Lanjri Nahima, Lasseaux Stéphane, Legasse Dimitri, Lejeune Marc, Lutgen Benoît, Magnette Paul, Mahdi Sammy, Maouane Rajae, Matagne Julien, Matheï Steven, Metsu Koen, Meuleman Brent, Meunier Marie, Michel Mathieu, Muylle Nathalie, Nuino Ismaël, Oru Funda, Peeters Lotte, Piedboeuf Benoît, Pirson Anne, Prévot Patrick, Ramlot Carmen, Raskin Wouter, Reuter Florence, Ronse Axel, Safai Darya, Schlitz Sarah, Scourneau Vincent, Seuntjens Oskar, Soete Jeroen, Tas Niels, Thémont Sophie, Thiébaut Éric, Tourneur Aurore, Truyman Lieve, Vanbesien Dieter, Vandeberg Victoria, Vandemaele Matti, Van den Heuvel Koen, Vandeput Steven, Van der Donckt Wim, Vander Elst Kjell, Van Hecke Stefaan, Van Hoof Els, Van Keymolen Phaedra, Van Quickenborne Vincent, van Riet Katrijn, Vanrobaeys Anja, Van Vaerenbergh Kristien, Verkeyn Charlotte, Weydts Axel, Wollants Bert, Yzermans Alain"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Non"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "32"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Nee"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Bilmez Kemal, Boukili Nabil, Bury Katleen, Daems Greet, D'Amico Roberto, Depoortere Ortwin, De Witte Kim, Dillen Marijke, Eggermont Natalie, Hedebouw Raoul, Jacquet Farah, Keuten Dieter, Merckx Sofie, Mertens Peter, Moons Kurt, Moscufo Nadia, Pas Barbara, Ponthier Annick, Ravyts Kurt, Ribaudo Julien, Samyn Ellen, Somers Werner, Tonniau Robin, Troosters Frank, Van Belleghem Francesca, Van den Bosch Annik, Van Hoecke Alexander, Van Lommel Reccino, Van Rooy Sam, Verbelen Kristien, Vermeersch Wouter, Yigit Ayse"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Abstentions"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "0"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Onthoudingen"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Vote nominatif - Naamstemming: 2"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Oui"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "78"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Ja"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Bacquelaine Daniel, Bergers Jeroen, Bertels Jan, Bertrand Alexia, Bombled Christophe, Buysrogge Peter, Cornillie Hervé, Cuylaerts Dorien, Daenen Nele, Deborsu Charlotte, Delcourt Catherine, Demesmaeker Eva, Demon Franky, Depoorter Kathleen, De Roover Peter, Dethier Simon, De Vreese Maaike, De Wit Sophie, D'Haese Christoph, Dubois Xavier, Ducarme Denis, Dufrane Anthony, El Yakhloufi Achraf, Farih Nawal, Foret Gilles, Frank Luc, Freilich Michael, Gatelier Jean-François, Gielis Tine, Gijbels Frieda, Goffin Philippe, Grillaert Leentje, Handichi Youssef, Hansez Isabelle, Jadoul Pierre, Kompany Pierre, Lamarti Fatima, Lambrecht Annick, Lanjri Nahima, Lasseaux Stéphane, Lejeune Marc, Lutgen Benoît, Mahdi Sammy, Matagne Julien, Matheï Steven, Metsu Koen, Meuleman Brent, Michel Mathieu, Muylle Nathalie, Nuino Ismaël, Oru Funda, Peeters Lotte, Piedboeuf Benoît, Pirson Anne, Ramlot Carmen, Raskin Wouter, Reuter Florence, Ronse Axel, Safai Darya, Scourneau Vincent, Seuntjens Oskar, Soete Jeroen, Tas Niels, Tourneur Aurore, Truyman Lieve, Vandeberg Victoria, Van den Heuvel Koen, Vandeput Steven, Van der Donckt Wim, Van Hoof Els, Van Keymolen Phaedra, van Riet Katrijn, Vanrobaeys Anja, Van Vaerenbergh Kristien, Verkeyn Charlotte, Weydts Axel, Wollants Bert, Yzermans Alain"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Non"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "15"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Nee"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Bilmez Kemal, Boukili Nabil, Daems Greet, D'Amico Roberto, De Witte Kim, Eggermont Natalie, Hedebouw Raoul, Jacquet Farah, Merckx Sofie, Mertens Peter, Moscufo Nadia, Ribaudo Julien, Tonniau Robin, Van den Bosch Annik, Yigit Ayse"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Abstentions"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "45"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Onthoudingen"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Aerts Staf, Aouasti Khalil, Bayet Hugues, Bury Katleen, Chahid Ridouane, Coenegrachts Steven, Courard Philippe, Daerden Frédéric, De Croo Alexander, Dedonder Ludivine, Depoortere Ortwin, Dermagne Pierre-Yves, Désir Caroline, De Smet François, De Sutter Petra, Dillen Marijke, Keuten Dieter, Lacroix Christophe, Legasse Dimitri, Magnette Paul, Maouane Rajae, Meunier Marie, Moons Kurt, Mutyebele Ngoi Lydia, Pas Barbara, Ponthier Annick, Prévot Patrick, Ravyts Kurt, Samyn Ellen, Schlitz Sarah, Somers Werner, Thémont Sophie, Thiébaut Éric, Troosters Frank, Van Belleghem Francesca, Vanbesien Dieter, Vandemaele Matti, Vander Elst Kjell, Van Hecke Stefaan, Van Hoecke Alexander, Van Lommel Reccino, Van Quickenborne Vincent, Van Rooy Sam, Verbelen Kristien, Vermeersch Wouter"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Vote nominatif - Naamstemming: 3"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Oui"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "37"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Ja"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Aerts Staf, Aouasti Khalil, Bayet Hugues, Bertrand Alexia, Bilmez Kemal, Boukili Nabil, Chahid Ridouane, Courard Philippe, Daems Greet, Daerden Frédéric, D'Amico Roberto, Dedonder Ludivine, Dermagne Pierre-Yves, Désir Caroline, De Sutter Petra, De Witte Kim, Eggermont Natalie, Hedebouw Raoul, Jacquet Farah, Legasse Dimitri, Magnette Paul, Maouane Rajae, Merckx Sofie, Mertens Peter, Meunier Marie, Moscufo Nadia, Mutyebele Ngoi Lydia, Ribaudo Julien, Schlitz Sarah, Thémont Sophie, Thiébaut Éric, Tonniau Robin, Vanbesien Dieter, Vandemaele Matti, Van den Bosch Annik, Van Hecke Stefaan, Yigit Ayse"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Non"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "98"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Nee"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Bacquelaine Daniel, Bergers Jeroen, Bertels Jan, Bombled Christophe, Bury Katleen, Buysrogge Peter, Coenegrachts Steven, Cornillie Hervé, Cuylaerts Dorien, Daenen Nele, Deborsu Charlotte, De Croo Alexander, Delcourt Catherine, Demesmaeker Eva, Demon Franky, Depoortere Ortwin, Depoorter Kathleen, De Roover Peter, Dethier Simon, De Vreese Maaike, De Wit Sophie, D'Haese Christoph, Dillen Marijke, Dubois Xavier, Ducarme Denis, Dufrane Anthony, El Yakhloufi Achraf, Farih Nawal, Foret Gilles, Frank Luc, Freilich Michael, Gatelier Jean-François, Gielis Tine, Gijbels Frieda, Goffin Philippe, Grillaert Leentje, Handichi Youssef, Hansez Isabelle, Jadoul Pierre, Keuten Dieter, Kompany Pierre, Lamarti Fatima, Lambrecht Annick, Lanjri Nahima, Lasseaux Stéphane, Lejeune Marc, Lutgen Benoît, Mahdi Sammy, Matagne Julien, Matheï Steven, Metsu Koen, Meuleman Brent, Michel Mathieu, Moons Kurt, Muylle Nathalie, Nuino Ismaël, Oru Funda, Pas Barbara, Peeters Lotte, Piedboeuf Benoît, Pirson Anne, Ponthier Annick, Ramlot Carmen, Raskin Wouter, Ravyts Kurt, Reuter Florence, Ronse Axel, Safai Darya, Samyn Ellen, Scourneau Vincent, Seuntjens Oskar, Soete Jeroen, Somers Werner, Tas Niels, Tourneur Aurore, Troosters Frank, Truyman Lieve, Van Belleghem Francesca, Vandeberg Victoria, Van den Heuvel Koen, Vandeput Steven, Van der Donckt Wim, Vander Elst Kjell, Van Hoecke Alexander, Van Hoof Els, Van Keymolen Phaedra, Van Lommel Reccino, Van Quickenborne Vincent, van Riet Katrijn, Vanrobaeys Anja, Van Rooy Sam, Van Vaerenbergh Kristien, Verbelen Kristien, Verkeyn Charlotte, Vermeersch Wouter, Weydts Axel, Wollants Bert, Yzermans Alain"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Abstentions"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "3"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Onthoudingen"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "De Smet François, Lacroix Christophe, Prévot Patrick"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Vote nominatif - Naamstemming: 4"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Oui"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "17"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Ja"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Bury Katleen, Depoortere Ortwin, Dillen Marijke, Keuten Dieter, Moons Kurt, Pas Barbara, Ponthier Annick, Ravyts Kurt, Samyn Ellen, Somers Werner, Troosters Frank, Van Belleghem Francesca, Van Hoecke Alexander, Van Lommel Reccino, Van Rooy Sam, Verbelen Kristien, Vermeersch Wouter"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Non"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "116"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Nee"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Aerts Staf, Aouasti Khalil, Bacquelaine Daniel, Bayet Hugues, Bergers Jeroen, Bertels Jan, Bilmez Kemal, Bombled Christophe, Boukili Nabil, Buysrogge Peter, Chahid Ridouane, Cornillie Hervé, Courard Philippe, Cuylaerts Dorien, Daems Greet, Daenen Nele, Daerden Frédéric, D'Amico Roberto, Deborsu Charlotte, De Croo Alexander, Dedonder Ludivine, Delcourt Catherine, Demesmaeker Eva, Demon Franky, Dermagne Pierre-Yves, De Roover Peter, Désir Caroline, De Smet François, Dethier Simon, De Vreese Maaike, De Wit Sophie, De Witte Kim, D'Haese Christoph, Dubois Xavier, Ducarme Denis, Dufrane Anthony, Eggermont Natalie, El Yakhloufi Achraf, Farih Nawal, Foret Gilles, Freilich Michael, Gatelier Jean-François, Gielis Tine, Gijbels Frieda, Goffin Philippe, Grillaert Leentje, Handichi Youssef, Hansez Isabelle, Hedebouw Raoul, Jacquet Farah, Jadoul Pierre, Kompany Pierre, Lacroix Christophe, Lamarti Fatima, Lambrecht Annick, Lanjri Nahima, Lasseaux Stéphane, Legasse Dimitri, Lejeune Marc, Lutgen Benoît, Magnette Paul, Mahdi Sammy, Maouane Rajae, Matagne Julien, Matheï Steven, Merckx Sofie, Mertens Peter, Metsu Koen, Meuleman Brent, Meunier Marie, Michel Mathieu, Moscufo Nadia, Mutyebele Ngoi Lydia, Muylle Nathalie, Nuino Ismaël, Oru Funda, Peeters Lotte, Piedboeuf Benoît, Pirson Anne, Prévot Patrick, Ramlot Carmen, Raskin Wouter, Reuter Florence, Ribaudo Julien, Ronse Axel, Safai Darya, Schlitz Sarah, Scourneau Vincent, Seuntjens Oskar, Soete Jeroen, Tas Niels, Thémont Sophie, Thiébaut Éric, Tonniau Robin, Tourneur Aurore, Truyman Lieve, Vanbesien Dieter, Vandeberg Victoria, Vandemaele Matti, Van den Bosch Annik, Van den Heuvel Koen, Vandeput Steven, Van der Donckt Wim, Vander Elst Kjell, Van Hecke Stefaan, Van Hoof Els, Van Keymolen Phaedra, Van Quickenborne Vincent, van Riet Katrijn, Vanrobaeys Anja, Van Vaerenbergh Kristien, Verkeyn Charlotte, Weydts Axel, Wollants Bert, Yigit Ayse, Yzermans Alain"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Abstentions"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "2"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Onthoudingen"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Bertrand Alexia, Coenegrachts Steven"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Vote nominatif - Naamstemming: 5"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Oui"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "36"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Ja"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Aerts Staf, Aouasti Khalil, Bayet Hugues, Bilmez Kemal, Boukili Nabil, Chahid Ridouane, Courard Philippe, Daems Greet, Daerden Frédéric, D'Amico Roberto, Dedonder Ludivine, Dermagne Pierre-Yves, Désir Caroline, De Sutter Petra, De Witte Kim, Eggermont Natalie, Hedebouw Raoul, Jacquet Farah, Legasse Dimitri, Magnette Paul, Maouane Rajae, Merckx Sofie, Mertens Peter, Meunier Marie, Moscufo Nadia, Mutyebele Ngoi Lydia, Ribaudo Julien, Schlitz Sarah, Thémont Sophie, Thiébaut Éric, Tonniau Robin, Vanbesien Dieter, Vandemaele Matti, Van den Bosch Annik, Van Hecke Stefaan, Yigit Ayse"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Non"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "99"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Nee"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Bacquelaine Daniel, Bergers Jeroen, Bertels Jan, Bertrand Alexia, Bombled Christophe, Bury Katleen, Buysrogge Peter, Coenegrachts Steven, Cornillie Hervé, Cuylaerts Dorien, Daenen Nele, Deborsu Charlotte, De Croo Alexander, Delcourt Catherine, Demesmaeker Eva, Demon Franky, Depoortere Ortwin, Depoorter Kathleen, De Roover Peter, Dethier Simon, De Vreese Maaike, De Wit Sophie, D'Haese Christoph, Dillen Marijke, Dubois Xavier, Ducarme Denis, Dufrane Anthony, El Yakhloufi Achraf, Farih Nawal, Foret Gilles, Frank Luc, Freilich Michael, Gatelier Jean-François, Gielis Tine, Gijbels Frieda, Goffin Philippe, Grillaert Leentje, Handichi Youssef, Hansez Isabelle, Jadoul Pierre, Keuten Dieter, Kompany Pierre, Lamarti Fatima, Lambrecht Annick, Lanjri Nahima, Lasseaux Stéphane, Lejeune Marc, Lutgen Benoît, Mahdi Sammy, Matagne Julien, Matheï Steven, Metsu Koen, Meuleman Brent, Michel Mathieu, Moons Kurt, Muylle Nathalie, Nuino Ismaël, Oru Funda, Pas Barbara, Peeters Lotte, Piedboeuf Benoît, Pirson Anne, Ponthier Annick, Ramlot Carmen, Raskin Wouter, Ravyts Kurt, Reuter Florence, Ronse Axel, Safai Darya, Samyn Ellen, Scourneau Vincent, Seuntjens Oskar, Soete Jeroen, Somers Werner, Tas Niels, Tourneur Aurore, Troosters Frank, Truyman Lieve, Van Belleghem Francesca, Vandeberg Victoria, Van den Heuvel Koen, Vandeput Steven, Van der Donckt Wim, Vander Elst Kjell, Van Hoecke Alexander, Van Hoof Els, Van Keymolen Phaedra, Van Lommel Reccino, Van Quickenborne Vincent, van Riet Katrijn, Vanrobaeys Anja, Van Rooy Sam, Van Vaerenbergh Kristien, Verbelen Kristien, Verkeyn Charlotte, Vermeersch Wouter, Weydts Axel, Wollants Bert, Yzermans Alain"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Abstentions"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "3"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Onthoudingen"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "De Smet François, Lacroix Christophe, Prévot Patrick"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Vote nominatif - Naamstemming: 6"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Oui"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "82"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Ja"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Bacquelaine Daniel, Bergers Jeroen, Bertels Jan, Bertrand Alexia, Bombled Christophe, Buysrogge Peter, Coenegrachts Steven, Cornillie Hervé, Cuylaerts Dorien, Daenen Nele, Deborsu Charlotte, De Croo Alexander, Delcourt Catherine, Demesmaeker Eva, Demon Franky, Depoorter Kathleen, De Roover Peter, De Smet François, Dethier Simon, De Vreese Maaike, De Wit Sophie, D'Haese Christoph, Dubois Xavier, Ducarme Denis, Dufrane Anthony, El Yakhloufi Achraf, Farih Nawal, Foret Gilles, Frank Luc, Freilich Michael, Gatelier Jean-François, Gielis Tine, Gijbels Frieda, Goffin Philippe, Grillaert Leentje, Handichi Youssef, Hansez Isabelle, Jadoul Pierre, Kompany Pierre, Lamarti Fatima, Lambrecht Annick, Lanjri Nahima, Lasseaux Stéphane, Lejeune Marc, Lutgen Benoît, Mahdi Sammy, Matagne Julien, Matheï Steven, Metsu Koen, Meuleman Brent, Michel Mathieu, Muylle Nathalie, Nuino Ismaël, Oru Funda, Peeters Lotte, Piedboeuf Benoît, Pirson Anne, Ramlot Carmen, Raskin Wouter, Reuter Florence, Ronse Axel, Safai Darya, Scourneau Vincent, Seuntjens Oskar, Soete Jeroen, Tas Niels, Tourneur Aurore, Truyman Lieve, Vandeberg Victoria, Van den Heuvel Koen, Van der Donckt Wim, Vander Elst Kjell, Van Hoof Els, Van Keymolen Phaedra, Van Quickenborne Vincent, van Riet Katrijn, Vanrobaeys Anja, Van Vaerenbergh Kristien, Verkeyn Charlotte, Weydts Axel, Wollants Bert, Yzermans Alain"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Non"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "36"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Nee"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Aerts Staf, Aouasti Khalil, Bayet Hugues, Bilmez Kemal, Boukili Nabil, Chahid Ridouane, Courard Philippe, Daems Greet, Daerden Frédéric, D'Amico Roberto, Dedonder Ludivine, Dermagne Pierre-Yves, Désir Caroline, De Sutter Petra, De Witte Kim, Eggermont Natalie, Hedebouw Raoul, Jacquet Farah, Legasse Dimitri, Magnette Paul, Maouane Rajae, Merckx Sofie, Mertens Peter, Meunier Marie, Moscufo Nadia, Mutyebele Ngoi Lydia, Ribaudo Julien, Schlitz Sarah, Thémont Sophie, Thiébaut Éric, Tonniau Robin, Vanbesien Dieter, Vandemaele Matti, Van den Bosch Annik, Van Hecke Stefaan, Yigit Ayse"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Abstentions"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "18"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Onthoudingen"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Bury Katleen, Depoortere Ortwin, Dillen Marijke, Keuten Dieter, Lacroix Christophe, Moons Kurt, Pas Barbara, Ponthier Annick, Prévot Patrick, Ravyts Kurt, Samyn Ellen, Somers Werner, Troosters Frank, Van Belleghem Francesca, Van Hoecke Alexander, Van Rooy Sam, Verbelen Kristien, Vermeersch Wouter"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Vote nominatif - Naamstemming: 7"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Oui"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "17"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Ja"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Bury Katleen, Depoortere Ortwin, Dillen Marijke, Keuten Dieter, Moons Kurt, Pas Barbara, Ponthier Annick, Ravyts Kurt, Samyn Ellen, Somers Werner, Troosters Frank, Van Belleghem Francesca, Van Hoecke Alexander, Van Lommel Reccino, Van Rooy Sam, Verbelen Kristien, Vermeersch Wouter"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Non"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "118"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Nee"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Aerts Staf, Aouasti Khalil, Bacquelaine Daniel, Bayet Hugues, Bergers Jeroen, Bertels Jan, Bertrand Alexia, Bilmez Kemal, Bombled Christophe, Boukili Nabil, Buysrogge Peter, Chahid Ridouane, Coenegrachts Steven, Cornillie Hervé, Courard Philippe, Cuylaerts Dorien, Daems Greet, Daenen Nele, Daerden Frédéric, D'Amico Roberto, Deborsu Charlotte, Dedonder Ludivine, Delcourt Catherine, Demesmaeker Eva, Demon Franky, Depoorter Kathleen, Dermagne Pierre-Yves, De Roover Peter, Désir Caroline, De Smet François, De Sutter Petra, Dethier Simon, De Vreese Maaike, De Wit Sophie, De Witte Kim, D'Haese Christoph, Dubois Xavier, Ducarme Denis, Dufrane Anthony, Eggermont Natalie, El Yakhloufi Achraf, Farih Nawal, Foret Gilles, Frank Luc, Freilich Michael, Gatelier Jean-François, Gielis Tine, Gijbels Frieda, Goffin Philippe, Grillaert Leentje, Handichi Youssef, Hansez Isabelle, Hedebouw Raoul, Jacquet Farah, Jadoul Pierre, Kompany Pierre, Lacroix Christophe, Lamarti Fatima, Lambrecht Annick, Lanjri Nahima, Lasseaux Stéphane, Legasse Dimitri, Lejeune Marc, Lutgen Benoît, Magnette Paul, Mahdi Sammy, Maouane Rajae, Matagne Julien, Matheï Steven, Merckx Sofie, Mertens Peter, Metsu Koen, Meuleman Brent, Meunier Marie, Michel Mathieu, Moscufo Nadia, Mutyebele Ngoi Lydia, Muylle Nathalie, Nuino Ismaël, Oru Funda, Peeters Lotte, Piedboeuf Benoît, Pirson Anne, Prévot Patrick, Ramlot Carmen, Raskin Wouter, Reuter Florence, Ribaudo Julien, Ronse Axel, Safai Darya, Schlitz Sarah, Scourneau Vincent, Seuntjens Oskar, Soete Jeroen, Tas Niels, Thémont Sophie, Thiébaut Éric, Tonniau Robin, Tourneur Aurore, Truyman Lieve, Vanbesien Dieter, Vandeberg Victoria, Vandemaele Matti, Van den Bosch Annik, Van den Heuvel Koen, Vandeput Steven, Van der Donckt Wim, Van Hecke Stefaan, Van Hoof Els, Van Keymolen Phaedra, van Riet Katrijn, Vanrobaeys Anja, Van Vaerenbergh Kristien, Verkeyn Charlotte, Weydts Axel, Wollants Bert, Yigit Ayse, Yzermans Alain"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Abstentions"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "3"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Onthoudingen"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "De Croo Alexander, Vander Elst Kjell, Van Quickenborne Vincent"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Vote nominatif - Naamstemming: 8"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Oui"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "21"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Ja"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Bury Katleen, Coenegrachts Steven, De Croo Alexander, Depoortere Ortwin, Dillen Marijke, Keuten Dieter, Moons Kurt, Pas Barbara, Ponthier Annick, Ravyts Kurt, Samyn Ellen, Somers Werner, Troosters Frank, Van Belleghem Francesca, Vander Elst Kjell, Van Hoecke Alexander, Van Lommel Reccino, Van Quickenborne Vincent, Van Rooy Sam, Verbelen Kristien, Vermeersch Wouter"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Non"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "116"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Nee"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Aerts Staf, Aouasti Khalil, Bacquelaine Daniel, Bayet Hugues, Bergers Jeroen, Bertels Jan, Bilmez Kemal, Bombled Christophe, Boukili Nabil, Buysrogge Peter, Chahid Ridouane, Cornillie Hervé, Courard Philippe, Cuylaerts Dorien, Daems Greet, Daenen Nele, Daerden Frédéric, D'Amico Roberto, Deborsu Charlotte, Dedonder Ludivine, Delcourt Catherine, Demesmaeker Eva, Demon Franky, Depoorter Kathleen, Dermagne Pierre-Yves, De Roover Peter, Désir Caroline, De Smet François, De Sutter Petra, Dethier Simon, De Vreese Maaike, De Wit Sophie, De Witte Kim, D'Haese Christoph, Dubois Xavier, Ducarme Denis, Dufrane Anthony, Eggermont Natalie, El Yakhloufi Achraf, Farih Nawal, Foret Gilles, Frank Luc, Freilich Michael, Gatelier Jean-François, Gielis Tine, Gijbels Frieda, Goffin Philippe, Grillaert Leentje, Handichi Youssef, Hansez Isabelle, Hedebouw Raoul, Jacquet Farah, Jadoul Pierre, Kompany Pierre, Lacroix Christophe, Lamarti Fatima, Lambrecht Annick, Lanjri Nahima, Lasseaux Stéphane, Legasse Dimitri, Lejeune Marc, Lutgen Benoît, Magnette Paul, Mahdi Sammy, Maouane Rajae, Matagne Julien, Matheï Steven, Merckx Sofie, Mertens Peter, Metsu Koen, Meuleman Brent, Meunier Marie, Michel Mathieu, Moscufo Nadia, Mutyebele Ngoi Lydia, Muylle Nathalie, Nuino Ismaël, Oru Funda, Peeters Lotte, Piedboeuf Benoît, Pirson Anne, Prévot Patrick, Ramlot Carmen, Raskin Wouter, Reuter Florence, Ribaudo Julien, Ronse Axel, Safai Darya, Schlitz Sarah, Scourneau Vincent, Seuntjens Oskar, Soete Jeroen, Tas Niels, Thémont Sophie, Thiébaut Éric, Tonniau Robin, Tourneur Aurore, Truyman Lieve, Vanbesien Dieter, Vandeberg Victoria, Vandemaele Matti, Van den Bosch Annik, Van den Heuvel Koen, Vandeput Steven, Van der Donckt Wim, Van Hecke Stefaan, Van Hoof Els, Van Keymolen Phaedra, van Riet Katrijn, Vanrobaeys Anja, Van Vaerenbergh Kristien, Verkeyn Charlotte, Weydts Axel, Wollants Bert, Yigit Ayse, Yzermans Alain"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Abstentions"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "1"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Onthoudingen"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Bertrand Alexia"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Vote nominatif - Naamstemming: 9"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Oui"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "17"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Ja"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Bury Katleen, Depoortere Ortwin, Dillen Marijke, Keuten Dieter, Moons Kurt, Pas Barbara, Ponthier Annick, Ravyts Kurt, Samyn Ellen, Somers Werner, Troosters Frank, Van Belleghem Francesca, Van Hoecke Alexander, Van Lommel Reccino, Van Rooy Sam, Verbelen Kristien, Vermeersch Wouter"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Non"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "118"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Nee"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Aerts Staf, Aouasti Khalil, Bacquelaine Daniel, Bayet Hugues, Bergers Jeroen, Bertels Jan, Bertrand Alexia, Bilmez Kemal, Bombled Christophe, Boukili Nabil, Buysrogge Peter, Chahid Ridouane, Coenegrachts Steven, Cornillie Hervé, Courard Philippe, Cuylaerts Dorien, Daems Greet, Daenen Nele, Daerden Frédéric, D'Amico Roberto, Deborsu Charlotte, Dedonder Ludivine, Delcourt Catherine, Demesmaeker Eva, Demon Franky, Depoorter Kathleen, Dermagne Pierre-Yves, De Roover Peter, Désir Caroline, De Smet François, De Sutter Petra, Dethier Simon, De Vreese Maaike, De Wit Sophie, De Witte Kim, D'Haese Christoph, Dubois Xavier, Ducarme Denis, Dufrane Anthony, Eggermont Natalie, El Yakhloufi Achraf, Farih Nawal, Foret Gilles, Frank Luc, Freilich Michael, Gatelier Jean-François, Gielis Tine, Gijbels Frieda, Goffin Philippe, Grillaert Leentje, Handichi Youssef, Hansez Isabelle, Hedebouw Raoul, Jacquet Farah, Jadoul Pierre, Kompany Pierre, Lacroix Christophe, Lamarti Fatima, Lambrecht Annick, Lanjri Nahima, Lasseaux Stéphane, Legasse Dimitri, Lejeune Marc, Lutgen Benoît, Magnette Paul, Mahdi Sammy, Maouane Rajae, Matagne Julien, Matheï Steven, Merckx Sofie, Mertens Peter, Metsu Koen, Meuleman Brent, Meunier Marie, Michel Mathieu, Moscufo Nadia, Mutyebele Ngoi Lydia, Muylle Nathalie, Nuino Ismaël, Oru Funda, Peeters Lotte, Piedboeuf Benoît, Pirson Anne, Prévot Patrick, Ramlot Carmen, Raskin Wouter, Reuter Florence, Ribaudo Julien, Ronse Axel, Safai Darya, Schlitz Sarah, Scourneau Vincent, Seuntjens Oskar, Soete Jeroen, Tas Niels, Thémont Sophie, Thiébaut Éric, Tonniau Robin, Tourneur Aurore, Truyman Lieve, Vanbesien Dieter, Vandeberg Victoria, Vandemaele Matti, Van den Bosch Annik, Van den Heuvel Koen, Vandeput Steven, Van der Donckt Wim, Van Hecke Stefaan, Van Hoof Els, Van Keymolen Phaedra, van Riet Katrijn, Vanrobaeys Anja, Van Vaerenbergh Kristien, Verkeyn Charlotte, Weydts Axel, Wollants Bert, Yigit Ayse, Yzermans Alain"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Abstentions"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "3"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Onthoudingen"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "De Croo Alexander, Vander Elst Kjell, Van Quickenborne Vincent"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Vote nominatif - Naamstemming: 10"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Oui"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "21"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Ja"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Bury Katleen, Coenegrachts Steven, De Croo Alexander, Depoortere Ortwin, Dillen Marijke, Keuten Dieter, Moons Kurt, Pas Barbara, Ponthier Annick, Ravyts Kurt, Samyn Ellen, Somers Werner, Troosters Frank, Van Belleghem Francesca, Vander Elst Kjell, Van Hoecke Alexander, Van Lommel Reccino, Van Quickenborne Vincent, Van Rooy Sam, Verbelen Kristien, Vermeersch Wouter"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Non"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "116"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Nee"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Aerts Staf, Aouasti Khalil, Bacquelaine Daniel, Bayet Hugues, Bergers Jeroen, Bertels Jan, Bilmez Kemal, Bombled Christophe, Boukili Nabil, Buysrogge Peter, Chahid Ridouane, Cornillie Hervé, Courard Philippe, Cuylaerts Dorien, Daems Greet, Daenen Nele, Daerden Frédéric, D'Amico Roberto, Deborsu Charlotte, Dedonder Ludivine, Delcourt Catherine, Demesmaeker Eva, Demon Franky, Depoorter Kathleen, Dermagne Pierre-Yves, De Roover Peter, Désir Caroline, De Smet François, De Sutter Petra, Dethier Simon, De Vreese Maaike, De Wit Sophie, De Witte Kim, D'Haese Christoph, Dubois Xavier, Ducarme Denis, Dufrane Anthony, Eggermont Natalie, El Yakhloufi Achraf, Farih Nawal, Foret Gilles, Frank Luc, Freilich Michael, Gatelier Jean-François, Gielis Tine, Gijbels Frieda, Goffin Philippe, Grillaert Leentje, Handichi Youssef, Hansez Isabelle, Hedebouw Raoul, Jacquet Farah, Jadoul Pierre, Kompany Pierre, Lacroix Christophe, Lamarti Fatima, Lambrecht Annick, Lanjri Nahima, Lasseaux Stéphane, Legasse Dimitri, Lejeune Marc, Lutgen Benoît, Magnette Paul, Mahdi Sammy, Maouane Rajae, Matagne Julien, Matheï Steven, Merckx Sofie, Mertens Peter, Metsu Koen, Meuleman Brent, Meunier Marie, Michel Mathieu, Moscufo Nadia, Mutyebele Ngoi Lydia, Muylle Nathalie, Nuino Ismaël, Oru Funda, Peeters Lotte, Piedboeuf Benoît, Pirson Anne, Prévot Patrick, Ramlot Carmen, Raskin Wouter, Reuter Florence, Ribaudo Julien, Ronse Axel, Safai Darya, Schlitz Sarah, Scourneau Vincent, Seuntjens Oskar, Soete Jeroen, Tas Niels, Thémont Sophie, Thiébaut Éric, Tonniau Robin, Tourneur Aurore, Truyman Lieve, Vanbesien Dieter, Vandeberg Victoria, Vandemaele Matti, Van den Bosch Annik, Van den Heuvel Koen, Vandeput Steven, Van der Donckt Wim, Van Hecke Stefaan, Van Hoof Els, Van Keymolen Phaedra, van Riet Katrijn, Vanrobaeys Anja, Van Vaerenbergh Kristien, Verkeyn Charlotte, Weydts Axel, Wollants Bert, Yigit Ayse, Yzermans Alain"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Abstentions"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "1"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Onthoudingen"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Bertrand Alexia"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Vote nominatif - Naamstemming: 11"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Oui"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "17"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Ja"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Bury Katleen, Depoortere Ortwin, Dillen Marijke, Keuten Dieter, Moons Kurt, Pas Barbara, Ponthier Annick, Ravyts Kurt, Samyn Ellen, Somers Werner, Troosters Frank, Van Belleghem Francesca, Van Hoecke Alexander, Van Lommel Reccino, Van Rooy Sam, Verbelen Kristien, Vermeersch Wouter"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Non"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "118"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Nee"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Aerts Staf, Aouasti Khalil, Bacquelaine Daniel, Bayet Hugues, Bergers Jeroen, Bertels Jan, Bertrand Alexia, Bilmez Kemal, Bombled Christophe, Boukili Nabil, Buysrogge Peter, Chahid Ridouane, Coenegrachts Steven, Cornillie Hervé, Courard Philippe, Cuylaerts Dorien, Daems Greet, Daenen Nele, Daerden Frédéric, D'Amico Roberto, Deborsu Charlotte, Dedonder Ludivine, Delcourt Catherine, Demesmaeker Eva, Demon Franky, Depoorter Kathleen, Dermagne Pierre-Yves, De Roover Peter, Désir Caroline, De Smet François, De Sutter Petra, Dethier Simon, De Vreese Maaike, De Wit Sophie, De Witte Kim, D'Haese Christoph, Dubois Xavier, Ducarme Denis, Dufrane Anthony, Eggermont Natalie, El Yakhloufi Achraf, Farih Nawal, Foret Gilles, Frank Luc, Freilich Michael, Gatelier Jean-François, Gielis Tine, Gijbels Frieda, Goffin Philippe, Grillaert Leentje, Handichi Youssef, Hansez Isabelle, Hedebouw Raoul, Jacquet Farah, Jadoul Pierre, Kompany Pierre, Lacroix Christophe, Lamarti Fatima, Lambrecht Annick, Lanjri Nahima, Lasseaux Stéphane, Legasse Dimitri, Lejeune Marc, Lutgen Benoît, Magnette Paul, Mahdi Sammy, Maouane Rajae, Matagne Julien, Matheï Steven, Merckx Sofie, Mertens Peter, Metsu Koen, Meuleman Brent, Meunier Marie, Michel Mathieu, Moscufo Nadia, Mutyebele Ngoi Lydia, Muylle Nathalie, Nuino Ismaël, Oru Funda, Peeters Lotte, Piedboeuf Benoît, Pirson Anne, Prévot Patrick, Ramlot Carmen, Raskin Wouter, Reuter Florence, Ribaudo Julien, Ronse Axel, Safai Darya, Schlitz Sarah, Scourneau Vincent, Seuntjens Oskar, Soete Jeroen, Tas Niels, Thémont Sophie, Thiébaut Éric, Tonniau Robin, Tourneur Aurore, Truyman Lieve, Vanbesien Dieter, Vandeberg Victoria, Vandemaele Matti, Van den Bosch Annik, Van den Heuvel Koen, Vandeput Steven, Van der Donckt Wim, Van Hecke Stefaan, Van Hoof Els, Van Keymolen Phaedra, van Riet Katrijn, Vanrobaeys Anja, Van Vaerenbergh Kristien, Verkeyn Charlotte, Weydts Axel, Wollants Bert, Yigit Ayse, Yzermans Alain"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Abstentions"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "3"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Onthoudingen"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "De Croo Alexander, Vander Elst Kjell, Van Quickenborne Vincent"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Vote nominatif - Naamstemming: 12"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Oui"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "77"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Ja"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Bacquelaine Daniel, Bergers Jeroen, Bertels Jan, Bombled Christophe, Buysrogge Peter, Cornillie Hervé, Cuylaerts Dorien, Daenen Nele, Deborsu Charlotte, Delcourt Catherine, Demesmaeker Eva, Demon Franky, Depoorter Kathleen, De Roover Peter, Dethier Simon, De Vreese Maaike, De Wit Sophie, D'Haese Christoph, Dubois Xavier, Ducarme Denis, Dufrane Anthony, El Yakhloufi Achraf, Farih Nawal, Foret Gilles, Frank Luc, Freilich Michael, Gatelier Jean-François, Gielis Tine, Gijbels Frieda, Goffin Philippe, Grillaert Leentje, Handichi Youssef, Hansez Isabelle, Jadoul Pierre, Kompany Pierre, Lamarti Fatima, Lambrecht Annick, Lanjri Nahima, Lasseaux Stéphane, Lejeune Marc, Lutgen Benoît, Mahdi Sammy, Matagne Julien, Matheï Steven, Metsu Koen, Meuleman Brent, Michel Mathieu, Muylle Nathalie, Nuino Ismaël, Oru Funda, Peeters Lotte, Piedboeuf Benoît, Pirson Anne, Ramlot Carmen, Raskin Wouter, Reuter Florence, Ronse Axel, Safai Darya, Scourneau Vincent, Seuntjens Oskar, Soete Jeroen, Tas Niels, Tourneur Aurore, Truyman Lieve, Vandeberg Victoria, Van den Heuvel Koen, Vandeput Steven, Van der Donckt Wim, Van Hoof Els, Van Keymolen Phaedra, van Riet Katrijn, Vanrobaeys Anja, Van Vaerenbergh Kristien, Verkeyn Charlotte, Weydts Axel, Wollants Bert, Yzermans Alain"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Non"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "42"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Nee"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Aerts Staf, Aouasti Khalil, Bayet Hugues, Bilmez Kemal, Boukili Nabil, Chahid Ridouane, Coenegrachts Steven, Courard Philippe, Daems Greet, Daerden Frédéric, D'Amico Roberto, De Croo Alexander, Dedonder Ludivine, Dermagne Pierre-Yves, Désir Caroline, De Smet François, De Sutter Petra, De Witte Kim, Eggermont Natalie, Hedebouw Raoul, Jacquet Farah, Lacroix Christophe, Legasse Dimitri, Magnette Paul, Maouane Rajae, Merckx Sofie, Mertens Peter, Meunier Marie, Moscufo Nadia, Mutyebele Ngoi Lydia, Ribaudo Julien, Schlitz Sarah, Thémont Sophie, Thiébaut Éric, Tonniau Robin, Vanbesien Dieter, Vandemaele Matti, Van den Bosch Annik, Vander Elst Kjell, Van Hecke Stefaan, Van Quickenborne Vincent, Yigit Ayse"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Abstentions"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "19"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Onthoudingen"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Bertrand Alexia, Bury Katleen, Depoortere Ortwin, Dillen Marijke, Keuten Dieter, Moons Kurt, Pas Barbara, Ponthier Annick, Prévot Patrick, Ravyts Kurt, Samyn Ellen, Somers Werner, Troosters Frank, Van Belleghem Francesca, Van Hoecke Alexander, Van Lommel Reccino, Van Rooy Sam, Verbelen Kristien, Vermeersch Wouter"
+    }
+   ]
+  }
+ ],
+ "named_votes": {}
+}

@@ -1,0 +1,282 @@
+{
+ "doc": "674",
+ "docs": [
+  "674"
+ ],
+ "legislature": 56,
+ "title": {
+  "nl": "Wetsvoorstel tot wijziging van diverse bepalingen voor wat betreft het opheffen van de machtigingen voor giften aan vzw’s, ivzw’s, stichtingen en kerkelijke instellingen en giften en legaten aan de gemeenten Komen-Waasten en Voeren (674/1-10)",
+  "fr": "Proposition de loi modifiant diverses dispositions en vue de l’abrogation des autorisations applicables aux libéralités au profit des ASBL, des AISBL, des fondations et des institutions ecclésiastiques, ainsi qu’aux libéralités et legs destinés aux communes de Comines-Warneton et de Fourons (674/1-10)",
+  "subtitles": {
+   "nl": [],
+   "fr": []
+  }
+ },
+ "sessions": [
+  {
+   "session": 151,
+   "date": "2026-11-19",
+   "part": "evening",
+   "url": "https://www.dekamer.be/doc/PCRI/html/56/ip151x.html"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Charlotte Verkeyn",
+   "party": "N-VA",
+   "role": null,
+   "refs": [
+    "151/01.01"
+   ]
+  },
+  {
+   "name": "Reccino Van Lommel",
+   "party": "VB",
+   "role": null,
+   "refs": [
+    "151/01.02"
+   ]
+  }
+ ],
+ "votes": [
+  {
+   "ref": "151/vote 9",
+   "session": 151,
+   "date": "2026-11-19",
+   "subject": null,
+   "item_title": "Wetsvoorstel tot wijziging van diverse bepalingen met het oog op het opheffen van de machtigingen van schenkingen aan VZW's, IVZW's, stichtingen, congregaties, huizen van ziekenverplegende vrouwen, seminaries, kerkelijke secundaire scholen en instellingen voor morele dienstverlening van de Centrale Vrijzinnige Raad en van schenkingen en legaten aan het Rode Kruis van België, de Universitaire Stichting, het Nationaal Orkest van België, de Koninklijke Muntschouwburg, de Koninklijke Academiën en de gemeenten Komen-Waasten en Voeren (nieuw opschrift) (674/10)",
+   "result": {
+    "nl": "Bijgevolg neemt de Kamer het wetsvoorstel aan. Het zal als wetsontwerp aan de Koning ter bekrachtiging worden voorgelegd.",
+    "fr": "En conséquence, la Chambre adopte la proposition de loi. Elle sera soumise en tant que projet de loi à la sanction royale."
+   },
+   "yes": 82,
+   "no": 34,
+   "abstain": 14,
+   "total": 130,
+   "reused": false,
+   "docs": [
+    "674"
+   ],
+   "by_party": {
+    "Anders.": {
+     "stance": "voor",
+     "yes": 6,
+     "no": 0,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 1
+    },
+    "Ecolo-Groen": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 7,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "voor",
+     "yes": 14,
+     "no": 0,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "voor",
+     "yes": 18,
+     "no": 0,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "voor",
+     "yes": 23,
+     "no": 0,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 16,
+     "abstain": 0
+    },
+    "PVDA-PTB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 13
+    },
+    "Vooruit": {
+     "stance": "voor",
+     "yes": 11,
+     "no": 0,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "voor",
+     "yes": 10,
+     "no": 0,
+     "abstain": 0
+    }
+   },
+   "kind": "whole",
+   "final": true
+  }
+ ],
+ "summary": {
+  "plain_title": "Geen toestemming van de minister meer nodig voor schenkingen aan vzw's, stichtingen en sommige instellingen",
+  "problem": "Wie tijdens zijn leven geld of goederen schenkt aan een vzw, gaat naar de notaris. Daarna moet de notaris nog lang wachten op een toestemming van de minister. Volgens de indiener is die toestemming alleen een controle op papier. Tussen 2015 en 2023 is ze nooit geweigerd. De regel komt uit de tijd van Napoleon. Volgens de indiener zorgt hij alleen voor tijdverlies en extra werk, ook voor vzw's die geld van privépersonen willen krijgen.",
+  "proposal": [
+   "Schenkingen aan vzw's, internationale vzw's, stichtingen, kerkelijke instellingen en vrijzinnige instellingen hebben geen toestemming van de minister meer nodig.",
+   "Hetzelfde geldt voor schenkingen en legaten aan het Rode Kruis, de Universitaire Stichting, het Nationaal Orkest, de Muntschouwburg en de Koninklijke Academiën.",
+   "In Komen-Waasten en Voeren hebben schenkingen en legaten tot 2.500 euro geen goedkeuring van de provinciegouverneur meer nodig.",
+   "Bij verschillende instellingen verdwijnen ook oude beperkingen op het bezitten of kopen van gebouwen en grond.",
+   "Oude regels verdwijnen, zoals een grens van 5.000 Belgische frank uit 1891."
+  ],
+  "positions": [
+   {
+    "actor": "N-VA",
+    "summary": "N-VA heeft het voorstel ingediend. De partij noemt het een eenvoudigere regeling: ze wil een nutteloze toestemming van de minister afschaffen en wil nog meer van zulke regels opsporen.",
+    "refs": [
+     "151/01.01"
+    ]
+   },
+   {
+    "actor": "VB",
+    "summary": "Vlaams Belang steunt het doel om oude toestemmingsregels af te schaffen. Volgens de partij gaat het voorstel na de wijzigingen (amendementen) te ver en is het niet goed genoeg uitgewerkt. Daarom onthoudt Vlaams Belang zich.",
+    "refs": [
+     "151/01.02"
+    ]
+   }
+  ],
+  "arguments_for": [
+   {
+    "point": "De toestemming is alleen een formaliteit. Ze is in de voorbije jaren nooit geweigerd, maar kost wel tijd en werk.",
+    "actors": [
+     "N-VA"
+    ],
+    "refs": [
+     "151/01.01"
+    ],
+    "quote": "Uit de cijfers blijkt dat tussen 2015 en 2023 geen enkele dergelijke machtiging werd geweigerd.",
+    "quote_ref": "151/01.01"
+   },
+   {
+    "point": "De regel komt uit de tijd van Napoleon en is volgens de sprekers verouderd.",
+    "actors": [
+     "N-VA",
+     "VB"
+    ],
+    "refs": [
+     "151/01.01",
+     "151/01.02"
+    ],
+    "quote": "De bestaande wetgeving dateert, zoals daarnet aangehaald, immers uit het Napoleontische tijdperk.",
+    "quote_ref": "151/01.02"
+   },
+   {
+    "point": "Schenkingen na het overlijden (bijvoorbeeld via een testament) hebben al geen toestemming meer nodig. Schenkingen tijdens het leven wel. Dat is ongelijk.",
+    "actors": [
+     "N-VA"
+    ],
+    "refs": [
+     "151/01.01"
+    ],
+    "quote": "Wie dus schenkt met de koude hand, krijgt de toestemming, maar wie tijdens zijn leven met de warme hand wil schenken, botst op administratieve obstakels.",
+    "quote_ref": "151/01.01"
+   },
+   {
+    "point": "De notaris controleert vandaag al grondig. Een extra controle door de minister is dus niet meer nodig.",
+    "actors": [
+     "N-VA"
+    ],
+    "refs": [
+     "151/01.01"
+    ],
+    "quote": "Ondertussen zijn de procedures via de notaris veel uitgebreider, strenger en omzichtiger geworden.",
+    "quote_ref": "151/01.01"
+   },
+   {
+    "point": "Vzw's kunnen zo gemakkelijker geld van privépersonen krijgen. Dan moeten ze minder rekenen op subsidies.",
+    "actors": [
+     "N-VA"
+    ],
+    "refs": [
+     "151/01.01"
+    ],
+    "quote": "Misschien willen die vzw's liever privégelden aantrekken dan een beroep te moeten doen op subsidies.",
+    "quote_ref": "151/01.01"
+   }
+  ],
+  "arguments_against": [
+   {
+    "point": "Door de wijzigingen (amendementen) is het voorstel veel groter geworden. Volgens Vlaams Belang gaat het nu over meer dan alleen eenvoudigere regels.",
+    "actors": [
+     "VB"
+    ],
+    "refs": [
+     "151/01.02"
+    ],
+    "quote": "Naar onze mening gaat het uiteindelijk veel verder dan louter een administratieve vereenvoudiging.",
+    "quote_ref": "151/01.02"
+   },
+   {
+    "point": "Er is niet voor elke instelling apart uitgelegd waarom de regels voor haar mogen verdwijnen.",
+    "actors": [
+     "VB"
+    ],
+    "refs": [
+     "151/01.02"
+    ],
+    "quote": "Die ruime deregulering vereist een voldoende gemotiveerde afweging voor elke betrokken categorie van instellingen, maar wordt niet voor elke betrokken instelling afzonderlijk onderbouwd.",
+    "quote_ref": "151/01.02"
+   },
+   {
+    "point": "Ook de grenzen en controles op het bezitten en kopen van gebouwen en grond verdwijnen. Het is niet duidelijk hoe nog wordt gezorgd voor goed beheer van dat bezit.",
+    "actors": [
+     "VB"
+    ],
+    "refs": [
+     "151/01.02"
+    ],
+    "quote": "Het is onvoldoende duidelijk welke waarborgen voor een verantwoord patrimoniumbeheer behouden blijven.",
+    "quote_ref": "151/01.02"
+   },
+   {
+    "point": "Belangrijke vragen blijven onbeantwoord. Wat als een notaris weigert om een schenking op te stellen? Wat bij schenkingen via een buitenlandse notaris? En wordt de regel overal op dezelfde manier toegepast?",
+    "actors": [
+     "VB"
+    ],
+    "refs": [
+     "151/01.02"
+    ],
+    "quote": "Bovendien blijven een aantal fundamentele vragen onbeantwoord over de rechtsbescherming, bijvoorbeeld wanneer een notaris een schenking weigert te verlijden",
+    "quote_ref": "151/01.02"
+   },
+   {
+    "point": "De Raad van State heeft een bezwaar gegeven: één regel gaat over belastingen waarvoor de gewesten bevoegd zijn. Sommige opmerkingen, vooral over de regels voor de overgangsperiode, zijn niet aangepast.",
+    "actors": [
+     "VB"
+    ],
+    "refs": [
+     "151/01.02"
+    ],
+    "quote": "Bovendien stellen we vast dat de Raad van State een bevoegdheidsbezwaar heeft geformuleerd bij de bepaling over het vaste registratierecht, dat tot de gewestelijke fiscale bevoegdheden behoort.",
+    "quote_ref": "151/01.02"
+   }
+  ]
+ },
+ "checks": [],
+ "meta": {
+  "generator": "claude-cli",
+  "prompt_version": "1",
+  "generated_at": "2026-11-22T21:52:58+00:00"
+ },
+ "repairs": []
+}

@@ -10,6 +10,246 @@
  },
  "items": [
   {
+   "number": "01",
+   "section": null,
+   "title": {
+    "nl": "Agenda",
+    "fr": "Ordre du jour"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Overeenkomstig het advies van de Conferentie van voorzitters van 18 november 2026 hebt u een gewijzigde agenda voor de vergadering van vandaag ontvangen."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Conformément à l’avis de la Conférence des présidents du 18 novembre 2026, vous avez reçu un ordre du jour modifié pour la séance d'aujourd'hui."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Zijn er dienaangaande opmerkingen?"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Y a-t-il une observation à ce sujet?"
+    },
+    {
+     "type": "heading",
+     "level": 3,
+     "nl": "Motie tot agendawijziging",
+     "fr": "Motion de modification de l’ordre du jour"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Ik heb een motie ontvangen van de heren Oskar Seuntjens, Axel Ronse, Benoît Piedboeuf en de dames Aurore Tourneur en Nawal Farih, en die luidt als volgt:"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "\"De Kamer"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "- gelet op artikel 17 van het Kamerreglement;"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "- gelet op de agenda van de plenaire vergadering van 19 november 2026;"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "- gelet op het feit dat het wetsontwerp tot uitvoering van een versterkt terug naar werk-beleid in arbeidsongeschiktheid (II), nr. 1789/1-6, urgentie verkreeg van de plenaire vergadering op 15 oktober 2026 en in de commissie voor Sociale Zaken, Werk en Pensioenen in tweede lezing werd goedgekeurd op 10 november, waarvan het verslag werd gepubliceerd op 17 november;"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "- gelet op het feit dat het wetsontwerp tot wijziging van de wet van 19 december 2025 tot uitvoering van een versterkt terug-naar werkbeleid in geval van arbeidsongeschiktheid wat betreft de versterkte solidariteitsbijdrage, nr. 1847/1-4, urgentie verkreeg van de plenaire vergadering op 5 november 2026 en in de commissie voor Sociale Zaken, Werk en Pensioenen in tweede lezing werd goedgekeurd op 10 november, waarvan het verslag werd gepubliceerd op 18 november;"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "beslist"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "de genoemde wetsontwerpen nrs. 1789 en 1847 toe te voegen aan de agenda van de plenaire vergadering van 19 november 2026 middels een gezamenlijke bespreking.\""
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "J'ai reçu une motion de MM. Oskar Seuntjens, Axel Ronse, Benoît Piedboeuf et Mmes Aurore Tourneur et Nawal Farih, et elle est libellée comme suit:"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "\"La Chambre"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "- vu l'article 17 du Règlement de la Chambre;"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "- vu l'ordre du jour de la séance plénière du 19 novembre 2026;"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "- eu égard au fait que le projet de loi exécutant une politique renforcée de retour au travail en cas d'incapacité de travail (II), n° 1789, a obtenu l'urgence au cours de la séance plénière du 15 octobre 2026 et a été adopté le 10 novembre en deuxième lecture en commission des Affaires sociales, de l'Emploi et des Pensions, le rapport ayant été publié le 17 novembre;"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "- eu égard au fait que le projet de loi modifiant la loi du 19 décembre 2025 exécutant une politique renforcée de retour au travail en cas d'incapacité de travail en ce qui concerne la cotisation de solidarité renforcée, n° 1847, a obtenu l'urgence au cours de la séance plénière du 5 novembre 2026, qu'il a été adopté le 10 novembre en commission des Affaires sociales, de l'Emploi et des Pensions, le rapport ayant été publié le 18 novembre;"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "décide"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "d'ajouter les projets de loi n os 1789 et 1847 précités à l'ordre du jour de la séance plénière du 19 novembre 2026 et d'y consacrer une discussion commune.\""
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Het stuknummer 1789 is trouwens ook het jaar van de Franse Revolutie. Ook het nummer 1847 is historisch interessant; één jaar voor een ander revolutiejaar."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Mevrouw Merckx vraagt het woord."
+    },
+    {
+     "type": "speech",
+     "id": "01.01",
+     "name": "Sofie Merckx",
+     "party": "PVDA-PTB",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le président, les séances sont effectivement un peu particulières. Vous avez fait référence à des dates révolutionnaires. C'est vrai qu'il y a aussi énormément de mobilisations du peuple ces jours-ci. Le 23 novembre prochain, Bart De Wever a rendez-vous chez le Roi, mais le peuple a aussi rendez-vous dans les rues de Bruxelles contre la politique qui est imposée aujourd'hui.",
+      "Pour revenir à l'objet qui nous concerne, je voudrais d'abord dire qu'on est confronté à un problème de méthode et à de mauvaises habitudes qui s'installent. Normalement, nous décidons de l'agenda de la plénière en Conférence des présidents, par consensus. On constate pourtant que régulièrement, quand il n'y a pas de consensus, la majorité vient avec une motion d'ordre pour changer l'ordre du jour et passer en force. La question que je me pose est donc de savoir à quoi cela sert encore de discuter en Conférence des présidents.",
+      "Deuxièmement, il est interpellant de voir qu'on nous demande en urgence d'ajouter une loi à laquelle nous nous opposons et que nous ne voulons pas soutenir, parce qu'elle concerne la quatrième vague de la chasse aux malades de longue durée. Cette loi risque de plonger 90 000 personnes dans la précarité. Aujourd'hui, on a déjà énormément de Belges qui souffrent de précarité et on ne comprend pas l'urgence d’adopter cette loi.",
+      "Au PTB, nous sommes prêts à soutenir des lois urgentes, des mesures urgentes, mais plutôt pour résoudre les problèmes de la population. Aujourd'hui, les gens sont aux abois. Avec les prix à la pompe, le prix du caddie, le prix de l'énergie, nos concitoyens n'en peuvent plus, pendant qu’on assiste à des chamailleries au sein du gouvernement sans qu’aucune mesure ne soit prise. On veut en revanche discuter d’une loi qui risque de plonger 90 000 malades de longue durée dans la précarité. Nous ne soutenons pas la mise à l'ordre du jour de cette loi et, au contraire, nous lançons un appel au gouvernement pour prendre des mesures visant à résoudre les problèmes de pouvoir d'achat de la population."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Ik wist wel dat mijn referentie aan revolutiejaren u zeer zou plezieren, mevrouw Merckx."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Puur in termen van procedures moet ik u natuurlijk tegenspreken. Het is aan de Kamer om eventueel de agenda te bepalen zoals dadelijk ook al dan niet nog zal gebeuren."
+    },
+    {
+     "type": "speech",
+     "id": "01.02",
+     "name": "Irina De Knop",
+     "party": "Anders.",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de voorzitter, het is toch wel hoogst opmerkelijk dat u er niet in bent geslaagd om daarover een akkoord te bereiken in de Conferentie van voorzitters.",
+      "Ook vanuit de liberale fractie vinden we het hallucinant dat de aangehaalde twee wetsontwerpen vandaag zouden worden behandeld, midden in een regeringscrisis, in volle crisis, waarbij minister Vandenbroucke duidelijk niet nalaat om na te trappen en daarbij zelfs de eerste minister te viseren.",
+      "Zullen we in die context echt stemmen over twee wetsontwerpen die ervoor zorgen dat de belastingen voor bedrijven verder verhogen? In de vierde en de vijfde maand leggen we immers bijkomende lasten op aan alle bedrijven op basis van het aantal langdurig zieken.",
+      "Erger nog, onder andere collega Ronse zegt vaak dat we dringend nood hebben aan een onafhankelijk orgaan om ervoor te zorgen dat het aantal langdurig zieken verder wordt teruggedrongen. Het wetsontwerp zorgt er echter voor dat de ziekenfondsen dezelfde koers blijven varen. Erger nog, ze krijgen er zelfs nog geld bij, namelijk 17 miljoen euro. In die context zullen de collega's van de N-VA en de MR dus bijkomende lasten opleggen aan bedrijven, zonder ook maar iets te veranderen aan het aantal langdurig zieken. Het mechanisme dat Vandenbroucke installeert, houden ze zo verder in stand. Het lijkt wel op een go go go aan Vandenbroucke, terwijl het nu misschien net het moment is om dat tegen te houden en ervoor te zorgen dat we de economie en de ondernemers opnieuw laten herleven."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Ik stel wel voor dat we het debat nog niet voeren, maar ons beperken tot de vraag of we de kwestie op de agenda plaatsen."
+    },
+    {
+     "type": "speech",
+     "id": "01.03",
+     "name": "Axel Ronse",
+     "party": "N-VA",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de voorzitter, ik vind het nogal bevreemdend te horen van een parlementslid dat wij als parlementsleden niet de bespreking van en de stemming over wetsvoorstellen of wetsontwerpen aan de agenda niet zouden mogen toevoegen. Ik heb dat een of twee weken geleden ook nog gehoord. Dat is onze rol, dat is waarvoor we betaald worden.",
+      "Mevrouw De Knop, ik vind uw redenering vreemd, maar ik begrijp het. U hebt ontzettend veel heimwee naar de tijd waarin de vivaldiregering boetes oplegde aan werkgevers met een bovenmatig aantal zieken. U hebt er ook een probleem mee dat we zullen controleren of mensen die onder de vivaldiregering tot aan hun pensioen ziek verklaard werden of ziek waren, alsnog kunnen werken. Daar zijn ook artsen voor nodig.",
+      "Ga dat debat dus niet uit de weg, wees niet beschaamd om te bekijken wat u in het verleden hebt goedgekeurd en wees ook niet te beroerd om dat recht te zetten. Straks krijgt u die kans. Ik ben ervan overtuigd dat u na het schitterend exposé dat mijn collega Eva Demesmaeker straks zal geven, volledig met de wind mee zult zijn gedraaid, wat u trouwens heel goed kunt, en dat zult goedkeuren."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Altijd opletten met voorspellingen te doen."
+    },
+    {
+     "type": "speech",
+     "id": "01.04",
+     "name": "Matti Vandemaele",
+     "party": "Ecolo-Groen",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Collega's, ik zal het inhoudelijk debat niet openen. Mij gaat het vooral over de manier waarop wij omgaan met urgenties en onze agendasetting.",
+      "Collega Mahdi zei hier onlangs, om vijf uur ’s ochtends dat het toch niet meer normaal is hoe wij aan het werken zijn. Mijnheer Mahdi, u hebt gelijk en de onbehouwen manier waarop u die boodschap bracht, heeft misschien te maken met uw aanstaande vaderschap, waarmee ik trouwens feliciteer. Ten gronde hebt u echter gelijk. Een goed debat is een voorbereid debat, een debat dat we samen organiseren vanuit de Conferentie van voorzitters.",
+      "Ik begrijp niet hoe de regering er telkens opnieuw niet in slaagt om planmatig en voorbereid te werken. Dat zou het debat alleszins ten goede komen. Mochten we voor de begroting dezelfde urgentie aan de dag leggen als voor alles wat u hier plots snel door het Parlement wilt jagen, dan zouden we misschien ook stappen vooruit kunnen zetten. U hoort het al, mijn fractie is geen fan van de agendawijziging."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Ik heb hier horen pleiten tegen de agendawijziging. We zullen zien hoe overtuigend die pleidooien waren."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Ik stel u voor om ons over deze vraag uit te spreken."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Je vous propose de nous prononcer sur cette demande."
+    },
+    {
+     "type": "note",
+     "lang": "nl",
+     "text": "De motie tot agendawijziging wordt aangenomen bij zitten en opstaan."
+    },
+    {
+     "type": "note",
+     "lang": "fr",
+     "text": "La motion de modification de l'ordre du jour est adoptée par assis et levé."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Bijgevolg is de gewijzigde agenda aangenomen."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "En conséquence, l'ordre du jour modifié est adopté."
+    }
+   ]
+  },
+  {
    "number": "02",
    "section": {
     "nl": "Mondelinge vragen",

@@ -1,0 +1,180 @@
+{
+ "source": {
+  "type": "plenary",
+  "legislature": 56,
+  "session": 3,
+  "url": "https://www.dekamer.be/doc/PCRI/html/56/ip003x.html",
+  "date": "2024-07-16",
+  "part": "afternoon",
+  "provisional": false
+ },
+ "items": [
+  {
+   "number": "01",
+   "section": null,
+   "title": {
+    "nl": "Toelating, onderzoek van de geloofsbrieven en eedaflegging",
+    "fr": "Admission, vérification des pouvoirs et prestation de serment"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "We moeten overgaan tot de toelating en eedaflegging van de heer Alexander De Croo."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Nous devons procéder à l'admission et à la prestation de serment de M. Alexander De Croo."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De geloofsbrieven van de heer Alexander De Croo werden tijdens onze vergadering van 10 juli 2024 geldig verklaard."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Les pouvoirs de M. Alexander De Croo ont été validés en notre séance du 10 juillet 2024."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Ik stel u dus voor tot de toelating over te gaan van dit lid."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Je vous propose donc de passer à l'admission de ce membre."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Geen bezwaar? (Nee)"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Aldus zal geschieden."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Pas d'observation? (Non)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Il en sera ainsi."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Ik memoreer de bewoordingen van de eed: \"Ik zweer de Grondwet na te leven\", \"Je jure d'observer la Constitution\", \"Ich schwöre die Verfassung zu befolgen\"."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Je rappelle les termes du serment: \"Je jure d'observer la Constitution\", \"Ik zweer de Grondwet na te leven\", \"Ich schwöre die Verfassung zu befolgen\"."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Ik verzoek de heer Alexander De Croo de grondwettelijke eed af te leggen."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Je prie M. Alexander De Croo de prêter le serment constitutionnel."
+    },
+    {
+     "type": "note",
+     "lang": "nl",
+     "text": "Alexander De Croo legt de grondwettelijke eed achtereenvolgens af in het Nederlands, in het Frans en in het Duits."
+    },
+    {
+     "type": "note",
+     "lang": "fr",
+     "text": "Alexander De Croo prête le serment constitutionnel successivement en néerlandais, en français et en allemand."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De heer Alexander De Croo zal deel uitmaken van de Nederlandse taalgroep."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "M. Alexander De Croo fera partie du groupe linguistique néerlandais."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "( Applaus )"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "( Applaudissements )"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Een eedaflegging gebeurt altijd met ruim handgeklap. Ik wou niet breken met die traditie. Daarmee zijn de plichtplegingen vervuld. Ik heet u hartelijk welkom in deze assemblee."
+    },
+    {
+     "type": "speech",
+     "id": "01.01",
+     "name": "Alexander De Croo (Open Vld)",
+     "party": null,
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de voorzitter, dank u voor uw flexibiliteit om mij vandaag de eed te laten afleggen. Ik apprecieer dat ten zeerste."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Dat is graag gedaan. Ik sluit hierbij de vergadering. We zien elkaar overmorgen terug."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De vergadering wordt gesloten. Volgende vergadering donderdag 18 juli 2024 om 14.15 uur."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "La séance est levée. Prochaine séance le jeudi 18 juillet 2024 à 14 h 15."
+    },
+    {
+     "type": "note",
+     "lang": "fr",
+     "text": "La séance est levée à 16 h 02."
+    },
+    {
+     "type": "note",
+     "lang": "nl",
+     "text": "De vergadering wordt gesloten om 16.02 uur."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Dit verslag heeft geen bijlage."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Ce compte rendu n'a pas d'annexe."
+    }
+   ]
+  }
+ ],
+ "named_votes": {}
+}

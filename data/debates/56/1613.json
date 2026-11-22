@@ -1,0 +1,556 @@
+{
+ "doc": "1613",
+ "docs": [
+  "1613"
+ ],
+ "legislature": 56,
+ "title": {
+  "nl": "Wetsontwerp houdende bijkomende maatregelen met het oog op de vermindering van de overbevolking in de gevangenissen (1613/1-9)",
+  "fr": "Projet de loi portant des mesures supplémentaires visant à réduire la surpopulation carcérale (1613/1-9)",
+  "subtitles": {
+   "nl": [],
+   "fr": []
+  }
+ },
+ "sessions": [
+  {
+   "session": 137,
+   "date": "2026-07-15",
+   "part": "afternoon",
+   "url": "https://www.dekamer.be/doc/PCRI/html/56/ip137x.html"
+  },
+  {
+   "session": 139,
+   "date": "2026-07-16",
+   "part": "afternoon",
+   "url": "https://www.dekamer.be/doc/PCRI/html/56/ip139x.html"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Sophie De Wit",
+   "party": "N-VA",
+   "role": null,
+   "refs": [
+    "137/04.01"
+   ]
+  },
+  {
+   "name": "Marijke Dillen",
+   "party": "VB",
+   "role": null,
+   "refs": [
+    "137/04.02",
+    "137/04.14",
+    "137/04.16",
+    "137/04.19",
+    "137/04.21",
+    "137/04.22"
+   ]
+  },
+  {
+   "name": "Lydia Mutyebele Ngoi",
+   "party": "PS",
+   "role": null,
+   "refs": [
+    "137/04.03",
+    "137/04.23"
+   ]
+  },
+  {
+   "name": "Julien Ribaudo",
+   "party": "PVDA-PTB",
+   "role": null,
+   "refs": [
+    "137/04.04",
+    "137/04.24",
+    "137/04.25"
+   ]
+  },
+  {
+   "name": "Aurore Tourneur",
+   "party": "Les Engagés",
+   "role": null,
+   "refs": [
+    "137/04.05",
+    "137/04.07",
+    "137/04.09"
+   ]
+  },
+  {
+   "name": "Khalil Aouasti",
+   "party": "PS",
+   "role": null,
+   "refs": [
+    "137/04.06",
+    "137/04.08"
+   ]
+  },
+  {
+   "name": "Alain Yzermans",
+   "party": "Vooruit",
+   "role": null,
+   "refs": [
+    "137/04.10"
+   ]
+  },
+  {
+   "name": "Steven Matheï",
+   "party": "cd&v",
+   "role": null,
+   "refs": [
+    "137/04.11"
+   ]
+  },
+  {
+   "name": "Stefaan Van Hecke",
+   "party": "Ecolo-Groen",
+   "role": null,
+   "refs": [
+    "137/04.12",
+    "137/04.26"
+   ]
+  },
+  {
+   "name": "Katja Gabriëls",
+   "party": "Anders.",
+   "role": null,
+   "refs": [
+    "137/04.13",
+    "137/04.15"
+   ]
+  },
+  {
+   "name": "François De Smet",
+   "party": "DéFI",
+   "role": null,
+   "refs": [
+    "137/04.17"
+   ]
+  },
+  {
+   "name": "Annelies Verlinden",
+   "party": null,
+   "role": "government",
+   "refs": [
+    "137/04.18",
+    "137/04.20"
+   ]
+  }
+ ],
+ "votes": [
+  {
+   "ref": "139/vote 18",
+   "session": 139,
+   "date": "2026-07-16",
+   "subject": null,
+   "item_title": "Wetsontwerp houdende bijkomende maatregelen met het oog op de vermindering van de overbevolking in de gevangenissen (1613/9)",
+   "result": {
+    "nl": "Bijgevolg neemt de Kamer het wetsontwerp aan. Het zal aan de Koning ter bekrachtiging worden voorgelegd. (1613/10)",
+    "fr": "En conséquence, la Chambre adopte le projet de loi. Il sera soumis à la sanction royale. (1613/10)"
+   },
+   "yes": 76,
+   "no": 59,
+   "abstain": 2,
+   "total": 137,
+   "reused": false,
+   "docs": [
+    "1613"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "voor",
+     "yes": 1,
+     "no": 0,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 6,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 1
+    },
+    "Ecolo-Groen": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 7,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "voor",
+     "yes": 13,
+     "no": 0,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "voor",
+     "yes": 16,
+     "no": 0,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "voor",
+     "yes": 23,
+     "no": 0,
+     "abstain": 0
+    },
+    "ONAFH": {
+     "stance": "voor",
+     "yes": 1,
+     "no": 0,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "verdeeld",
+     "yes": 0,
+     "no": 13,
+     "abstain": 1
+    },
+    "PVDA-PTB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 13,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 20,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "voor",
+     "yes": 11,
+     "no": 0,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "voor",
+     "yes": 11,
+     "no": 0,
+     "abstain": 0
+    }
+   },
+   "kind": "whole",
+   "final": true
+  }
+ ],
+ "summary": {
+  "plain_title": "Tweede noodwet tegen de overvolle gevangenissen: enkelband zonder voorafgaande beslissing van de rechter en snellere terugkeer van gedetineerden zonder verblijfsrecht",
+  "problem": "De Belgische gevangenissen zitten overvol. Er zitten meer dan 13.000 gedetineerden voor ongeveer 11.000 plaatsen, en honderden mensen slapen op een matras op de grond. Daarnaast wachten ongeveer 4.000 veroordeelden nog op het begin van hun straf, en dan is er geen enkele controle op hen. Volgens de regering heeft de eerste noodwet van 2025 niet genoeg geholpen. Daarom zijn er volgens haar extra maatregelen nodig, zodat de toestand na de zomer niet nog erger wordt.",
+  "proposal": [
+   "Bepaalde veroordeelden krijgen tijdelijk automatisch (\"van rechtswege\") een enkelband (elektronisch toezicht). Het gaat om straffen tot 18 maanden en om langere straffen in de laatste 18 maanden voor het einde van de straf. De strafuitvoeringsrechter controleert pas achteraf, binnen maximaal twee maanden. Wie veroordeeld is voor terrorisme, zedenfeiten, zwaar geweld of drugsfeiten komt er niet voor in aanmerking.",
+   "Veroordeelden zonder verblijfsrecht kunnen sneller naar hun land van herkomst worden teruggestuurd. Dat kan ook als de rechter hen niet vervroegd heeft vrijgelaten of als ze zelf hun hele straf willen uitzitten. Bij straffen tot drie jaar kan dat vanaf een derde van de straf.",
+   "De vervroegde vrijlating wegens overbevolking blijft bestaan tot eind 2027. Ze geldt wel nog alleen voor straffen tot drie jaar, en niet meer tot tien jaar.",
+   "De strafuitvoeringsrechter krijgt duidelijkere regels om in te schatten of iemand een risico vormt. De rechter kijkt daarbij vooral naar het risico van dit moment.",
+   "De interneringswet verandert. Geïnterneerden (mensen met een psychische stoornis die een misdrijf pleegden) gaan na een herroeping alleen nog terug naar de gevangenis als ze een ernstig gevaar zijn voor anderen. In alle andere gevallen gaan ze naar een zorginstelling. De wet treedt in werking op 1 oktober."
+  ],
+  "positions": [
+   {
+    "actor": "N-VA",
+    "summary": "N-VA steunt de noodwet. De partij noemt ze 'de beste slechte oplossing', omdat er met de enkelband meer controle komt dan nu. Ze vraagt wel om sneller meer plaatsen te maken in gevangenissen, detentiehuizen en de zorg.",
+    "refs": [
+     "137/04.01"
+    ]
+   },
+   {
+    "actor": "VB",
+    "summary": "Vlaams Belang stemt tegen. Volgens de partij zorgt de wet voor straffeloosheid en schakelt ze de rechter uit. Ze vindt ook dat de wet veroordeelden voor drugsfeiten vervroegd naar huis kan sturen. De partij steunt wel de snellere terugkeer van veroordeelde vreemdelingen.",
+    "refs": [
+     "137/04.02",
+     "137/04.14",
+     "137/04.16",
+     "137/04.19",
+     "137/04.22"
+    ]
+   },
+   {
+    "actor": "PS",
+    "summary": "De sprekers van de PS zijn tegen. Ze herhalen de kritiek van de strafuitvoeringsrechters: de wet zou niet werken, gevaarlijk zijn en slecht voor de slachtoffers. Ze stellen ook de vraag waar het beloofde extra geld voor Justitie is.",
+    "refs": [
+     "137/04.03",
+     "137/04.06",
+     "137/04.08",
+     "137/04.23"
+    ]
+   },
+   {
+    "actor": "PVDA-PTB",
+    "summary": "PVDA-PTB stemt tegen. De partij noemt de wet een reeks 'lapmiddelen' zonder cijfers die maken de rol van de rechter kleiner. Ze vraagt een totaalplan met preventie, re-integratie, zorg en betere werkomstandigheden voor het gevangenispersoneel.",
+    "refs": [
+     "137/04.04",
+     "137/04.24",
+     "137/04.25"
+    ]
+   },
+   {
+    "actor": "Les Engagés",
+    "summary": "Les Engagés stemt voor. De partij is blij dat de gemeenschappen tijd en geld krijgen om de maatregelen uit te voeren. Ze vraagt ook minder voorhechtenis, meer alternatieve straffen en speciale kamers voor verslaving in alle rechtbanken.",
+    "refs": [
+     "137/04.05",
+     "137/04.07",
+     "137/04.09"
+    ]
+   },
+   {
+    "actor": "Vooruit",
+    "summary": "Vooruit steunt de noodwet als 'minst slechte oplossing' die de symptomen aanpakt. De partij vraagt een grote verandering in het beleid, met een masterplan voor kleine detentiehuizen.",
+    "refs": [
+     "137/04.10"
+    ]
+   },
+   {
+    "actor": "cd&v",
+    "summary": "cd&v steunt de noodwet. Volgens de partij zijn de maatregelen afgebakend, tijdelijk en zijn er waarborgen voor slachtoffers. Ze wijst erop dat er daarnaast ook aan oplossingen voor de lange termijn wordt gewerkt.",
+    "refs": [
+     "137/04.11"
+    ]
+   },
+   {
+    "actor": "Ecolo-Groen",
+    "summary": "Ecolo-Groen stemt tegen. Volgens de partij lost de wet de overbevolking niet op en luistert de regering niet naar adviezen. Ze vraagt meer aandacht voor re-integratie, minder voorhechtenis en kleine detentiehuizen.",
+    "refs": [
+     "137/04.12",
+     "137/04.26"
+    ]
+   },
+   {
+    "actor": "Anders.",
+    "summary": "Anders. stemt tegen. De partij vindt dat cijfers over het effect en de financiering ontbreken. Ze vindt ook dat de automatische enkelband de strafuitvoeringsrechter en de slachtoffers buitenspel zet. Volgens haar moet de eerste noodwet eerst grondig worden geëvalueerd.",
+    "refs": [
+     "137/04.13",
+     "137/04.15"
+    ]
+   },
+   {
+    "actor": "DéFI",
+    "summary": "DéFI onthoudt zich. De partij erkent dat er praktische oplossingen in de wet staan, maar twijfelt of ze zullen werken en of er genoeg personeel en geld is. Ze vraagt een snelle evaluatie.",
+    "refs": [
+     "137/04.17"
+    ]
+   },
+   {
+    "actor": "Regering",
+    "summary": "Minister Verlinden zegt dat de maatregelen meteen een honderdtal gedetineerden laten uitstromen. Ook kunnen zo honderden straffen die nu niet worden uitgevoerd, met een enkelband worden uitgevoerd. Volgens haar is een enkelband geen straffeloosheid en is de wet volgens de Raad van State niet in strijd met de Grondwet.",
+    "refs": [
+     "137/04.18",
+     "137/04.20"
+    ]
+   }
+  ],
+  "arguments_for": [
+   {
+    "point": "Ongeveer 4.000 veroordeelden wachten nu zonder enige controle op hun straf. Met de enkelband komt er wel controle en wordt hun straf toch uitgevoerd.",
+    "actors": [
+     "N-VA",
+     "Regering",
+     "DéFI"
+    ],
+    "refs": [
+     "137/04.01",
+     "137/04.18",
+     "137/04.17"
+    ],
+    "quote": "Onze fractie kiest dan liever voor elektronisch toezicht, waarbij wel controle aanwezig is.",
+    "quote_ref": "137/04.01"
+   },
+   {
+    "point": "De toestand in de gevangenissen is zo ernstig dat er nu iets moet gebeuren. Ook al lost de wet niet alles op, het is de minst slechte oplossing die er nu is.",
+    "actors": [
+     "N-VA",
+     "Vooruit",
+     "cd&v",
+     "Les Engagés"
+    ],
+    "refs": [
+     "137/04.01",
+     "137/04.10",
+     "137/04.11",
+     "137/04.05"
+    ],
+    "quote": "in de huidige context is dit voor onze fractie de beste slechte oplossing",
+    "quote_ref": "137/04.01"
+   },
+   {
+    "point": "Een enkelband is geen vrijlating en geen straffeloosheid. Het is een manier om een straf uit te voeren, met opvolging en controle.",
+    "actors": [
+     "Regering",
+     "DéFI",
+     "cd&v"
+    ],
+    "refs": [
+     "137/04.18",
+     "137/04.17",
+     "137/04.11"
+    ],
+    "quote": "Een enkelband is geen vrijlating, maar een vorm van strafuitvoering, wetenschappelijk onderbouwd en met opvolging en controle, die voor de veroordeelde een ingrijpende straf is.",
+    "quote_ref": "137/04.18"
+   },
+   {
+    "point": "De wet maakt de vervroegde vrijlating wegens overbevolking strenger: ze geldt nog alleen voor straffen tot drie jaar in plaats van tien jaar. Daarnaast kunnen veroordeelden zonder verblijfsrecht sneller worden teruggestuurd.",
+    "actors": [
+     "N-VA",
+     "cd&v",
+     "Regering"
+    ],
+    "refs": [
+     "137/04.01",
+     "137/04.11",
+     "137/04.18"
+    ],
+    "quote": "Het toepassingsgebied wordt namelijk teruggebracht van straffen tot tien jaar naar straffen tot drie jaar.",
+    "quote_ref": "137/04.11"
+   },
+   {
+    "point": "Er zijn waarborgen. Zware misdrijven zijn uitgesloten, slachtoffers worden geïnformeerd en wie het slachtoffer lastigvalt, verliest de enkelband. Volgens de Raad van State is de wet ook niet in strijd met de Grondwet.",
+    "actors": [
+     "cd&v",
+     "Regering"
+    ],
+    "refs": [
+     "137/04.11",
+     "137/04.18"
+    ],
+    "quote": "Het niet lastigvallen van het slachtoffer is altijd een basisvoorwaarde, anders wordt de maatregel onherroepelijk ingetrokken.",
+    "quote_ref": "137/04.11"
+   },
+   {
+    "point": "De regering heeft overlegd met de deelstaten. Die krijgen tot 1 oktober de tijd om alles voor te bereiden, en een akkoord over de financiering is goedgekeurd.",
+    "actors": [
+     "Les Engagés",
+     "N-VA",
+     "Regering"
+    ],
+    "refs": [
+     "137/04.05",
+     "137/04.01",
+     "137/04.18"
+    ],
+    "quote": "nous nous réjouissons également qu'un protocole d'accord ait été approuvé lors du Conseil des ministres de ce vendredi 10 juillet.",
+    "quote_ref": "137/04.05"
+   }
+  ],
+  "arguments_against": [
+   {
+    "point": "Er zijn geen duidelijke cijfers over het effect van de wet. De eerste noodwet heeft de overbevolking niet doen dalen, en de Inspectie van Financiën vreest dat het aantal grondslapers niet zal dalen.",
+    "actors": [
+     "VB",
+     "PS",
+     "PVDA-PTB",
+     "Ecolo-Groen",
+     "Anders."
+    ],
+    "refs": [
+     "137/04.02",
+     "137/04.03",
+     "137/04.04",
+     "137/04.12",
+     "137/04.13"
+    ],
+    "quote": "Par ailleurs, aucune démonstration sérieuse ne permet aujourd'hui d'affirmer combien de places seront effectivement libérées.",
+    "quote_ref": "137/04.04"
+   },
+   {
+    "point": "Door de automatische enkelband verdwijnt de individuele beoordeling vooraf door de strafuitvoeringsrechter. Die kan alleen nog achteraf controleren. Volgens de critici is dat in strijd met de scheiding der machten.",
+    "actors": [
+     "VB",
+     "PS",
+     "PVDA-PTB",
+     "Anders.",
+     "DéFI"
+    ],
+    "refs": [
+     "137/04.02",
+     "137/04.03",
+     "137/04.04",
+     "137/04.13",
+     "137/04.17"
+    ],
+    "quote": "De scheiding tussen de uitvoerende en de rechterlijke macht valt weg bij een automatische toekenning.",
+    "quote_ref": "137/04.13"
+   },
+   {
+    "point": "Volgens de critici zijn er risico's voor de veiligheid en voor de slachtoffers. Ze vinden dat 'slechte leerlingen' worden beloond, en dat er minder voorwaarden kunnen worden opgelegd om slachtoffers te beschermen. Een koninklijk besluit kan ook veroordeelden voor drugsfeiten toelaten tot de regeling.",
+    "actors": [
+     "VB",
+     "PS",
+     "Anders."
+    ],
+    "refs": [
+     "137/04.02",
+     "137/04.03",
+     "137/04.13"
+    ],
+    "quote": "Pour eux, les victimes sont les grandes oubliées de cette grande réforme.",
+    "quote_ref": "137/04.03"
+   },
+   {
+    "point": "Het werk wordt doorgeschoven naar de gemeenschappen, de justitiehuizen en de zorgsector. Volgens de critici zijn die nu al overbelast of zitten ze vol.",
+    "actors": [
+     "VB",
+     "PVDA-PTB",
+     "Anders.",
+     "DéFI"
+    ],
+    "refs": [
+     "137/04.02",
+     "137/04.04",
+     "137/04.13",
+     "137/04.17"
+    ],
+    "quote": "Un bracelet électronique ne fonctionne pas tout seul.",
+    "quote_ref": "137/04.04"
+   },
+   {
+    "point": "Volgens de critici luisterde de regering niet naar de mensen op het terrein. Ze heeft de strafuitvoeringsrechters en de penitentiaire beleidsraad niet geraadpleegd en heeft hun kritiek niet in de tekst verwerkt.",
+    "actors": [
+     "PS",
+     "Ecolo-Groen",
+     "Anders.",
+     "PVDA-PTB"
+    ],
+    "refs": [
+     "137/04.03",
+     "137/04.12",
+     "137/04.13",
+     "137/04.04"
+    ],
+    "quote": "comment prétendre réformer un système sans consulter ceux qui le font vivre quotidiennement?",
+    "quote_ref": "137/04.03"
+   },
+   {
+    "point": "De wet is volgens de critici een volgende noodmaatregel zonder oplossing voor de lange termijn. Ze vragen meer aandacht voor re-integratie, minder voorhechtenis, meer geld voor Justitie en meer celcapaciteit.",
+    "actors": [
+     "PVDA-PTB",
+     "Ecolo-Groen",
+     "PS",
+     "VB",
+     "DéFI"
+    ],
+    "refs": [
+     "137/04.04",
+     "137/04.12",
+     "137/04.26",
+     "137/04.06",
+     "137/04.02",
+     "137/04.17"
+    ],
+    "quote": "Het is morrelen in de marge, een druppel op een hete plaat, helaas.",
+    "quote_ref": "137/04.26"
+   }
+  ]
+ },
+ "checks": [],
+ "meta": {
+  "generator": "claude-cli",
+  "prompt_version": "1",
+  "generated_at": "2026-11-22T21:55:30+00:00"
+ },
+ "repairs": []
+}

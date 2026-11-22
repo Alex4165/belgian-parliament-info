@@ -1,0 +1,2289 @@
+{
+ "source": {
+  "type": "plenary",
+  "legislature": 56,
+  "session": 94,
+  "url": "https://www.dekamer.be/doc/PCRI/html/56/ip094x.html",
+  "date": "2026-02-12",
+  "part": "afternoon",
+  "provisional": false
+ },
+ "items": [
+  {
+   "number": "01",
+   "section": null,
+   "title": {
+    "nl": "Agenda",
+    "fr": "Ordre du jour"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Overeenkomstig het advies van de Conferentie van voorzitters van 11 februari 2026 hebt u een gewijzigde agenda voor de vergadering van vandaag ontvangen."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Conformément à l’avis de la Conférence des présidents du 11 février 2026, vous avez reçu un ordre du jour modifié pour la séance d'aujourd'hui."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Zijn er dienaangaande opmerkingen? (Nee)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Y a-t-il une observation à ce sujet? (Non)"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Bijgevolg is de agenda aangenomen."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "En conséquence, l'ordre du jour est adopté."
+    }
+   ]
+  },
+  {
+   "number": "02",
+   "section": {
+    "nl": "Mondelinge vragen",
+    "fr": "Questions orales"
+   },
+   "title": {
+    "nl": "Samengevoegde vragen van",
+    "fr": null
+   },
+   "subtitles": {
+    "nl": [
+     "Sarah Schlitz aan David Clarinval (VEM Werk, Economie en Landbouw) over \"De uitsluiting van mantelzorgers van het recht op een werkloosheidsuitkering vanaf 1 maart\" (56001399P)",
+     "Anne Pirson aan David Clarinval (VEM Werk, Economie en Landbouw) over \"De mantelzorgers\" (56001414P)",
+     "Robin Tonniau aan David Clarinval (VEM Werk, Economie en Landbouw) over \"De bescherming van mantelzorgers in België en hun statuut\" (56001422P)"
+    ],
+    "fr": [
+     "Kurt Moons aan David Clarinval (VEM Werk, Economie en Landbouw) over \"Het statuut van de mantelzorgers\" (56001396P)",
+     "François De Smet aan David Clarinval (VEM Werk, Economie en Landbouw) over \"De uitsluiting van mantelzorgers van het recht op een werkloosheidsuitkering\" (56001410P)",
+     "Sophie Thémont aan David Clarinval (VEM Werk, Economie en Landbouw) over \"De uitsluiting van mantelzorgers van het recht op een werkloosheidsuitkering vanaf 1 maart\" (56001416P)",
+     "Anja Vanrobaeys aan David Clarinval (VEM Werk, Economie en Landbouw) over \"De mantelzorgers\" (56001421P)"
+    ]
+   },
+   "docs": [],
+   "events": []
+  },
+  {
+   "number": "02",
+   "section": {
+    "nl": "Mondelinge vragen",
+    "fr": "Questions orales"
+   },
+   "title": {
+    "nl": "Questions jointes de",
+    "fr": null
+   },
+   "subtitles": {
+    "nl": [
+     "Sarah Schlitz à David Clarinval (VPM Emploi, Économie et Agriculture) sur \"L'exclusion du chômage des aidants proches au 1er mars\" (56001399P)",
+     "Anne Pirson à David Clarinval (VPM Emploi, Économie et Agriculture) sur \"Les aidants proches\" (56001414P)",
+     "Robin Tonniau à David Clarinval (VPM Emploi, Économie et Agriculture) sur \"La protection des aidants proches en Belgique et leur statut\" (56001422P)"
+    ],
+    "fr": [
+     "Kurt Moons à David Clarinval (VPM Emploi, Économie et Agriculture) sur \"Le statut des aidants proches\" (56001396P)",
+     "François De Smet à David Clarinval (VPM Emploi, Économie et Agriculture) sur \"L'exclusion du chômage des aidants proches\" (56001410P)",
+     "Sophie Thémont à David Clarinval (VPM Emploi, Économie et Agriculture) sur \"L'exclusion du chômage des aidants proches au 1er mars\" (56001416P)",
+     "Anja Vanrobaeys à David Clarinval (VPM Emploi, Économie et Agriculture) sur \"Les aidants proches\" (56001421P)"
+    ]
+   },
+   "docs": [],
+   "events": [
+    {
+     "type": "speech",
+     "id": "02.01",
+     "name": "Kurt Moons",
+     "party": "VB",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de minister, de regering heeft beslist om de werkloosheidsuitkering in de tijd te beperken. Daarbij werd één fundamentele sociale correctie een jaar lang over het hoofd gezien, namelijk de impact op de mantelzorgers. Het Vlaams Belang heeft daarvoor herhaaldelijk gewaarschuwd en toch bleef het oorverdovend stil. Pas toen mantelzorgverenigingen, betrokken burgers en de media het dossier oppikten, werden vorige week plots ballonnetjes door de MR en Vooruit opgelaten.",
+      "Pas afgelopen vrijdag werd in de kern van de regering-De Wever beslist om de situatie van werkloze mantelzorgers te bekijken en tijdelijk een oplossing aan te reiken, zodat zij hun uitkering niet zouden verliezen. U engageert zich nu pas om een structurele oplossing uit te werken. De eerste minister heeft trouwens gezegd dat iemand met een heel zwaar medisch geval in de familie niet ter beschikking is van de arbeidsmarkt en op solidariteit moet kunnen rekenen. Dat is natuurlijk terecht, maar ruimschoots te laat. Intussen is de beperking al sinds januari 2026 in werking en de financiële onzekerheid van de mantelzorgers is geen theoretisch probleem, maar nijpend en reëel.",
+      "Mijnheer de minister, waarom moest het een jaar duren om dat in te zien? Waarom heeft de regering alle eerdere waarschuwingen van onze partij systematisch naast zich neergelegd? Wanneer komt er een concreet wetgevend initiatief om mantelzorgers tijdelijk van inkomensverlies te vrijwaren? Hoe zal de beloofde structurele oplossing eruitzien? Binnen welke termijn mogen mantelzorgers duidelijkheid verwachten? Zult u het statuut van de mantelzorgers in zijn geheel herbekijken? Hebt u inmiddels een brief naar uw collega’s van de regio’s gestuurd?"
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "02.02",
+     "name": "Sarah Schlitz",
+     "party": "Ecolo-Groen",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le ministre, Marie élève seule une enfant autiste. Elle enchaîne les rendez-vous entre l’école spécialisée, la logopède et les rendez-vous chez le médecin. Elle est au chômage, mais elle arrive à travailler deux jours par semaine en moyenne. Lorsqu’elle sera exclue du chômage pour aller vers le CPAS, elle ne pourra plus travailler que deux jours par mois, et elle ne pourra gagner qu’un maximum de 2 086 euros par mois. Rachida s’occupe de son fils de 12 ans, Rayan, lourdement handicapé. Elle aussi va perdre son revenu le 1 er mars. Elle touche un taux cohabitant de 745 euros actuellement, mais vu que son mari travaille – il gagne 2 000 euros –, elle n’aura pas accès au CPAS, une perte d’à peu près 1/3 du revenu pour cette famille. Françoise a deux enfants, elle est aidant proche, et elle sera exclue du chômage le 1 er mars. Elle, elle est recevable au CPAS. En revanche, son revenu d’intégration sociale (RIS) sera raboté de 250 euros par mois parce qu’elle est propriétaire de sa maison.",
+      "Monsieur le ministre, tous ces cas-là, nous les connaissons. Nous savons depuis le début que cela allait se passer. La réforme a été votée le 17 juillet, vous avez eu 210 jours pour trouver une solution pour ces cas et aujourd’hui, vous vous retrouvez au pied du mur. Il ne vous reste plus que 17 jours pour trouver une solution pour ces personnes.",
+      "On a pu lire dans la presse ce week-end les larmes de crocodile: \"on va trouver une solution, personne ne sera laissé au bord du chemin.\" Or, dans les faits, que constatons-nous? C’est qu’à ce stade, aucune solution n’a été trouvée, ni pour Marie, ni pour Rachida, ni pour Françoise, ni pour toutes les autres qui vont être exclues au 1 er mars.",
+      "Monsieur le ministre, ma question est simple, mais je vous la pose depuis des semaines: allez-vous faire en sorte qu’aucun aidant proche ne soit exclu du chômage au 1 er mars ?"
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "02.03",
+     "name": "François De Smet",
+     "party": "DéFI",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le ministre, interrogé sur la question des aidants proches le week-end passé, le premier ministre a dit exactement ceci: \"Ce groupe devient visible, c'est un effet de notre gestion.\" Quel extraordinaire aveu du fait que vous n'aviez rien anticipé du tout et que, dans l'Arizona, décidément, gouverner, c'est tout sauf prévoir! Mais il a dit aussi qu'on allait trouver une solution pour les aidants proches qui sont au chômage, qu'on ne permettrait pas qu'un aidant proche qui est au chômage aujourd'hui ne reçoive plus son allocation dans un mois ou deux.",
+      "Qu'a fait l'Arizona depuis? Hier, on a exhumé et voté une proposition de loi pour améliorer le statut des aidants proches qui travaillent. C'est très bien. On a aussi déposé une résolution en urgence des Engagés, pleine de bonnes intentions, mais en demandant des avis qui vont être rendus dans plusieurs semaines, ce qui n'a absolument aucun sens.",
+      "Et vous, vous proposez d'activer la dispense de l'ONEM. Mais cette mesure, monsieur le ministre, est très restrictive. Les aidants proches d'un parent en situation de handicap ne peuvent pas activer la dispense. Les aidants proches de conjoints à handicap lourd, non plus. Les aidants proches d'un enfant ayant dépassé 21 ans, non plus. Les aidants proches de leurs frères ou sœurs qui vivent à la maison, non plus. Les aidants proches qui ont déjà épuisé leur dispense par le passé, non plus. En outre, activer cette dispense ne permet que de donner 12 mois de sursis supplémentaires, alors que nous n'avons aucune certitude qu'une solution structurelle sera trouvée dans ce délai.",
+      "Il faut se rendre à l'évidence, monsieur le ministre, il n'est pas possible de fabriquer un statut d'aidant proche satisfaisant et équitable en 15 jours. Il n'y a donc qu'une seule chose à faire: suspendre les effets de votre réforme pour tous les aidants proches, qui, comme vous l'avez dit vous-même au Parlement, assument des charges de soins lourds; et pas juste pendant quelques mois, mais jusqu'à ce qu'on soit en mesure de proposer un vrai statut.",
+      "Allez-vous respecter l'engagement pris par le premier ministre? Pouvez-vous garantir qu'aucune maman, aucun papa d'enfant handicapé au chômage, mais aussi aucun aidant proche de son parent, conjoint, frère ou sœur en situation de handicap, ne se retrouvera sans aucun revenu propre au 1 er mars?"
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "02.04",
+     "name": "Anne Pirson",
+     "party": "Les Engagés",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le ministre, vous le savez, pour Les Engagés les aidants proches ne sont pas une forme d'opportunité. Depuis des années, nous leur portons un engagement constant au sein de ce Parlement et maintenant au sein de cette majorité, contrairement à d’autres qui semblent découvrir la thématique au rythme des polémiques. Au sein de ce gouvernement, nous nous battons ardemment sur ce dossier depuis le début des négociations initiales de la réforme du chômage.",
+      "Les Engagés n’ont cessé d’alerter sur la situation spécifique des aidants proches. Le chômage est un régime assurantiel fondé sur la disponibilité pour le marché du travail. Or, certains aidants proches, au vu de la charge lourde et constante qu’ils assument, ne sont pas disponibles sur le marché du travail. Les traiter comme des demandeurs d’emploi classiques serait tout simplement injuste.",
+      "À court terme, les maintenir dans le régime du chômage est peut ‑ ê tre une solution, mais ce n ’ est en tout cas pas une solution durable. C’est pourquoi, au sein de cette majorité, nous avons insisté pour que la réalité des aidants proches soit explicitement prise en compte. Vendredi dernier, après l’insistance de plusieurs partenaires de la majorité, dont Les Engagés, le kern a décidé l’ouverture de réunions urgentes en intercabinets afin de dégager des mesures immédiates.",
+      "Aujourd'hui, j’entends que certains souhaitent réduire le débat à une querelle de procédures ou à des dépôts de textes. La responsabilité politique, ce n’est pas courir après l’urgence médiatique, mais bien sécuriser des solutions solides.",
+      "Monsieur le ministre, pouvez ‑ vous faire é tat devant la Chambre de l ’ avancement pr é cis de ces r é unions? Quelles pistes concr è tes sont actuellement à l ’é tude? Dans quel d é lai des mesures op é rationnelles pourront ê tre pr é sent é es?"
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "02.05",
+     "name": "Sophie Thémont",
+     "party": "PS",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le ministre, J-17: le 1 er mars, c’est dans 17 jours, autant dire demain, et toujours aucune solution concrète. Qu'allez-vous encore pouvoir dire à ces aidants proches qui seront exclus le 1 er mars? Que vous êtes très préoccupé, que vous avez des pistes, qu’il existe un groupe de travail. Il reste 17 jours, monsieur le ministre.",
+      "Aujourd’hui, c’est moi qui vous pose des questions, mais ce n’est pas à moi que vous devez répondre. Vous devez répondre à ces aidants proches, à ces hommes et à ces femmes qui travaillent. Avez-vous récemment parlé à des mamans qui s’occupent de leur enfant autiste, qui travaillent un jour sur deux, qui courent de leur emploi aux écoles spécialisées, puis chez le médecin, chez le kiné, et enchaînent les rendez-vous médicaux? Elles aimeraient elles aussi travailler davantage, avoir une vie normale, mais c’est impossible.",
+      "Aujourd’hui, elles vivent dans l’angoisse de perdre jusqu’à 700 euros par mois du fait de leur exclusion. Vous rendez-vous compte de l’état dans lequel elles se trouvent? La question qui les hante est la suivante: comment vais-je pouvoir m’en sortir?",
+      "Je ne compte plus le nombre de fois où nous vous avons interrogé sur ce sujet. Nous sommes à 17 jours de leur exclusion. Dites-nous, monsieur le ministre: allez-vous geler cette exclusion, oui ou non? Pouvez-vous garantir à ces aidants proches que, le 1 er mars, ils ne perdront pas un euro?",
+      "Hier, la majorité a rejeté ma proposition au motif que vous aviez une solution. Donnez-nous enfin des éléments concrets qui puissent nous permettre de vous croire! Apportez cette réponse claire que tout le monde attend, non pas à moi, monsieur le ministre, mais aux aidants proches qui la réclament depuis des mois!"
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "02.06",
+     "name": "Robin Tonniau",
+     "party": "PVDA-PTB",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de minister, mantelzorgers zijn geen profiteurs, maar helden. Zij kiezen er bewust voor om hun eigen leven op pauze te zetten om voor een geliefde met een ziekte of een beperking te zorgen. Dat zijn vaders die ’s nachts moeten opstaan voor hun zoon met een epileptische aanval; dat zijn moeders die 24 uur op 24 uur een partner met dementie moeten bijstaan.",
+      "De uitkering van die mensen is nu in gevaar door de regering. Door de beperking van de werkloosheidsuitkeringen in de tijd dreigen zij nu zonder inkomen te vallen. Dat is een brutale besparing, die heel veel zegt over u en over de regering.",
+      "U hebt altijd verklaard dat u de mantelzorgers zou helpen. U zou, samen met minister Beenders en minister Vandenbroucke een statuut uitwerken. Dat statuut is er vandaag nog altijd niet. U sluit dus mensen uit zonder een alternatief te bieden. U gooit ze in het water om vervolgens te zeggen dat er later wel een reddingsbootje zal langskomen om hen op te pikken.",
+      "Mijnheer de minister, met de PVDA hebben we ons altijd heel constructief opgesteld. Ik zie u lachen, maar vorige zomer nog hebben we amendementen ingediend om de uitkering van die mensen te beschermen. Had u die goedgekeurd, dan bevond u zich nu niet in de situatie die we nu zien. Gisteren hebben we in de commissie opnieuw een tekst voorgelegd om de uitkering van de mantelzorgers te beschermen, maar u hebt die weggestemd. De MR, uw partij, heeft tegengestemd. Erger nog, ook Vooruit van de heer Rousseau, cd&v van de heer Mahdi, Les Engagés en de N-VA hebben de tekst verworpen.",
+      "Mijnheer de minister, wanneer zult u eindelijk een echt statuut voor mantelzorgers uitwerken, iets beters dan wat er vandaag bestaat? Ik weet niet of u het doorhebt, maar het is dringend."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "02.07",
+     "name": "Anja Vanrobaeys",
+     "party": "Vooruit",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de minister, werk en gezin combineren is al alle ballen in de lucht houden. Wanneer daar nog de zorg bij komt voor een partner met dementie, een ouder met kanker of een kind met een handicap, is dat allesbehalve evident.",
+      "Al jaren pleit Vooruit voor ondersteuning van mantelzorgers. Gisteren hebben we in de commissie een stap vooruit gezet voor mensen die mantelzorgen en werken. We hebben het uitgebreider en flexibeler gemaakt en dat is goed. Als zij zorg dragen voor anderen, moeten we ook zorg dragen voor hen. Er is echter nog altijd een groep mantelzorgers die uw aandacht verdient. Bij de hervorming van de werkloosheid hebben we van bij het begin gezegd dat we de doelstelling om meer mensen aan het werk te helpen, kunnen steunen. We hebben er tegelijk op gewezen dat dit niet voor iedereen vanzelf zal gaan en voor sommigen misschien niet haalbaar is. Daarvoor moeten uitzonderingen worden voorzien.",
+      "Een aantal uitzonderingen hebben we binnengehaald, maar niet voor de mantelzorgers. Hoe komt dat? Partijen stonden op de rem. Gelukkig zijn de geesten de voorbije weken wat gerijpt. Intussen wordt het wel dringend en is het hoog tijd dat er een oplossing komt. U hebt dat vorige week samen met onze ministers aangekondigd en dat is een goede zaak. Mantelzorgers die soms 24 op 24 zorgen, wachten nu met een bang hart af wat er vanaf 1 maart zal gebeuren. Ze dragen zorg voor hun familie en rekenen op een sterke overheid die hen beschermt.",
+      "Mijnheer de minister, zal er tegen 1 maart een oplossing zijn, zodat werkloze mantelzorgers niet bang moeten afwachten, maar wel degelijk kunnen rekenen op ondersteuning?"
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "02.08",
+     "name": "David Clarinval",
+     "party": null,
+     "role": "government",
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de voorzitter, beste collega’s, bijna iedereen wordt tijdens zijn leven geconfronteerd met de diepmenselijke plicht om voor een naaste te zorgen: een ouder wiens gezondheid achteruitgaat, een kind met een handicap, een partner die ziek wordt.",
+      "Ook werkzoekenden kunnen geconfronteerd worden met zware zorglasten. Sinds 2015 bestaat er bij de RVA een specifieke vrijstelling voor mantelzorgers. Die maakt het mogelijk het recht op een uitkering te behouden, hoewel de persoon als mantelzorger tijdelijk niet in staat is werk te zoeken.",
+      "In het overgangsregime van de hervorming van de werkloosheid is voor die mantelzorgers in een verlenging van het recht op werkloosheidsuitkeringen voorzien tot maximaal 1 jaar. Die mogelijkheid kan ook vandaag nog benut worden door werklozen van wie het recht op werkloosheidsuitkeringen normaal ten einde zou lopen op 1 maart of later.",
+      "Cette possibilité semble d'ailleurs être utilisée par le public cible. En décembre 2025, on comptait 22 % de paiements en plus à des bénéficiaires de la dispense pour aidants proches qu'en décembre 2024. Il n'est donc pas correct d'affirmer que leur réalité n'a pas été prise en compte dans le cadre de la réforme du chômage.",
+      "Le montant de l'allocation liée à cette dispense ne s'élève toutefois au maximum qu'à 390 euros par mois. Il s'agit d'un montant que nous héritons du passé. Mesdames et messieurs les députés, je plaide donc pour une augmentation substantielle de ce montant et j'ai bon espoir d'être entendu dans cette demande.",
+      "En outre, la majorité a apporté hier son soutien à une proposition parlementaire visant à améliorer le statut des aidants proches qui travaillent. Nous voulons ainsi faciliter la conciliation entre travail et soins, avec davantage de clarté et une meilleure protection pour celles et ceux qui prennent soin au quotidien d'un proche.",
+      "Par ailleurs, pour les aidants proches qui se trouvent actuellement au chômage et qui risquent de perdre prochainement leurs droits, nous prévoyons de mettre en place, dans les meilleurs délais, une solution adaptée. À ce sujet, un accord existe au sein du gouvernement. Les échanges sont constructifs et se poursuivent activement. Vendredi dernier, au sein du gouvernement, nous avons décidé d'aboutir rapidement à une solution équilibrée, à court comme à long terme, soutenue par tous.",
+      "Avec tout le respect dû aux situations humaines difficiles, il convient également de rappeler que le chômage est avant tout une assurance pour les travailleurs qui cotisent afin de se protéger contre un risque précis: la perte temporaire d'un emploi.",
+      "Il ne s'agit pas d'un système conçu ni adapté pour prendre en charge des situations de soins lourds et de longue durée. Ces réalités appellent des réponses spécifiques qui doivent être recherchées dans un système cohérent de soins et de protection sociale, qui dépasse le seul domaine de la compétence du ministre fédéral de l'Emploi.",
+      "Une politique efficace à l'égard des aidants proches ne peut reposer sur un seul pilier. Elle suppose une mobilisation cohérente et complémentaire des instruments fédéraux et régionaux. C'est pour cela que j'ai en effet écrit aux différents ministres régionaux compétents pour qu'ils puissent aussi, à leur niveau, prendre leurs responsabilités.",
+      "Je reste pleinement engagé à faire progresser ce dossier avec détermination et je resterai, avec conviction, un allié de toutes les initiatives qui visent à renforcer de manière concrète et ciblée le soutien aux aidants proches."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "02.09",
+     "name": "Kurt Moons",
+     "party": "VB",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de minister, berouw komt na de zonde, maar zou het niet beter zijn om niet telkens weer eerst een zonde te begaan? In een normale democratie luistert een regering naar de oppositie, zeker wanneer men sociale leemtes probeert te dichten. Het Vlaams Belang heeft tientallen keren gewaarschuwd voor de gevolgen voor de mantelzorgers, in de commissie en in plenum, met uitgewerkte voorstellen. Een jaar lang werd dat genegeerd, niet weerlegd, maar gewoon weggewuifd, omdat het cordon voor de regering-De Wever blijkbaar belangrijker is dan sociale rechtvaardigheid.",
+      "Nu mag u uw eigen knoeiwerk herstellen. Doe het alstublieft snel. Mantelzorgers verdienen zekerheid, geen experimenten.",
+      "Mijnheer de minister, een regering die pas luistert nadat ze heeft gefaald, bewijst niet haar kracht, maar haar onvermogen."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "02.10",
+     "name": "Sarah Schlitz",
+     "party": "Ecolo-Groen",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le ministre, je dois vous confier que nous débattons régulièrement en interne pour déterminer si vous agissez par incompétence ou par malveillance. Franchement, aidez-nous à trancher! Quelle indécence! Vous avez eu 210 jours pour apporter une solution à ces personnes qui seront exclues au 1 er mars. Vous n'avez pas avancé d'un iota sur la question. Vous vous trouvez au pied du mur. Vous avez 17 jours pour aboutir. Pendant ce temps, vous continuez à nous sortir des banalités et à tourner autour du pot sans apporter de solution concrète.",
+      "Vous nous dites être ouvert à toute proposition. Hier, une proposition de loi figurait à l'agenda et a été rejetée par votre gouvernement. Nous avions aussi déposé des amendements, qui ont également été balayés par l'Arizona. Alors, franchement, qu'attendez-vous pour apporter de vraies solutions en faveur des aidants proches? Il vous reste 17 jours!"
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "02.11",
+     "name": "François De Smet",
+     "party": "DéFI",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le ministre, il n'y a rien de rassurant dans votre réponse. Votre réforme ne sera donc pas suspendue en faveur des aidants proches. Vous annoncez une solution dont on ne voit rien venir dans les meilleurs délais; ce qui engage à peu de chose. Heureusement, chers collègues, Les Engagés ont obtenu qu'on organise des réunions! Non, collègue Pirson, monsieur le ministre, nous n'avons plus le temps d'organiser des réunions et de solliciter des avis. Il est temps de passer à l'action.",
+      "Je le regrette, mais tous les partis de cette majorité sont responsables du manque d'anticipation. Il est un peu facile de cracher dans la soupe et d'essayer de s'en tirer en disant: \"Regardez! Nous, nous avions prévenu.\" Non! Nous nous trouvons dans cette situation parce qu'aucun des cinq partis n'a vu venir ce problème. Et c'est à vous tous de le régler."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "02.12",
+     "name": "Anne Pirson",
+     "party": "Les Engagés",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le ministre, je vous remercie pour vos réponses constructives. Il est effectivement beaucoup plus facile de ne rien faire et de tout laisser comme ça que de réformer.",
+      "Contrairement à ce qui a été dit, nous avons pris nos responsabilités dès le début des négociations dans le cadre de la réforme du chômage et nous continuerons à le faire jusqu'à l'atterrissage complet des mesures attendues, à court terme, sans doute, dans le cadre du chômage, et puis, à long terme, dans le cadre de mesures structurelles.",
+      "Les aidants proches n'ont pas besoin d'effets de tribune. Ce dont ils ont besoin, c'est de réponses claires, juridiquement sécurisées et rapidement applicables. Et nous serons au rendez-vous pour qu'elles soient prises, comme nous l'avons été dans le cadre de la compensation pour les CPAS. Nous voulons assurer la justice dans les réformes, celles en cours et celles à venir."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "02.13",
+     "name": "Sophie Thémont",
+     "party": "PS",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le ministre, je ne vais pas vous dire merci pour votre réponse. Vous dites avoir une solution. Cela fait des semaines que tout le monde discute et on ne voit rien. En fait, c'est vous qui avez mis tout le monde dans le même panier, sans réfléchir, en venant avec cette réforme qui est complètement idéologique. C'est vous qui avez créé ce problème pour les aidants proches, parce que rien n'avait été réfléchi avant.",
+      "Hier, je suis venue en commission pour voter un texte qui suspend les exclusions des aidants proches avant le 1 er mars 2026. C'était simple, clair et surtout efficace. Mais, non, la majorité s'est dit qu'on avait le temps: \"17 jours, c'est demain. On va encore réfléchir.\" On a même été jusqu'à dire que ma proposition était préjudiciable. Il faut quand même pouvoir se l'entendre dire. C'est complètement hallucinant! Qui est préjudiciable dans cette histoire? Je vais vous le dire: c'est vous qui êtes préjudiciable. C'est vous qui avez voté l'exclusion des aidants proches. C'est vous qui avez fait la sourde oreille face aux alertes que l'on vous fait depuis des mois."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "02.14",
+     "name": "Robin Tonniau",
+     "party": "PVDA-PTB",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de minister, ik vat uw antwoord kort samen: u steekt de mensen in de shit en u laat hen stikken.",
+      "Mevrouw Pirson, die situatie is niet uit de lucht komen vallen. De oppositie waarschuwt daarvoor al sinds vorige zomer. Amendementen werden echter weggestemd door Les Engagés, teksten werden tot gisteren weggestemd door Les Engagés. Hoezo komt u hier nu hypocriet doen alsof alles is opgelost en alsof het onze schuld is dat die mantelzorgers in de shit blijven zitten? Ik begrijp dat niet. U moet toch wel de culot hebben om dat te doen.",
+      "Mijnheer de minister, u zegt dat er een oplossing komt, maar over welke oplossing hebt u het eigenlijk? Wij hebben een oplossing: zet de beperking van de werkloosheid in de tijd even op pauze, neem de tijd om te vergaderen, werk een degelijk statuut uit samen met de ministers Vandenbroucke en Beenders, zoals beloofd, en kom dan terug naar het Parlement. Dan kunnen we daar opnieuw over spreken."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "02.15",
+     "name": "Anja Vanrobaeys",
+     "party": "Vooruit",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de minister, u zegt dat het aantal aanvragen toeneemt en dat toont voor mij aan hoe hoog de nood is. Ik kijk dan ook uit naar de oplossing die u morgen zult afkloppen. Ze moet morgen worden afgeklopt, want de mantelzorgers willen tegen 1 maart zekerheid hebben.",
+      "Uiteraard betekenen hogere uitkeringen een betere ondersteuning. Ondertussen zal onze minister ook werken aan administratieve vereenvoudiging en aan minder paperassen. Mantelzorgers hebben immers hun hoofd al vol met zorgen voor hun gezinsleden en familieleden. Ze moeten daar geen extra paperassen bij krijgen. Het moet zo eenvoudig en zo snel mogelijk worden geregeld door de werkloosheid voor hen vanaf 1 maart niet meer te beperken in de tijd, maar te verlengen."
+     ]
+    },
+    {
+     "type": "note",
+     "lang": "nl",
+     "text": "Het incident is gesloten."
+    },
+    {
+     "type": "note",
+     "lang": "fr",
+     "text": "L'incident est clos."
+    }
+   ]
+  },
+  {
+   "number": "03",
+   "section": {
+    "nl": "Mondelinge vragen",
+    "fr": "Questions orales"
+   },
+   "title": {
+    "nl": "Vraag van Vincent Van Quickenborne aan David Clarinval (VEM Werk, Economie en Landbouw) over \"De centenindex en de dreigende toename van de loonkosten voor onze bedrijven\" (56001398P)",
+    "fr": "Question de Vincent Van Quickenborne à David Clarinval (VPM Emploi, Économie et Agriculture) sur \"L'indexation en centimes et le risque d'augmentation de la charge salariale de nos entreprises\" (56001398P)"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [],
+   "events": [
+    {
+     "type": "speech",
+     "id": "03.01",
+     "name": "Vincent Van Quickenborne",
+     "party": "Anders.",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de voorzitter, mijnheer de minister, de Europese industrie zit in zwaar weer. Daarom werd er gisteren een top georganiseerd in Antwerpen en vandaag een in Alden Biesen. Dat is een goede zaak, want de regeringsleiders ontmoeten daar de top van de industrie. Zo hoort dat ook en wij steunen dat.",
+      "De opdracht voor Europa is duidelijk: minder regels, minder taksen en meer groei. Die toppen kunnen echter geen excuus zijn voor België om niets of iets verkeerd te doen. Ik denk daarbij in de eerste plaats aan de energienorm, nietwaar mijnheer Coenegrachts, die nog niet is goedgekeurd in dit Parlement.",
+      "Ik wil het ook hebben over de centenindex die zal worden ingevoerd voor wie een brutoloon heeft van meer dan 4.000 euro, zowat 50 % van de werknemers. Die indexering zal voortaan niet meer in procenten, maar wel in centen gebeuren. Wat is de realiteit van die centenindex? Het is zo complex – in het Frans noemt men dat une usine à gaz – dat de werkgevers met de handen in het haar zitten en er niet uit geraken en dat de overheid honderden ambtenaren moet aanstellen om dat allemaal gecontroleerd te krijgen.",
+      "Dat werd in het herfstakkoord aangekondigd als een competitiviteitsmaatregel, maar nu blijkt eerder dat Frank Vandenbroucke en de socialisten ervoor gezorgd hebben dat het omgekeerde zal gebeuren en dat het de werkgevers meer zal kosten in plaats van minder. De N-VA laat dat allemaal gebeuren. Ik weet dat het een complex dossier is, maar ik zal u zeggen hoe dat komt. De centenindex stopt in 2028, maar de loonmatigingsbijdrage – de belastingverhoging voor de werkgevers – blijft tot in de oneindigheid duren. Dat betekent een loonkostenverhoging van honderden miljoenen euro's vanaf 2030.",
+      "Mijnheer de minister, ik heb maar één vraag voor u. Als er binnenkort een tweede lezing van de programmawet komt – ik hoop dat dat morgen zal zijn, want anders geraakt dat niet meer gestemd in het Parlement – zult u dan luisteren naar de bezorgdheden van de werkgevers? Zult u ervoor zorgen dat die loonkostenverhoging voor de bedrijven en de zelfstandigen er niet komt? Wij rekenen op u."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "03.02",
+     "name": "David Clarinval",
+     "party": null,
+     "role": "government",
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de voorzitter, mijnheer Van Quickenborne, de centenindex is een noodzakelijke maatregel die wij hebben genomen in een budgettair bijzonder moeilijke context. De regering heeft ervoor gekozen een klassieke indexering toe te passen op lonen tot 4.000 euro om aldus de koopkracht van de betrokken werknemers volledig te vrijwaren. Voor het deel van de lonen dat die drempel overschrijdt, wordt de indexering geplafonneerd. De maatregel zal op korte termijn dus zorgen voor een verbetering van de competitiviteit van onze ondernemingen.",
+      "In het kader van de centenindex wordt dat voordeel gedeeld met de overheid. De helft vloeit terug naar de begroting en de andere helft blijft bij de onderneming. Het gaat dus om een evenwichtsmechanisme dat budgettaire verantwoordelijkheid combineert met het beschermen van de koopkracht en het ondersteunen van de economische activiteit.",
+      "Over de mogelijke structurele impact van de maatregel op de competitiviteit van de ondernemingen moet nog worden beslist. Er werd binnen de regering nog geen akkoord gevonden. Daarom blijft de concrete uitwerking van dat onderdeel van de centenindex vandaag nog open. Er is nog geen definitieve beslissing genomen over de modaliteiten, de voorwaarden of een eventuele formule om een optimaal evenwicht te garanderen tussen budgettaire verantwoordelijkheid en competitiviteit.",
+      "Er is trouwens een notificatie uitgewerkt door de regering die voorziet in een vrijwaringsclausule. Indien de analyses zouden aantonen dat er een negatieve impact op de competitiviteit is, zal de regering het systeem aanpassen. Daarna zal de mogelijke impact van de maatregel op de competitiviteit nauwgezet worden opgevolgd bij de vastlegging van de loonnorm in december 2026 en december 2028. De sociale partners zullen volledig worden geïnformeerd over de uitgevoerde analyses."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "03.03",
+     "name": "Vincent Van Quickenborne",
+     "party": "Anders.",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Er is dus geen akkoord. Het is wel belangrijk, collega’s, dat de eerste minister vorig weekend heeft vastgesteld dat hij met de btw-chaos een kameel heeft gecreëerd. Met de complexe centenindex is opnieuw een kameel gecreëerd. We hebben nu al een kudde kamelen, dat wordt een zeer gezellige kern, mijnheer de minister.",
+      "De essentie is dat het allemaal zo complex wordt en dat er telkens opnieuw taksen bijkomen, ook in de sociale zekerheid. Denk bijvoorbeeld aan de responsabiliseringsbijdrage voor langdurig zieken. De werkgevers zijn die verschuldigd in de tweede, derde, vierde en vijfde ziektemaand. De belastingverlaging voor onderzoek en ontwikkeling en voor nachtarbeid wordt bevroren. Dat is een belastingverhoging voor de werkgevers.",
+      "Dit systeem kan, als we niet goed opletten en als u zich laat leiden door de socialisten en de N-VA, ook uitmonden in een belastingverhoging. Mijnheer de minister, het kan ook anders. In de Zweedse regering hebben we de werkgeversbijdragen verlaagd van 33 % naar 25 %. Dat is de koers die u moet volgen. Meer eenvoud en minder taksen. Op die manier beschermt u echt de industrie. Zo doen we in België wat moet gebeuren."
+     ]
+    },
+    {
+     "type": "note",
+     "lang": "nl",
+     "text": "Het incident is gesloten."
+    },
+    {
+     "type": "note",
+     "lang": "fr",
+     "text": "L'incident est clos."
+    }
+   ]
+  },
+  {
+   "number": "04",
+   "section": {
+    "nl": "Mondelinge vragen",
+    "fr": "Questions orales"
+   },
+   "title": {
+    "nl": "Samengevoegde vragen van",
+    "fr": null
+   },
+   "subtitles": {
+    "nl": [
+     "Christophe Bombled aan David Clarinval (VEM Werk, Economie en Landbouw) over \"De herindustrialisering en het concurrentievermogen\" (56001406P)",
+     "Natalie Eggermont aan David Clarinval (VEM Werk, Economie en Landbouw) over \"De industrietop\" (56001409P)"
+    ],
+    "fr": [
+     "Jeroen Soete aan David Clarinval (VEM Werk, Economie en Landbouw) over \"De industrietop\" (56001401P)",
+     "Koen Van den Heuvel aan David Clarinval (VEM Werk, Economie en Landbouw) over \"De industrietop\" (56001407P)",
+     "Reccino Van Lommel aan David Clarinval (VEM Werk, Economie en Landbouw) over \"De achteruitgang van de chemische industrie\" (56001419P)"
+    ]
+   },
+   "docs": [],
+   "events": []
+  },
+  {
+   "number": "04",
+   "section": {
+    "nl": "Mondelinge vragen",
+    "fr": "Questions orales"
+   },
+   "title": {
+    "nl": "Questions jointes de",
+    "fr": null
+   },
+   "subtitles": {
+    "nl": [
+     "Christophe Bombled à David Clarinval (VPM Emploi, Économie et Agriculture) sur \"La réindustrialisation et la compétitivité\" (56001406P)",
+     "Natalie Eggermont à David Clarinval (VPM Emploi, Économie et Agriculture) sur \"Le sommet de l'industrie\" (56001409P)"
+    ],
+    "fr": [
+     "Jeroen Soete à David Clarinval (VPM Emploi, Économie et Agriculture) sur \"Le sommet de l'industrie\" (56001401P)",
+     "Koen Van den Heuvel à David Clarinval (VPM Emploi, Économie et Agriculture) sur \"Le sommet de l'industrie\" (56001407P)",
+     "Reccino Van Lommel à David Clarinval (VPM Emploi, Économie et Agriculture) sur \"Le déclin de l'industrie chimique\" (56001419P)"
+    ]
+   },
+   "docs": [],
+   "events": [
+    {
+     "type": "speech",
+     "id": "04.01",
+     "name": "Jeroen Soete",
+     "party": "Vooruit",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de minister, vandaag vindt in Alden Biesen de Europese industrietop plaats. Onze industrie verkeert in een overlevingsmodus, ze wordt bedreigd en trekt terecht aan de alarmbel. Onze chemiesector en onze staalindustrie staan al jaren onder gigantische druk. Dat is ook niet verwonderlijk gezien de tijden waarin we leven. Poetin doet onze energiefactuur en energiekosten massaal stijgen. Trump bedreigt onze economie met handelstarieven. De Chinezen overspoelen onze markt met producten aan onrendabele dumpingprijzen.",
+      "Tijdens mijn bezoek voorbije zomer aan enkele chemische bedrijven in Oostende klaagden zij over de hoge energiekosten en vertelden zij mij over hun ongelijke strijd met Chinese producenten, die hun producten hier massaal komen dumpen tegen van de pot gerukte prijzen, waardoor onze industrie wordt weggevaagd. Niet alleen China, maar ook de Verenigde Staten spelen al jaren volgens andere spelregels, met aanzienlijke staatssteun en subsidies, overproductie en een duidelijke keuze voor de eigen industrie. Dat baart niet alleen de captains of industry zorgen, maar ook onze werknemers, die vrezen voor hun job en zien dat er banen verdwijnen. De noodkreet van onze industrie en van onze werknemers is duidelijk. We moeten onze welvaart en onze jobs beschermen.",
+      "Wie denkt dat het een oplossing is om ons te spiegelen aan het Chinese model en om met Chinese lonen te werken, dwaalt. We zullen onze industrie niet redden door onze burgers aan koopkracht te laten inboeten.",
+      "Mijnheer de minister, met die koopkracht hebben we een enorm wapen. We beschikken over een Europese markt met 450 miljoen consumenten. Veel wetenschappers en economen zeggen dat we die markt moeten gebruiken en meer de kaart ‘buy Europe’ moeten trekken."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.02",
+     "name": "Christophe Bombled",
+     "party": "MR",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le vice-premier ministre , la rencontre informelle des 27 chefs d’État européens qui se déroule aujourd’hui à Alden Biesen met en lumière la pertinence de notre politique européenne, l’intérêt du monde économique pour la poursuite des réformes en matière de compétitivité, la nécessité d’accélérer la mise en œuvre des mesures discutées depuis 18 mois et la publication des rapports Draghi et Letta.",
+      "Les mesures européennes doivent se traduire par des mesures fédérales, que vous pilotez. La croissance européenne permet de réduire nos déficits budgétaires, d’augmenter notre taux d’emploi et d’améliorer la situation socio-économique de nos concitoyens.",
+      "Mais cette croissance est créée par les entreprises, qui ont besoin de mesures rapides et fortes pour réduire les charges réglementaires. Un besoin de tirer pleinement profit des opportunités du marché unique, un besoin de bénéficier d’une énergie à prix correct et le besoin d’une épargne mobilisée dans l’investissement productif à travers une véritable union de l’épargne et des investissements.",
+      "Monsieur le vice-premier ministre, nos entreprises de toutes tailles – je pense surtout à nos PME – se heurtent à une réglementation complexe et de plus en plus volumineuse. Comment concevoir des législations, certes nécessaires, en tenant dès le départ compte des besoins des PME? Sur le plan climatique, comment booster notre secteur énergétique afin de rendre nos entreprises plus compétitives, tant sur le plan des prix que de la dépendance vis-à-vis de pays tiers? Quelles sont les mesures à prendre contre les fuites de carbone et les solutions efficaces d’exportation CBAM (carbon border adjustment mechanism) ? Comment construire des chaînes d’approvisionnement résilientes pour les matières premières? Comment mieux nous protéger de concurrents mondiaux qui pratiquent des politiques économiques et commerciales déloyales? Est-ce qu’on mobilise suffisamment nos instruments de protection économique? Enfin, êtes-vous favorable à l’établissement d’une préférence européenne, notamment pour les marchés publics?"
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.03",
+     "name": "Koen Van den Heuvel",
+     "party": "cd&v",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de minister, gisteren kwamen in Antwerpen honderden Europese bedrijfsleiders en toppolitici, waaronder u, samen om te overleggen over een grote, gedeelde bezorgdheid: Europa verliest terrein. Als Europa zijn competitiviteit vandaag niet herstelt, dreigt het economisch kopje-onder te gaan en op wereldvlak niet meer mee te tellen. De analyses zijn gemaakt en de intenties zijn uitgesproken. Daar ligt ook de uitdaging: intenties volstaan niet langer; daden moeten volgen. Onze bedrijven wensen dat we daadkrachtiger optreden en een beleid voeren dat resultaten boekt.",
+      "Voor cd&v is het duidelijk, enkel een sterker Europa kan de economische neergang van Europa stoppen en zowel onze strategische autonomie als onze competitiviteit herstellen.",
+      "Ik zie drie werven.",
+      "Ten eerste, de kosten voor energie en voor CO 2 -uitstoot moeten naar beneden.",
+      "Ten tweede, de Europese interne markt moet versterkt worden, door te werken aan een Europese kapitaalmarkt. Nationale regeltjes moeten worden afgebouwd. De interne barrières tussen onze Europese lidstaten moeten worden afgebouwd. De Belgische export alleen al zal zo voor ongeveer 10 miljard euro kunnen groeien en de productiviteit zal met 20 % stijgen, goed voor onze economische groei.",
+      "Ten derde, we moeten kordater optreden tegen oneerlijke handelspraktijken. Het moet gedaan zijn met Chinese dumpingpraktijken.",
+      "Beste minister, voor ons is het duidelijk. België moet absoluut in de cockpit zitten met de landen die pleiten voor een sterker Europa, voor meer Europa, desnoods een Europa met twee snelheden.",
+      "Mijnheer de minister, wij verwachten dat onze regering mee de lead neemt."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.04",
+     "name": "Natalie Eggermont",
+     "party": "PVDA-PTB",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de minister, gisteren in Antwerpen en vandaag in Alden Biesen discussiëren de Europese leiders en de captains of industry samen over de toekomst van de industrie om het concurrentievermogen te redden. Het is belangrijk even een stap achteruit te zetten en te kijken wat er aan het gebeuren is. Achter alle ronkende verklaringen, ook hier, zit opnieuw een plan, een strategie. Men gebruikt de industriële crisis om een reeks plannen, die al langer klaarliggen, in sneltreinvaart door te duwen: deregulering, blanco cheques voor multinationals, sociale afbraak, milieuwetten op de schop. Dat is oude wijn in nieuwe zakken, die bij elke crisis wordt toegepast. Dat is de bekende shockdoctrine van Naomi Klein: men trekt zo hard mogelijk aan de alarmbel en gebruikt vervolgens de chaos en ontreddering om maatregelen door te duwen zonder enig parlementair democratisch debat.",
+      "Bart De Wever spreekt over een kapitaalunie met als doel slapend geld te activeren, ons spaar- en belastinggeld te gebruiken en te dereguleren via de omnibusrichtlijnen, met steun van extreemrechts. Hij trekt nu zelfs de klimaatdoelstellingen, de Green Deal, in twijfel. Met welk mandaat doet hij dat? Is dat zijn standpunt? Is dat het standpunt van de regering? Waar is dat besproken? Is iedereen het daarmee eens? Gaat iedereen ermee akkoord dat ons pensioen- en spaargeld op de kapitaalmarkt wordt gebruikt? Bent u het er allemaal mee eens dat de klimaatnormen best wat mogen worden verminderd voor het concurrentievermogen? Vindt u het goed dat er verder moet worden gedereguleerd en geprivatiseerd? Is dat besproken in de regering? Met welke legitimiteit onderhandelt Bart De Wever daarover? Met welk mandaat doet hij dat? Is dat een officieel regeringsstandpunt?"
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.05",
+     "name": "Reccino Van Lommel",
+     "party": "VB",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de minister, in de politiek is gelijk hebben helaas niet hetzelfde als gelijk krijgen. Hoeveel jaren zeg ik al dat onze industrie – en zeker niet alleen de chemische industrie – tot een economische ruïne aan het afbrokkelen is? Hoe pijnlijk is het dat al die partijen die altijd hebben gezegd dat meer Europa voor een sterkere industrie zou zorgen, vandaag moeten vaststellen dat het Europese beleid alleen maar tot meer regels heeft geleid, die onze industrie verder kapotmaken.",
+      "Niet alleen de Europese excellenties doen vanuit hun ivoren toren aan zelfvernietiging, ook onze nationale politici doen dat. Denk aan het in gevaar brengen van onze bevoorradingszekerheid qua energie en de betaalbaarheid ervan, de door de strot geramde koolstoftaksen die jullie als eenden hebben geslikt en nog lekker vonden ook, maar ook aan de bezorgdheden van de talrijke industriële spelers die al jaren van jullie afglijden als water van een eend.",
+      "Het ontbreken van een fiscale hervorming vanaf een wit blad is daar ook een voorbeeld van. Ondertussen hebben al heel wat bedrijven besloten om hun activiteiten te sluiten, af te bouwen of te verplaatsen. Wie kan hun ongelijk geven? Geloof me, mijnheer de minister, wat we tot hiertoe hebben gezien, is slechts het topje van de ijsberg, zeker als u er met de Titanic tegen zult varen.",
+      "Gisteren en vandaag zagen we niet meer dan een grote Bart De Wever-show die een bepaalde perceptie en staatsmanschap moet creëren. Als we naar de praktijk van zijn broddelwerk kijken, zien we iets helemaal anders, mijnheer de minister. Waar zijn de daden, of zijn het alleen maar woorden?"
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.06",
+     "name": "David Clarinval",
+     "party": null,
+     "role": "government",
+     "title": "ministre",
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le président, chers collègues, hier j'ai participé au sommet européen de l'industrie à Anvers, aux côtés du premier ministre, de la présidente de la Commission européenne, de plusieurs dirigeants européens, dont le président Macron et le chancelier Merz, ainsi que de plusieurs centaines de dirigeants d'industrie issus de 25 secteurs différents, donc pas seulement de la chimie. Le message était très clair: la compétitivité est aujourd'hui un enjeu de souveraineté. Le monde a basculé vers davantage de protectionnisme, de subventions massives, de dumping.",
+      "Dans ce contexte, l'Europe ne peut plus se permettre la naïveté économique. Depuis des années, je plaide pour un sursaut en matière de compétitivité. Trop longtemps, en Belgique, comme en Europe, la compétitivité et, singulièrement celle de l'industrie, a été reléguée au second plan. Dans mon livre Fiasco énergétique , que j'ai écrit il y a 12 ans, je tirais déjà la sonnette d'alarme et j'annonçais que la chimie allait être en danger si on ne faisait rien. Nous y sommes malheureusement aujourd'hui.",
+      "Les faits sont là. Sans compétitivité, il n'y a pas d'industrie. Et, sans industrie, il n'y a ni souveraineté, ni création de valeurs, ni emplois durables. L'industrie est en recul depuis plusieurs années. La part de l'industrie dans la valeur ajoutée en Belgique est passée de près de 20 % en l'an 2000, à moins de 13 % aujourd'hui.",
+      "Les demandes qui ont été relayées hier sont très claires. Un, baisser les coûts de l'énergie. Deux, baisser les coûts du carbone. Trois, une concurrence mondiale équitable. Quatre, un meilleur accès au financement. Et, cinq, mieux valoriser le made in Europe .",
+      "Mijnheer Van Lommel, u stelt mij een vraag specifiek over de chemische industrie. De chemiesector illustreert perfect de Europese industriële uitdagingen. Ze is een basisindustrie die in het hart zit van veel Europese waardeketens. Zonder een sterke en competitieve chemiesector is er geen industriële soliditeit in de sectoren energie, gezondheid, bouw, automobiel, landbouw of schone technologieën.",
+      "Dames en heren, de antwoorden moeten worden geformuleerd op Europees én op nationaal niveau. Op Europees niveau zouden meerdere hefbomen moeten worden overwogen om de competitiviteit te herstellen.",
+      "Tout d'abord, il importe d'approfondir le marché intérieur, qui est encore beaucoup trop fragmenté. Ensuite, il faut réduire durablement le coût de l'énergie, mais aussi adapter l'ETS et revoir la réduction des quotas gratuits afin de préserver la capacité d'investissement de l'industrie, rendre le CBAM véritablement protecteur, renforcer notre défense commerciale et simplifier notre cadre réglementaire pour restaurer la confiance des investisseurs.",
+      "Le message délivré hier est qu'il est urgent de prendre des mesures. À l'échelle nationale, le gouvernement a déjà pris plusieurs initiatives importantes: réduire d'un milliard d'euros les coûts salariaux d'ici 2029, imposer une norme énergétique aux industries électro-intensives, entreprendre des réformes du marché du travail, développer un plan de compétitivité MAKE 2025-2030 pour placer la relance industrielle au cœur de notre stratégie. Le travail doit se poursuivre. Tous ces chantiers doivent converger vers un objectif unique: restaurer la compétitivité de nos industries.",
+      "Monsieur le président, mesdames et messieurs les députés, la compétitivité n'est pas un slogan; c'est le fondement de notre prospérité, la clef d'emplois durables et la condition essentielle pour assurer l'avenir économique de l'Europe et de notre pays."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.07",
+     "name": "Jeroen Soete",
+     "party": "Vooruit",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de minister, ik dank u voor uw antwoord.",
+      "We moeten onze welvaart, onze jobs en onze koopkracht inderdaad beschermen, maar die Europese markt, met 450 miljoen consumenten, is een troef die we veel meer moeten uitspelen.",
+      "Ons voorstel ter zake ligt klaar. Als we bedrijfswagens dan toch jaarlijks met miljarden euro's moeten subsidiëren, waarom koppelen we daar dan geen maatschappelijke return aan en vragen we dat die wagens effectief in Europa worden geproduceerd om onze eigen Europese producenten te helpen? Het is toch al te gek dat we de verkoop van gesubsidieerde Chinese auto's ondersteunen, terwijl onze eigen Europese auto-industrie zwaar onder druk staat. Buy in Europa, made in Europe om Europese jobs en Europese technologie te beschermen en om de jobs te beschermen die onze gezinnen koopkracht en zekerheid bieden. We rekenen daarvoor absoluut ook op uw steun."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.08",
+     "name": "Christophe Bombled",
+     "party": "MR",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le ministre, je veux saluer votre travail dans le cadre du plan interfédéral MAKE 2025-2030 et la validation des premiers plans d ’ action visant à renforcer la comp é titivit é de notre industrie. Avec ce plan, nous compl é tons des r é formes structurelles majeures d é j à engag é es au niveau f é d é ral, comme la r é duction des co û ts salariaux, la r é forme du march é du travail ou l ’ am é lioration du cadre en faveur de l ’ investissement.",
+      "C’est dans ce cadre politique que ces mesures fédérales, ainsi que celles qui seront prises lors du prochain Conseil européen, doivent contribuer à rétablir notre compétitivité, gage de croissance, d’emploi et d’une souveraineté européenne réaffirmée dans un climat international incertain.",
+      "Par ailleurs, sur une compétence connexe aux vôtres, il me paraît urgent d’attirer l’attention des différents niveaux de pouvoir sur la qualité de la formation, l’importance de la recherche, sans oublier la mise en œuvre de l’intelligence artificielle dans notre processus productif."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.09",
+     "name": "Koen Van den Heuvel",
+     "party": "cd&v",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de minister, ik dank u voor uw duidelijke antwoord. We kunnen absoluut achter dat antwoord staan. U geeft de juiste prioriteiten weer.",
+      "We moeten inderdaad werk maken van een sterker Europa. Wie hier daarnet nog kwam pleiten voor een afbouw van Europa, dwaalt. Dat is heel erg duidelijk. We moeten dus de lead nemen in de cockpit voor een sterkere Europese Unie.",
+      "We moeten echter ook ons eigen huishouden op orde hebben. Dat betekent werk maken van de energienorm. Er zijn evenwel ook nog andere maatregelen nodig. Daarom dient collega Gielis een resolutie in om onze basisindustrie te versterken.",
+      "We moeten bovendien werk maken van ons vergunningenbeleid. We zijn heel blij dat minister Jo Brouns op Vlaams niveau op dat vlak initiatieven neemt om de zaken in orde te brengen.",
+      "Ik verzoek u en de premier om daarvan werk te maken en de lead te nemen in Europa om de kapitaalmarkt en de interne markt uit te bouwen."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.10",
+     "name": "Natalie Eggermont",
+     "party": "PVDA-PTB",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de minister, ik dank u, in de eerste plaats om niet te antwoorden op mijn vraag. Mijn vraag was wat de democratische legitimiteit van Bart De Wever is om dat alles te doen. Blijkbaar hoeft die parlementaire vraag zelfs niet beantwoord te worden. U doet zelfs de moeite niet om te doen alsof dit Huis iets van betekenis heeft.",
+      "Het is belangrijk om enige nuance aan te brengen in het hele debat. Door alle drama lijkt het alsof er een gigantische crisis is, maar er is crisis en tegelijkertijd geen crisis. De grote industriële spelers hebben immers nog nooit zulke recordwinsten geboekt. Die winsten worden steeds meer geconcentreerd in de handen van enkele spelers en grotendeels uitbetaald aan de aandeelhouders. Voor een aantal spelers was het weer nog nooit zo goed en voor een aantal spelers is het momenteel slecht weer.",
+      "Wat doet de regering echter? Zij deelt aan iedereen blanco cheques uit. Dat zijn dezelfde recepten als in het verleden.",
+      "Er is hier veel gesproken over de chemie. BASF bijvoorbeeld heeft 10 miljard euro winst geboekt en die winst niet opnieuw geïnvesteerd in Antwerpen, maar in China. Met blanco cheques zonder garantie op tewerkstelling (…)"
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.11",
+     "name": "Reccino Van Lommel",
+     "party": "VB",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de minister, Bart De Wever kan dan op zijn industrietop wel staan blinken, wij willen actie zien. Boter bij de vis, minister. De Europese besluitvorming is als een moloch en laat jaren op zich wachten. Mijn boodschap is dan ook duidelijk: zet alle aankomende Europese wetgeving die onze industrie verder kapotmaakt on hold. Wees ongehoorzaam aan Ursula von der Leyen, die denkt als moeder-overste te waken over Europa en komt zeggen wat onze bedrijven moeten doen en laten. Doe alles om die schandalige koolstoftaksen aan te pakken. Zorg dat er grondstoffen zijn. Zorg voor de productie van eigen, betaalbare energie. Zorg ervoor dat bedrijven die zich hier willen vestigen, sneller operationeel kunnen zijn. Maak eindelijk werk van een echte fiscale hervorming, zodat wie onderneemt, werkt en spaart in ons land, wordt beloond. Leve de herindustrialisering van Vlaanderen!"
+     ]
+    },
+    {
+     "type": "note",
+     "lang": "nl",
+     "text": "Het incident is gesloten."
+    },
+    {
+     "type": "note",
+     "lang": "fr",
+     "text": "L'incident est clos."
+    }
+   ]
+  },
+  {
+   "number": "05",
+   "section": {
+    "nl": "Mondelinge vragen",
+    "fr": "Questions orales"
+   },
+   "title": {
+    "nl": "Samengevoegde vragen van",
+    "fr": "Questions jointes de"
+   },
+   "subtitles": {
+    "nl": [
+     "Katleen Bury aan David Clarinval (VEM Werk, Economie en Landbouw) over \"Babyvoeding\" (56001420P)",
+     "Lotte Peeters à David Clarinval (VPM Emploi, Économie et Agriculture) sur \"Les laits infantiles contaminés\" (56001402P)"
+    ],
+    "fr": [
+     "Lotte Peeters aan David Clarinval (VEM Werk, Economie en Landbouw) over \"Besmette zuigelingenvoeding\" (56001402P)",
+     "Katleen Bury à David Clarinval (VPM Emploi, Économie et Agriculture) sur \"Les aliments pour bébés\" (56001420P)"
+    ]
+   },
+   "docs": [],
+   "events": [
+    {
+     "type": "speech",
+     "id": "05.01",
+     "name": "Lotte Peeters",
+     "party": "N-VA",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de minister, vorige week was ik bij Kind en Gezin, waar ik met een verpleegkundige sprak over de vele meldingen die zijn binnengekomen omtrent besmette babyvoeding. Ouders zijn ongerust en het spreekt voor zich dat ze met tal van vragen zitten.",
+      "Welke kunstvoeding is op dit moment nog veilig? Wordt er voldoende en correct getest? Kan men zomaar veranderen van merk of product? Terwijl de meeste ouders wanhopig op zoek zijn naar betrouwbare informatie via de geëigende kanalen, zoals het consultatiebureau, circuleren tegelijkertijd op sociale media tal van andere adviezen. Zo worden plantaardige melk, melk met suikerklontjes en zelfs dieetshakes aanbevolen als een veiliger alternatief dan kunstvoeding.",
+      "De eerste meldingen van cereulide in babyvoeding kwamen al op 5 januari binnen. Het FAVV heeft vervolgens regelmatig gecommuniceerd over producten die werden teruggeroepen, maar pas een maand later, op 6 februari, kwam er op de website van de FOD Volksgezondheid eindelijk duidelijke communicatie over wat wel veilig is en vooral een oproep om niet zelf te experimenteren.",
+      "Intussen zijn minstens vijf baby’s besmet geraakt. Dat zijn de bevestigde gevallen, want het werkelijke aantal ligt wellicht wat hoger. Ouders hebben in crisismomenten snelle, duidelijke en betrouwbare informatie nodig. Daarom stel ik u twee concrete vragen.",
+      "Hoe zult u ervoor zorgen dat er bij een volgend incident sneller en proactiever kan worden gecommuniceerd? Hoe schat u de huidige testmethode in? Is het risico vandaag volledig van de baan?"
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "05.02",
+     "name": "Katleen Bury",
+     "party": "VB",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de minister, al in 2013 stelde een risicobeoordeling van het Nederlandse ministerie van Volksgezondheid en de Universiteit Wageningen dat cereulide een extreem hittestabiel toxine is. Het blijft intact, zelfs wanneer verhitting de bacterie vernietigt. Diezelfde beoordeling gaf bovendien aan dat de monitoring op bacillus cereus niet doeltreffend is bij mogelijke cereulidebesmetting en dat rechtstreeks op het toxine moet worden getest. Ik heb het over 2013, dat is meer dan tien jaar geleden.",
+      "Intussen heeft Sciensano vastgesteld dat de klassieke analysemethode, testen op droog poeder, de reële blootstelling kan onderschatten en dat bij bereide melk tot 75 keer hogere concentraties kunnen vrijkomen. België heeft daarop op 2 februari de testmethodologie aangepast.",
+      "Ik heb daarover enkele vragen. Erkent u dat eerdere controles, ook bij zuigelingenvoeding, gebaseerd waren op een benadering waarvan men wetenschappelijk al veel langer wist dat het toxinerisico kon worden onderschat?",
+      "Sinds wanneer wordt systematisch getest op het toxine zelf in de consumptievorm? Gebeurt dat vandaag ook bij andere risicoproducten, zoals baby- en ouderenmaaltijden en kant-en-klaargerechten?",
+      "Plant u een structurele herziening van het controlekader, zodat toxinegericht toezicht centraal komt te staan, zeker voor producten bestemd voor kwetsbare groepen?",
+      "Tot slot, wereldwijd scherpen instanties de controles aan en dringen zij er bij fabrikanten en leveranciers op aan om proactieve teststrategieën te hanteren om besmetting te voorkomen en consumenten te beschermen. Geldt dat ook voor bestellingen van voedingsproducten via Bol.com en Amazon?"
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "05.03",
+     "name": "David Clarinval",
+     "party": null,
+     "role": "government",
+     "lang": "nl",
+     "paragraphs": [
+      "Mevrouw Peeters, mevrouw Bury, de problematiek van de met cereulide besmette melk, waarvan het FAVV op 5 januari 2026 op de hoogte werd gebracht, sleept nog steeds aan.",
+      "Met betrekking tot de analysemethode heeft Sciensano eind januari vastgesteld dat de officiële methode, de ISO-methode, die voorschrijft dat de testen op melkpoeder moeten gebeuren, een stevige onderschatting van het gehalte aan cereulide kan geven. Sciensano gaf aan dat testen op het opgeloste product veel correctere en hogere resultaten opleverde. Dat werd onmiddellijk gecommuniceerd door Sciensano.",
+      "Het FAVV paste de testmethode aan en bracht de Europese Commissie meteen op de hoogte. Daarop werd aan de EFSA gevraagd om een snelle risico-evaluatie te maken en een norm vast te leggen op basis van de beschikbare toxicologische gegevens. Die risico-evaluatie werd op 2 februari gepubliceerd door de EFSA.",
+      "Wat de Belgische context betreft, had datgeen directe gevolgen voor de in België uitgevoerde testen aangezien wij steeds als norm de afwezigheid van het toxine hebben gebruikt. Naar aanleiding van de grenswaarde zijn er wel bijkomende meldingen van andere lidstaten binnengekomen. Samen met voortschrijdende traceringsoefeningen werden er ook op de Belgische markt bijkomende recalls georganiseerd. Een compleet en up-to-date overzicht vindt u op de website van het FAVV."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "05.04",
+     "name": "Lotte Peeters",
+     "party": "N-VA",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de minister, ik dank u voor uw antwoord.",
+      "Het is goed te horen dat die testmethode al aangepast en bijgestuurd is, maar op het vlak van communicatie blijf ik toch wat op mijn honger. Wanneer producten uit de rekken moeten worden gehaald, dan communiceert het FAVV goed. Denk maar aan de blauwe bessen vorig jaar of aan dat snoepgoed. Daar zit het probleem niet. Wij zullen onze kinderen dan wel een ander stuk fruit of een ander snoepje geven.",
+      "Waar het schoentje echter wel wringt, is het feit dat het hier over essentiële levensmiddelen gaat, waarvoor geen alternatieven bestaan. Het gaat hier over babyvoeding en dan is het toch belangrijk dat er vanuit de FOD Volksgezondheid proactief wordt gecommuniceerd, zodat de onzekerheid bij de ouders wordt weggenomen. Als het over zuigelingenvoeding gaat, is elke dag onzekerheid voor ouders er immers een te veel."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "05.05",
+     "name": "Katleen Bury",
+     "party": "VB",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de minister, al in 2013 is er een risicobeoordeling geweest waaruit bleek dat cereulide hittebestendig is en dat men rechtstreeks op het toxine moet testen. U hebt dat rapport gekregen. Dat rapport gaat niet alleen over babyvoeding. Het gaat over veel meer producten, zoals rijst, pastagerechten, kant-en-klaarmaaltijden, vaak op te warmen potjes voor kwetsbare doelgroepen.",
+      "Het is de kerntaak van het FAVV om voedselveiligheid te garanderen. Moeten die risicobeoordelingen dan niet worden gelezen? Ik wil van u weten waar die intern beland zijn en waarom dat niet heeft geleid tot een aangepast toezicht. Ik verwacht van u dat u niet alleen babyvoeding, maar ook alle andere risicoproducten laat controleren. Dan gaat het niet over het product zoals het in de winkel wordt verkocht, maar over de geconsumeerde vorm.",
+      "Ik wens ook dat de wetgeving rond voedselveiligheid garandeert dat alle voedingswaren die op de Europese markt terechtkomen, voldoen aan de vastgestelde normen."
+     ]
+    },
+    {
+     "type": "note",
+     "lang": "fr",
+     "text": "L'incident est clos."
+    },
+    {
+     "type": "note",
+     "lang": "nl",
+     "text": "Het incident is gesloten."
+    }
+   ]
+  },
+  {
+   "number": "06",
+   "section": {
+    "nl": "Mondelinge vragen",
+    "fr": "Questions orales"
+   },
+   "title": {
+    "nl": "Question de Michel De Maegd à Maxime Prévot (VPM Affaires étrangères, Affaires européennes et Coopération au développement) sur \"L'indépendance et la compétitivité dans le cadre de l'autonomie stratégique européenne\" (56001403P)",
+    "fr": "Vraag van Michel De Maegd aan Maxime Prévot (VEM Buitenlandse Zaken, Europese Zaken en Ontwikkelingssamenwerking) over \"Onafhankelijkheid en concurrentievermogen in het kader van de Europese strategische autonomie\" (56001403P)"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [],
+   "events": [
+    {
+     "type": "speech",
+     "id": "06.01",
+     "name": "Michel De Maegd",
+     "party": "Les Engagés",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le ministre des Affaires étrangères, nous vivons peut-être l’un des moments les plus charnières pour l’Union européenne. Depuis sa création, la part de l’Union européenne dans le produit intérieur brut mondial, chers collègues, est passée sous la barre des 15%. Ce n’est pas un détail, c’est un signal d’alarme.",
+      "Le réveil sonne. Nous le répétons sans relâche depuis des années: l’Europe doit prendre ses responsabilités et gagner son autonomie, construire et assumer son destin, lever les freins qui entravent encore aujourd’hui sa compétitivité. C’est ce chemin, chers collègues, que les dirigeants de l’Union européenne sont en train de tracer, en ce moment même, au sommet d’Alden Biesen dans le Limbourg.",
+      "La Belgique, pays fondateur de l’Union, y est une nouvelle fois à la manœuvre pour être l’un des artisans d’une Europe forte. Je peux m’en réjouir, en tant qu’Européen convaincu, car, de jour en jour, les pressions sur l’Union s’accentuent: droits de douane volatiles, marchés inondés par les produits chinois, batailles stratégiques pour les terres rares, et j’en passe.",
+      "Face à ce constat, nous n’avons plus le choix. Nous devons parfaire notre marché unique, supprimer les barrières internes, revoir et réduire de trop nombreuses réglementations européennes et nationales qui assomment nos entreprises et notre industrie. Et j’insiste: nous devons considérer nos objectifs climatiques comme un des leviers pour bâtir l’industrie de demain.",
+      "Sur le constat général, je pense que les 27 sont alignés. C’est sur les moyens d’agir que les divergences sont réelles.",
+      "Monsieur le ministre, dans le cadre du marché unique, quels sont, pour la Belgique, les obstacles à lever en priorité? Comment mettre en œuvre une préférence européenne crédible et efficace? Quelle stratégie préconisez-vous pour faire de l’Europe un pôle d’attraction des capitaux, tout en étant précurseure sur la scène environnementale? Je vous remercie pour vos réponses."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "06.02",
+     "name": "Maxime Prévot",
+     "party": null,
+     "role": "government",
+     "title": "ministre",
+     "lang": "fr",
+     "paragraphs": [
+      "Merci, monsieur le parlementaire, pour votre question. C’est d’autant plus important et opportun qu’il m’appartiendra, comme ministre des Affaires européennes, d’assurer le suivi au sein des différentes instances européennes des décisions ou conclusions qui pourraient survenir aujourd’hui suite à ce sommet.",
+      "Vous l’avez dit, l’heure est à la lucidité. Le coût de l’énergie, quatre à cinq fois plus important en Europe qu’il ne l’est aux États-Unis, la pression réglementaire, le dumping chinois, la guerre tarifaire, tant d’obstacles qui empêchent nos secteurs économiques de se déployer pleinement, de créer de l’emploi, de créer de la richesse, de soutenir notre modèle de société et de favoriser notre prospérité.",
+      "Le premier ministre l’a dit, nous sommes face à une crise potentiellement existentielle. Nous devons prendre des mesures fortes en Europe pour assurer la préservation de notre modèle social, protéger nos populations et notre bien-être. Dans un monde marqué par des pressions géopolitiques sans précédent et une concurrence désormais sans pitié, l’Europe a besoin d’une voix claire et d’agir vite.",
+      "On ne peut pas rester les bras croisés à regarder disparaître les activités industrielles. Les rapports Letta et Draghi ont été salués. C'est bien mais il faut maintenant les mettre en œuvre. Et pronto !",
+      "On a déjà une série de barrières internes à lever. Plus de 60 % des entreprises manufacturières européennes sont confrontées à des obstacles intra-européens. On doit mobiliser mieux et davantage le capital-risque, l'épargne, réduire ces coûts énergétiques, réhabiliter cette notion de préférence européenne – c'est aussi un choix de lucidité économique –, et, comme vous l'avez dit, garder aussi nos ambitions élevées. La compétitivité doit incontestablement tenir le volant de la voiture européenne pour éviter les sorties de route. Mais nous devons avoir aussi dans l'habitacle la transition climatique, pas pour tirer le frein à main, mais pour pouvoir aussi accompagner cette transition. Allons-y et veillons à soutenir le Buy Europe !"
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "06.03",
+     "name": "Michel De Maegd",
+     "party": "Les Engagés",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Nous partageons le constat, monsieur le ministre. Après le temps de la naïveté; celui de la lucidité est arrivé. Le monde s'endurcit, les rapports de force s'assument et les dépendances se paient parfois très cher.",
+      "La compétitivité est une condition de notre souveraineté. Nous devons nous engager, simplifier, lever les barrières, réindustrialiser – c'est indispensable –, sans pour autant sacrifier, comme vous le dites, nos ambitions climatiques. L'industrie bas carbone européenne doit être l'une de nos forces. La dépendance énergétique, la maîtrise des technologies numériques, la sécurisation des matières premières, c'est le cœur, chers collègues, de l'autonomie stratégique.",
+      "Nous avons longtemps bénéficié des dividendes de la paix. Nous nous sommes peut-être reposés dessus, oubliant que le monde n'est pas figé et que les puissances émergentes finissent un jour par émerger. On dit souvent que la politique est l'art du possible. Aujourd'hui, pour les générations futures, elle en devient l'art du devoir."
+     ]
+    },
+    {
+     "type": "note",
+     "lang": "nl",
+     "text": "Het incident is gesloten."
+    },
+    {
+     "type": "note",
+     "lang": "fr",
+     "text": "L'incident est clos."
+    }
+   ]
+  },
+  {
+   "number": "07",
+   "section": {
+    "nl": "Mondelinge vragen",
+    "fr": "Questions orales"
+   },
+   "title": {
+    "nl": "Vraag van Kathleen Depoorter aan Frank Vandenbroucke (VEM Sociale Zaken, Volksgezondheid, belast met Armoedebestrijding) over \"De farmaceutische sector\" (56001404P)",
+    "fr": "Question de Kathleen Depoorter à Frank Vandenbroucke (VPM Affaires sociales, Santé publique, chargé de la Lutte contre la pauvreté) sur \"Le secteur pharmaceutique\" (56001404P)"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [],
+   "events": [
+    {
+     "type": "speech",
+     "id": "07.01",
+     "name": "Kathleen Depoorter",
+     "party": "N-VA",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de minister, \" We must actively attract life science .\" Dat is wat de premier gisteren zei in de Handelsbeurs in Antwerpen, op de vooravond van de Europese top in Alden Biesen. Het is vijf over twaalf voor de farmaceutische sector. We zien voor het eerst in jaren dat er meer investeringen naar de VS gaan. We zien ook dat de klinische studies nu in China starten, mijnheer de minister. Het gaat effectief over innovatie, over de toegankelijkheid van innovatieve therapieën voor onze patiënten. Het is een sector waarvan we dachten dat die nooit kapot zou gaan. We zijn een pharma valley . Het is een sector die naast innovatie ook weerbaarheid brengt, die strategische autonomie brengt en ons land op de kaart zet.",
+      "In andere Europese landen zie ik een beweging die kan tellen. Denemarken en Spanje, maar ook Duitsland, hebben een life science strategy georganiseerd als prioritair beleidsdomein. Wij werken daarentegen een beetje versnipperd. We werken aan de terugbetalingen, we werken aan de klinische studies, we werken ook aan het fiscale regime, maar wat ontbreekt is de monitoring van het geheel. Binnen de arizona-afspraken hebben we wel in hefbomen voorzien. Denk aan het Biopharma Platform of het Observatorium voor de farmaceutische industrie. We kunnen de spoedoperatie dus eigenlijk vandaag al in gang zetten.",
+      "Mijn vraag is eigenlijk heel eenvoudig, mijnheer de minister. Hoe wilt u die spoedinterventie voor de farmaceutische sector concreet invullen?"
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "07.02",
+     "name": "Frank Vandenbroucke",
+     "party": null,
+     "role": "government",
+     "lang": "nl",
+     "paragraphs": [
+      "Mevrouw Depoorter, we moeten inderdaad zeer ambitieus zijn om van ons land en van Europa een locatie voor lifescience te maken en te behouden . Ik zal in een bestek van twee minuten heel concreet antwoorden op uw vraag wat er spoedig op onze agenda staat, maar ik neem me ook voor om in de komende dagen en weken daarop terug te komen, want dat is inderdaad een bijzonder belangrijk punt.",
+      "Om te beginnen zijn we op dit ogenblik de tweede grootste speler in Europa wat het aantal klinische proeven per inwoner betreft, maar dat staat zeer duidelijk onder druk. U weet dat sinds begin dit jaar het FAGG een versnelde beoordelingstermijn voor mononationale proeven hanteert, waardoor we nu de snelste regulator van Europa zijn. Ook bij multinationale proeven is België sterk, maar daar is verder werk nodig. Dan gaat het bijvoorbeeld over de ethische comités, zoals u weet.",
+      "Ten tweede hebben we samen beslist dat we voor innovatieve geneesmiddelen vanaf dit jaar een versnelde terugbetalingsprocedure installeren: de Early Fast Equitable Access . Dat is belangrijk voor patiënten, maar het is natuurlijk ook belangrijk voor een land dat het signaal wil geven dat innovatie essentieel is in de farmaceutica. We moeten die regeling nu zeer snel implementeren, monitoren en bekijken hoe we ze eventueel nog kunnen versterken.",
+      "Ethische comités hervormen, clinical trials verder uitbouwen en een snelle toegang voor innovatieve geneesmiddelen realiseren. We beschikken daartoe over een aantal concrete hefbomen. Ik neem mij inderdaad ook voor daar verder op terug te komen, zodat we kunnen beschikken over een omvattend en geloofwaardig antwoord op zowel de Chinese als de Amerikaanse dreiging, een antwoord dat innovatie, betaalbaarheid en solidariteit combineert."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "07.03",
+     "name": "Kathleen Depoorter",
+     "party": "N-VA",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de minister, we moeten inderdaad ambitie hebben. Ambitie op Europees niveau, maar ook op internationaal niveau. Daar knelt het schoentje. We hebben samen afgesproken dat we het Biopharma Platform installeren. We hebben ook afgesproken dat het Observatorium voor de farmaceutische industrie in actie komt. Dat moet een monitoringsinstrument worden. Als we maatregelen nemen – en die maatregelen zijn goed – rond klinische studies, rond terugbetaling en rond toegankelijkheid, dan moeten we ze kunnen meten, zodat we kunnen meespelen met de grote actoren. Zo kunnen we ervoor zorgen dat we de sector, die in ons land al sinds jaar en dag innovatie voor onze patiënten en welvaart voor de volledige maatschappij creëert, niet verliezen, maar hier houden en blijven versterken."
+     ]
+    },
+    {
+     "type": "note",
+     "lang": "fr",
+     "text": "L'incident est clos."
+    },
+    {
+     "type": "note",
+     "lang": "nl",
+     "text": "Het incident is gesloten."
+    }
+   ]
+  },
+  {
+   "number": "08",
+   "section": {
+    "nl": "Mondelinge vragen",
+    "fr": "Questions orales"
+   },
+   "title": {
+    "nl": "Question de Florence Reuter à Jan Jambon (VPM Finances, Pensions, chargé de la Loterie Nationale et Institutions culturelles fédérales) sur \"L'importance d'une bonne préparation des réformes des pensions\" (56001408P)",
+    "fr": "Vraag van Florence Reuter aan Jan Jambon (VEM Financiën, Pensioenen, belast met de Nationale Loterij en Federale Culturele Instellingen) over \"Het belang van een goede voorbereiding van de pensioenhervormingen\" (56001408P)"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [],
+   "events": [
+    {
+     "type": "speech",
+     "id": "08.01",
+     "name": "Florence Reuter",
+     "party": "MR",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le ministre, j'ai appris que vous étiez récemment devenu une nouvelle fois grand-père. Toutes mes félicitations! Pourtant, vous n'êtes pas près de prendre votre pension. Toujours est-il que vous vous y serez bien préparé.",
+      "Ce n'est pas le cas de la plupart des Belges qui, aujourd'hui, selon une étude de la Fondation Roi Baudouin, ne se préparent pas suffisamment tôt, n'anticipent pas leur retraite dans divers domaines, qu'il s'agisse des soins et de la santé, mais aussi des rentrées financières.",
+      "J'en arrive ainsi à mes demandes. Lorsque ceux qui veulent se préparer consultent le site mypension.be., ils se trouvent complètement démunis, car ils ne peuvent pas y trouver, aujourd'hui, le moment pour prendre leur pension, la date exacte et, surtout, le montant de leur pension. C'est normal, puisque les réformes annoncées n'ont pas encore été votées. Le système n'a donc évidemment pas pu être adapté. Cependant, j'ai appris que même les réformes de la Vivaldi, notamment le bonus pension ou la pension minimale, ne sont pas reprises sur ce site. Cela pose un véritable problème.",
+      "Il faudrait donc rassurer les gens. Nous savons que les réformes annoncées sont nécessaires pour la soutenabilité de notre système de pension. Toutefois, je le répète, les Belges qui sont sur le point de prendre leur pension sont un peu démunis. J'attends de vous des réponses pour pouvoir les rassurer, d'autant que nous entendons beaucoup de mesures extrêmement négatives par rapport à la réforme, si ce n'est qu'elle est nécessaire. Mais il y a aussi des réformes positives, comme notamment la généralisation du deuxième pilier ou l'introduction de ce deuxième pilier pour les fonctionnaires statutaires. Il conviendrait d'annoncer toutes ces mesures. Je vous invite à déjà apporter des réponses et à communiquer davantage."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "08.02",
+     "name": "Jan Jambon",
+     "party": null,
+     "role": "government",
+     "title": "ministre",
+     "lang": "fr",
+     "paragraphs": [
+      "Madame Reuter, la réforme des pensions a déjà été abordée à plusieurs reprises à la Chambre, en séance plénière ainsi que dans les différentes commissions. Cette réforme est actuellement en préparation. Nous devons recevoir l’avis du Conseil d’État. Elle reviendra ensuite au gouvernement pour une troisième lecture, avant d’être transmise au Parlement.",
+      "Dans l’attente, le Service fédéral des Pensions (SFP) ne reste absolument pas inactif et tous les citoyens sont informés via le site reformedespensions.be. J’invite chacun à consulter ce site clair et intéressant.",
+      "Après l’approbation finale du projet de réforme des pensions au sein du gouvernement – la troisième lecture –, je lancerai, en collaboration avec le SFP, une campagne d’information afin d’expliquer concrètement à la population l’impact de nos réformes.",
+      "Dès que la réforme des pensions aura été adoptée par le Parlement et publiée au Moniteur belge , les estimations destinées aux citoyens pourront également être rendues progressivement visibles et concrètes sur mypension.be. Mais pour cela, la loi doit d’abord être votée. J’espère donc que cela pourra avancer rapidement ici au Parlement."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "08.03",
+     "name": "Florence Reuter",
+     "party": "MR",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le ministre, vous le savez comme moi, le changement et les réformes font souvent peur. Il est donc important de communiquer et de rassurer de manière extrêmement transparente, d’une part sur la nécessité des réformes, et d’autre part sur les moyens d’obtenir des informations claires concernant ce qui nous attend tous.",
+      "Je pense effectivement que les réformes vont être votées. J’espère pouvoir annoncer avec vous un délai relativement court pour l’adaptation de mypension.be, et surtout pouvoir avancer sur ces lois.",
+      "Il faut des campagnes de communication claires, accompagnant les réformes avec beaucoup de pédagogie, encore une fois pour rassurer les citoyens. On lit et on entend beaucoup de choses. Il faut donc vraiment vérifier les sources, mais surtout très bien communiquer."
+     ]
+    },
+    {
+     "type": "note",
+     "lang": "fr",
+     "text": "L'incident est clos."
+    },
+    {
+     "type": "note",
+     "lang": "nl",
+     "text": "Het incident is gesloten."
+    }
+   ]
+  },
+  {
+   "number": "09",
+   "section": {
+    "nl": "Mondelinge vragen",
+    "fr": "Questions orales"
+   },
+   "title": {
+    "nl": "Question de Sofie Merckx à Jan Jambon (VPM Finances, Pensions, chargé de la Loterie Nationale et Institutions culturelles fédérales) sur \"Le plafond Wijninckx et les pensions européennes\" (56001411P)",
+    "fr": "Vraag van Sofie Merckx aan Jan Jambon (VEM Financiën, Pensioenen, belast met de Nationale Loterij en Federale Culturele Instellingen) over \"Het plafond-Wijninckx en de Europese pensioenen\" (56001411P)"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [],
+   "events": [
+    {
+     "type": "speech",
+     "id": "09.01",
+     "name": "Sofie Merckx",
+     "party": "PVDA-PTB",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le ministre, au mois de juillet, nous avons voté une disposition selon laquelle le montant maximum pour une pension en Belgique est de 8 300 euros bruts par mois. C'est la loi, et elle vaut pour tout le monde. Or qu'avons-nous récemment appris? Que des politiciens belges se croient au-dessus des lois et continuent de percevoir des pensions mirobolantes. Ils refusent de dire quel montant leur est payé par l'Union européenne. Par conséquent, on ne sait pas calculer combien il faut leur verser.",
+      "Qui figure sur la liste? Regardons un peu. Le premier, mais nous nous y attendions un peu, est M. Reynders, du MR. Bien sûr! Il est vrai que, ces derniers temps, nous avons vu quels étaient ses rapports avec la loi… Il perçoit donc 12 500 euros bruts de pension in the pocket . Le deuxième est du même parti, le MR, et n'est autre que Louis Michel: 16 500 euros par mois de pension! C'est dix fois le montant d'une pension moyenne pour un travailleur en Belgique. Et c'est toujours ce même parti, le MR, qui veut encore diminuer les pensions. Nous venons encore de l'entendre. C'est scandaleux, monsieur le ministre!",
+      "Nous, les travailleurs, lorsque nous ne payons pas les impôts ou les lois sociales à l'ONSS, par exemple, nous recevons la visite d'huissiers et subissons des saisies sur salaire. Ces gens-là, en revanche, engagent des avocats pour défendre leurs pensions. Monsieur le ministre, la loi, c'est la loi. Alors, qu'allez-vous entreprendre pour que la loi belge soit respectée?"
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "09.02",
+     "name": "Jan Jambon",
+     "party": null,
+     "role": "government",
+     "title": "ministre",
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le président, la question de Mme Merckx est importante. Je ne suis pas sûr de pouvoir répondre en termes techniques avec le temps imposé de deux minutes.",
+      "L’accord de gouvernement fédéral prévoit clairement ce qui suit: \"Les pensions versées par des organisations internationales seront désormais également prises en compte dans le cadre du contrôle de la loi Wijninckx. \" Ce passage a été transposé et adopté, comme vous l’avez dit, par la loi-programme du 18 juillet 2025. Concrètement, cette loi-programme modifie l’article 40 de la loi Wijninckx. La limitation sera évidemment appliquée uniquement à la pension belge des intéressés et conduira le cas échéant à une réduction du montant de leur pension belge.",
+      "Dans le cadre de l’exécution de la loi-programme, le Service fédéral des Pensions a adressé un courrier à un certain nombre d’anciens fonctionnaires de l’Union européenne, d’anciens commissaires de la Commission européenne et d’anciens députés du Parlement européen leur demandant de communiquer le montant de la pension qu’ils perçoivent de leurs institutions européennes – nous avons fait cela.",
+      "Parmi les personnes contactées, certaines refusent en effet de communiquer ce montant au Service des Pensions. Elles invoquent à cet effet l’article 12 du protocole n°7 annexé au Traité sur le fonctionnement de l’Union européenne. En vertu de ce protocole, les anciens fonctionnaires et commissaires de l’Union européenne sont exonérés des impôts nationaux. Les intéressés estiment que le plafond absolu constituerait une forme d’impôt national. Dans ce cas, il y aurait une exemption de l’obligation de communiquer le montant. Nous estimons toutefois que l’application du plafond absolu ne constitue pas un impôt national mais plutôt une disposition anti-cumul relevant de la législation sociale en matière de pension. Dès lors, le recours à l’article 12 du protocole pour justifier le refus de communiquer le montant de la pension me paraît infondé.",
+      "En ce qui concerne les anciens députés du Parlement européen, leurs pensions sont régies par la décision du Parlement européen du 28 septembre 2005. Cette décision ne contient aucune disposition s’opposant à l’application du plafond absolu.",
+      "Afin d'éviter des difficultés en cas de non-communication des informations et de pouvoir appliquer correctement la loi, je prépare une disposition légale complémentaire prévoyant la possibilité d'une suspension préventive de la pension belge si l'intéressé refuse de communiquer les informations demandées au Service fédéral des Pensions.",
+      "Monsieur le président, excusez-moi d'avoir pris un peu plus de temps."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Mevrouw Merckx krijgt anderhalve minuut spreektijd voor haar repliek."
+    },
+    {
+     "type": "speech",
+     "id": "09.03",
+     "name": "Sofie Merckx",
+     "party": "PVDA-PTB",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de minister, u zegt dat er een extra tekst zal komen om de wet uit te voeren. Dat is toch wat raar, want de wet is de wet. Eens de wet goedgekeurd is, moet daar uitvoering aan worden gegeven.",
+      "We zullen dus wachten op uw tekst, want we willen natuurlijk dat er verandering komt. In de Kamer werd de wet goedgekeurd die het maximumpensioen op 8.300 euro bruto per maand vastlegt. Het is schandalig dat sommige politici een advocaat onder de arm hebben genomen om hun graaipensioenen te behouden. De heer Louis Michel krijgt 16.500 euro pensioen, het tienvoud van het pensioen van een Belgische werknemer. Zijn partij, de MR, wil dan ook nog eens de pensioenen van de gewone mensen verminderen. De heer Reynders ontvangt 12.500 euro pensioen. We weten dat nog meer politici op die lijst een advocaat hebben ingeschakeld omdat zij zich niet willen onderwerpen aan die Belgische wet. Normaal gezien is elke Belg gelijk voor de wet. We zullen er dus op toekijken dat de wet uitgevoerd wordt."
+     ]
+    },
+    {
+     "type": "note",
+     "lang": "nl",
+     "text": "Het incident is gesloten."
+    },
+    {
+     "type": "note",
+     "lang": "fr",
+     "text": "L'incident est clos."
+    }
+   ]
+  },
+  {
+   "number": "10",
+   "section": {
+    "nl": "Mondelinge vragen",
+    "fr": "Questions orales"
+   },
+   "title": {
+    "nl": "Samengevoegde vragen van",
+    "fr": "Questions jointes de"
+   },
+   "subtitles": {
+    "nl": [
+     "Matti Vandemaele aan Bernard Quintin (Veiligheid en Binnenlandse Zaken, belast met Beliris) over \"Het personeelstekort bij de 112-noodcentrales\" (56001412P)",
+     "Brent Meuleman à Bernard Quintin (Sécurité et Intérieur, chargé de Beliris) sur \"La Journée européenne du 112\" (56001400P)"
+    ],
+    "fr": [
+     "Brent Meuleman aan Bernard Quintin (Veiligheid en Binnenlandse Zaken, belast met Beliris) over \"De Europese 112-dag\" (56001400P)",
+     "Matti Vandemaele à Bernard Quintin (Sécurité et Intérieur, chargé de Beliris) sur \"La pénurie de personnel au sein des centrales d'urgence 112\" (56001412P)"
+    ]
+   },
+   "docs": [],
+   "events": [
+    {
+     "type": "speech",
+     "id": "10.01",
+     "name": "Brent Meuleman",
+     "party": "Vooruit",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de voorzitter, mijnheer de minister, collega's, u komt thuis en uw partner ligt op de grond, of uw zus wordt bedreigd door haar agressieve ex-partner, of uw kind, de persoon die u het liefst ziet, verkeert in een acute, levensbedreigende situatie. U bent in paniek en pakt uw telefoon. U belt naar de noodcentrale en drukt 112, want er is geen tijd te verliezen, maar u komt in de wachtrij en met u nog vele anderen. Seconden worden minuten. U wacht en u wacht en u wacht. Aan de andere kant van de lijn zit een medewerker van de noodcentrale, overwerkt. Hij moest eigenlijk een shift doen met vijf collega's, maar hij staat er weer alleen voor. Personeelstekort zeggen ze dan. Die medewerkers zijn enorm toegewijd; hun missie bestaat erin andere mensen te helpen en levens te redden, maar ze voelen zich machteloos. Ze zijn moe en overwerkt, want de wachtrijen blijven maar oplopen. De telefoon staat roodgloeiend. Er is geen tijd om pauzes te nemen.",
+      "Mijnheer de minister, dat zijn geen denkbeeldige situaties; dat is de realiteit in onze noodcentrales, ook in mijn provincie. In Oost-Vlaanderen heeft vorige zomer een kwart van de bellers naar de noodcentrale geen gehoor gekregen. In die wachtrij wilt u niet staan. In die wachtrij zou niemand mogen staan, want het betekent waarschijnlijk dat levensnoodzakelijke hulp te laat komt en dus is het tijd voor actie.",
+      "Ik heb dan ook maar één duidelijke vraag voor u: wat zult u doen om het chronisch personeelstekort bij de noodcentrales op te lossen en wat onderneemt u voor het welzijn van al die onzichtbare helden van de noodcentrales?"
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "10.02",
+     "name": "Matti Vandemaele",
+     "party": "Ecolo-Groen",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de minister, we hebben allemaal verhalen gehoord. Een moeder die belt voor haar dochter die wordt bedreigd, moet vijf minuten wachten op een antwoord van de noodcentrale. Iemand komt thuis, vindt zijn partner die niet meer ademt op de grond en moet twee minuten wachten. Er rijdt iemand met de auto het kanaal in en wie de nooddienst alarmeert, moet wachten. Dat zijn reële situaties. We verzinnen ze niet. Ze komen uit getuigenissen van de noodcentrales 101 en 112.",
+      "De medewerkers van de noodcentrales leveren elke dag opnieuw fenomenale inspanningen. Zij draaien heel zware en psychologisch heel erg belastende shifts in heel moeilijke omstandigheden. Zij doen dat bovendien voor een erg karig loon.",
+      "Het personeelsprobleem dat ten grondslag ligt van de wachttijden, is geen nieuw probleem en het wordt alsmaar erger. Ik geef een aantal cijfers. Naar verluidt zit er één persoon die de telefoon kan opnemen in de meldkamer voor de hele provincie Antwerpen met 1 miljoen inwoners. In Oost-Vlaanderen zijn er voor één shift slechts twee personen aanwezig in plaats van zes. Voor de provincie Antwerpen bestaat het kader uit 50 vte’s om de permanentie te verzekeren. Vandaag zijn daar 25 medewerkers aan de slag. Aan de slag is niet helemaal de juiste term, want 5 mensen zijn nog in opleiding. Mijnheer de minister, de betrokken personeelsleden zijn de beloftes beu. Zij willen oplossingen en zij willen ze nu.",
+      "Mijn vragen zijn heel eenvoudig.",
+      "Wat zult u op korte termijn doen, zodat levens worden gered in plaats van verloren?",
+      "Wat zult u doen aan de heel erg karige verloning? Bij de laatste ronde waren er bijna geen Nederlandstalige sollicitanten meer, omdat de job gewoonweg niet aantrekkelijk genoeg is.",
+      "Wat zult u doen om de mensen in die stressvolle omgeving langer aan boord te houden en beter te laten werken?"
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "10.03",
+     "name": "Bernard Quintin",
+     "party": null,
+     "role": "government",
+     "lang": "nl",
+     "paragraphs": [
+      "Dank u voor uw vragen, mijnheer Meuleman en mijnheer Vandemaele.",
+      "Mijn administratie en ikzelf zijn ons ten volle bewust van de uitdagingen waarmee de noodcentrales worden geconfronteerd. Ik wil daarbij benadrukken dat burgers die in een noodsituatie een noodnummer bellen, zo snel mogelijk een operator aan de lijn moeten krijgen. In noodsituaties telt elke minuut.",
+      "Vandaag kunnen burgers in een noodsituatie meerdere noodnummers contacteren: 112 voor brandweer en dringende medische hulp, 101 voor politie, 1722 voor storm- en waterschade en 1733 voor niet-dringende medische hulp. Daarnaast zijn er in verschillende politiezones ook lokale hulplijnen. Dat maakt het voor burgers niet altijd eenvoudig om snel het juiste nummer te kiezen.",
+      "Het klopt dat verschillende noodcentrales momenteel met personeelstekorten kampen. De voorbije maanden hebben we dan ook gerichte inspanningen geleverd om die historische situatie te verbeteren en de bezetting te versterken. In november werden zes medewerkers van de federale politie tijdelijk ingezet ter ondersteuning van de calltakers in Oost-Vlaanderen. Daarnaast werd bij de geïntegreerde politie een oproep gelanceerd voor een tijdelijke detachering van één jaar naar de noodcentrale van Oost-Vlaanderen, om in bijkomende capaciteit te voorzien. Tussen 1 februari en 1 april starten in totaal 46 nieuwe calltakers bij de 101-centrales. Daarnaast werden via interne en externe procedures bijkomende versterkingen gezocht. Voor de 112-centrales in Antwerpen en Oost-Vlaanderen leverde de selectieprocedure respectievelijk zeven en acht laureaten op, na een uitgebreide selectie met 391 inschrijvingen.",
+      "Het klopt dus niet dat we niets hebben ondernomen, integendeel. Misschien gaat het ook over het statuut van de calltakers. Het selectieproces wordt continu geoptimaliseerd om de doorlooptijd te verkorten, onder meer door testen en interviews op één dag te plannen, selecties periodiek te organiseren en ze beter af te stemmen op de start van de opleiding.",
+      "Het is belangrijk te beklemtonen dat het volledige traject van selectie en opleiding tot het volledig zelfstandig functioneren gemiddeld tien tot twaalf maanden in beslag neemt. Dat duurt inderdaad te lang, maar ik neem de zaak inderdaad in handen om dat op te lossen.",
+      "Vacatures ontstaan niet alleen door het vertrek van medewerkers, maar ook door langdurige afwezigheid, onder meer wegens ziekte, verminderde prestaties of loopbaanonderbreking. In sommige gevallen blijven de loonkosten van het afwezige personeelslid gedeeltelijk ten laste van het budget, terwijl tegelijk een vervanger moet worden betaald.",
+      "Om tot een duurzame oplossing te komen, rolt mijn administratie het masterplan inzake noodcentrales verder uit. Het plan beoogt een grondige modernisering en versterking van de noodcentrales. We optimaliseren de samenwerking tussen brandweer, politie en medische hulpverlening, verbeteren de werkorganisatie en nemen gerichte hr-maatregelen, zoals snellere selecties en aangepaste opleidingen. Zoals gezegd moeten we ook een aantal voorwaarden lichter maken.",
+      "Daarnaast investeren we in moderne technologie, versterken we het welzijn van het personeel – wat voor mij zeer belangrijk is – en zorgen we voor een betere communicatie en een duurzame financiering.",
+      "Ten slotte heb ik beslist het aantal noodnummers te herleiden tot twee, namelijk 112 voor dringende hulp en een nog te bepalen tweede nummer voor niet-dringende hulp. Zo creëren we meer duidelijkheid voor de burgers en verlichten we hopelijk ook de werklast van de noodcentrales, die vandaag nog te vaak niet-dringende oproepen ontvangen."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "10.04",
+     "name": "Brent Meuleman",
+     "party": "Vooruit",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de minister, een nieuw telefoonnummer of de verplaatsing van een telefoontoestel van hier naar daar zal het probleem natuurlijk niet oplossen. Er is nood aan meer handen. Ik ken mensen die bij de noodcentrale werken. Die mensen zijn er kapot van dat keuzes moeten worden gemaakt. Ze beseffen dat niet iedereen kan worden geholpen. U moet hen ondersteunen, niet met een stressbal of een cursus stressmanagement, maar met extra personeel. Daarover moet het gaan. Er staan vandaag inderdaad gemotiveerde mensen klaar om bij de noodcentrale aan de slag te gaan, maar ook zij botsen op lange, logge en trage procedures. Ook die vormen een wachtrij.",
+      "Mijnheer de minister, pak het alstublieft vast en maak er werk van."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "10.05",
+     "name": "Matti Vandemaele",
+     "party": "Ecolo-Groen",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de minister, de medewerkers van de noodcentrales willen inderdaad geen stressbal. Zij willen niet dat parlementsleden langskomen met een taartje of een cadeautje. Zij willen oplossingen. Zij willen nieuwe collega’s. Zij willen een degelijk loon. Zij willen respect van de regering. En daar wringt het schoentje.",
+      "U zegt dat u inspanningen levert. Ik kan alleen maar vaststellen dat het statuut onder de regering-De Wever minder aantrekkelijk wordt. U morrelt aan het statuut. U morrelt aan de pensioenen van die medewerkers. Dat statuut wordt niet beter, maar slechter. Daar wringt uiteraard het schoentje. Zolang er geen degelijk statuut is voor de calltakers, blijft het een onvoldoende aantrekkelijke job en dan zullen er nooit genoeg medewerkers zijn.",
+      "Mijnheer de minister, pak het vast, niet alleen in woorden, maar ook in daden. De burgers van ons land hebben het recht om iemand aan de lijn te krijgen, als zij in een noodsituatie verkeren."
+     ]
+    },
+    {
+     "type": "note",
+     "lang": "nl",
+     "text": "Het incident is gesloten."
+    },
+    {
+     "type": "note",
+     "lang": "fr",
+     "text": "L'incident est clos."
+    }
+   ]
+  },
+  {
+   "number": "11",
+   "section": {
+    "nl": "Mondelinge vragen",
+    "fr": "Questions orales"
+   },
+   "title": {
+    "nl": "Samengevoegde vragen van",
+    "fr": "Questions jointes de"
+   },
+   "subtitles": {
+    "nl": [
+     "Francesca Van Belleghem aan Bernard Quintin (Veiligheid en Binnenlandse Zaken, belast met Beliris) over \"Het onveiligheidsgevoel bij vrouwen\" (56001417P)",
+     "Phaedra Van Keymolen à Bernard Quintin (Sécurité et Intérieur, chargé de Beliris) sur \"Le sentiment d'insécurité des femmes\" (56001413P)"
+    ],
+    "fr": [
+     "Phaedra Van Keymolen aan Bernard Quintin (Veiligheid en Binnenlandse Zaken, belast met Beliris) over \"Het onveiligheidsgevoel bij vrouwen\" (56001413P)",
+     "Francesca Van Belleghem à Bernard Quintin (Sécurité et Intérieur, chargé de Beliris) sur \"Le sentiment d'insécurité des femmes\" (56001417P)"
+    ]
+   },
+   "docs": [],
+   "events": [
+    {
+     "type": "speech",
+     "id": "11.01",
+     "name": "Phaedra Van Keymolen",
+     "party": "cd&v",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de minister, mijn vraag gaat wel degelijk over de onveiligheid bij vrouwen, niet alleen het gevoel van onveiligheid. Acht op de tien vrouwen voelen zich 's avonds niet veilig op straat. Bijna negen op tien vrouwen neemt bewust voorzorgsmaatregelen, zoals het ontwijken van bepaalde plaatsen, sleutels tussen de vingers houden of doen alsof ze aan het bellen zijn. Een op de drie vrouwen werd zelfs al betast. Dat zijn de cijfers, mijnheer de minister.",
+      "Misschien nog het meest verontrustend is de dreiging dat wij dat normaal beginnen te vinden omdat het zo vaak gebeurt, omdat vrouwen zich daaraan al zo lang aanpassen. Veel vrouwen doen zelfs geen aangifte, omdat ze het gevoel hebben dat dat toch niets uithaalt. Dat is niet normaal. Veiligheid is een kerntaak van de overheid. Net daarom is er volgens cd&v grote nood aan zichtbare en nabije politie, aan agenten die aanwezig zijn op hotspots, rondom stations, in uitgangsbuurten en op het openbaar vervoer, aan agenten die snel kunnen ingrijpen en die goed opgeleid zijn om dergelijke situaties te herkennen en slachtoffers te begeleiden.",
+      "Dat is niet alleen uw verantwoordelijkheid. Veiligheid is een verantwoordelijkheid van ons allemaal. Het begint met het respecteren van grenzen. Men moet zijn handen thuishouden, omstaanders mogen niet wegkijken en we moeten dat bespreekbaar maken.",
+      "Vrouwen moeten zich altijd en overal veilig kunnen voelen, op straat, al joggend of al wandelend. Dat geldt trouwens niet alleen voor vrouwen, maar ook voor iedereen. Het komt echter niet de vrouwen toe om zich aan te passen, het komt ons hier allemaal toe om ervoor te zorgen dat de publieke ruimte veilig is.",
+      "Mijnheer de minister, welke concrete acties zult u ondernemen om de veiligheid van onze dochters, onze partners, onze collega's, onze vriendinnen (...)"
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "11.02",
+     "name": "Francesca Van Belleghem",
+     "party": "VB",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Collega Van Keymolen, ik zal het bespreekbaar maken. Uitgescholden worden voor hoer of slet, commentaar krijgen over mijn décolleté, in mijn gat en in mijn borsten geknepen worden; ik heb het allemaal meegemaakt, en nog veel ergere dingen. Ik ben lang niet de enige. 82 % van de vrouwen voelt zich onveilig in het donker.",
+      "De media en de politiek zeggen liever dat álle mannen het probleem zijn dan te benoemen wie die seksuele roofdieren eigenlijk zijn. In Nederland durven ze dat wel, daar houden ze die cijfers bij. Syriërs plegen vier keer meer seksuele misdrijven dan autochtone Nederlanders, Afghanen elf keer meer en Somaliërs maar liefst twintig keer meer.",
+      "Jarenlang hebt u, cd&v, MR, N-VA, Vooruit en Anders. mensen geïmporteerd uit culturen waarin vrouwen tweederangsburgers zijn. Het hoeft dan niet te verbazen dat vrouwen als tweederangsburgers worden behandeld. Dat is de olifant in de kamer.",
+      "Denkt u trouwens werkelijk dat daders tot inkeer zullen komen als ze slechts een straf met uitstel krijgen? De slecht gestrafte veroordeelden van gisteren zijn de daders van morgen.",
+      "Mijnheer de minister, u bent bevoegd voor Veiligheid. Hoe zult u ervoor zorgen dat vrouwen, maar ook mannen, zich weer veilig voelen?"
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "11.03",
+     "name": "Bernard Quintin",
+     "party": null,
+     "role": "government",
+     "lang": "nl",
+     "paragraphs": [
+      "Mevrouw Van Keymolen en mevrouw Van Belleghem, elke vrouw die zich ’s avonds alleen onveilig voelt, betast, nageroepen, uitgescholden of geïntimideerd wordt, is er één te veel. Dat komt helaas nog veel te vaak voor. Het is duidelijk dat die vorm van onveiligheid een reële impact heeft op vrouwen en meisjes. Ze passen hun gedrag aan en mijden soms bepaalde plaatsen. Dat is onaanvaardbaar. Elke burger, man of vrouw, moet zich in ons land vrij en veilig kunnen bewegen, waar dan ook.",
+      "Cijfers uit slachtofferbevragingen en gegevens van politiediensten tonen aan dat dit fenomeen bijzonder ernstig is en een geïntegreerde aanpak vereist. Als samenleving moeten we daar duidelijk op reageren. Dat vraagt een engagement van alle actoren in de veiligheidsketen, van preventie over repressie tot nazorg. Daders moeten consequent worden aangepakt en vervolgd.",
+      "Het stopt echter niet bij de daders, want ook omstanders dragen verantwoordelijkheid. Wie getuige is van intimidatie, seksistisch gedrag of een aanval tegen vrouwen, op straat, in de openbare ruimte, op café of op de werkvloer, mag niet wegkijken. Niet reageren wanneer zulke feiten zich in de directe omgeving voordoen, versterkt het klimaat waarin vrouwen zich onveilig voelen. Het geeft daders bovendien het signaal dat ze ongestraft kunnen doorgaan. Dat mogen we niet tolereren.",
+      "Sensibilisering en bewustmaking zijn essentieel. Ook professionals, van politie tot hulpverlening, moeten zich niet alleen bewust zijn van die problematiek, maar ook deskundig en betrokken ermee omgaan. Een correcte en respectvolle aanpak verhoogt het vertrouwen van slachtoffers en vergroot hun bereidheid om onveiligheid of misdrijven effectief te melden.",
+      "Mevrouw Van Keymolen, de nabijheid van de politie is heel belangrijk voor alle partijen. Dat geldt zeker voor mij. Ik neem sinds een jaar maatregelen in dat verband. Wat de politie betreft, kan ik meedelen dat de herziene masteropleiding inzake gendergerelateerd geweld in al zijn vormen op 24 februari van dit jaar, dus binnen twee weken, van start gaat in een politieschool. Aansluitend worden ook traineropleidingen en opleidingen voor eindgebruikers, met name voor de politiemensen op het terrein, uitgerold binnen de politiescholen.",
+      "Die opleidingen vloeien voort uit de actiepunten van het Verdrag van Istanbul, waartoe België zich heeft verbonden. Ze behandelen onder meer thema’s zoals straatintimidatie, seksuele misdrijven en de correcte houding van de politie tegenover slachtoffers, zowel bij aangifte als tijdens interventies. De opleidingen maken bovendien deel uit van het nationaal actieplan gendergerelateerd geweld en zijn voor de politie verankerd in de kadernota integrale veiligheid en het nationaal veiligheidsplan."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "11.04",
+     "name": "Phaedra Van Keymolen",
+     "party": "cd&v",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de minister, bedankt voor uw antwoord.",
+      "Mevrouw Van Belleghem, ik zal het ook benoemen: Grab 'em by the pussy , Epstein, Weinstein, dat zijn blanke mannen. Daders dienen altijd gevat te worden, wat hun achtergrond, hun herkomst of hun overtuiging ook is. Meisjes en vrouwen verdienen veel beter dan uw tirade. Iedereen verdient een veilige publieke ruimte, vrouwen en mannen, iedereen, altijd."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "11.05",
+     "name": "Francesca Van Belleghem",
+     "party": "VB",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Het mag weer niet gezegd worden. Het probleem is niet de witte man in het praatprogramma die een onhandige vraag stelt. Het probleem zijn de daders en de ongemakkelijke realiteiten die niet benoemd mogen worden door de politiek.",
+      "Verhoog de straffen op seksuele misdrijven en voer ze ook daadwerkelijk uit. Stop met die waanzinnige fopstrafjes. Zorg ervoor dat vrouwen zich kunnen verdedigen op straat en legaliseer pepperspray. Benoem de olifant in de kamer. Houd criminaliteitscijfers bij over de origine en cultuur van de daders.",
+      "Ik vraag dat hier niet omdat ik mijn partijprogramma erdoor wil duwen. Ik vraag dat voor iedereen die slachtoffer is geworden van seksueel geweld en die in de steek gelaten werd door uw falend veiligheidsbeleid en uw falend migratiebeleid."
+     ]
+    },
+    {
+     "type": "note",
+     "lang": "fr",
+     "text": "L'incident est clos."
+    },
+    {
+     "type": "note",
+     "lang": "nl",
+     "text": "Het incident is gesloten."
+    }
+   ]
+  },
+  {
+   "number": "12",
+   "section": {
+    "nl": "Mondelinge vragen",
+    "fr": "Questions orales"
+   },
+   "title": {
+    "nl": "Question de Khalil Aouasti à Jean-Luc Crucke (Mobilité, Climat, Transition environnementale et Développement durable) sur \"La nouvelle route Crucke dans le cadre du survol de Bruxelles\" (56001415P)",
+    "fr": "Vraag van Khalil Aouasti aan Jean-Luc Crucke (Mobiliteit, Klimaat, Ecologische Transitie en Duurzame Ontwikkeling) over \"De nieuwe 'Crucke-route' in het kader van de vluchten boven Brussel\" (56001415P)"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [],
+   "events": [
+    {
+     "type": "speech",
+     "id": "12.01",
+     "name": "Khalil Aouasti",
+     "party": "PS",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le ministre, chers collègues, chaque jour, plus de 200 avions survolent à basse altitude des quartiers densément peuplés de Bruxelles, d'ouest en est, d'Anderlecht à Evere. Depuis des mois, vous nous dites que la route que ces avions suivent est temporaire, qu'elle était liée aux travaux intervenus à l'aéroport de Bruxelles-National pendant l'été, et qu'elle devait être réservée aux situations d'urgence. Mais cette route, monsieur le ministre, qui ne devait être que temporaire, est malheureusement devenue permanente et elle porte aujourd'hui un nom, votre nom: la \"route Crucke\".",
+      "La route Crucke, ce sont des nuits courtes, avec trois heures de sommeil, comme la nuit du 29 au 30 janvier dernier, où, à Koekelberg, le dernier vol nous a survolés à 1 h 30 et le premier à 4 h 48 du matin. La route Crucke, c'est surtout un enfer pour les habitants d'Anderlecht, Molenbeek, Koekelberg, Jette, Laeken, Schaerbeek et Evere. Des bourgmestres vous ont rencontré récemment; vous leur auriez dit que cette route serait prolongée jusqu'en octobre, et peut-être encore un peu plus.",
+      "Monsieur le ministre, quotidiennement, ce sont 450 000 Bruxellois, dans toutes les communes que j'ai citées, qui doivent subir des nuisances jour et nuit, avec des conséquences pour leur santé. On parle d'insomnie chronique, de stress permanent, d'hypertension, de risques cardiovasculaires. Les Bruxellois n'en peuvent plus de l'inaction.",
+      "Monsieur le ministre, combien de temps la route Crucke, qui devait être temporaire, sera-t-elle utilisée comme une route régulière? Combien de temps le gouvernement acceptera-t-il que les intérêts des Bruxellois soient sacrifiés pour le bien-être de la Flandre? Quand interdirez-vous les avions les plus anciens et les plus bruyants? Quand la concertation avec les bourgmestres sera-t-elle effective? Enfin, quand 450 000 Bruxellois pourront-ils enfin dormir tranquillement?"
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "12.02",
+     "name": "Jean-Luc Crucke",
+     "party": null,
+     "role": "government",
+     "title": "ministre",
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le député, il n'y a aucune \"route Crucke\", comme vous le savez, mais bien une route qui existe depuis 2015. Cette appellation est non seulement inexacte, mais elle ne correspond en outre à aucune réalité sur le plan juridique, technique ou politique.",
+      "Depuis janvier 2024, la Belgique applique une obligation européenne – vous avez d'ailleurs oublié de le dire –, la Performance Based Navigation (PBN), qui modernise les procédures d'approche et renforce la sécurité aérienne. Ce n'est pas un choix discrétionnaire, mais l'application d'un cadre pour tous les États-membres. En 2014, vous étiez dans le gouvernement.",
+      "Ces trajectoires aériennes sont définies par les autorités techniques que sont la Direction générale du Transport aérien (DGTA) et skeyes, sur la base de critères stricts de sécurité. Le rôle du ministre est de garantir la conformité réglementaire, pas de tracer des routes dans le ciel.",
+      "La décision du 29 avril 2025 a consisté à mettre en place une PBN provisoire sur la piste 07L, sur la recommandation de skeyes et de la DGTA, afin de respecter les échéances européennes, et de faire des travaux à l'aéroport. L'utilisation de cette piste représente 6 % des approches. Cela signifie que 94 % passent ailleurs.",
+      "Son utilisation dépend des conditions de vent est et nord, qui connaissent, certes, une évolution structurelle liée au réchauffement climatique. skeyes confirme qu'il n'y a pas eu d'augmentation notable de son usage en 2025, même si la répartition horaire, je le reconnais, a évolué.",
+      "Conscient des nuisances, j'ai demandé en juin 2025 – in tempore non suspecto, car vous ne m'interrogiez pas à ce moment-là – une étude indépendante et exhaustive sur les alternatives techniquement envisageables. Le rapport est attendu au plus tôt en avril.",
+      "Ce dossier mérite rigueur et responsabilité. Il doit être traité sur la base des faits et d'analyses objectives, non sur celle d'une personnalisation ou d'une politisation."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "12.03",
+     "name": "Khalil Aouasti",
+     "party": "PS",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le ministre, lorsque vous dites que ce dossier doit être traité avec rigueur et responsabilité, je ne peux que partager ces propos.",
+      "Mais rigueur et responsabilité, c’est aussi écouter les 450 000 Bruxellois qui vous disent aujourd'hui que se renvoyer une responsabilité entre la DGTA, skeyes et l’aéroport de Bruxelles-National n’est plus une réponse acceptable. Ces 450 000 Bruxellois vous disent de prendre votre responsabilité et de considérer que cette route était une route temporaire, ouverte pendant l’été, malgré les vents, malgré les difficultés techniques; et que faire respecter les normes de bruit par l’aéroport de Bruxelles-National doit être une priorité.",
+      "Aujourd'hui, 450 000 Bruxellois sont épuisés. Ils sont épuisés à force de constater que, avec rigueur et responsabilité, des normes ne sont pas respectées; que lorsque des décisions de justice sont prononcées, elles ne sont pas suivies d’effet; et que l’impunité règne pour les compagnies aériennes.",
+      "Ces 450 000 Bruxellois, monsieur le ministre, constatent que cette impunité, ils la paient par leur santé, et cela, je suis désolé, est absolument inacceptable. Bruxelles ne peut pas (…)"
+     ]
+    },
+    {
+     "type": "note",
+     "lang": "nl",
+     "text": "Het incident is gesloten."
+    },
+    {
+     "type": "note",
+     "lang": "fr",
+     "text": "L'incident est clos."
+    }
+   ]
+  },
+  {
+   "number": "13",
+   "section": {
+    "nl": "Mondelinge vragen",
+    "fr": "Questions orales"
+   },
+   "title": {
+    "nl": "Vraag van Kjell Vander Elst aan Anneleen Van Bossuyt (Asiel, Migratie, Maatschappelijke Integratie, belast met Grootstedenbeleid) over \"De beperkte toegang tot de e-gates op Brussels Airport door het European Entry/Exit System\" (56001397P)",
+    "fr": "Question de Kjell Vander Elst à Anneleen Van Bossuyt (Asile, Migration, Intégration sociale, chargée de la Politique des Grandes Villes) sur \"L'accès limité aux e-gates à Brussels Airport dû au système européen d'entrée/de sortie\" (56001397P)"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [],
+   "events": [
+    {
+     "type": "speech",
+     "id": "13.01",
+     "name": "Kjell Vander Elst",
+     "party": "Anders.",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mevrouw de minister, het is niet altijd van harte, maar de premier zegt tegenwoordig vaak: \" Belgium is open for business .\" Behalve wanneer men het land binnenkomt via Brussels Airport, want daar staat men tegenwoordig urenlang in de file te wachten voor de grenscontrole. Men staat daar soms langer aan de grenscontrole te wachten dan men op het vliegtuig zit.",
+      "Het is verschrikkelijk frustrerend, mevrouw de minister, voor jongeren en gezinnen die op vakantie gaan, maar het is ook frustrerend voor bedrijven en voor de bedrijvigheid in ons land. Er zijn vandaag bedrijven die hun medewerkers opdragen niet meer op Brussels Airport te landen. Hou u vast, concreet betekent dit dat mensen die in Brussel moeten zijn voor een vergadering of een conferentie met het vliegtuig naar een van onze buurlanden worden gestuurd, waarna ze daar een ander vervoersmiddel moeten nemen om naar Brussel te komen.",
+      "Het is hallucinant, mevrouw de minister. We moeten daar iets aan doen. Het is compleet crazy. Dat moet eruit. Het zorgt voor heel veel frustratie, voor imagoverlies en zeker ook voor economische schade voor de op een na grootste economische poot van ons land.",
+      "Mevrouw de minister, een deel van de oplossing ligt voor de hand: de e-gates. Ik weet dat ze performanter moeten werken. Ze moeten steeds operationeel zijn en functioneren. Die e-gates worden vandaag echter door te weinig landen gebruikt. Vandaag is er een circuit bij de fysieke grenscontrole, waar de ellenlange rijen de spuigaten uitlopen, en tegelijk zijn er de e-gates die op hetzelfde moment volledig ongebruikt blijven. Er zijn mensen uit bepaalde laagrisicolanden waarvoor men kan zorgen dat ze bij vertrek en aankomst die e-gates kunnen gebruiken.",
+      "Mevrouw de minister, ik heb maar één vraag: bent u bereid om meer landen toe te laten bij de e-gates, voor zowel vertrek als aankomst, zodat de eindeloze wachttijden kunnen stoppen?"
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "13.02",
+     "name": "Anneleen Van Bossuyt",
+     "party": null,
+     "role": "government",
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer Vander Elst, vier maanden geleden ging inderdaad het Entry/Exit System in werking, een systeem dat door de Europese Unie is opgelegd. Dat digitale systeem registreert de in- en uitreizen van niet-EU-burgers die het Schengengebied binnenkomen of verlaten.",
+      "Ik denk dat we het er allemaal over eens zijn dat strikte grenscontroles de hoeksteen vormen om zowel illegale migratie tegen te gaan als de veiligheid op ons grondgebied te vrijwaren, maar ik begrijp absoluut de frustraties en neem de bezorgdheden van de luchthavengemeenschap ernstig. Ik ben me ervan bewust dat lange wachtrijen nefast zijn voor de uitstraling van onze luchthaven in het bijzonder en van België in het algemeen, als centrum van de Europese Unie en van bedrijvigheid.",
+      "Vanaf de start van deze regering heb ik samen met minister Quintin deze problematiek aangepakt. Binnen mijn bevoegdheid heb ik tijdelijke maatregelen ingevoerd die hun effect op het terrein bewijzen, ten voordele van de reizigers. Zo kunnen onderdanen van het Verenigd Koninkrijk, de Verenigde Staten, Canada en Singapore op Brussels Airport bij uitreis gebruikmaken van een combinatie van e-gates en een volgende manuele grenscontrole. Het begrip laagrisicolanden dat u gebruikt, bestaat trouwens niet als criterium in de Belgische of Europese Schengenwetgeving.",
+      "De grootste tijdwinsten zijn nog te boeken binnen de bevoegdheden van Binnenlandse Zaken. Er wordt extra personeel aangeworven voor de luchtvaartpolitie voor de controle van de paspoorten. Het is absoluut nodig dat die boxen bezet zijn. De in- en uitreis worden geautomatiseerd via e-gates en het vooraf invullen van alle gegevens via de voorziene kiosken. Er zijn kiosken, maar die moeten ook werkzaam zijn. Dat zijn maatregelen die een groot verschil zullen en moeten maken. Alle partners zullen moeten blijven samenwerken om het probleem zo snel mogelijk op te lossen."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "13.03",
+     "name": "Kjell Vander Elst",
+     "party": "Anders.",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mevrouw de minister, ik ben het met u eens dat grenscontroles strikt moeten zijn, maar mensen die hier aankomen uit bijvoorbeeld Japan, Australië of Nieuw-Zeeland, die komen hier niet om asiel aan te vragen. Ze komen hier op vakantie of om te werken. We moeten nagaan of we het systeem van e-gates kunnen uitbreiden naar andere landen, zodat de fysieke grenscontrole ontlast wordt.",
+      "Mevrouw de minister, ik heb meer en meer het gevoel dat ook deze regering een probleem heeft met de luchthaven van Zaventem. De vliegtaks, een taks waartegen uw partij gefulmineerd heeft en die ze wou afschaffen, is ondertussen verdubbeld. Het tekort aan politie geraakt niet opgelost. Ondertussen laten meer en meer mensen de luchthaven van Zaventem links liggen en gebruiken ze andere luchthavens.",
+      "Mevrouw de minister, nogmaals, maak er werk van. Zorg ervoor dat men vanuit meer landen via die e-gates kan binnenkomen, zodat er een einde komt aan de eindeloze wachttijden op onze luchthaven van Zaventem."
+     ]
+    },
+    {
+     "type": "note",
+     "lang": "nl",
+     "text": "Het incident is gesloten."
+    },
+    {
+     "type": "note",
+     "lang": "fr",
+     "text": "L'incident est clos."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Daarmee is de vragenronde afgerond en kunnen we overgaan tot het vervolg van de agenda."
+    }
+   ]
+  },
+  {
+   "number": "14",
+   "section": {
+    "nl": "Wetsvoorstel",
+    "fr": "Proposition de loi"
+   },
+   "title": {
+    "nl": "Wetsvoorstel tot wijziging van de wet van 16 maart 1968 betreffende de politie over het wegverkeer, wat de verbeurdverklaring van het voertuig bij rijden spijts verval betreft (390/1-4)",
+    "fr": "Proposition de loi modifiant la loi du 16 mars 1968 relative à la police de la circulation routière en ce qui concerne la confiscation du véhicule en cas de conduite en dépit d'une déchéance du droit de conduire (390/1-4)"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [
+    "390"
+   ],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Voorstel ingediend door:"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Proposition déposée par:"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Wouter Raskin, Dorien Cuylaerts, Michael Freilich, Christoph D’Haese, Serge Hiligsmann en Tine Gielis."
+    },
+    {
+     "type": "heading",
+     "level": 3,
+     "nl": "Algemene bespreking",
+     "fr": "Discussion générale"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De algemene bespreking is geopend."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "La discussion générale est ouverte."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De rapporteurs, de heren Staf Aerts, Wouter Raskin en Vincent Scourneau en mevrouw Britt Huybrechts, verwijzen naar het schriftelijk verslag."
+    },
+    {
+     "type": "speech",
+     "id": "14.01",
+     "name": "Wouter Raskin",
+     "party": "N-VA",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de voorzitter, collega’s, de agenda is vandaag mager. Iedereen popelt ongetwijfeld om daarvan gebruik te maken en andere zaken te doen. Niettemin vraag ik graag nog even uw aandacht voor de voorliggende tekst.",
+      "Collega’s, ik vraag vandaag uw steun voor het wetsvoorstel dat politierechters in de toekomst verplicht een verbeurdverklaring van een voertuig uit te spreken wanneer zij de eigenaar van een wagen veroordelen die voor hen verschijnt wegens rijden spijts verval. Een belangrijke nuance in het verhaal is evenwel dat zij daar ook in de toekomst nog steeds van zullen kunnen afwijken, zij het met een uitdrukkelijke motivering.",
+      "U moet weten dat het niet uitzonderlijk is dat iemand in dit land ondanks het oplopen van een rijverbod toch nog het stuur neemt. Ik druk mij nog voorzichtig uit. U moet ook weten dat die mensen heel vaak niet aan hun proefstuk toe zijn. Vaak zijn het veelplegers en recidivisten.",
+      "Om dat te onderbouwen, verwijs ik naar een aantal cijfers en naar een studie. De recentste cijfers die ik ontving, dateren van 2025. Het betreft weliswaar partiële cijfers, namelijk van januari tot september 2025. Er werden toen 210.000 controles uitgevoerd. Daarbij bleken 25.000 bestuurders te rijden spijts verval. Omgerekend zijn dat 91 chauffeurs per dag. Laat dat cijfer even doordringen. Het gaat om 91 mensen per dag die achter het stuur zitten zonder dat dat zou mogen. Wellicht is dat zelfs een onderschatting, omdat het gaat om mensen die eerder toevallig aan de kant werden gezet en van wie dan blijkt dat zij op dat moment nooit hadden mogen rijden. Het reële cijfer ligt dus allicht nog een stuk hoger. Mensen die ondanks een rijverbod toch het stuur nemen, vormen dus een groot probleem op onze wegen.",
+      "Een Vias-studie van een aantal jaren geleden toonde onderbouwd aan dat wie rijdt ondanks een verval van het recht tot sturen, behoort tot de groep die het snelst hervalt in diezelfde fout. Die bestuurders doen dat zeer snel opnieuw. Het gaat om profielen die vaak voorkomen in de statistieken van zware ongevallen: verval van het recht tot sturen, vaak in combinatie met overdreven snelheid, alcohol, drugs en dergelijke meer. Met andere woorden, het zijn gevaarlijke individuen die in grote mate verantwoordelijk zijn voor een aanzienlijk deel van de ellende op onze wegen.",
+      "U moet maar eens de moeite doen om te googelen op een aantal gemediatiseerde zware verkeersongevallen. Om de haverklap worden we daarmee geconfronteerd en worden die in de media breed uitgesmeerd. Om de zoveel tijd zien we berichten over – ik kan het niet anders noemen – intrieste verhalen van ouders die hun kind verliezen door het onverantwoorde gedrag van zulke figuren, over wielertoeristen die voor de neus van hun maten van de weg worden gemaaid, over volledige gezinnen die het leven laten op de weg. Bijna altijd – u moet dat maar eens nakijken – is er iemand bij betrokken die niet aan zijn proefstuk toe is, die vaak verschillende overtredingen begaat en die heel vaak niet aan het stuur van zijn voertuig mocht zitten wegens een rijverbod. Hij deed het toch. Meestal is het een hij, met alle dramatische gevolgen van dien, onnoemelijk menselijk leed. Het moet maar uw kind zijn.",
+      "De bedoeling van de wet is dat we als samenleving het signaal geven aan die grote groep mensen dat dat compleet asociaal machogedrag niet langer wordt gepikt. Wie een rijverbod opgelegd krijgt, hoort zich daaraan te houden. De straffeloosheid die te vaak voorkomt, moet stoppen.",
+      "Ik heb al verwezen naar de mogelijkheid van de politierechter om met een uitdrukkelijke motivering van die verplichting af te wijken. Die mogelijkheid hebben we in de wet geschreven op basis van de adviezen die we in de loop van de parlementaire behandeling van de tekst hebben ingewonnen, met als doel onredelijk zware straffen te vermijden. In het debat in de commissie hebben we daarvan een aantal voorbeelden gekregen. Dat wordt dus ondervangen door die mogelijke afwijking.",
+      "Op die manier tonen we ook begrip voor medische aandoeningen. Ik geef het voorbeeld van iemand in een vroeg stadium van dementie die achter het stuur kruipt terwijl dat niet mocht en zich daar niet van bewust is, of van een medisch noodgeval, waarbij een partner of een kind naar de spoed moet worden gebracht. Dat moet duidelijk maken dat deze tekst de cowboys, de recidivisten, de criminelen viseert en niet Jan met de pet die toevallig in de fout gaat.",
+      "Ik weet ook dat heel wat mensen een wagen besturen die niet hun eigendom is. Dat valt buiten deze wet en dat is een debat dat misschien ook eens in dit Huis mag worden gevoerd. Ik sta er in elk geval voor open om dat in de toekomst te doen, maar dit terzijde.",
+      "Ik besef dat de tekst die hier voorligt geen wondermiddel is en ook niet alle achterpootjes sluit, maar als we deze wet goedkeuren, zullen we strenger kunnen zijn dan in het verleden en vandaag het geval is. Niet onbelangrijk is dat we daarmee als samenleving een duidelijk signaal geven dat we dergelijk wangedrag niet langer tolereren. We raken de mensen die in hetzelfde bedje ziek blijven daar waar het pijn doet en nemen hun speeltje af. Dat is een signaal dat niet onderschat mag worden en voor dat signaal vraag ik uw steun."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "14.02",
+     "name": "Frank Troosters",
+     "party": "VB",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Collega Raskin, u hebt uw voorstel heel goed samengevat. U hebt eerst uitgelegd wat de bedoeling was en hebt daar ook meteen een belangrijke nuance aan toegevoegd. Waar het de facto op neerkomt, is dat we hier een signaal geven, zoals u ook hebt gezegd.",
+      "Nu kan een rechter een verbeurdverklaring uitspreken. Hij hoeft dat niet te doen, maar hij kan dat doen. Als dit wetsvoorstel wordt goedgekeurd, dan zal hij dat doen, maar hij heeft nog steeds de mogelijkheid om dat niet te doen. Het zal twee keer zijn zoals het nu is. Ook na de goedkeuring van dit wetsvoorstel zal de rechter beslissen op basis van de beoordeling die hij maakt van de beklaagde die voor hem staat. Hij zal daarbij alle omstandigheden die een rol kunnen spelen, zoals de sociale situatie, de werksituatie en de familiesituatie, mee in overweging nemen. Nu al kan een rechter een verbeurdverklaring uitspreken en dat zal na dit wetsvoorstel niet anders zijn. Zoals u zelf zei, kan dat tellen qua symboliek. Het is een signaal waarmee wij absoluut akkoord gaan. Het kan nooit verkeerd zijn om een signaal te geven dat de verkeersveiligheid kan verhogen.",
+      "Wij staan daar dus volledig achter, maar wat effectiviteit betreft, is dat voor ons symboolpolitiek. Zo wordt dat ook letterlijk gezegd in het advies van het openbaar ministerie.",
+      "Het OM zegt letterlijk dat dit wetsvoorstel weinig zal veranderen en mogelijk bijkomende werkdruk zal creëren.",
+      "Met betrekking tot die werkdruk en de effectieve cijfers blijven we natuurlijk ook op onze honger. U hebt een aantal cijfers geciteerd, die absoluut correct zijn en die we zeker niet zullen betwisten. Dat er veel te veel mensen rondrijden met een verbeurdverklaring, zal zeker zo zijn. Er zijn wellicht heel veel mensen met heel veel overtredingen die nog rondrijden. De effectieve cijfers van uitgesproken verbeurdverklaringen hebben we echter niet. Het was interessant geweest om die cijfers te hebben voor 2025, 2024 en 2023, met zicht op de evolutie, om te kunnen bekijken of het te veel is of te weinig. Die cijfers ontbreken jammer genoeg.",
+      "Het signaal dat gegeven wordt, is zeker niet verkeerd, al is het naar ons oordeel toch vooral een vorm van symboolpolitiek, waarvan we betwijfelen of het veel verschil zal maken."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "14.03",
+     "name": "Dimitri Legasse",
+     "party": "PS",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Pour notre groupe, la sécurité routière a toujours été une priorité. Nous soutenons toutes les démarches ambitieuses, et en particulier le renforcement des moyens pour la police et la justice. Cependant, pas un euro en plus pour la police fédérale, rien dans le budget pour renforcer les contrôles, et c’est bien de contrôles qu’il est important de parler aujourd’hui, plus que de la proposition faite par la majorité.",
+      "Sur la proposition de la majorité, nous nous abstiendrons aujourd’hui, malgré ce que je viens de dire précédemment.",
+      "Pourquoi? Parce qu’il est important que l’appréciation relative à la saisie du véhicule reste entre les mains des juges. D’autres l’ont dit avant moi. Vous le savez, chers collègues, il n’est pas rare qu’un ménage ne dispose que d’un seul véhicule et que celui-ci soit indispensable pour l’ensemble du ménage, notamment pour se rendre au travail ou pour assurer le transport d’un enfant en situation de handicap, par exemple. Nous connaissons toutes et tous les conséquences d’une privation de moyens de mobilité.",
+      "Nous nous interrogeons également du fait que cette proposition questionne l’action actuelle des juges. Nous nous demandons pourquoi les juges ne sont pas davantage associés et, quelque part, respectés. Avec ces propositions, la charge administrative sera, une fois encore, alourdie pour la magistrature, dans une justice qui est, convenons-en, dramatiquement sous-financée.",
+      "Il s’agit donc d’une proposition symbolique, comme d’autres l’ont dit avant moi, qui donne certes l’impression d’agir, mais dont les impacts n’ont pas été analysés ni démontrés par la majorité."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "14.04",
+     "name": "Farah Jacquet",
+     "party": "PVDA-PTB",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Je voudrais d’abord apporter mon soutien à toutes les personnes qui sont victimes, directement ou indirectement, des chauffards et des accidents de la route qu’ils engendrent. Ces personnes paient le prix fort de l’irresponsabilité de ces chauffards, parce qu’ils consomment des substances avant de conduire, parce qu’ils roulent à des vitesses excessives ou parce qu’ils adoptent des comportements qui mettent directement en péril la vie des autres usagers.",
+      "Des sanctions existent contre ces comportements dangereux. Parmi ces sanctions figure la déchéance du permis de conduire, une sanction qui se justifie pour mettre à l’abri les autres usagers de la route, une sanction qui doit être effective sur le terrain, mais qui, malheureusement, ne l’est pas toujours.",
+      "La volonté des auteurs de la présente proposition de loi est de renforcer les dispositifs permettant de rendre la déchéance du permis de conduire réellement effective sur le terrain. C’est un objectif que nous partageons pleinement.",
+      "Néanmoins, nous nous interrogeons sur les moyens envisagés par la majorité, à savoir confisquer plus systématiquement le véhicule du conducteur qui continue à conduire malgré sa déchéance.",
+      "Nous nous interrogeons sur la nécessité de renforcer cette peine. Ne risque-t-on pas ainsi de confisquer le seul véhicule du ménage, qui sert au conjoint à aller travailler ou chercher les enfants à l'école? Que se passera-t-il pour les conjoints qui n'ont pas les moyens de racheter un véhicule? Il existe pour eux un risque de perdre leur emploi, ou d'être dans l'impossibilité de se rendre à l'école. Bref, l'idée est bien de pénaliser l'auteur d'une infraction, et c'est ce que nous souhaitons, mais il ne s'agit pas de sanctionner son entourage, en particulier le conjoint et les enfants qui n'ont rien demandé. Donc, nous soutenons l'objectif, tout en exprimant des réserves quant au moyen d'y parvenir.",
+      "Du reste, nous ne sommes pas les seuls puisqu'un juge du tribunal de police s'interrogeait également dans la presse de ce matin au sujet de la plus-value qu'apporte cette proposition de loi, d'autant que les autorités judiciaires disposent déjà de la possibilité de confisquer un véhicule et qu'elles y recourent fréquemment.",
+      "Pour toutes ces raisons, nous nous abstiendrons."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "14.05",
+     "name": "Serge Hiligsmann",
+     "party": "Les Engagés",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le président, chers collègues, le ministre de la Mobilité Crucke en parlait encore hier au cours de la présentation de sa note de politique générale: les derniers chiffres de la sécurité routière restent profondément préoccupants. Si, depuis cinquante ans, le nombre de décès sur nos routes diminue fortement, les 470 morts recensés en 2024 doivent nous interpeller collectivement. Derrière ces chiffres, ce sont des familles, des milliers de personnes endeuillées, des vies brisées et une responsabilité évidente des autorités publiques. Nous avons tous, parmi nos proches et amis, un décédé de la route. Et, si ce n'est pas le cas, je ne vous souhaite pas de vivre cette situation, car chaque fois que vous passerez par le lieu de l'accident, vous serez marqué. Imaginez-vous lorsque c'est le compagnon, l'enfant, l'époux, l'épouse ou le parent qui a perdu la vie.",
+      "Nous devons donc agir avec détermination et nous nous y attelons aujourd'hui au Parlement. La proposition de ce jour vise une cible prioritaire et flagrante. Notre collègue Wouter Raskin l'a précisé: chaque jour dans notre pays, 91 conducteurs sont interceptés au volant sans permis de conduire valide. Ce sont donc 91 personnes qui, sciemment, prennent le risque de mettre leur propre vie et, surtout, celle des autres en danger. Les données du SPF Mobilité et de VIAS confirment une réalité bien connue des services de police et des magistrats: les conducteurs sans permis sont parmi les plus susceptibles de récidiver et sont surreprésentés dans les statistiques d'accidents graves.",
+      "Face à des fléaux durablement ancrés dans le comportement de trop de personnes – notamment la conduite sous influence, les excès de vitesse et l'usage du téléphone au volant –, nous devons assumer des mesures fortes et cohérentes si nous voulons atteindre notre ambition de zéro décès sur les routes à l’horizon 2050. Le ministre l'a rappelé encore hier. La proposition n° 390, dont nous débattons aujourd'hui, marque à cet égard un tournant clair dans la philosophie de nos sanctions routières.",
+      "Lorsqu’une personne a déjà fait l’objet d’un retrait de permis une première fois et continue de prendre le volant, l’amende seule ne suffit plus. En revanche, en retirant l’accès au véhicule dès la seconde interpellation, nous instaurons une mesure forte, efficace, proportionnée et préventive pour faire face à la dangerosité de ce comportement récidiviste et renforcer la sécurité sur nos routes. Cette réforme s’inscrit pleinement dans l’accord de gouvernement et dans une vision globale de la sécurité routière.",
+      "Depuis la sixième réforme de l’État, ces compétences exigent en effet de travailler main dans la main, via des campagnes de sensibilisation régionales, via des formations alternatives à la déchéance du droit de conduire, et via des réponses pénales plus fermes face aux comportements les plus dangereux. La sécurité routière n’est pas qu’une affaire de sanctions, mais aussi une responsabilité collective qui exige cohérence, prévention et fermeté.",
+      "En co ‑ signant ce texte, Les Engag é s font un choix clair. La confiscation du véhicule se veut aussi un levier dissuasif."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "14.06",
+     "name": "Niels Tas",
+     "party": "Vooruit",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Collega’s, met dit voorstel zal wie door de rechter een rijverbod opgelegd krijgt en toch nog achter het stuur kruipt, vrijwel automatisch zijn auto kwijtspelen. Dat is de kern van het wetsvoorstel. Dat is ook een duidelijke keuze voor meer verkeersveiligheid.",
+      "Collega’s, laten we daar heel duidelijk over zijn: we kunnen niet streng genoeg zijn voor verkeerscriminelen. Het gaat om mensen die bewust een rijverbod negeren en ten gevolge daarvan ook de verkeersveiligheid en letterlijk het leven van andere weggebruikers in gevaar brengen. Dat zijn feiten.",
+      "Onderzoek van 2021 van Vias institute toont aan dat bestuurders die veelvuldig in de fout gaan in het verkeer betrokken zijn bij een derde van de ongevallen in ons land. Dat is hallucinant. Tegelijk hebben zij ook 10 % meer kans om een ongeval te veroorzaken.",
+      "Met dit wetsvoorstel richten we ons dan ook vooral op de kern van het probleem: de hardnekkige wegcrimineel die willens nillens de wet overtreedt, de rechtspraak naast zich neerlegt en het leven van zichzelf maar ook van anderen in gevaar brengt.",
+      "Het moge duidelijk zijn dat het hier niet over doetjes gaat. Het gaat niet over iemand die één keer een klein beetje te snel rijdt. Het gaat over een kleine groep verkeerscriminelen, verkeershooligans, die niet weten van ophouden en die keer op keer de regels overtreden en slachtoffers in het verkeer blijven maken.",
+      "Klassieke straffen schieten bij die groep duidelijk vaak tekort. Zo is rijden tijdens een rijverbod tegenwoordig de meest gepleegde inbreuk onder recidivisten. Het wetsvoorstel van collega Raskin is dus duidelijk een stap vooruit. We pakken hun speelgoed af.",
+      "Dit wetsvoorstel maakt van de verbeurdverklaring van hun auto de nieuwe standaard, zodat die hooligans zich niet zomaar opnieuw in het verkeer kunnen begeven en – inderdaad, mevrouw Jacquet – ook geen gevaar kunnen zijn voor hun eigen gezin. Het is de consequentie van de keuze die zij hebben gemaakt. Het is hun verantwoordelijkheid.",
+      "Het doel is glashelder: een veiliger verkeer, waarin dramatische ongevallen voorkomen worden. Met Vooruit zijn we altijd al voortrekkers geweest van maatregelen voor meer verkeersveiligheid. Dit gaat over een verantwoordelijkheid voor alle weggebruikers, voor voetgangers, voor fietsers, voor kinderen, voor gezinnen.",
+      "Verkeersveiligheid gaat over mensenlevens. Daarom zullen wij met Vooruit dit wetsvoorstel, dat ons opnieuw een stapje dichter bij nul verkeersongevallen moet brengen, resoluut steunen."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "14.07",
+     "name": "Tine Gielis",
+     "party": "cd&v",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Collega's, de aanleiding van dit wetsvoorstel is al voldoende uitvoerig geschetst. Het krijgt alleszins de steun van de volledige cd&v-fractie. Nog niet zo lang geleden heeft zich in mijn nabije omgeving een gelijkaardig verkeersongeval voorgedaan. Een zeer fijne avond kende een tragisch einde, waarbij een jongeman in de fleur van zijn leven plots werd weggerukt. Die avond zijn er zeer veel alarmsignalen afgegaan, maar daarop werd niet correct gereageerd. Het ongeval had vermeden kunnen worden als de chauffeur zijn verantwoordelijkheid had genomen. Laten wij, beleidsmakers, wel onze verantwoordelijkheid nemen en alles in het werk stellen om zulke gebeurtenissen in de toekomst te vermijden. Met dit wetsvoorstel pakken we het probleem van de wegpiraten bij de bron aan, we schakelen namelijk de wagen als moordwapen uit. Om die reden steunt de cd&v-fractie dit voorstel van harte."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "14.08",
+     "name": "Staf Aerts",
+     "party": "Ecolo-Groen",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Collega’s, wat ons betreft, stuurt het voorliggende wetsvoorstel een duidelijke boodschap de wereld in: wie zonder geldig rijbewijs rijdt, verliest voortaan ook zijn voertuig. Wij steunen die maatregel en zullen het wetsvoorstel ook goedkeuren. Men vindt in ons een bondgenoot voor elke stap naar meer verkeersveiligheid. Het is geen geheim dat recidivisten per definitie meer en zwaardere verkeersovertredingen begaan dan andere chauffeurs.",
+      "Zonder geldig rijbewijs rijden is geen fait divers, maar zo lijkt het toch af en toe. Sommige sportcommentatoren vinden het zelfs nodig om hun burgerlijke ongehoorzaamheid tijdens een sportwedstrijd in de verf te zetten door te stellen dat ze hun rijbewijs nog altijd hebben. Ik vind dat een schande en het zou zeer goed zijn om daar een krachtig politiek signaal tegenover te zetten.",
+      "De gevolgen zijn immers veel te vaak dramatisch. Denk maar aan het ongeval in Gent veroorzaakt door iemand zonder rijbewijs en zwaar onder invloed, met de dood van twee wielertoeristen tot gevolg. Verkeersveiligheid gaat over levens. De versterking van de handhaving en de verhoging van de drempel voor recidivisten maakt onze wegen veiliger voor iedereen, van fietser tot voetganger, van jong tot oud.",
+      "De voorgestelde tekst, die we zullen goedkeuren, is evenwel geen wonderoplossing. Wij willen gerust mee nadenken over maatregelen om ervoor te zorgen dat wie met een bedrijfswagen rijdt, op dezelfde manier wordt aangepakt als wie met de eigen wagen rijdt. Om recidivisme echt aan te pakken, zullen we eerlijk gezegd nog verder moeten gaan en moeten kiezen voor een systeem van rijbewijs met punten.",
+      "In heel Europa hebben 27 van de 32 landen al een rijbewijs met punten. Daaruit blijkt dat het aantal dodelijke slachtoffers in het verkeer met 15 tot 20 % kan verminderen. Wie echt vooruitgang wil boeken, moet dus ook grote, straffe maatregelen nemen die echt een verschil maken. Wij dringen erop aan dat u niet alleen kleine stapjes zet, die we uiteraard steunen, maar dat u ook werk maakt van het rijbewijs met punten."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "14.09",
+     "name": "Paul Van Tigchelt",
+     "party": "Anders.",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Collega Raskin, u legt al langer de vinger op de wonde met betrekking tot verkeersveiligheid. U doet dat zeer consequent en zeer erudiet. Daarvoor respecteer ik u. U maakt nu echter deel uit van de meerderheid en ik had meer van u verwacht.",
+      "Ik hoor hier veel grote woorden, vooral vanuit de meerderheid. Het gaat dan over slachtoffers in het verkeer. Collega Tas zegt dat onderhavig voorstel inwerkt op de kern van het probleem. Dat doet het niet. Ik had meer verwacht van u vandaag, collega Raskin.",
+      "Net zoals de maatregel inzake de doding in het verkeer, die in de commissie voor Justitie werd goedgekeurd, is ook de voorgestelde maatregel symbolisch, want men kan nu al overgaan tot de verbeurdverklaring, ook al is die facultatief. Bovendien rijst de vraag quid als de chauffeur niet de eigenaar van het voertuig is.",
+      "Waar we wel op wachten, is de uitvoering van het regeerakkoord. Waar het echt om gaat, collega's, als we spreken over verkeersveiligheid, is de verhoging van de pakkans. Waar blijft u met voorstellen daaromtrent? Waarom blijft u daarover zo oorverdovend stil? Het gaat ook over de invoering van de databank veelplegers, databank die allang wordt aangekondigd en in het regeerakkoord staat. Het is daarover oorverdovend stil. In de diverse beleidsnota's lees ik daarover zeer weinig. Maak daar alstublieft werk van en kom niet met symboolmaatregelen, waarmee we de burgers die slachtoffer worden van verkeersmisdrijven, een rad voor de ogen draaien. Dat is wat hier vandaag gebeurt.",
+      "Daarom zal onze fractie zich bij nader inzien helaas moeten onthouden, collega Raskin. Met alle respect voor u, uw maatregel lijkt vooral op pappen en nathouden. We moeten de echte oorzaken van verkeersonveiligheid aanpakken en u zult mij daarin geen ongelijk geven."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "14.10",
+     "name": "Wouter Raskin",
+     "party": "N-VA",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Ik wil even kort reageren op een aantal dingen die gezegd zijn. Ik zal de omgekeerde richting gebruiken, want de woorden zijn nog niet koud.",
+      "Mijnheer Van Tigchelt, u bent natuurlijk zeer erudiet in uw oppositiewerk. Ik waardeer dat ook zeer. Ik ben het zelfs in belangrijke mate eens met een aantal dingen die u hebt gezegd, maar niet met alles. Wanneer u zegt dat we met die tekst de mensen een rad voor de ogen draaien, vind ik dat een beetje overdreven. Dat klopt niet. Ik heb zelf ook gezegd dat er enige symboliek in de tekst zit. Dat is ook heel bewust gekozen. U kent het regeerakkoord ook. Wij hebben ons in het arizonaregeerakkoord voorgenomen om niet alleen te handhaven. Dat mag, dat moeten we ook blijven doen. De pakkans moet omhoog, dat staat trouwens ook in het regeerakkoord, als u zich dat herinnert. Dat moet allemaal blijven gebeuren, dat zei u ook. Ik denk echter dat het belangrijk is om harder in te zetten op het heropvoeden van verkeerscriminelen, van recidivisten, van mensen die keer op keer in dezelfde fout blijven vervallen. Dat is ook wat Arizona zich voorneemt.",
+      "Om die reden is in het regeerakkoord inderdaad de ambitie uitgesproken om de pakkans te verhogen en de veelplegersdatabank te organiseren. U zegt dat u daar niets van ziet. Dat klopt, u ziet daarvan nog niets. Als u evenwel beweert dat er nog niets mee is gebeurd en dat niemand zich daarmee bezighoudt, dan klopt dat niet. Lees er gerust de verslagen van de commissie voor Mobiliteit eens op na. Ikzelf, en ook een aantal andere collega's – ere wie ere toekomt – hebben al veelvuldig de heer Crucke, maar ook mevrouw Verlinden ondervraagd over de veelplegersdatabank.",
+      "We hebben gisteren de beleidsnota besproken van de heer Crucke, die uitdrukkelijk de ambitie uitspreekt om vaart te zetten achter de veelplegersdatabank. Hij heeft zelfs met een knipoog aan zijn collega Verlinden gevraagd om ook een tandje bij te steken. Dat zal ook gebeuren, ik ga daar persoonlijk op toezien. Mevrouw Verlinden weet dat ook. We zijn ook nog maar één jaar ver. Geef ons even de tijd. In het ontwerp staan een aantal zaken die de verkeersveiligheid ten goede zullen komen en die, in tegenstelling tot wat voorgaande regeringen deden, veel meer de nadruk leggen op de kern van het probleem, op de aanpak van recidive, op het heropvoeden van die kleine groep mensen die steeds hervalt. Ik vraag u dus een beetje geduld. Naast de symboliek zullen we dankzij die wet morgen strenger kunnen optreden dan vandaag.",
+      "Ik dank collega Aerts van Groen voor de steun. Ik weet dat het niet evident is om het voorstel vanuit de oppositie onomwonden goed te keuren. Ik apprecieer dat heel erg. Ik dank hem daarvoor.",
+      "Het voorbeeld dat mevrouw Jacquet en mijnheer Legasse geven, is hetzelfde voorbeeld als in de commissie. Het gaat over een gezin met één wagen en een gehandicapt kind. Als die wagen wordt afgenomen, komt dat gezin natuurlijk in de problemen. Dat kind geraakt dan niet waar het moet zijn. Gehandicapte kinderen zitten immers vaak niet op school in hun eigen dorp. Afstanden moeten dan overbrugd worden. De uitzonderingsgrond die dankzij de ingewonnen adviezen in de tekst is opgenomen, ondervangt dat probleem. Het is immers nooit de bedoeling geweest buitensporige of onrechtvaardig zware straffen uit te spreken. Daarom is die uitzonderingsgrond voorzien. Die remedieert de gevallen die zij hier aanhalen. De wet voorkomt dus effectief datgene waarvoor u vreest.",
+      "Mevrouw Jacquet, ik ben wel blij met het voortschrijdend inzicht. Twee weken geleden was u nog tegen. Een en ander is blijkbaar bezonken. U zult zich vandaag onthouden. Ook daarvoor wil ik mijn dank uitspreken.",
+      "Tot slot, mijnheer de voorzitter, dank ik uiteraard ook alle leden van de meerderheid voor de steun voor de voorliggende tekst en voor de inspanningen om samen de amendementen in de commissie neer te schrijven en in de wet op te nemen."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "14.11",
+     "name": "Frank Troosters",
+     "party": "VB",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer Raskin, mijnheer Tas, ik wil kort reageren op wat ik heb gehoord.",
+      "Ten eerste stel ik vast dat twee partijen hun stemgedrag hier zullen wijzigen ten opzichte van hun stemgedrag in de commissie. Dat is opvallend maar uiteraard niet verboden, laat dat duidelijk zijn.",
+      "Ten tweede hoor ik een aantal zaken. Er wordt ten eerste gesproken van een nieuwe standaard. Er is geen nieuwe standaard. De standaard is dezelfde als vroeger, namelijk de rechter die beslist. Dat was zo en dat blijft zo. De standaard is dus gewoon dezelfde.",
+      "De heer Van Tigchelt geeft ten tweede ook deels het probleem aan. Ik wil daar niet te diep op ingaan, maar de essentie is dat deze regering één jaar na de start op het vlak van verhoogde verkeersveiligheid geen realisaties kan voorleggen. Dan komt men dus maar met een symboolmaatregel, zoals ik dat noem. Blijkbaar is dat ook in de commissie voor Justitie gebeurd.",
+      "Ik hoor de heer Raskin zeggen dat dat niet betekent dat er niets gebeurt. Ik mag hopen dat er zaken gebeuren. Het gaat dan over die belangrijke veelplegersdatabank. Voor alle duidelijkheid, die valt onder de bevoegdheid van Justitie.",
+      "In onze commissie heb ik gezien dat daar vragen over gesteld werden, vooral door u, mijnheer Raskin. Dat waren terechte vragen. Ik moet echter eerlijk zeggen dat ik u nooit vrolijk naar buiten heb zien huppelen na de antwoorden die u gekregen hebt. U was er zelf een beetje cynisch over.",
+      "Ik ben vooral benieuwd naar wat nog zal volgen, maar op dit moment ligt er niets concreets op tafel. Er zijn geen concrete maatregelen genomen. Men vlucht nu in een soort symboolmaatregel. Nogmaals, de essentie is dat de rechter vroeger besliste en dat de rechter ook nu beslist.",
+      "Zoals het openbaar ministerie letterlijk zegt, verandert dit eigenlijk weinig. We zullen zien wat de toekomst brengt. Ik hoop dat het meer zal zijn dan wat we tot nu toe gezien hebben."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "14.12",
+     "name": "Wouter Raskin",
+     "party": "N-VA",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer Troosters, ik hoop dat ook. Ik ga daar ook van uit. Ik heb minister Crucke gisteren opnieuw heel duidelijk zijn ambities inzake de veelplegersdatabank horen uitspreken. Ik heb twee weken geleden mevrouw Verlinden heel diep in de ogen gekeken. Ik weet dat cd&v samen met ons en met alle andere meerderheidspartijen de veelplegersdatabank in het regeerakkoord heeft neergeschreven. Het is inderdaad aan deze meerderheid om ter zake stappen te zetten.",
+      "Ik zal vanuit mijn positie mijn verantwoordelijkheid nemen. Ik zal mijn best doen opdat anderen in hun positie dat ook doen. Geef ons daarvoor nog even de tijd."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Collega’s, u merkt dat we niet ver van Valentijnsdag zijn en dat dat een inspiratiebron is voor sommigen."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Vraagt nog iemand het woord? (Nee)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Quelqu'un demande-t-il encore la parole? (Non)"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De algemene bespreking is gesloten."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "La discussion générale est close."
+    },
+    {
+     "type": "heading",
+     "level": 3,
+     "nl": "Bespreking van de artikelen",
+     "fr": "Discussion des articles"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "We vatten de bespreking van de artikelen aan. De door de commissie aangenomen tekst geldt als basis voor de bespreking. (Rgt 85, 4) (390/4)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Nous passons à la discussion des articles. Le texte adopté par la commission sert de base à la discussion. (Rgt 85, 4) (390/4)"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Het wetsvoorstel telt 3 artikelen."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "La proposition de loi compte 3 articles."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Er werden geen amendementen ingediend."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Aucun amendement n'a été déposé."
+    },
+    {
+     "type": "note",
+     "lang": "nl",
+     "text": "De artikelen 1 tot 3 worden artikel per artikel aangenomen."
+    },
+    {
+     "type": "note",
+     "lang": "fr",
+     "text": "Les articles 1 à 3 sont adoptés article par article."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De bespreking van de artikelen is gesloten. De stemming over het geheel zal later plaatsvinden."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "La discussion des articles est close. Le vote sur l'ensemble aura lieu ultérieurement."
+    }
+   ]
+  },
+  {
+   "number": "15",
+   "section": {
+    "nl": "Mededeling",
+    "fr": "Communication"
+   },
+   "title": {
+    "nl": "Unia en Myria – Aanwijzing van een Nederlandstalig plaatsvervangend lid van de raad van bestuur – Oproep tot kandidaten",
+    "fr": "Unia et Myria – Désignation d’un membre suppléant néerlandophone du conseil d’administration – Appels à candidats"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Op 17 juni 2021 werd mevrouw Tine Claus door de plenaire vergadering aangewezen tot plaatsvervangend lid van mevrouw Shaireen Aftab, lid van de raad van bestuur van Unia en Myria."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Le 17 juin 2021, Mme Tine Claus a été désignée au cours de la séance plénière en tant que membre suppléante de Mme Shaireen Aftab, membre du conseil d’administration d’Unia et Myria."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Bij brief van 30 januari 2026 dient ze haar ontslag in."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Par lettre du 30 janvier 2026, elle a introduit sa démission."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Gelet op dit ontslag dient de Kamer, overeenkomstig artikel 8, § 6, tweede lid, van het Samenwerkingsakkoord van 12 juni 2013 tussen de federale overheid, de gewesten en de gemeenschappen voor de oprichting van het Interfederaal Centrum voor gelijke kansen en bestrijding van racisme en discriminatie, over te gaan tot de aanwijzing van een nieuw Nederlandstalig plaatsvervangend lid voor de resterende duur van het lopende mandaat."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Vu cette démission, conformément à l’article 8, § 6, alinéa 2, de l’Accord de coopération du 12 juin 2013 conclu entre l’État fédéral, les régions et les communautés créant un Centre interfédéral pour l’égalité des chances et la lutte contre les discriminations et le racisme, la Chambre doit procéder à la désignation d’un nouveau membre suppléant néerlandophone pour la durée restante du mandat en cours."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Aangezien de gender- en taalpariteit moet worden nageleefd, dient de Kamer een Nederlandstalig, vrouwelijk plaatsvervangend lid aan te wijzen."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Vu que la parité de genre et de langue doit être respectée, la Chambre est tenue de désigner un membre suppléant néerlandophone de sexe féminin."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Overeenkomstig het advies van de Conferentie van voorzitters van 11 februari 2026, stel ik u voor een oproep tot kandidaten in het Belgisch Staatsblad bekend te maken voor een mandaat van Nederlandstalig, vrouwelijk plaatsvervangend lid van de raad van bestuur van Unia en Myria."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Conformément à l'avis de la Conférence des présidents du 11 février 2026, je vous propose de publier un appel à candidats au Moniteur belge pour un mandat de membre néerlandophone de sexe féminin du conseil d’administration d’Unia et Myria."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Geen bezwaar? (Nee)"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Aldus zal geschieden."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Pas d'observation? (Non)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Il en sera ainsi."
+    }
+   ]
+  },
+  {
+   "number": "16",
+   "section": {
+    "nl": "Mededeling",
+    "fr": "Communication"
+   },
+   "title": {
+    "nl": "Inoverwegingnemingen",
+    "fr": "Prises en considération"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "In de laatst rondgedeelde agenda komt een lijst van voorstellen voor waarvan de inoverwegingneming is gevraagd."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Vous avez pris connaissance dans l'ordre du jour qui vous a été distribué de la liste des propositions dont la prise en considération est demandée."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Indien er geen bezwaar is, beschouw ik de inoverwegingneming van deze voorstellen als aangenomen. Overeenkomstig het Reglement worden die voorstellen naar de bevoegde commissies verzonden."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "S'il n'y a pas d'observations à ce sujet, je considère la prise en considération de ces propositions comme acquise. Je renvoie les propositions aux commissions compétentes conformément au Règlement."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Geen bezwaar? (Nee)"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Aldus zal geschieden."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Pas d'observation? (Non)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Il en sera ainsi."
+    },
+    {
+     "type": "heading",
+     "level": 4,
+     "nl": "Urgentieverzoeken",
+     "fr": "Demandes d'urgence"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "J'ai reçu deux demandes d'urgence."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "La première concerne la proposition de résolution de Mme Lydia Mutyebele Ngoi et consorts visant à soutenir le peuple iranien, à condamner la répression en République islamique d'Iran et à renforcer la protection des défenseurs des droits humains, n° 1361/1."
+    },
+    {
+     "type": "speech",
+     "id": "16.01",
+     "name": "Lydia Mutyebele Ngoi",
+     "party": "PS",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le président, chers collègues, je demande en effet l'inscription en urgence à l'ordre du jour de la proposition de résolution visant à soutenir le peuple iranien, à condamner la répression en République islamique d'Iran et à renforcer la protection des défenseurs des droits humains.",
+      "L'urgence de ce texte ne fait aucun doute car, depuis des semaines, l'Iran est secoué par des manifestations massives d'une ampleur inédite auxquelles participent notamment de nombreuses femmes, jeunes et minorités opprimées. Ces mobilisations qui s'inscrivent dans la continuité du mouvement \"Femme, Vie, Liberté\" expriment un rejet profond de l'oppression systémique et, en particulier, la discrimination institutionnalisée dont les femmes iraniennes sont victimes.",
+      "Face à ces manifestations, la réponse du régime est d'une brutalité extrême: tirs à balles réelles, arrestations de masse, disparitions forcées, actes de torture et coupure totale d'internet depuis le 8 janvier 2026 pour empêcher la circulation d'informations et masquer les exactions. On dénombre de nombreux morts et blessés parmi les manifestants pacifiques, dont des femmes et des jeunes en première ligne du mouvement.",
+      "Nous ne pouvons rester silencieux alors que ces femmes et ces hommes risquent leur vie pour des droits fondamentaux que nous considérons comme évidents. Les défenseurs des droits humains, les journalistes, les militantes féministes, les étudiants, les minorités ethniques et religieuses sont ciblés, arrêtés, torturés ou contraints à la clandestinité.",
+      "La Belgique a réagi, mais la situation exige un signal fort et immédiat du Parlement. Notre Assemblée doit affirmer son soutien au peuple iranien, condamner la répression et demander des mesures renforcées au niveau belge et européen conformément aux orientations prévues dans la résolution. C'est pourquoi j'appelle la Chambre à reconnaître la gravité de la situation et à inscrire sans délai ce texte à l'ordre du jour, afin que notre voix, la voix de ce Parlement, s'élève clairement en faveur des droits fondamentaux.",
+      "Je voudrais également adresser toute ma solidarité à la collègue Darya Safai qui est sans nouvelles de sa famille."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Le président : Je vous propose de nous prononcer sur cette demande."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Ik stel u voor om ons over deze vraag uit te spreken."
+    },
+    {
+     "type": "note",
+     "lang": "fr",
+     "text": "L'urgence est rejetée par assis et levé."
+    },
+    {
+     "type": "note",
+     "lang": "nl",
+     "text": "De urgentie wordt verworpen bij zitten en opstaan."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Ik heb ook een vraag tot urgentie voor het wetsvoorstel van de heer Van Quickenborne en consoorten tot wijziging van het Wetboek van de inkomstenbelastingen 1992 met het oog op de toekenning van een belastingvermindering voor investeringen via een Einsteinbeleggersrekening in Europese small- en midcapaandelen en in Europese aandelen-ETF's, nr. 1366/1."
+    },
+    {
+     "type": "speech",
+     "id": "16.02",
+     "name": "Vincent Van Quickenborne",
+     "party": "Anders.",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Collega’s, ik vraag even uw aandacht voor de Einsteinrekening, een beleggersrekening die we willen introduceren voor iedereen, om vanaf de geboorte elke maand tot 100 euro te kunnen beleggen, met een belastingvermindering van maximaal 1.200 euro per jaar, zoals bijvoorbeeld bestaat bij het pensioensparen. Op die manier kunnen mensen vanaf hun geboorte, als ze elke maand 100 euro beleggen, via het systeem van compound interest , tot 1,4 miljoen euro kapitaal opbouwen tegen de leeftijd van 65 jaar. Dat is een goede zaak voor mensen die een eerste woning willen aanschaffen, bijvoorbeeld op 30 of 35 jaar, mijnheer Van Hecke, of voor mensen die werk willen maken van de opbouw van een deftig pensioen.",
+      "We doen dat ten eerste, door de meerwaardetaks die de regering wil invoeren daarop niet van toepassing te laten zijn en ten tweede, geen taks op beursverrichtingen op te leggen.",
+      "We vragen de urgentie omdat de regering van plan is om iets totaal anders te doen. Ze wil een meerwaardetaks invoeren, waarvan stilaan iedereen doorheeft dat die zo complex is dat het een meerwaardemonster is geworden: 272 pagina’s, negen tarieven, tientallen uitzonderingen. Niemand verstaat het nog, behalve minister Jambon, die het allemaal begrepen heeft. Dat zullen we zien in de commissie.",
+      "Mijnheer de voorzitter, in de plaats van de mensen weg te duwen van beleggingen, terug richting het spaarboekje dat eigenlijk niets opbrengt, vragen wij om te kiezen voor iets positiefs. Een spaarboekje brengt 1 % rente op en de inflatie bedraagt 2 %. Met een spaarboekje verliest men dus. Daarom vragen we om te kiezen voor iets positiefs en dat is de Einsteinrekening. Eigenlijk is dat het systeem-Cooreman-De Clercq 2.0, mijnheer de minister van Consumentenzaken. Daarvoor is het hoog tijd.",
+      "Daarom tekenen we dit voorstel met de hele fractie, van de eerste tot de laatste, en vragen we uw steun voor de urgentie van de Einsteinrekening. (Applaus van de Anders.-fractie)"
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : We merken inderdaad dat uw volledige fractie het voorstel steunt."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Ik stel u voor om ons over deze vraag uit te spreken."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Je vous propose de nous prononcer sur cette demande."
+    },
+    {
+     "type": "note",
+     "lang": "nl",
+     "text": "De urgentie wordt verworpen bij zitten en opstaan."
+    },
+    {
+     "type": "note",
+     "lang": "fr",
+     "text": "L'urgence est rejetée par assis et levé."
+    },
+    {
+     "type": "heading",
+     "level": 4,
+     "nl": "Stemafspraken",
+     "fr": "Pairages"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Collega’s, alvorens we overgaan tot de naamstemmingen, vraag ik u de stemafspraken bekend te maken waarbij een lid zich onthoudt bij de stemming in overleg met een afwezig lid."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Chers collègues, avant de procéder aux votes nominatifs, je vous propose d'annoncer les pairages par lesquels un membre s'abstient de voter en accord avec un membre absent."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Zijn er stemafspraken?"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Y a-t-il des accords de pairage?"
+    },
+    {
+     "type": "speech",
+     "id": "16.03",
+     "name": "Steven Coenegrachts",
+     "party": "Anders.",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijn stemafspraak met collega Yzermans geldt nog steeds."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "16.04",
+     "name": "Pierre-Yves Dermagne",
+     "party": "PS",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "M. Courard assurera le pairage pour Mme De Vreese et je ferai de même pour M. Michel."
+     ]
+    }
+   ]
+  },
+  {
+   "number": "17",
+   "section": {
+    "nl": "Naamstemming",
+    "fr": "Vote nominatif"
+   },
+   "title": {
+    "nl": "Wetsvoorstel tot wijziging van de wet van 16 maart 1968 betreffende de politie over het wegverkeer, wat de verbeurdverklaring van het voertuig bij rijden spijts verval betreft (390/4)",
+    "fr": "Proposition de loi modifiant la loi du 16 mars 1968 relative à la police de la circulation routière en ce qui concerne la confiscation du véhicule en cas de conduite en dépit d'une déchéance du droit de conduire (390/4)"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [
+    "390"
+   ],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Vraagt iemand het woord voor een stemverklaring? (Nee)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Quelqu'un demande-t-il la parole pour une déclaration avant le vote? (Non)"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Begin van de stemming / Début du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Heeft iedereen gestemd en zijn stem nagekeken? / Tout le monde a-t-il voté et vérifié son vote?"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Einde van de stemming / Fin du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Uitslag van de stemming / Résultat du vote."
+    },
+    {
+     "type": "vote",
+     "number": 1,
+     "subject": null,
+     "yes": 81,
+     "no": 0,
+     "abstain": 57,
+     "total": 138,
+     "result": {
+      "nl": "Bijgevolg neemt de Kamer het wetsvoorstel aan. Het zal als wetsontwerp aan de Koning ter bekrachtiging worden voorgelegd. (390/5)",
+      "fr": "En conséquence, la Chambre adopte la proposition de loi. Elle sera soumise en tant que projet de loi à la sanction royale. (390/5)"
+     }
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Reden van onthouding? ( Nee )"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Raison d'abstention? ( Non )"
+    }
+   ]
+  },
+  {
+   "number": "18",
+   "section": {
+    "nl": "Naamstemming",
+    "fr": "Vote nominatif"
+   },
+   "title": {
+    "nl": "Goedkeuring van de agenda",
+    "fr": "Adoption de l’ordre du jour"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "We moeten overgaan tot de goedkeuring van de agenda voor de vergadering van 26 februari 2026."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Nous devons procéder à l'approbation de l'ordre du jour de la séance du 26 février 2026."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Zijn er dienaangaande opmerkingen? (Nee)"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Bijgevolg is de agenda aangenomen."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Y a-t-il une observation à ce sujet? (Non)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "En conséquence, l'ordre du jour est adopté."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De vergadering wordt gesloten. Volgende vergadering donderdag 26 februari 2026 om 14.15 uur."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "La séance est levée. Prochaine séance le jeudi 26 février 2026 à 14 h 15."
+    },
+    {
+     "type": "note",
+     "lang": "nl",
+     "text": "De vergadering wordt gesloten om 17.01 uur."
+    },
+    {
+     "type": "note",
+     "lang": "fr",
+     "text": "La séance est levée à 17 h 01."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "De bijlage is opgenomen in een aparte brochure met nummer CRIV 56 PLEN 094 bijlage."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "L'annexe est reprise dans une brochure séparée, portant le numéro CRIV 56 PLEN 094 annexe."
+    }
+   ]
+  }
+ ],
+ "named_votes": {
+  "1": {
+   "yes": [
+    "Aerts Staf",
+    "Bacquelaine Daniel",
+    "Bergers Jeroen",
+    "Bertels Jan",
+    "Bombled Christophe",
+    "Buysrogge Peter",
+    "Cornillie Hervé",
+    "Cuylaerts Dorien",
+    "Daenen Nele",
+    "Dedecker Jean-Marie",
+    "Delcourt Catherine",
+    "De Maegd Michel",
+    "Demesmaeker Eva",
+    "Demon Franky",
+    "Depoorter Kathleen",
+    "De Roover Peter",
+    "De Wit Sophie",
+    "D'Haese Christoph",
+    "Dubois Xavier",
+    "Ducarme Denis",
+    "Dufrane Anthony",
+    "El Yakhloufi Achraf",
+    "Farih Nawal",
+    "Foret Gilles",
+    "Frank Luc",
+    "Freilich Michael",
+    "Gatelier Jean-François",
+    "Gielis Tine",
+    "Gijbels Frieda",
+    "Goffin Philippe",
+    "Grillaert Leentje",
+    "Handichi Youssef",
+    "Hansez Isabelle",
+    "Hiligsmann Serge",
+    "Hugon Lecharlier Claire",
+    "Jadoul Pierre",
+    "Kompany Pierre",
+    "Lamarti Fatima",
+    "Lambrecht Annick",
+    "Lanjri Nahima",
+    "Lasseaux Stéphane",
+    "Lejeune Marc",
+    "Lutgen Benoît",
+    "Mahdi Sammy",
+    "Maouane Rajae",
+    "Matagne Julien",
+    "Matheï Steven",
+    "Metsu Koen",
+    "Meuleman Brent",
+    "Muylle Nathalie",
+    "Nuino Ismaël",
+    "Oru Funda",
+    "Peeters Lotte",
+    "Piedboeuf Benoît",
+    "Pirson Anne",
+    "Ramlot Carmen",
+    "Raskin Wouter",
+    "Reuter Florence",
+    "Ronse Axel",
+    "Safai Darya",
+    "Schlitz Sarah",
+    "Scourneau Vincent",
+    "Soete Jeroen",
+    "Tas Niels",
+    "Taton Julie",
+    "Tourneur Aurore",
+    "Truyman Lieve",
+    "Vanbesien Dieter",
+    "Vandeberg Victoria",
+    "Vandemaele Matti",
+    "Van den Heuvel Koen",
+    "Vandeput Steven",
+    "Van der Donckt Wim",
+    "Van Hecke Stefaan",
+    "Van Keymolen Phaedra",
+    "van Riet Katrijn",
+    "Vanrobaeys Anja",
+    "Van Vaerenbergh Kristien",
+    "Verkeyn Charlotte",
+    "Weydts Axel",
+    "Wollants Bert"
+   ],
+   "no": [],
+   "abstain": [
+    "Aouasti Khalil",
+    "Bayet Hugues",
+    "Bertrand Alexia",
+    "Bilmez Kemal",
+    "Boukili Nabil",
+    "Bury Katleen",
+    "Chahid Ridouane",
+    "Coenegrachts Steven",
+    "Courard Philippe",
+    "Daems Greet",
+    "Daerden Frédéric",
+    "Dedonder Ludivine",
+    "De Knop Irina",
+    "Depoortere Ortwin",
+    "Dermagne Pierre-Yves",
+    "Désir Caroline",
+    "De Smet François",
+    "De Witte Kim",
+    "Dillen Marijke",
+    "Di Nunzio Sandro",
+    "Eggermont Natalie",
+    "Gabriëls Katja",
+    "Hedebouw Raoul",
+    "Huybrechts Britt",
+    "Jacquet Farah",
+    "Keuten Dieter",
+    "Legasse Dimitri",
+    "Magnette Paul",
+    "Merckx Sofie",
+    "Mertens Peter",
+    "Moons Kurt",
+    "Moscufo Nadia",
+    "Mutyebele Ngoi Lydia",
+    "Pas Barbara",
+    "Ponthier Annick",
+    "Prévot Patrick",
+    "Ravyts Kurt",
+    "Ribaudo Julien",
+    "Samyn Ellen",
+    "Sneppe Dominiek",
+    "Somers Werner",
+    "Thémont Sophie",
+    "Thiébaut Éric",
+    "Tonniau Robin",
+    "Troosters Frank",
+    "Van Belleghem Francesca",
+    "Van den Bosch Annik",
+    "Vander Elst Kjell",
+    "Van Hoecke Alexander",
+    "Van Lommel Reccino",
+    "Van Quickenborne Vincent",
+    "Van Rooy Sam",
+    "Van Tigchelt Paul",
+    "Verbelen Kristien",
+    "Vereeck Lode",
+    "Vermeersch Wouter",
+    "Yigit Ayse"
+   ]
+  }
+ }
+}

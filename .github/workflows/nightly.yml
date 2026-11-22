@@ -1,0 +1,66 @@
+# Nightly: fetch new plenary reports, summarise new debates, rebuild and deploy the site.
+# Needs repository secret ANTHROPIC_API_KEY for summaries (without it, only facts are updated).
+# Needs Settings → Pages → Source: "GitHub Actions".
+name: nightly
+
+on:
+  schedule:
+    - cron: "17 4 * * *"   # 04:17 UTC
+  workflow_dispatch:
+    inputs:
+      summarize:
+        description: "Max new debates to summarise"
+        default: "5"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: nightly
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    env:
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Cache raw reports
+        uses: actions/cache@v4
+        with:
+          path: data/raw
+          key: raw-${{ github.run_id }}
+          restore-keys: raw-
+      - name: Install Claude CLI
+        if: env.ANTHROPIC_API_KEY != ''
+        run: npm install -g @anthropic-ai/claude-code
+      - name: Update data
+        run: python -m pipeline.update --summarize "${{ github.event.inputs.summarize || '5' }}" --since 2026-09-01
+      - name: Commit data
+        run: |
+          git config user.name "klare-kamer-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "Nightly data update"
+          git push
+      - run: python site/build.py
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  deploy:
+    needs: update
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

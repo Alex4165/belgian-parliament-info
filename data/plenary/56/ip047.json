@@ -1,0 +1,786 @@
+{
+ "source": {
+  "type": "plenary",
+  "legislature": 56,
+  "session": 47,
+  "url": "https://www.dekamer.be/doc/PCRI/html/56/ip047x.html",
+  "date": "2025-06-18",
+  "part": null,
+  "provisional": false
+ },
+ "items": [
+  {
+   "number": "01",
+   "section": null,
+   "title": {
+    "nl": "Agenda",
+    "fr": "Ordre du jour"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Overeenkomstig het advies van de Conferentie van voorzitters van 17 juni 2025 hebt u een gewijzigde agenda voor de vergadering van vandaag ontvangen."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Conformément à l’avis de la Conférence des présidents du 17 juin 2025, vous avez reçu un ordre du jour modifié pour la séance d'aujourd'hui."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Zijn er dienaangaande opmerkingen? (Nee)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Y a-t-il une observation à ce sujet? (Non)"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Bijgevolg is de agenda aangenomen."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "En conséquence, l'ordre du jour est adopté."
+    }
+   ]
+  },
+  {
+   "number": "02",
+   "section": null,
+   "title": {
+    "nl": "Gelukwensen",
+    "fr": "Félicitations"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [],
+   "events": [
+    {
+     "type": "speech",
+     "id": "02.01",
+     "name": "Michel De Maegd",
+     "party": "MR",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le président, permettez-moi de vous interrompre.",
+      "Ce n'est pas tous les jours que, dans cet hémicycle, nous avons un président qui devient papa d'un petit Marcel. Je voulais sincèrement vous féliciter pour cet heureux événement."
+     ]
+    },
+    {
+     "type": "note",
+     "lang": "fr",
+     "text": "(Applaudissements)"
+    },
+    {
+     "type": "note",
+     "lang": "nl",
+     "text": "(Applaus)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Le président : Merci, cher collègue. Ce sont des nuits difficiles, et c'est pour cette raison que j'ai décidé d'aller au Parlement pour me reposer un peu. J'espère que ce sera le cas."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Merci, monsieur De Maegd, et tous les autres collègues."
+    },
+    {
+     "type": "speech",
+     "id": "02.02",
+     "name": "Nawal Farih",
+     "party": "cd&v",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de voorzitter, we willen u namens de cd&v-fractie ook van harte feliciteren. Er zijn waarschijnlijk drie redenen waarom u vandaag op deze plaats zit. De eerste reden is dat u uw job bijzonder graag doet; dat weten we allemaal. Ten tweede vermoed ik dat u hier iets meer te zeggen hebt dan thuis. Ten derde klinkt het geroep hier misschien aangenamer dan het gekrijs thuis.",
+      "We wensen u dus van harte proficiat. We hebben ook een kleine attentie voor u, maar die zal ik straks namens de cd&v-fractie overhandigen."
+     ]
+    },
+    {
+     "type": "note",
+     "lang": "fr",
+     "text": "(Applaudissements)"
+    },
+    {
+     "type": "note",
+     "lang": "nl",
+     "text": "(Applaus)"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Ik moet u wel tegenspreken: het gekrijs thuis is aangenamer, veel aangenamer, zonder enige twijfel."
+    },
+    {
+     "type": "speech",
+     "id": "02.03",
+     "name": "Bart De Wever",
+     "party": null,
+     "role": "government",
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de voorzitter, ik voel me uiteraard verplicht om namens de regering ook de Antwerpse burgemeester te feliciteren met het spartelende wonder."
+     ]
+    },
+    {
+     "type": "note",
+     "lang": "fr",
+     "text": "(Applaudissements)"
+    },
+    {
+     "type": "note",
+     "lang": "nl",
+     "text": "(Applaus)"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Er is inderdaad één huis in Antwerpen waar ik anderhalve week geleden tot derde burger werd benoemd – derde van de drie, welteverstaan."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De regering heeft ook niet stilgezeten, dat heb ik met haar gemeen."
+    }
+   ]
+  },
+  {
+   "number": "03",
+   "section": null,
+   "title": {
+    "nl": "Verzending van amendementen naar een commissie",
+    "fr": "Renvoi d’amendements en commission"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Ik heb twee amendementen van de regering ontvangen op het wetsontwerp houdende de algemene uitgavenbegroting voor het begrotingsjaar 2025, nr. 854/44."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Er zijn twee mogelijkheden – ik neem aan dat we vandaag veel amendementen op ons bord zullen krijgen –: we zullen die ofwel plenair, ofwel in commissie bespreken. Er wordt gevraagd om die naar de commissie te verzenden."
+    },
+    {
+     "type": "speech",
+     "id": "03.01",
+     "name": "Alexia Bertrand (Open Vld)",
+     "party": null,
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de voorzitter, collega's, dit had allang in de begroting moeten staan. Het is jammer dat dit nu pas opduikt, en dat voor zo'n essentieel onderwerp. De regering was triomfantelijk over het terugdraaien van de kernuitstap. Het gaat over honderden miljoenen dus het is verrassend dat dit nu pas opduikt.",
+      "Mijnheer de voorzitter, ik vraag me trouwens af of we wel in aantal zijn voor deze begrotings­besprekingen. Ik vermoed dat daarvoor toch een meerderheid in de Kamer is. Ik vraag een stemming om na te gaan of we wel in aantal zijn om beslissingen te kunnen nemen."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "03.02",
+     "name": "Stefaan Van Hecke",
+     "party": "Ecolo-Groen",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de voorzitter, gisteren is dat besproken in de Conferentie van voorzitters. Al weken of zelfs maanden discussiëren we over de begroting, maar de regering vraagt om de gisteren ingediende amendementen nu even in de commissie te behandelen, terwijl de plenaire begrotingsdebatten aanvatten om 10.00 uur. Verwacht men dus dat we dat tussen de soep en de patatten, in de middagpauze van 13.00 uur tot 14.00 uur, zullen doen?",
+      "We zijn het daar absoluut niet mee eens, mijnheer de voorzitter. De begrotingsbesprekingen kunnen slechts op een ordentelijke manier worden aangevat wanneer er over alle amendementen een beslissing is genomen in de commissies. We verzetten ons ertegen dat de bespreking van amendementen gelijktijdig met de begrotingsbespreking in plenum wordt behandeld.",
+      "Daarnaast is de indiening van die amendementen bijzonder opmerkelijk. Wat bezielde de minister, of de regering, om net nu met die amendementen te komen? De inhoud ervan is immers al sinds begin februari bekend. Meer nog, bij de overdracht van het kabinet heeft de voorgaande minister van Energie het volledige dossier overgemaakt aan de nieuwe minister. Het dossier heeft blijkbaar vier en een halve maand onaangeroerd in een schuif gelegen, en dan, daags voor de plenaire bespreking, komt de regering plots met iets dringends aanzetten, via een amendementje. Men wist dat al lang. Dat getuigt van puur amateurisme.",
+      "Mijnheer de voorzitter, we willen niet dat de werkzaamheden van de commissie voor Financiën plaatsvinden terwijl plenair het begrotingsdebat wordt gevoerd. Indien toch zou worden beslist om de amendementen naar de commissie te verwijzen, dan moeten de werkzaamheden in de plenaire vergadering worden opgeschort tot de commissie haar werkzaamheden heeft afgerond."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Mijnheer Van Hecke, los van de beslissingen die nog genomen zullen worden, kan ik als voorzitter van de Kamer melden dat ik de plenaire vergadering niet gelijktijdig zal laten plaatsvinden met een vergadering van de commissie voor Financiën. Het is niet gepast om wetgevend werk en commissiewerk te mengen, en zeker niet wanneer het de commissie voor Financiën betreft tijdens een begrotings­bespreking. Dat lijkt mij evident, onverminderd de beslissingen die nog genomen zullen worden."
+    },
+    {
+     "type": "speech",
+     "id": "03.03",
+     "name": "Sofie Merckx",
+     "party": "PVDA-PTB",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le président, permettez-moi tout d'abord de vous adresser nos félicitations pour le nouveau-né, en espérant, surtout, que la maman se porte bien dans ces circonstances-là, parce que c'est avant tout à elle que je pense.",
+      "En ce qui concerne l'amendement qui nous a été envoyé hier, je reconnais avoir été très étonnée d'entendre M. Piedboeuf parler du projet Phoenix. Je me suis alors demandé si je connaissais encore mes dossiers. C'est le \"ENGIE Deal\". Or le mot n'a pas été prononcé pendant la Conférence des présidents. Ce n'est quand même pas rien! On va donc subsidier ENGIE, qui distribue 8 milliards de dividendes. Pour nous, il est évident que cela nécessite un débat en profondeur puisqu'un tel projet entraînera des conséquences sur les finances publiques de manière générale. De plus, nous ne pouvons pas tenir ce débat en commission et, en même temps, ouvrir la discussion budgétaire dans cet hémicycle.",
+      "Du reste, monsieur le président, il me semble qu'un consensus avait été trouvé hier pour un renvoi en commission si la majorité en décidait, avec pour conséquence une suspension des travaux. Si le gouvernement veut passer l'amendement en question de cette manière, qui relève de l'amateurisme, il faut le renvoyer en commission et suspendre nos travaux."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "03.04",
+     "name": "Barbara Pas",
+     "party": "VB",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de voorzitter, ik wil u eerst en vooral vragen of de minister van Begroting aanwezig zal zijn. Hij is er momenteel nog niet en we staan hier klaar om begrotingsbesprekingen aan te vatten, dus het lijkt me wel nuttig om te polsen naar zijn aanwezigheid.",
+      "Ten tweede, wat het amendement betreft, dat deze regering het moeilijk heeft met deadlines wisten we al. Dat hebben we gemerkt bij de beleidsverklaringen en bij al het andere dat te laat komt. Er is zelfs al een amendement in die zin geweest voor de voorlopige twaalfden. We zijn al weken met deze begroting bezig en op de dag dat die wordt besproken in de plenaire vergadering komt er plots nog een amendementje over miljoenen voor iets dat men al maanden wist. Dat is amateurisme ten top.",
+      "Mij maakt de wijze waarop dat behandeld wordt niet uit. De meerderheid zal de behandeling van dat amendement er toch doorduwen, daarover maak ik me geen illusies. Ik apprecieer het dat u geen commissievergadering parallel met de plenaire vergadering laat plaatsvinden. Het zijn trouwens dezelfde mensen die een begroting bespreken in de commissie voor Financiën, dus dat zou praktisch ook al niet werken.",
+      "Dit is geen nette manier van werken, maar ik stel voor dat, als men het er toch per se wil doorduwen, het amendement naar de commissie wordt verzonden en de plenaire vergadering zolang geschorst wordt."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Er is een voorstel om het amendement naar de commissie te verwijzen. Ik breng dit ter stemming."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Ik kan niet vooruitlopen op het resultaat, maar om praktische en principiële redenen beleggen we geen commissievergadering parallel met een plenaire behandeling van de begroting."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Begin van de stemming / Début du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Heeft iedereen gestemd en zijn stem nagekeken? / Tout le monde a-t-il voté et vérifié son vote?"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Einde van de stemming / Fin du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Uitslag van de stemming / Résultat du vote."
+    },
+    {
+     "type": "vote",
+     "number": 1,
+     "subject": null,
+     "yes": 45,
+     "no": 63,
+     "abstain": 3,
+     "total": 111,
+     "result": {
+      "nl": "Het voorstel tot verzending wordt verworpen.",
+      "fr": "La proposition de renvoi est rejetée."
+     }
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Ik verwijs naar het betoog van mevrouw Bertrand van daarnet."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Een blik op het halfrond doet vermoeden dat de meerderheid het quorum niet haalt, onverminderd de stemming. Er hebben 111 mensen gestemd, maar ik moet de vergadering schorsen tot er 76 leden van de meerderheid aanwezig zijn."
+    },
+    {
+     "type": "note",
+     "lang": "nl",
+     "text": "De vergadering wordt geschorst van 10.16 uur tot 11.04 uur."
+    },
+    {
+     "type": "note",
+     "lang": "fr",
+     "text": "La séance est suspendue de 10 h 16 à 11 h 04."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Collega's, we hervatten de vergadering."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitters van de meerderheidsfracties laten me weten dat er momenteel geen quorum kan worden gehaald. Ik neem aan dat de oppositie hierop aandringt. Bijgevolg sluit ik de vergadering en komen we terug samen om 14.00 uur."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Mevrouw Betrand, u hebt iets gevonden in het Reglement?"
+    },
+    {
+     "type": "speech",
+     "id": "03.05",
+     "name": "Alexia Bertrand (Open Vld)",
+     "party": null,
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de voorzitter, ik vraag gewoon, zoals altijd, de strikte toepassing van het Reglement.",
+      "Artikel 42, derde lid, – ik zal het u voorlezen – zegt heel duidelijk wat men moet doen in geval van schorsing en wanneer er geen quorum is: \"Indien vastgesteld wordt dat het vereiste aantal leden niet aanwezig is, kan de voorzitter de vergadering voor ten hoogste 60 minuten verdagen.\" Dat hebt u net gedaan. Ik lees verder: \"Maakt hij van dit recht geen gebruik of is het vereiste aantal leden nog niet aanwezig\" – dat is het geval – \"dan stelt hij de volgende vergadering op een der vier volgende werkdagen vast, tenzij de Kamer reeds tevoren een vergadering heeft belegd op een naderbij liggend tijdstip.\""
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : En dat is het geval."
+    },
+    {
+     "type": "speech",
+     "id": "03.06",
+     "name": "Alexia Bertrand (Open Vld)",
+     "party": null,
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Nee, dat is niet het geval."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Om 14.00 uur wordt u samengeroepen."
+    },
+    {
+     "type": "speech",
+     "id": "03.07",
+     "name": "Alexia Bertrand (Open Vld)",
+     "party": null,
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Nee, dat is dezelfde dag. Absoluut niet."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Er staat niets over een dag, mevrouw Bertrand."
+    },
+    {
+     "type": "speech",
+     "id": "03.08",
+     "name": "Alexia Bertrand (Open Vld)",
+     "party": null,
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Het is de volgende werkdag."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Er staat niets over een dag, dus ik pas het Reglement toe. Deze vergadering van 10.00 uur wordt beëindigd wegens het ontbreken van het quorum. Daar bent u het mee eens, toch?"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De volgende vergadering waarvoor u bent uitgenodigd, is die van 14.00 uur. Ik organiseer die niet, die is al georganiseerd. Die is reeds geagendeerd."
+    },
+    {
+     "type": "speech",
+     "id": "03.09",
+     "name": "Alexia Bertrand (Open Vld)",
+     "party": null,
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de voorzitter, er zijn vier leden van de meerderheid in het buitenland. Dat heeft geen zin!"
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : U hebt de agenda gekregen. Om 14.00 uur bent u opgeroepen voor een vergadering. Die vergadering kan hopelijk plaatsvinden."
+    },
+    {
+     "type": "speech",
+     "id": "03.10",
+     "name": "Alexia Bertrand (Open Vld)",
+     "party": null,
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Er zijn vier leden in het buitenland. Dit is amateurisme tot en met! Het is uw eerste begroting en u bent niet in aantal."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Dat is iets anders."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Ik stel vast, mevrouw Bertrand –, dus u hoeft dat niet te herhalen – dat er geen quorum is. De vergadering van 10.00 uur wordt dus beëindigd. Die heeft plaatsgevonden. Nu beëindigen wij de vergadering van 10.00 uur. U bent allemaal uitgenodigd voor de vergadering van 14.00 uur."
+    },
+    {
+     "type": "speech",
+     "id": "03.11",
+     "name": "Sarah Schlitz",
+     "party": "Ecolo-Groen",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le président, ce n'est absolument pas le reflet des discussions qu'on a eues en Conférence des présidents sur l'organisation des travaux de la plénière. Il a été convenu entre nous qu'on organisait des pauses dans cette séance plénière afin notamment de permettre aux services de changer les dispositifs d'enregistrement qui doivent en effet être interrompus tous les x temps. Il ne s'agit absolument pas de plusieurs plénières qui sont convoquées aujourd'hui. Cela n'a aucun sens. On n'a absolument jamais convenu de convoquer trois séances plénières aujourd'hui. Vous êtes en train de complètement tordre la décision de la Conférence des présidents parce que vous n'arrivez pas à rassembler les membres de votre majorité ici pour votre budget. C'est pour votre budget, votre premier budget!",
+      "Je vois que le ministre du Budget est enfin présent. Bienvenue!",
+      "Nous sommes ici présents. Et vous, vous n'êtes pas fichus de rassembler vos députés pour défendre votre premier budget. Franchement!"
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Ziehier het oproepingsblad met de oproep voor een vergadering om 10.00 uur en om 14.00 uur. Voor de vergadering van 10.00 uur stel ik met toepassing van het Reglement en op uw vraag vast dat er geen quorum is. Ik zal dus de vergadering van 10.00 uur sluiten. We zien elkaar bij de volgende vergadering, die is samengeroepen om 14.00 uur."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Collega’s, de agenda, die u is bezorgd, hebt u om 10.00 uur goedgekeurd. Dat spijt u nu misschien, dat kan zijn. Ik kan echter niet anders dan het Reglement toepassen. U kunt met allerlei gedoe de discussie nog tot 14.00 uur voortzetten. Ik stel voor dat de meerderheid de zaal verlaat, desgevallend is er geen quorum. U zult echter geen verandering kunnen aanbrengen aan de toepassing van het Reglement."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "U mag de vergadering echter nog even rekken; wat kan ik daaraan immers doen?"
+    },
+    {
+     "type": "speech",
+     "id": "03.12",
+     "name": "Sofie Merckx",
+     "party": "PVDA-PTB",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le président, je suis scotchée! Quel amateurisme! Il y en a, apparemment, qui sont partis en voyage au lieu d'être au Parlement alors que tout le personnel et la presse sont mobilisés. Il n'y a même pas le quorum pour une discussion aussi importante que le budget.",
+      "La question qui se pose, c'est de savoir si à 14 h tout le monde sera là ou pas. Nous n'en sommes même pas encore sûrs. Je ne sais pas d'où ils viennent ni à quelle heure l'avion atterrit pour écourter les congés.",
+      "C'est du jamais vu, je pense. En tout cas, moi, je suis au Parlement et c'est ce que j'entends. Monsieur le président, je pense que ce qui se passe ce matin témoigne d'un manque de respect total pour ce qui a été décidé hier en Conférence des présidents.",
+      "Aucune parole n'est tenue. Par conséquent, nous demandons a minima qu'une Conférence des présidents se réunisse parce que je n'ai aucune envie de revivre un cirque ici cette nuit. Nous avions décidé de terminer aux environs de minuit et de ne pas faire une nocturne. J'entends déjà dire que nous prolongerions pendant la nuit. Ç a commence à bien faire! Les accords pris doivent être respectés!"
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Ik kan u verzekeren dat de Conferentie van voorzitters hoe dan ook om middernacht bijeenkomt, mevrouw Merckx; dat staat buiten kijf."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Als u vraagt om nu een vergadering van de Conferentie van voorzitters te organiseren, wil ik daarop uiteraard ingaan."
+    },
+    {
+     "type": "speech",
+     "id": "03.13",
+     "name": "Pierre-Yves Dermagne",
+     "party": "PS",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le président, je ne peux malheureusement qu'abonder dans le sens des propos qui viennent d'être tenus par mes collègues chefs de groupes. Nous sommes assurément, une fois de plus, face à de l'amateurisme de la part du gouvernement et de la majorité. En effet, ce matin, ou hier, un amendement a été déposé, réclamant 381 millions d'euros supplémentaires pour des dépenses qui, a priori , étaient déjà connues du précédent gouvernement et donc, a fortiori , de ce gouvernement et de cette majorité.",
+      "Nous avons eu hier des échanges en Conférence des présidents. Vous n'y étiez pas présent pour d'excellentes raisons, monsieur le président. À l'issue de ces échanges, nous sommes effectivement arrivés à un accord pour organiser nos travaux ce matin, sans qu'il n'y ait d'incident à devoir provoquer, sans que nous devions retarder l'examen de cet amendement. Il avait été convenu que cet amendement serait examiné en commission du Budget, en présence du ministre de l'Énergie. C'est bien l'accord qui avait été convenu, qui avait été scellé hier, entre nous, en Conférence des présidents.",
+      "Je regrette qu'après les propos et l'engagement que vous avez pris de ne pas tenir une commission des Finances concomitamment à la plénière, ce qui est tout à fait normal et légitime, vous n'ayez pas été plus loin, monsieur le président, en faisant simplement respecter l'accord intervenu hier en Conférence des présidents. Cela nous aurait évité ce triste spectacle provoqué par le manque de respect et le manque d'implication de la majorité, et permis de débuter nos travaux quasi normalement.",
+      "Monsieur le président, une fois de plus, je suis au regret de devoir constater que ce gouvernement et cette majorité ne prennent pas ce Parlement et le travail parlementaire au sérieux."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Mijnheer Dermagne, ik heb alleen de stemming over de verwijzing georganiseerd en het resultaat ervan vastgesteld. Meer kan ik niet doen. Over de rest zal ik geen oordeel vellen."
+    },
+    {
+     "type": "speech",
+     "id": "03.14",
+     "name": "Axel Ronse",
+     "party": "N-VA",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de voorzitter, ik was eigenlijk niet van plan om het woord te voeren. Ik erken dat het quorum en het Reglement heilig zijn.",
+      "Mevrouw Merckx, wat u hier uitkraamt, is helemaal niet oké. U beweert hier dat collega's op vakantie zijn. Ten eerste, uw eigen fractie is al niet voltallig aanwezig. Ten tweede is er niemand op vakantie. Enkele collega's zijn ziek en moesten worden geopereerd, andere collega's zijn op een erkende missie van het Parlement. Dat is geen excuus om het quorum niet te behalen, maar met de schandalige en populistische uitspraken die u hier uitkwaakt, overschrijdt u een grens.",
+      "Collega's, ik heb hierbij nog een persoonlijke bedenking. Uiteraard moet de meerderheid ervoor zorgen dat het quorum wordt gehaald, maar wie thuis de plenaire vergadering volgt, stelt vast dat de eerste minister, de minister van Begroting en heel wat parlementsleden aanwezig zijn. U zou ook pragmatisch kunnen zijn en, en avant, de bespreking aanvatten."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "03.15",
+     "name": "François De Smet",
+     "party": "DéFI",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le président, trois éléments rapides.",
+      "Un, mon groupe est au complet. (Hilarité)",
+      "Deux, je partage évidemment l’avis de mes collègues de l’opposition sur le fait que c’est un amateurisme qui est en train de nous coûter cher en termes de temps et d’énergie.",
+      "Trois, j’ai quand même une proposition constructive, monsieur le président. Puisque de toute façon, vous voulez suspendre les travaux jusque 14 h, il me semble que nous aurions tout à fait le temps de convoquer une commission des Finances pour examiner ce fameux amendement. Pourquoi ne le ferions-nous pas, pour que le temps soit utilement utilisé? Je vous remercie."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Le président : Monsieur De Smet, il n’y a pas de quorum. Nous ne pouvons pas décider. Il n’y a pas de quorum. S’il y avait un quorum, nous pourrions commencer nos travaux. C’est l’un ou l’autre."
+    },
+    {
+     "type": "speech",
+     "id": "03.16",
+     "name": "Benoît Piedboeuf",
+     "party": "MR",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Nous sommes plus de 110 parlementaires ici, je ne comprends pas pourquoi nous ne commençons pas à travailler."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "03.17",
+     "name": "Benoît Lutgen",
+     "party": "Les Engagés",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Le quorum est atteint. Nous pouvons commencer les travaux sans aucune difficulté. Soyons pragmatiques! À juste titre, vous dites que les services et la presse sont là. Tout le monde est là. Travaillons! Ce n'est pas très compliqué.",
+      "Vous dites également que nous sommes des amateurs. Nous vous laissons pour longtemps le professionnalisme de l'opposition. Il n'y a pas de doute à ce sujet."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "03.18",
+     "name": "Barbara Pas",
+     "party": "VB",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de voorzitter, ik vraag me af waarom we discussies in de Conferentie van voorzitters voeren in een poging om afspraken te maken om de oh zo belangrijke begrotingsbesprekingen ordentelijk te laten verlopen. We hebben duidelijke afspraken gemaakt voor de plenaire zitting van vandaag. Als die oh zo belangrijke begroting zo belangrijk is voor de meerderheidsleden dat ze daarvoor nog niet eens een quorum halen, dan is dat een zoveelste bewijs van hun gebrek aan respect voor dit Parlement.",
+      "U had dat amendement weken geleden al kunnen indienen. De behandeling ervan vandaag in de commissie stemt u zelf weg. Als we geen uur hadden geschorst, hadden we dit allang kunnen hebben behandeld.",
+      "Dit is mijn vijfde legislatuur in dit Parlement en ik heb nog nooit zoveel amateurisme gezien. Collega Ronse, als u op andere momenten tussenkomt, lijkt u wel een reïncarnatie van Eddy Wally: het is allemaal prima, geweldig en fantastisch. Deze keer hebt u gelijk. Het is historisch. Ik heb nog nooit meegemaakt dat een meerderheid er niet in slaagt een quorum te halen voor de bespreking van haar eigen begroting. Echt historisch. Proficiat!"
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "03.19",
+     "name": "Sofie Merckx",
+     "party": "PVDA-PTB",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer Ronse, u sprak me persoonlijk aan. U hebt de verkiezingen gewonnen. Beter gezegd, dames en heren van de arizonacoalitie, u hebt de meerderheid. Het enige wat u allen hier moet doen, is ervoor zorgen dat de meerderheid aanwezig is om goed te keuren wat u wilt doorvoeren.",
+      "Daar slaagt u niet in en u stuurt mij daarover verwijten? U moet uw troepen van de meerderheid verzamelen. U slaagt daar niet in. Sommige meerderheidsleden hebben blijkbaar missies aanvaard en zijn in het buitenland op het moment dat er hier een belangrijke bespreking aan de orde is. Excuseer, maar u moet de zaken op orde krijgen en blijkbaar krijgt u ze totaal niet op orde."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "03.20",
+     "name": "Stefaan Van Hecke",
+     "party": "Ecolo-Groen",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de voorzitter, het is misschien goed om even de agenda van gisteren van de Conferentie van voorzitters opnieuw ter hand te nemen. Daarin stond volgend agendapunt: vraag van de regering aan de plenaire vergadering om een amendement naar de commissie ter bespreking te sturen. Dat was een vraag van de regering. De Conferentie heeft die besproken en is daaraan tegemoet­gekomen na het positief antwoord op de vraag of de heer Bihet aanwezig zou zijn. We hebben wel geprotesteerd tegen het feit dat de commissie op vraag van de meerderheid parallel met de plenaire vergadering zou bijeenkomen. Voorzitter, u hebt daar perfect op geantwoord: dat kan niet. Men wil nu en cours de route de spelregels veranderen.",
+      "Wat is het probleem? Het probleem zit bij de heer Bihet. Het amendement dat hij indiende, bevat cijfers die hij op 1 februari gekregen heeft in een nota van de vorige minister van Energie. Die zijn vier en een halve maand gewoon in zijn schuif blijven liggen. Ineens wordt hij wakker, de dag voor de begrotingsbesprekingen, en beseft hij dat hij iets vergeten is. Amateurisme eerste klas! En dan zegt men dat het allemaal de schuld van de oppositie is? Wel, laat de meerderheid eens in het eigen hart kijken en proberen zich fatsoenlijk te organiseren."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Ik zal de Conferentie van voorzitters samenroepen."
+    },
+    {
+     "type": "speech",
+     "id": "03.21",
+     "name": "Alexia Bertrand (Open Vld)",
+     "party": null,
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de voorzitter, in de eerste plaats vraag ik me af wat het nut nog is van de Conferentie van voorzitters, aangezien akkoorden toch niet worden gerespecteerd.",
+      "Verder vraag ik me ook af wat de strategie van de meerderheid is. Misschien kunt u ons daarbij helpen, mijnheer de voorzitter, want het feit dat u vraagt om dit amendement nu in plenum te behandelen, in tegenstelling tot hetgeen is overeengekomen in de Conferentie van voorzitters, is op zijn minst vreemd.",
+      "In de Conferentie zijn we coulant geweest, want eigenlijk moeten we een advies aan het Rekenhof vragen. Tevens had dit amendement moeten behandeld worden in de commissie voor Energie, met onze experts, die dit dossier grondig kennen. Dat is niet gebeurd. We zijn dus coulant geweest. We zijn ermee akkoord gegaan dat het naar de commissie voor Financiën en Begroting zou worden gestuurd. Daarover werd een akkoord bereikt, maar dat wordt niet gerespecteerd. Het gevolg daarvan is dat het nu in de plenaire vergadering wordt behandeld. Dat betekent dat daarover deze week niet kan worden gestemd. U kent de regels even goed als ik. Is daar een reden voor? Weet u nu al dat u niet in aantal zult zijn? Zo ja, dan is dit gewoon een groot circus.",
+      "Ik verneem dat vier leden van de meerderheid in het buitenland zijn, twee in Congo, een in de Verenigde Staten en een in Marokko. Is dat juist? En komen zij terug? Zitten ze inmiddels op een vlucht? En dan is er nog een in Parijs. Ik hoor dat er niemand met verlof is.",
+      "Mijnheer de voorzitter, als zij nu niet op een vlucht of trein zitten, heeft het geen enkele zin dat wij hier om 14.00 uur opnieuw samenkomen. Dan werk ik liever in mijn bureau of besteed ik mijn tijd aan iets anders. We kunnen onze tijd beter benutten.",
+      "Wij zijn aanwezig. Wij waren bereid om te werken. Wij waren bereid om dat amendement naar de commissie te sturen. Blijkbaar zit er een strategie achter deze gang van zaken, want u respecteert de akkoorden van de Conferentie van voorzitters niet. U wist dus dat u vandaag niet in aantal zou zijn en wilde pas volgende week, samen met de programmawet, erover stemmen. Dat is de strategie. In dat geval kunnen we dat ballonnetje best nu al doorprikken. Geef ons een transparante uitleg. U bent de voorzitter van deze Kamer. U hebt de plicht om ons een transparante uitleg te geven over de strategie die hier gevolgd wordt."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Mevrouw Bertrand, zolang u de rol van opposant speelt, heb ik alle begrip. Uw agressiviteit ten aanzien van mij snap ik evenwel niet. Ik pas alleen maar het Reglement toe. Ik doe dat op een heel rustige manier, in tegenstelling tot u. Ik kan immers niet anders."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "U hebt daarstraks geopperd dat u het Reglement kent. U schijnt de zinnen echter maar tot net voor de komma te lezen. Ik lees zinnen tot aan het punt. Ik voer ze ook op die manier uit. Ik doe dat op een correcte manier. Ik hoef op dat vlak geen terechtwijzingen te krijgen, zeker niet wanneer ze onterecht zijn."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Ik zal dus nu de vergadering beëindigen en roep de Conferentie van voorzitters samen. Ik dank u."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "We zien elkaar terug om 14.00 uur."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De vergadering wordt gesloten. Volgende vergadering woensdag 18 juni 2025 om 14.00 uur."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "La séance est levée. Prochaine séance le mercredi 18 juin 2025 à 14 h 00."
+    },
+    {
+     "type": "note",
+     "lang": "nl",
+     "text": "De vergadering wordt gesloten om 11.24 uur."
+    },
+    {
+     "type": "note",
+     "lang": "fr",
+     "text": "La séance est levée à 11 h 24."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "De bijlage is opgenomen in een aparte brochure met nummer CRIV 56 PLEN 047 bijlage."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "L'annexe est reprise dans une brochure séparée, portant le numéro CRIV 56 PLEN 047 annexe."
+    }
+   ]
+  }
+ ],
+ "named_votes": {
+  "1": {
+   "yes": [
+    "Aouasti Khalil",
+    "Bertrand Alexia",
+    "Bilmez Kemal",
+    "Boukili Nabil",
+    "Chahid Ridouane",
+    "Coenegrachts Steven",
+    "D'Amico Roberto",
+    "Depoortere Ortwin",
+    "Dermagne Pierre-Yves",
+    "Désir Caroline",
+    "De Smet François",
+    "De Sutter Petra",
+    "Dillen Marijke",
+    "Eggermont Natalie",
+    "Huybrechts Britt",
+    "Jacquet Farah",
+    "Keuten Dieter",
+    "Magnette Paul",
+    "Maouane Rajae",
+    "Merckx Sofie",
+    "Meunier Marie",
+    "Moons Kurt",
+    "Pas Barbara",
+    "Ponthier Annick",
+    "Ravyts Kurt",
+    "Samyn Ellen",
+    "Schlitz Sarah",
+    "Sneppe Dominiek",
+    "Somers Werner",
+    "Thémont Sophie",
+    "Tonniau Robin",
+    "Troosters Frank",
+    "Van Belleghem Francesca",
+    "Van den Bosch Annik",
+    "Vander Elst Kjell",
+    "Van der Straeten Tinne",
+    "Van Hecke Stefaan",
+    "Van Hoecke Alexander",
+    "Van Lommel Reccino",
+    "Van Quickenborne Vincent",
+    "Van Rooy Sam",
+    "Van Tigchelt Paul",
+    "Verbelen Kristien",
+    "Vereeck Lode",
+    "Vermeersch Wouter"
+   ],
+   "no": [
+    "Bacquelaine Daniel",
+    "Bergers Jeroen",
+    "Bertels Jan",
+    "Bombled Christophe",
+    "Buysrogge Peter",
+    "Cuylaerts Dorien",
+    "Daenen Nele",
+    "Delcourt Catherine",
+    "De Maegd Michel",
+    "Demesmaeker Eva",
+    "Depoorter Kathleen",
+    "De Roover Peter",
+    "Dethier Simon",
+    "De Vreese Maaike",
+    "De Wit Sophie",
+    "Dubois Xavier",
+    "Ducarme Denis",
+    "Dufrane Anthony",
+    "El Yakhloufi Achraf",
+    "Farih Nawal",
+    "Foret Gilles",
+    "Frank Luc",
+    "Gatelier Jean-François",
+    "Gielis Tine",
+    "Gijbels Frieda",
+    "Goffin Philippe",
+    "Grillaert Leentje",
+    "Hansez Isabelle",
+    "Jadoul Pierre",
+    "Lamarti Fatima",
+    "Lambrecht Annick",
+    "Lanjri Nahima",
+    "Lasseaux Stéphane",
+    "Lutgen Benoît",
+    "Mahdi Sammy",
+    "Matagne Julien",
+    "Matheï Steven",
+    "Metsu Koen",
+    "Meuleman Brent",
+    "Michel Mathieu",
+    "Muylle Nathalie",
+    "Nuino Ismaël",
+    "Oru Funda",
+    "Piedboeuf Benoît",
+    "Ramlot Carmen",
+    "Raskin Wouter",
+    "Ronse Axel",
+    "Scourneau Vincent",
+    "Seuntjens Oskar",
+    "Taton Julie",
+    "Tourneur Aurore",
+    "Truyman Lieve",
+    "Van den Heuvel Koen",
+    "Vandeput Steven",
+    "Van der Donckt Wim",
+    "Van Keymolen Phaedra",
+    "van Riet Katrijn",
+    "Vanrobaeys Anja",
+    "Van Vaerenbergh Kristien",
+    "Verkeyn Charlotte",
+    "Weydts Axel",
+    "Wollants Bert",
+    "Yzermans Alain"
+   ],
+   "abstain": [
+    "Almaci Meyrem",
+    "Vanbesien Dieter",
+    "Vandemaele Matti"
+   ]
+  }
+ }
+}

@@ -1,0 +1,1981 @@
+{
+ "source": {
+  "type": "plenary",
+  "legislature": 56,
+  "session": 111,
+  "url": "https://www.dekamer.be/doc/PCRI/html/56/ip111x.html",
+  "date": "2026-04-29",
+  "part": "afternoon",
+  "provisional": false
+ },
+ "items": [
+  {
+   "number": "01",
+   "section": null,
+   "title": {
+    "nl": "Agenda",
+    "fr": "Ordre du jour"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Collega's, zoals u weet hebben we vanochtend geen quorum kunnen bereiken. Het groeitempo dat in de stemmingen zat deze ochtend lijkt erop te wijzen dat we toch in de buurt kunnen komen van dat quorum."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De vraag die door een aantal fracties naar voren werd geschoven, dient opnieuw te worden gesteld. Er werden moties tot agendawijziging ingediend, enerzijds van mevrouw Bertrand en anderzijds van drie fracties, maar in essentie behelzen die moties dezelfde vraag, namelijk: vatten we de algemene bespreking van de programmawet aan, ja of nee?"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Wie vindt dat de algemene bespreking moet worden aangevat, drukt op het groene knopje; wie vindt dat dat niet moet, drukt op het rode knopje."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Begin van de stemming / Début du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Heeft iedereen gestemd en zijn stem nagekeken? / Tout le monde a-t-il voté et vérifié son vote?"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Einde van de stemming / Fin du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Uitslag van de stemming / Résultat du vote."
+    },
+    {
+     "type": "vote",
+     "number": 1,
+     "subject": null,
+     "yes": 75,
+     "no": 0,
+     "abstain": 2,
+     "total": 77,
+     "result": {
+      "nl": "(Tumult in het halfrond)",
+      "fr": "(Tumulte dans l'hémicycle)"
+     }
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De meerderheid vindt dat de vraag …"
+    },
+    {
+     "type": "speech",
+     "id": "01.01",
+     "name": "Pierre-Yves Dermagne",
+     "party": "PS",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le président, je voudrais indiquer que je ne souhaitais pas participer au vote en question et que mon abstention était une erreur."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Le président : Oui, mais vous êtes présent. Je compte 77 votes."
+    },
+    {
+     "type": "note",
+     "lang": "nl",
+     "text": "(De oppositie verlaat het halfrond.)"
+    },
+    {
+     "type": "note",
+     "lang": "fr",
+     "text": "(L'opposition quitte l'hémicycle.)"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Collega's, ik kan niet anders dan vaststellen dat er 77 stemmen werden uitgebracht Er wordt mij meegedeeld dat een aantal leden hun stemgedrag willen wijzigen. Dat betekent dat we in deze onduidelijkheid een nieuwe stemming moeten organiseren."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Wie vindt dat de agenda moet worden voortgezet, drukt op het groene knopje … (Tumult)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Ce n’est pas moi qui ai voté. Il y a 77 votes, de sorte que le quorum est atteint."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Ceux qui sont favorables pour entamer le débat sur la loi-programme votent oui."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Begin van de stemming / Début du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Heeft iedereen gestemd en zijn stem nagekeken? / Tout le monde a-t-il voté et vérifié son vote?"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Einde van de stemming / Fin du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Uitslag van de stemming / Résultat du vote."
+    },
+    {
+     "type": "vote",
+     "number": 2,
+     "subject": null,
+     "yes": 77,
+     "no": 0,
+     "abstain": 0,
+     "total": 77,
+     "result": {
+      "nl": "Bijgevolg zullen we de algemene bespreking van de programmawet aanvatten.",
+      "fr": "En conséquence, nous allons entamer la discussion générale de la loi-programme."
+     }
+    },
+    {
+     "type": "heading",
+     "level": 4,
+     "nl": "Motie tot agendawijziging",
+     "fr": "Motion de modification de l'ordre du jour"
+    },
+    {
+     "type": "speech",
+     "id": "01.02",
+     "name": "Oskar Seuntjens",
+     "party": "Vooruit",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de voorzitter, aangezien de thematische bespreking van de programmawet vandaag niet gehouden zal worden, stel ik voor dat we vandaag toch wat werk verzetten. Daarom heeft de meerderheid een motie ingediend tot wijziging van de agenda om zo het wetsvoorstel en de twee wetsontwerpen die op de agenda van morgen staan, toe te voegen aan de agenda van vandaag."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Ik neem akte van uw voorstel om de agendapunten die voor morgen voorzien waren te behandelen na de algemene bespreking van de programmawet. Ik sta open voor alles en het komt de leden toe daarover een beslissing te nemen. Ik wil even meegeven dat we een redelijk forse agenda hebben. Het is de traditie dat we op 30 april relatief vroeg onze werkzaamheden beëindigen opdat iedereen die dat wenst, kan deelnemen aan de festiviteiten op 1 mei. Als we die agendapunten toevoegen, zien we wel hoever we geraken."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Ik laat u ook daarover stemmen. Wie gaat ermee akkoord om vandaag al de agendapunten van morgen aan te vatten na de algemene bespreking van de programmawet? Voor alle duidelijkheid, de artikelsgewijze bespreking wordt vandaag niet aangevat, alleen de algemene bespreking."
+    },
+    {
+     "type": "speech",
+     "id": "01.03",
+     "name": "Vincent Van Quickenborne",
+     "party": "Anders.",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de voorzitter, ter verduidelijking, vandaag wilt u de algemene bespreking van de programmawet houden. U wilt die afronden, maar zijn de thematische bespreking en de artikelsgewijze bespreking dan voor de volgende keer?"
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Absoluut, zoals ik net heb gezegd. Anders komen we in een wat moeilijke situatie terecht waarbij men slechts over sommige punten het woord kan nemen. Het is reglementair niet toegestaan dat we een debat voeren over die artikelen waarvoor het advies van de Raad van State gevraagd wordt. Het lijkt me dus duidelijker dat we de thematische debatten effectief verschuiven naar het ogenblik waarop het advies van de Raad van State bekend is."
+    },
+    {
+     "type": "speech",
+     "id": "01.04",
+     "name": "Vincent Van Quickenborne",
+     "party": "Anders.",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Daarom zal mijn fractie, zoals mijn fractieleider daarnet heeft aangekondigd, zich uitspreken tijdens de thematische debatten en niet tijdens de algemene bespreking."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Geen probleem. Niemand is verplicht (…)"
+    },
+    {
+     "type": "speech",
+     "id": "01.05",
+     "name": "Vincent Van Quickenborne",
+     "party": "Anders.",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Voor de rest stellen we alleen maar vast, mijnheer de voorzitter en collega’s, dat het vijf uur heeft geduurd vooraleer de meerderheid in aantal was. Dat is zeer schadelijk voor het imago van het Parlement. Het bewijst ook het dedain van bepaalde fracties van de meerderheid – ik wil niet veralgemenen – ten aanzien van dit Parlement. Mijnheer de voorzitter, ik vind dit schabouwelijk! Ik heb het niet over alle fracties, maar toch over twee fracties van de meerderheid. Als dat uw houding is ten aanzien van het Parlement, collega’s, stel ik me de vraag waarom u betaald wordt om dat te doen.",
+      "Ik zie dat collega’s van de meerderheid mee applaudisseren. Ik zou zeggen: kijk in eigen boezem."
+     ]
+    },
+    {
+     "type": "note",
+     "lang": "nl",
+     "text": "(Applaus, ook op sommige banken van de meerderheid)"
+    },
+    {
+     "type": "note",
+     "lang": "fr",
+     "text": "(Applaudissements, y compris sur quelques bancs de la majorité)"
+    },
+    {
+     "type": "speech",
+     "id": "01.06",
+     "name": "Benoît Piedboeuf",
+     "party": "MR",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Je souhaite apporter une petite rectification. Le débat était possible ce matin, nous étions en nombre. L'opposition, en se levant, a effectivement requis une majorité au sein de la majorité, mais nous aurions pu débattre. On peut imputer la responsabilité aux absents, mais les absents se comptaient aussi dans les rangs de l'opposition, qui s'est levée. Il ne faut quand même pas inventer la vérité."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Ik heb een motie ontvangen van de voorzitters van de meerderheidsfracties, de heren Oskar Seuntjens, Axel Ronse, Benoît Piedboeuf en de dames Aurore Tourneur en Nawal Farih, opdat de Kamer in de plenaire vergadering van 29 april 2026 zou overgaan tot de toevoeging aan de agenda van:"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "- het wetsvoorstel (Catherine Delcourt, Maaike De Vreese, Benoît Lutgen, Brent Meuleman, Franky Demon) houdende harmonisatie van diverse wetgevingen die onder Binnenlandse Zaken vallen met het Strafwetboek van 29 februari 2024, nr. 1404/1-6;"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "- het wetsontwerp houdende diverse arbeidsbepalingen, nr. 1324/1-8;"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "- het wetsontwerp houdende wijzigingen met betrekking tot de regeling van de vrijwillige overuren en van het Sociaal Strafwetboek, nr. 1333/1-7."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "J’ai reçu une motion de la part des présidents des groupes de la majorité , MM. Oskar Seuntjens, Axel Ronse, Benoît Piedboeuf et Mmes Aurore Tourneur et Nawal Farih, demandant l’ajout à l’ordre du jour de la séance plénière du 29 avril 2026:"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "- de la proposition de loi (Catherine Delcourt, Maaike De Vreese, Benoît Lutgen, Brent Meuleman, Franky Demon) portant harmonisation de diverses législations relevant de l'Intérieur avec le Code pénal du 29 février 2024, n° 1404/1-6;"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "- du projet de loi portant des dispositions diverses relatives au travail, n° 1324/1-8;"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "- du projet de loi portant modifications relatives au régime des heures supplémentaires volontaires et du Code pénal social, n° 1333/1-7."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Ik stel u voor ons over die motie uit te spreken."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Je vous propose de nous prononcer sur cette motion."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Begin van de stemming / Début du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Heeft iedereen gestemd en zijn stem nagekeken? / Tout le monde a-t-il voté et vérifié son vote?"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Einde van de stemming / Fin du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Uitslag van de stemming / Résultat du vote."
+    },
+    {
+     "type": "vote",
+     "number": 3,
+     "subject": null,
+     "yes": 77,
+     "no": 0,
+     "abstain": 0,
+     "total": 77,
+     "result": {
+      "nl": "Bijgevolg neemt de Kamer de agendawijziging aan.",
+      "fr": "En conséquence, la Chambre adopte la modification de l’ordre du jour."
+     }
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Collega's, de bespreking van die drie punten zal dus aansluitend op de algemene bespreking van de programmawet worden gevoerd."
+    }
+   ]
+  },
+  {
+   "number": "02",
+   "section": {
+    "nl": "Ontwerpen en voorstellen",
+    "fr": "Projets et propositions"
+   },
+   "title": {
+    "nl": "Ontwerp van programmawet (1378/1-35)",
+    "fr": "Projet de loi-programme (1378/1-35)"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [
+    "1378"
+   ],
+   "events": [
+    {
+     "type": "heading",
+     "level": 3,
+     "nl": "Algemene bespreking",
+     "fr": "Discussion générale"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De algemene bespreking is geopend."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "La discussion générale est ouverte."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De rapporteurs, de heren Piedboeuf, Van Quickenborne, Tonniau, mevrouw Samyn, de heer Dufrane, mevrouw Huybrechts en de heer Van Lysebettens verwijzen naar het schriftelijk verslag."
+    },
+    {
+     "type": "speech",
+     "id": "02.01",
+     "name": "Barbara Pas",
+     "party": "VB",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de voorzitter, u zou nu het woord geven aan mijn fractie, omdat we ingeschreven waren voor de algemene bespreking. Aangezien het onwerkbaar is om bepaalde artikelen niet te noemen, onder andere die over de centenindex, mag u de sprekers van de Vlaams Belangfractie voor de algemene bespreking schrappen. We zullen dat goedmaken in de thematische bespreking."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "02.02",
+     "name": "Raoul Hedebouw",
+     "party": "PVDA-PTB",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Permettez-moi d'abord, pour l'ordre des travaux, d'expliquer au peuple, aux citoyens et citoyennes belges, ce qui s'est passé ici aujourd'hui. Je crois que c'est important. Donc, normalement à 9 h, le débat doit commencer ici. La tradition parlementaire belge veut que normalement la majorité, c'est-à-dire les partis qui sont au gouvernement, fournisse 75-76 personnes présentes pour entamer les débats. C'est une tradition. Depuis que je suis ici, cela a toujours été comme ça. Quelles que soient la majorité et l'opposition, vous le savez tous. C'est la règle du jeu. En fait, à 9 h, de nombreux députés n'étaient pas encore réveillés. On a donc donné une deuxième chance à 10 h. C'est logique. Dans aucune boîte du pays, à 10 h, vous n'avez de deuxième chance. Mais à 10 h, c'était à nouveau pareil, le monde n'était pas là. Et puis à 14 h, on refait le vote. Et à nouveau, le nombre requis n'est pas là. Et on vient à présent de voter pour carrément changer l'ordre du jour et ajouter d'autres projets de loi!",
+      "Collègues, il faut être quelque peu sérieux dans ces affaires, à un moment donné. Cela fait des dizaines d'années que l'on essaie de respecter quand même certaines règles. Certaines fractions étaient présentes ici aujourd'hui. Je veux le dire, c'est clair, mais pas toutes.",
+      "Dans la majorité, assumez les débats entre vous! Discutez entre vous! Comment cela se fait-il que vous n'arriviez pas en nombre? Ce n'est quand même pas à l'opposition de garantir qu'on arrive au quorum. Je n'ai encore jamais vécu cela! C'est fou! Si vous ne savez pas vous déplacer pour venir débattre et voter, dites-le tout de suite. Ce n'est vraiment pas sérieux, monsieur le président, d'ajouter maintenant encore d'autres projets de loi! Ce n'est pas sérieux.",
+      "Nous ferons évidemment toutes nos interventions dans le cadre des interventions thématiques. Nous allons faire un long débat sur cette loi-programme. Si vous voulez deux débats, vous en aurez deux pour le prix d'un. C'est vous qui décidez. Nous, on est là pour débattre le plus possible. Mais je trouve en tout cas, monsieur le président, que cela ne fait vraiment pas sérieux du tout!",
+      "Je n'ai pas encore beaucoup connu cela, monsieur le président. Il faudrait un peu réfléchir sur les règles pour le débat politique, sans même parler du fond.",
+      "Je vous remercie, chers collègues."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Mijnheer Hedebouw, u zegt dat we moeten nadenken over de spelregels. Dat is een zeer goede suggestie."
+    },
+    {
+     "type": "speech",
+     "id": "02.03",
+     "name": "Sarah Schlitz",
+     "party": "Ecolo-Groen",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le président, mon groupe ne prendra pas part à la discussion générale autour de la loi-programme, parce que nous estimons qu’il est absurde d’entamer des discussions sur un texte dont certains aspects sont, à l’heure actuelle, soumis à l’analyse du Conseil d’État.",
+      "Par ailleurs, aujourd’hui, cette loi-programme ne tient plus la route. C’est un texte obsolète. Plutôt que de perdre du temps ici en plénière à vouloir mener une discussion qui, en réalité, ne mènera à rien, nous demandons à la majorité de se remettre au travail et de revenir avec une proposition qui tienne la route, adaptée au contexte actuel, et non avec un texte amputé de certains éléments et ne correspondant absolument pas au contexte de crise dans lequel nous nous trouvons.",
+      "Donc, chers collègues, retournez remettre le travail sur le métier, revenez avec une proposition cohérente, qui fasse véritablement contribuer ceux qui en ont les moyens, sans faire une fois de plus peser l’effort sur la population et sur les travailleurs en premier lieu. Après, nous pourrons discuter. Cependant, dans l’état actuel des choses, il n’y a absolument aucun sens à entamer maintenant une discussion générale, sans pouvoir aborder certains aspects, dont les plus importants, comme le blocage de l'index."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "02.04",
+     "name": "François De Smet",
+     "party": "DéFI",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Personnellement, je n’avais pas soutenu le renvoi d'amendements au Conseil d’ É tat. Toutefois, à partir du moment où des amendements ont été renvoyés à l’instance précitée, cela n’a effectivement pas de sens de scinder les discussions, de sorte que je ne participerai pas non plus à la discussion de la loi-programme aujourd’hui. Je réserverai ce que j’ai à dire pour le jour où nous aurons une vraie et pleine discussion à ce sujet.",
+      "Je regrette le cirque de ce jour, mais il ne m’est pas imputable spécifiquement. J’interviendrai donc dans la discussion générale au moment où elle sera vraiment générale."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Vraagt nog iemand het woord? (Nee)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Quelqu'un demande-t-il encore la parole? (Non)"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De algemene bespreking is gesloten."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "La discussion générale est close."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De bespreking van de artikelen zal op een later tijdstip plaatsvinden, nadat we hebben kennisgenomen van de adviezen van de Raad van State."
+    }
+   ]
+  },
+  {
+   "number": "03",
+   "section": {
+    "nl": "Ontwerpen en voorstellen",
+    "fr": "Projets et propositions"
+   },
+   "title": {
+    "nl": "Wetsvoorstel houdende harmonisatie van de diverse wetgevingen die onder Binnenlandse Zaken vallen, met de boeken I en II van het Strafwetboek van 29 februari 2024 (1404/1-6)",
+    "fr": "Proposition de loi portant harmonisation de diverses législations relevant de l’Intérieur avec les livres Ier et II du Code pénal du 29 février 2024 (1404/1-6)"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [
+    "1404"
+   ],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Voorstel ingediend door:"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Proposition déposée par:"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Catherine Delcourt, Maaike De Vreese, Benoît Lutgen, Brent Meuleman, Franky Demon."
+    },
+    {
+     "type": "heading",
+     "level": 3,
+     "nl": "Algemene bespreking",
+     "fr": "Discussion générale"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De algemene bespreking is geopend."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "La discussion générale est ouverte."
+    },
+    {
+     "type": "speech",
+     "id": "03.01",
+     "name": "Jeroen Bergers",
+     "party": null,
+     "role": "government",
+     "title": "rapporteur",
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de voorzitter, voor dit wetsvoorstel hebben de oppositie en de meerderheid goed samengewerkt. Dat kan als voorbeeld dienen. Veder verwijs ik naar het schriftelijk verslag."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "03.02",
+     "name": "Catherine Delcourt",
+     "party": "MR",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le président, chers collègues, le texte que nous proposons au vote ici est extrêmement technique, mais son importance ne doit pas être négligée.",
+      "En effet, plusieurs législations qui relèvent de l'Intérieur devaient rapidement être mises en concordance avec l'entrée en vigueur du nouveau Code pénal. Des lois structurantes en matière de sécurité devaient impérativement être adaptées, comme la loi sur la sécurité privée, la nouvelle loi communale, la loi football ou encore la loi SAC.",
+      "Ces adaptations permettent d'ores et déjà aux différents services de sécurité et administrations locales de se préparer au mieux pour l'entrée en vigueur du Code pénal, et c'est l'essence de cette proposition. Ce texte a fait l'objet d'un exercice démocratique indispensable par rapport à sa qualité légistique."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Vraagt nog iemand het woord? (Nee)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Quelqu'un demande-t-il encore la parole? (Non)"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De algemene bespreking is gesloten."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "La discussion générale est close."
+    },
+    {
+     "type": "heading",
+     "level": 3,
+     "nl": "Bespreking van de artikelen",
+     "fr": "Discussion des articles"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "We vatten de bespreking van de artikelen aan. De door de commissie aangenomen tekst geldt als basis voor de bespreking. (Rgt 85, 4) (1404/6)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Nous passons à la discussion des articles. Le texte adopté par la commission sert de base à la discussion. (Rgt 85, 4) (1404/6)"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Het opschrift werd door de commissie gewijzigd in \"wetsvoorstel houdende harmonisatie van diverse wetgevingen die onder Binnenlandse Zaken vallen met het Strafwetboek van 29 februari 2024\"."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "L'intitulé a été modifié par la commission en \"proposition de loi portant harmonisation de diverses législations relevant de l’Intérieur avec le Code pénal du 29 février 2024\"."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Het wetsvoorstel telt 32 artikelen."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "La proposition de loi compte 32 articles."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Er werden geen amendementen ingediend."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Aucun amendement n'a été déposé."
+    },
+    {
+     "type": "note",
+     "lang": "nl",
+     "text": "De artikelen 1 tot 32 worden artikel per artikel aangenomen."
+    },
+    {
+     "type": "note",
+     "lang": "fr",
+     "text": "Les articles 1 à 32 sont adoptés article par article."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De bespreking van de artikelen is gesloten. De stemming over het geheel zal later plaatsvinden."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "La discussion des articles est close. Le vote sur l'ensemble aura lieu ultérieurement."
+    }
+   ]
+  },
+  {
+   "number": "04",
+   "section": {
+    "nl": "Ontwerpen en voorstellen",
+    "fr": "Projets et propositions"
+   },
+   "title": {
+    "nl": "Wetsontwerp houdende diverse arbeidsbepalingen (1324/1-8)",
+    "fr": null
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": [
+     "Wetsontwerp houdende wijzigingen met betrekking tot de regeling van de vrijwillige overuren en van het Sociaal Strafwetboek (1333/1-7)"
+    ]
+   },
+   "docs": [
+    "1324",
+    "1333"
+   ],
+   "events": []
+  },
+  {
+   "number": "04",
+   "section": {
+    "nl": "Ontwerpen en voorstellen",
+    "fr": "Projets et propositions"
+   },
+   "title": {
+    "nl": "Projet de loi portant des dispositions diverses relatives au travail (1324/1-8)",
+    "fr": null
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": [
+     "Projet de loi portant modifications relatives au régime des heures supplémentaires volontaires et du Code pénal social (1333/1-7)"
+    ]
+   },
+   "docs": [
+    "1324",
+    "1333"
+   ],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Ik stel u voor één enkele algemene bespreking aan deze twee wetsontwerpen te wijden. (Instemming)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Je vous propose de consacrer une seule discussion générale à ces deux projets de loi. (Assentiment)"
+    },
+    {
+     "type": "heading",
+     "level": 3,
+     "nl": "Algemene bespreking",
+     "fr": "Discussion générale"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De algemene bespreking is geopend."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "La discussion générale est ouverte."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De rapporteurs, de dames Nadia Moscufo en Eva Demesmaeker en de heren Vincent Van Quickenborne en Robin Tonniau, verwijzen naar het schriftelijk verslag."
+    },
+    {
+     "type": "speech",
+     "id": "04.01",
+     "name": "Vincent Van Quickenborne",
+     "party": "Anders.",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de voorzitter, vooreerst herhaal ik de vraag van mevrouw Schlitz dat minstens op de borden wordt geafficheerd welk agendapunt we op dit ogenblik bespreken. Ik weet dat de meerderheid dat allemaal niet belangrijk vindt en dat ze alles op een drafje wil afhandelen. Ik stel in ieder geval voor dat ten behoeve van de parlementsleden die zich wel de moeite getroosten om over die materies te spreken, minstens wordt geafficheerd wat we nu bespreken."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Ik ben het helemaal met u eens, collega Van Quickenborne. We zullen daarvoor zorgen."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Ik zou het ook op prijs stellen dat alle parlementsleden aanwezig zijn, zodat zij de afkondiging van de agendapunten kunnen beluisteren."
+    },
+    {
+     "type": "speech",
+     "id": "04.02",
+     "name": "Vincent Van Quickenborne",
+     "party": "Anders.",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Geen probleem, voorzitter. Wij waren aanwezig op dat ogenblik, dat weet u."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : U spreekt in majesteitsmeervoud."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "U hebt het woord, mijnheer Van Quickenborne. Collega’s, graag uw aandacht."
+    },
+    {
+     "type": "speech",
+     "id": "04.03",
+     "name": "Vincent Van Quickenborne",
+     "party": "Anders.",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de voorzitter, de wetsontwerpen nrs. 1324 en 1333, die samen worden besproken, handelen over flexibiliteit op de arbeidsmarkt. Wij hebben die ontwerpen, die een eerste en een tweede lezing kregen, in de commissie gesteund, zoals dat ook vast te stellen is in het verslag.",
+      "Ik zou het alvast appreciëren, mijnheer de voorzitter, dat de minister bevoegd voor die materie, de heer Clarinval, aanwezig is in het Parlement. Ik stel vast dat hij er niet is. Ik vraag zijn aanwezigheid uit respect voor het Parlement."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Ik begrijp uw bekommernis ten volle. De minister zou hier binnen tien minuten zijn. De regering is alvast vertegenwoordigd in de persoon van minister Vandenbroucke."
+    },
+    {
+     "type": "speech",
+     "id": "04.04",
+     "name": "Vincent Van Quickenborne",
+     "party": "Anders.",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Bij mijn weten, mijnheer de voorzitter, is minister Vandenbroucke niet bevoegd voor die materie. Is het de nieuwe stijl van de regering om een minister te sturen en het dan maar op die manier af te handelen? Ik denk niet dat dat de juiste methode is. Ik verwacht dat de minister van Werk aanwezig is voor de bespreking van de beide wetsontwerpen."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.05",
+     "name": "Axel Ronse",
+     "party": "N-VA",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Het Reglement gebiedt dat absoluut niet. De aanwezigheid van minister Vandenbroucke volstaat. Minister Clarinval heeft bovendien zeer punctueel en zeer uitgebreid geantwoord op alle vragen in het commissiedebat.",
+      "Dat een vakminister niet aanwezig is, maar een andere vice-eersteminister wel, is een praktijk die ook in de vorige legislatuur meermaals werd toegepast, trouwens ook met betrekking tot wetgeving waarvoor u bevoegd was, mijnheer Van Quickenborne. U hebt het kortste geheugen van de hele Wetstraat en vermoedelijk van heel West-Europa."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Collega's, u verwacht van een voorzitter dat hij een grote mate van terughoudendheid aan de dag legt. Het lijkt onmogelijk, maar ik moet zowel collega Van Quickenborne als collega Ronse gelijk geven, voorwaar een intellectuele bocht die nagenoeg onvoorstelbaar is."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De heer Van Quickenborne heeft gelijk dat het absoluut passend is dat de betrokken minister hier aanwezig is. Ik wil die vraag zelfs ondersteunen. Tegelijk heeft de heer Ronse gelijk dat het geen reglementaire verplichting is en dat het wellicht ook in het verleden al eens gebeurd is. Ik steun emotioneel de heer Van Quickenborne, maar ik kan de debatten daarvoor niet stilleggen."
+    },
+    {
+     "type": "speech",
+     "id": "04.06",
+     "name": "Vincent Van Quickenborne",
+     "party": "Anders.",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de voorzitter, mag ik toch vragen dat we, in het licht van wat vandaag al is gebeurd, namelijk de afwezigheid van de meerderheid en het feit dat we vijf uur hebben moeten wachten om de debatten te kunnen starten, nu toch proberen opnieuw een beetje de parlementaire geplogenheden te respecteren. Die houden onder andere in dat de bevoegde minister naar het Parlement komt voor de bespreking. Dat is het minste wat de meerderheid kan doen. Mijnheer de voorzitter, dat is wat moet gebeuren.",
+      "Collega’s, het plenaire debat dat nu aan de orde is, gaat over twee wetsontwerpen waarover de bevoegde minister uitvoerig bevraagd is in de commissie. Het plenaire debat voeren we met alle 150 leden en dan is het aan de minister om te antwoorden op de vragen. Dat is toch logisch? Of wordt het de nieuwe stijl van de meerderheid dat zij dat allemaal niet meer belangrijk vindt en gewoon om het even welke minister stuurt, waarmee de oppositie het maar moet doen? Dat is toch niet correct?",
+      "Mijnheer de voorzitter, ik reken op uw coöperatie als voorzitter om te eisen dat de regering de bevoegde minister afvaardigt. Of zullen we straks debatteren over grondslapers in de gevangenis in aanwezigheid van mevrouw Simonet en discussiëren over energiemaatregelen in aanwezigheid van – ik zeg maar wat – de heer Prévot? Waar gaan we naartoe, collega's? Dat is toch niet meer ernstig.",
+      "Ik vraag dat minister Clarinval naar het Parlement komt. Wij hebben de agenda niet gewijzigd, de meerderheid heeft dat gedaan. Dan moet de meerderheid zich ook schikken en ervoor zorgen dat de bevoegde ministers aanwezig zijn bij de bespreking van de punten waarvoor ze bevoegd zijn.",
+      "Als dat niet kan, dan vrees ik dat ik zeer lang het woord zal voeren en dat kan ik zeer goed, dat weet u. Ik heb afgelopen zondag niet alleen de marathon van Kortrijk gelopen, ik heb ook nog andere dingen gedaan.",
+      "Mijnheer de voorzitter, het feit dat ik overeenkom met de heer Ronse, is trouwens niet zo toevallig. Hij was schepen in mijn college en we hebben toen goed samengewerkt. Ik heb op dat vlak een zeer goed geheugen. Misschien ligt dat bij de heer Ronse anders."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.07",
+     "name": "Sarah Schlitz",
+     "party": "Ecolo-Groen",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le président, je m'inquiète un peu pour les parlementaires de la majorité, je me demandais s'ils ne commençaient pas à avoir des crampes à force de tout prendre par-dessus la jambe. Ça commence vraiment à devenir du grand n'importe quoi! On nous convoque à 9 h du matin, vous n'êtes pas foutus d'être présents. À 11 h, c'est la même chose. Et puis maintenant, on vote, mais vous n'êtes pas vraiment présents non plus, M. Kompany débarque et vous parvenez péniblement à avoir un quorum à une voix près – grosse victoire! –, et là, personne ne s'inscrit."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.08",
+     "name": "Aurore Tourneur",
+     "party": "Les Engagés",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "(…)"
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.09",
+     "name": "Sarah Schlitz",
+     "party": "Ecolo-Groen",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Ce n'est pas moi qui oblige M. Kompany à travailler jusque 78 ans!"
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.10",
+     "name": "Pierre Kompany",
+     "party": "Les Engagés",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "(…)"
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Le président : Madame Tourneur, monsieur Kompany, Mme Schlitz a la parole."
+    },
+    {
+     "type": "speech",
+     "id": "04.11",
+     "name": "Pierre Kompany",
+     "party": "Les Engagés",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "(…)"
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Le président : Monsieur Kompany, je vous en prie…"
+    },
+    {
+     "type": "speech",
+     "id": "04.12",
+     "name": "Sarah Schlitz",
+     "party": "Ecolo-Groen",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur Kompany, vous demanderez la parole plus tard.",
+      "C'est moi qui fais du n'importe quoi?",
+      "Nous avons une loi-programme qui est censée limiter les salaires de la moitié des travailleurs. On nous dit à quel point c'est important. Les parlementaires de la majorité ne sont pas foutus d'être présents en nombre et ensuite, il n'y en a pas un qui s'inscrit pour la discussion générale? C'est incroyable! La discussion générale du projet de loi-programme est balayée comme ça!",
+      "Et puis maintenant, alors qu'on aborde une loi avec des réformes majeures en matière de travail, où on banalise le travail de nuit, où on augmente à tout va les heures supplémentaires et où on crée des micro-contrats – autrement dit, il s'agit de la possibilité de créer des contrats pour les travailleurs de 3,48 heures par semaine, taillés sur mesure pour les employeurs –, alors que c'est une réforme monumentale du marché du travail avec des reculs historiques en matière de droit du travail, on nous annonce que le ministre compétent, David Clarinval, n'est pas là. Mais ce n'est pas grave, on va le faire avec le ministre de la Santé Frank Vandenbroucke. Mais ça ne va pas la tête? Excusez-moi, mais il y a quand même un minimum de respect à avoir. Le ministre de l'Emploi doit être présent pour cette réforme, et pour l'assumer."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.13",
+     "name": "Benoît Piedboeuf",
+     "party": "MR",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le président, après les grossièretés que je viens d'entendre, je voudrais signaler que le ministre – qui était présent ce matin, et ne s'attendait pas à devoir intervenir si tôt cet après-midi – sera là dans cinq minutes.",
+      "(…) : (…)"
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.14",
+     "name": "Benoît Piedboeuf",
+     "party": "MR",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Vous allez l'attendre, et c'est inutile de proférer des grossièretés à propos de la majorité.",
+      "(…) : (…)"
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.15",
+     "name": "Benoît Piedboeuf",
+     "party": "MR",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Oui, ce sont des grossièretés, et vous ne savez pas vous exprimer autrement. Ce n'est pas grave – j'ai l'habitude des gens grossiers –, mais ce n'est pas nécessaire, car le ministre sera là dans cinq minutes."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.16",
+     "name": "Axel Ronse",
+     "party": "N-VA",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Het is een goede zaak dat de minister zich vroeger heeft vrijgemaakt, maar de waarheid heeft toch haar rechten. In de documenten bij de Conferentie van voorzitters werd aangegeven dat minister Vandenbroucke aanwezig zou zijn. Ik bedank hem dan ook dat hij hier aanwezig is.",
+      "Ten tweede worden hier veel lesjes uitgedeeld. Ik wil daaraan iets toevoegen. Elk parlementslid van meerderheid of oppositie dat hier om 9.00 uur niet was, zou zich moeten schamen. Tenzij het om ziekte gaat. Zo simpel is het. Collega's, dat heeft niets te maken met partijen. Er zijn ook vergaderingen geweest waar mensen van onze fractie niet aanwezig waren. Ik vind dat we ons daar diep over zouden moeten schamen. Ik heb er geen enkel probleem mee om dat toe te geven. Ik heb hier trouwens ook al vaak parlementsleden van de oppositie niet gezien. Dit instituut verdient veel meer dan de goedkope show die hier vandaag wordt opgezet. Als er mensen niet op tijd aanwezig zijn, dan is dat triestig.",
+      "Wat ook triestig is, is het blijvend proberen tegenhouden van wetgeving op basis van procedures die niets meer met de inhoud te maken hebben. De PS heeft ons in het Parlement gemeld: \"On ne va plus utiliser le carrousel pour la loi-programme. On ne va plus faire cela.\" Maar de PS doet dat wel, terwijl ze zelf niet de moeite heeft genomen om hier aanwezig te zijn."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.17",
+     "name": "Vincent Van Quickenborne",
+     "party": "Anders.",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "(…)"
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.18",
+     "name": "Axel Ronse",
+     "party": "N-VA",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer Van Quickenborne, kunt u stoppen met ratelen, alstublieft? U doet dat voortdurend. Ik heb ook de vrijheid van spreken om op al uw beledigingen en insinuaties te reageren.",
+      "Ik vind het echt godgeklaagd dat uitgerekend u hier respect voor het Parlement komt verdedigen. Ik herinner mij nog dat ik hier een wetsontwerp moest verdedigen en dat mijn collega's op de sociale media zagen dat u op een voetbalmatch zat, terwijl andere ministers de kastanjes uit het vuur moesten halen. Shame on you , mijnheer Van Quickenborne. Shame on you!"
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Ik geef het woord aan collega Van Quickenborne."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Ik wil wel terloops opmerken dat de procedureslag om de minister naar het halfrond te krijgen ertoe geleid heeft dat de minister hier intussen aanwezig is. We zijn dus allemaal tevreden."
+    },
+    {
+     "type": "speech",
+     "id": "04.19",
+     "name": "Vincent Van Quickenborne",
+     "party": "Anders.",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer Ronse, shame on you . Deze meerderheid slaagt er na vijf uur nog steeds niet in om het quorum te behalen. Dat is uw probleem en het is niet de eerste keer dat we dat meemaken met uw meerderheid. De onzin die u al hebt uitgekraamd in dit Parlement is stilaan niet meer op twee handen te tellen. De leugens die u in dit Parlement vertelt…"
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.20",
+     "name": "Christoph D'Haese",
+     "party": "N-VA",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "(…)"
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.21",
+     "name": "Vincent Van Quickenborne",
+     "party": "Anders.",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Ik mag toch repliceren, mijnheer D’Haese? Als ik hier minutenlang verwijten naar mijn kop geslingerd krijg, dan mag ik repliceren. Weet u wat een debat is, wat woord en wederwoord is? Het is niet omdat uw partij denkt dat alles hier kan, dat wij dat zullen toelaten.",
+      "Ik ben blij dat minister Clarinval aanwezig is.",
+      "Monsieur Clarinval, merci d’être parmi nous. Êtes-vous au courant que nous débattons des projets n° 1324 et n° 1333? Je ne sais pas si vous êtes préparé à discuter de ces deux projets de loi. Nous avons dû attendre quelques minutes, mais ce n’était pas notre faute, monsieur le ministre. C'est la faute de la majorité, qui n’était pas en nombre et qui a dû procéder à une modification de l’ordre du jour.",
+      "Mijnheer de minister, ik stel vast dat de meerderheid het debat over de flexibiliteit op de arbeidsmarkt in een mum van tijd wil afhaspelen. Ik stel dat vast want er komen geen uiteenzettingen van leden van de meerderheid. Het Parlement is blijkbaar niet belangrijk voor de meerderheid. Dus zullen wij het debat houden vanuit de oppositie."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Mijnheer Van Quickenborne, mag ik u vragen of u met de bespreking bent gestart?"
+    },
+    {
+     "type": "speech",
+     "id": "04.22",
+     "name": "Vincent Van Quickenborne",
+     "party": "Anders.",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Ik ben daar inderdaad mee bezig."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Wacht even. Ik wil eerst vragen welke leden zich inschrijven voor de bespreking. Daarna geef ik u vanzelfsprekend het woord."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Mme Pirson veut ouvrir le débat. Mme Pirson, vous êtes inscrite pour le débat?"
+    },
+    {
+     "type": "speech",
+     "id": "04.23",
+     "name": "Anne Pirson",
+     "party": "Les Engagés",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Oui, je suis inscrite au débat. Puis-je avoir quelques minutes pour rassembler mes idées? (Rires)"
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Dan geef ik het woord graag aan de heer Van Lysebettens."
+    },
+    {
+     "type": "speech",
+     "id": "04.24",
+     "name": "Jeroen Van Lysebettens",
+     "party": "Ecolo-Groen",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de voorzitter, ik begrijp de volgorde van de sprekers niet zo goed, maar goed, ik geef alvast mee dat dit debat, of liever het gebrek eraan, een illustratie is van mijn fundamentele kritiek op de wetsontwerpen die hier ter bespreking voorliggen.",
+      "Wie in de commissie aanwezig was, kent mijn fundamentele kritiek. De flexibilisering van onze arbeidsmarkt die hier wordt doorgevoerd, is slecht voor de gezondheid van de mensen. U geeft hier allen heel goed de indruk dat onregelmatige uren, met af en toe avond- of nachtwerk, helemaal niet bevorderlijk zijn voor de verstandelijke capaciteiten en de kwaliteit van het debat. Dat is uiteraard een anekdotische vaststelling.",
+      "Mijn fundamentele kritiek is gebaseerd op wetenschappelijk onderzoek. Er is voldoende onderzoek, zowel in België als internationaal, dat aantoont dat extra nachtwerk en extra overuren leiden tot meer ongezondheid, tot een hoger risico op kanker, tot een hoger risico op cardiovasculaire aandoeningen, tot een hoger stressrisico enzovoort. Ik heb in de commissie aan de minister van Werk en de minister van Gezondheid gevraagd of zij daarmee rekening hebben gehouden. Ik heb gevraagd of er studies zijn uitgevoerd en of in extra middelen werd voorzien om dat te begeleiden. Daarop is geen antwoord gekomen, mijnheer Ronse, tenzij dat de regering daarmee geen rekening heeft gehouden. Daarmee verzaakt deze regering aan een van haar fundamentele verantwoordelijkheden, namelijk bij het wetgevend werk dat zij verricht het algemeen belang en de gezondheid van de Belgen in de gaten houden. Dat gebeurt hier niet.",
+      "Daarom zullen wij met volle overtuiging tegen beide wetsontwerpen stemmen."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Het woord is aan de heer Van Quickenborne."
+    },
+    {
+     "type": "speech",
+     "id": "04.25",
+     "name": "Vincent Van Quickenborne",
+     "party": "Anders.",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de minister, wij hebben, zoals u weet, beide wetsontwerpen gesteund in de commissie, eerst en vooral omdat de bijkomende flexibiliteit op de arbeidsmarkt een stap in de goede richting is.",
+      "Toch is dat geen nieuwe stap, mijnheer de minister. Het is een stap die eigenlijk voortbouwt op wat de vorige regering heeft gedaan, zeker waar het gaat over de overuren. Wij hebben met de vorige regering het systeem van vrijwillige overuren serieus vergroot. Er was een systeem van 100 vrijwillige overuren. Wij hebben dat aangedikt met 120 relance-overuren, dat maakt samen 220 overuren. Deze regering maakt daar nu 240 uren van en dat is een stapje in de goede richting.",
+      "Die 240 overuren, collega’s, kunnen bruto netto worden uitbetaald zonder overloon en zonder verplichte recuperatie. Maar op de 120 overuren, dus 240 plus 120, moeten wel belastingen worden betaald. In de horeca gaat het over 450 uren, wat ook een goede zaak is.",
+      "Het probleem is, mijnheer de minister, dat u voor de deeltijdse medewerkers veel strenger bent. Deeltijdse medewerkers zullen slechts overuren kunnen presteren als zij minstens drie jaar in dienst zijn en als er een vaststelling is van een tijdelijke vermeerdering van werk. Dat vinden we absoluut geen goede zaak, collega’s. Daarom hebben we daarover amendementen ingediend in de commissie.",
+      "Mijnheer de minister, sommigen zeggen dat overuren slecht zouden zijn voor de gezondheid van de mensen, maar de vaststelling is dat een belangrijke groep in onze samenleving eigenlijk al overuren presteert, zij het bij een andere werkgever en in de vorm van flexi-jobs. Flexi-jobs zijn een systeem dat door ons, liberalen, is opgezet en waarvan de heer Ronse nu wil afstappen, zoals hij al een paar keer heeft meegedeeld.",
+      "Mijnheer de minister, de flexi-jobs hebben aangetoond dat mensen die die arbeid verrichten, dat doen in goede gezondheidsomstandigheden. Uit cijfers die ik heb opgevraagd bij minister Vandenbroucke – die intussen de zaal heeft verlaten – blijkt immers dat van de 175.000 flexi-jobbers in 2024 er slechts 2.415 arbeidsongeschikt waren. Dat betekent dat 1,5 % van de mensen die een flexi-job doen, arbeidsongeschikt is. Met andere woorden, 98,5 % van die mensen werkt wel.",
+      "Als men dat vergelijkt met de klassieke werknemers, en zeker met de klassieke ambtenaren, waar de percentages arbeidsongeschiktheid een stuk hoger liggen, bewijst dat dat werken – ook veel werken – niet noodzakelijk slecht hoeft te zijn voor de gezondheid. Integendeel, collega Muylle, werken kan mensen misschien zelfs gelukkiger maken. Dat zou de ambitie moeten zijn, dat werk mensen gelukkiger maakt. Om die reden maakt de regering met vrijwillige overuren de juiste keuze, voortbouwend op wat wij als liberalen in gang hebben gezet. Er is dus helemaal geen revolutie, zoals de heer Ronse af en toe beweert, maar ik heb al gezegd dat de onzin die hij in het Parlement verkondigt, week na week erger wordt.",
+      "In een tweede punt kom ik tot de opheffing van het verbod op nachtarbeid. Volgens het regeerakkoord zou de nacht beginnen om middernacht, maar de arizonaregering heeft dat vervroegd naar 23.00 uur. Dat is het zoveelste compromis en de zoveelste kameel die deze regering heeft gebaard.",
+      "Mijnheer de minister, in de genese van die wettekst is er heel wat discussie geweest over welke sectoren een beroep kunnen doen op nachtarbeid. Mijnheer de minister, ik zie dat u intussen beschikt over een computer en dat de papieren zijn toegekomen. Dat is een goede zaak en ik hoop dat u er klaar voor bent, want u was een beetje onvoorbereid naar hier gekomen. Ik zie dat u lacht, mijnheer de minister, en dat is sympathiek. We kunnen het goed vinden met elkaar. De sectoren die een beroep kunnen doen op nachtarbeid werden fors uitgebreid nadat er druk werd uitgeoefend door de oppositie.",
+      "We hebben tussen de eerste en tweede lezing ook kenbaar gemaakt dat de lijst van geselecteerde sectoren veel te beperkt was. De lijst werd uiteindelijk uitgebreid, wat een goede zaak is. Ook buurtsupermarkten zullen kunnen gebruikmaken van het systeem van nachtarbeid en dus van flexibiliteit. Dat is belangrijk, omdat we zien dat het landschap van de retail en de supermarkten enorm aan het veranderen is.",
+      "Mijnheer de voorzitter, ik zie dat u aandachtig luistert. Bij mijn eerste aantreden in het Parlement – u was toen nog geen politicus – kwam ik met slechts vier beloftes. Een van mijn beloftes was dat de mensen zouden kunnen winkelen op zondag. In 1999 was dat vloeken in de kerk, letterlijk en figuurlijk. Op zondag moest men immers naar de kerk gaan en niet gaan winkelen. Steve Stevaert zaliger verzette zich daartegen, want op zondag moest men bij zijn tante vlaai gaan eten. Ik zei toen tegen Steve Stevaert dat hij mocht doen wat hij wilde. Als hij vlaai wilde gaan eten bij zijn grootmoeder, dat moest hij dat maar doen. Als Mohammed in de moskee wilde gaan eten, dan moest hij dat maar doen. Maar als ik op zondag wilde gaan winkelen, dan moest ik dat ook kunnen doen.",
+      "We zijn nu zevenentwintig jaar later en we zien nu dat er eindelijk wordt geshopt op zondag, binnenkort wordt dat zelfs mogelijk bij Aldi. Alleen Colruyt moet nog volgen en dan kunnen we op zondag bijna overal winkelen in België. U kunt zich afvragen wat het nut is om op zondag te gaan winkelen, maar men kiest dat zelf. Als men op zondag een marathon wil gaan lopen, dan doet men dat gewoon. Als men wil gaan winkelen op zondag, dan doet men dat. Dat is de vrije keuze.",
+      "De buurtsupermarkten hebben daar het verschil gemaakt. Het feit dat Delhaize in de vorige legislatuur heeft gekozen voor franchise, waardoor zelfstandigen de Delhaizewinkels uitbaten, heeft heel het winkellandschap veranderd. Fantastisch!",
+      "Kom eens kijken in Kortrijk. Er zijn twee Delhaizewinkels, uitgebaat door Shalane en Jeroen. De heer Ronse kent ze Zij baten twee winkels uit met lokale producten. Die winkels zijn open op zondag en het loopt er vol met klanten. Zij hebben zelfs de marathon van Kortrijk van voorbije zondag gesponsord. Die uitbaters hebben aangegeven dat zij het systeem van nachtarbeid willen genieten. Als zij ’s nachts de winkelrekken aanvullen, als er logistiek wordt voorzien en als er een onlineboodschappendienst wordt georganiseerd, dan moet nachtarbeid mogelijk zijn.",
+      "Mijnheer de minister, u hebt geluisterd naar de bede van die mensen. Ook de buurtsupermarkten zullen dus kunnen gebruikmaken van nachtarbeid, want u verklaarde in de commissie dat de buurtsupermarkten niet noodzakelijk een heel systeem voor onlineshopping moeten opzetten, maar dat zelfs het eenvoudig versturen van een e-mail naar een dergelijke winkel, die bedrijven in aanmerking brengt voor nachtarbeid.",
+      "Collega’s, is het dan allemaal goed en wel? Het komt altijd met een caveat. Het is immers juist dat nachtpremies in de toekomst alleen zullen moeten worden betaald voor arbeid tussen 23.00 uur en 06.00 uur ’s morgens. De wettekst bepaalt echter dat desgevallend mensen die nieuw in dienst treden alsnog een beroep kunnen doen op premies, ook vóór 23.00 uur. U weet dat nachtpremies vandaag moeten worden betaald vanaf 20.00 uur. Medewerkers die nu al aan de slag zijn, behouden die premies. Nieuwe medewerkers zullen pas een beroep kunnen doen op die premies vanaf 23.00 uur.",
+      "De regering heeft, onder druk van de socialisten, zoals mevrouw Vanrobaeys, die zoals altijd de wet dicteren, beslist om toch een voet tussen de deur te houden en ervoor te zorgen dat de vakbonden via druk kunnen afdwingen dat die premies alsnog worden betaald vanaf 20.00 uur, zoals voor de huidige werknemers.",
+      "Mijnheer de minister, verschillende distributeurs zitten in die situatie.",
+      "Monsieur le ministre, avez-vous besoin de quelque chose? Un café?"
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Mijnheer Van Quickenborne, ik ben ervan overtuigd dat de minister u kan beluisteren."
+    },
+    {
+     "type": "speech",
+     "id": "04.26",
+     "name": "Vincent Van Quickenborne",
+     "party": "Anders.",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de minister, er zijn distributeurs die zeggen dat we moeten oppassen met die bepalingen in de wet. Het zou namelijk kunnen dat er op het einde van de rit helemaal niets verandert, omdat die premies alsnog zullen moeten worden betaald vanaf 20.00 uur aan de nieuwe medewerkers. Het mogelijke competitieve nadeel dat ze hadden, zou dus blijven bestaan. Ik had daarop graag een antwoord gekregen, mijnheer de minister.",
+      "Mijnheer de minister, er zitten goede elementen in dit wetsontwerp. De prijs die u ervoor betaald hebt, mijnheer Ronse, is echter hoog. Dan heb ik het niet over de 1,5 miljard euro belastingverhoging die in de programmawet zit, want dat zullen we volgende week bespreken. We zullen daar de tijd voor nemen. De prijs die u ervoor betaald hebt, collega’s, is de invoering van de prikklok.",
+      "Toen ik staatssecretaris was, tussen 2003 en 2007, mijnheer Ronse, hebben wij met de regering de prikklok afgeschaft. Dat gebeurde op vraag van de heer Frank Van Massenhove, de toenmalige voorzitter van de FOD Sociale Zekerheid, die de heer D’Haese nog kent. Dat was een zogezegd vooruitstrevende voorzitter die stelde dat er vertrouwen moest zijn op de werkvloer tussen werknemers en werkgevers en die de prikklok een aftands ding vond. Ik zie de heer D’Haese knikken. Als burgemeester van Aalst is hij zeer goed geplaatst om te weten waarover we het hebben.",
+      "Wat blijkt nu, collega’s? Die flexibiliteit die we hadden verkregen – die ik daarnet heb beschreven, niet volledig, maar gedeeltelijk – is afgekocht door de linkse partijen, onder meer door de heer Seuntjens, de heer Bertels, de heer Tas, mevrouw Vanrobaeys en andere collega’s die hier nog aanwezig zijn, door de herinvoering van de prikklok. Alle medewerkers in de publieke en private sector zullen dus opnieuw moeten prikken.",
+      "Mijnheer de voorzitter, als we die prikklok zouden invoeren hier in het Parlement, zouden we wat zien. Ik vind namelijk dat, als we de prikklok invoeren, we dat ook hier moeten doen. Hadden we die vanmorgen ingevoerd, mijnheer de voorzitter, dan waren er grote problemen geweest. Als men immers twee keer niet aanwezig is, kan er waarschijnlijk ontslag volgen.",
+      "Mijnheer Ronse, volgt u nog?"
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Men is niet verplicht om te volgen, collega Van Quickenborne."
+    },
+    {
+     "type": "speech",
+     "id": "04.27",
+     "name": "Vincent Van Quickenborne",
+     "party": "Anders.",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Dat is zo, maar het zou wel van enig respect getuigen.",
+      "De prikklok die zal worden ingevoerd, herinnert ons aan de de Federal Learning Account (FLA), die werd afgeschaft. Dat was een klein beestje in vergelijking met deze draak van de prikklok. Men betaalt dus een zeer hoge prijs. Dan heb ik het nog niet eens over de loontransparantierichtlijn, die er binnenkort aankomt. In het regeerakkoord staat immers dat die ingevoerd zal worden. Minister Clarinval zal die in werking laten treden vanaf 6 juni. Collega Ronse, u stelt dat u die loontransparantierichtlijn zult tegenhouden. De regering gaat daar nochtans mee verder en u staat voor de zoveelste keer te blaten en van alles te beloven terwijl u niets binnenhaalt, zoals we dat hier al zo vaak hebben meegemaakt.",
+      "Monsieur le ministre, le prix que vous payez pour la flexibilité est très haut: je voudrais donc vous demander où vous en êtes notamment à propos du pointage – de prikklok – pour les mesures qui concernent le marché du travail.",
+      "Voilà, voorzitter, het spontane betoog van onzentwege. Ik zie dat de heer Ronse ook het woord wenst. Ik ben benieuwd wat hij daarover te zeggen heeft."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Zoals u weet, collega Van Quickenborne, mogen alle 149 collega’s interveniëren. Er zijn wel nog andere sprekers."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Collega Ronse, hebt u een rechtstreekse vraag aan de heer Van Quickenborne? Anders zet ik u op de sprekerslijst."
+    },
+    {
+     "type": "speech",
+     "id": "04.28",
+     "name": "François De Smet",
+     "party": "DéFI",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Chers collègues, nous sommes appelés à nous prononcer sur un projet de loi présenté par le gouvernement comme une modernisation du droit du travail. Mais derrière ce vocable séduisant se cache une réalité plus préoccupante, à savoir une transformation profonde de l'équilibre entre travailleur et employeur, au détriment du premier. De quoi parlons-nous? Nous parlons d'un texte qui, sous couvert de simplification, fragilise les protections existantes; d'un texte qui, sous couvert de flexibilité, organise en réalité une précarisation accrue des conditions de travail.",
+      "Prenons d'abord la question du temps de travail. Le projet permet désormais d'inscrire dans le règlement de travail un simple cadre général plutôt que des horaires précis. Cela peut sembler anodin mais, dans les faits, cela signifie une imprévisibilité accrue pour les travailleurs, dont les horaires pourront varier au gré des besoins de l'entreprise. Dès lors, où est la sécurité? Où est la possibilité d'organiser sa vie familiale, sociale, personnelle?",
+      "Cette logique se poursuit avec la réduction drastique de la durée minimale hebdomadaire du travail à temps partiel. Cela revient à institutionnaliser les \"mini-jobs\", ces emplois fragmentés qui ne permettent ni de vivre dignement ni de se projeter dans l'avenir. Oui, cela peut aider à augmenter artificiellement les statistiques de l'emploi, mais à quel prix?",
+      "Et puis, il y a le clou du spectacle, si je puis dire: la suppression de l'interdiction générale du travail de nuit. Là encore, le gouvernement a des arguments – la compétitivité et l'alignement sur les pays voisins – mais, à aucun moment, nous n'avons l'impression que ce texte prend réellement en compte les conséquences humaines, la désynchronisation des rythmes de vie, les répercussions sur la santé ou l'isolement social. Le travail de nuit n'est pas un simple paramètre économique, c'est une contrainte lourde. À cet égard, monsieur le ministre, je trouvais intéressant que M. Vandenbroucke soit présent parce que le travail de nuit est aussi une question de santé publique.",
+      "On comprend le dilemme: d'un côté, la santé des travailleurs; de l'autre, la compétitivité des entreprises. Bien sûr, il y a des secteurs essentiels qui ne peuvent travailler que la nuit. Néanmoins, rappelons-le, fondamentalement, l'être humain n'est pas fait pour travailler la nuit. Dès lors, ceux qui le font ont droit à des primes, à des considérations et à des avantages particuliers, parce que leur santé est en danger, et pas qu'un peu!",
+      "La littérature est claire sur le sujet, en rapportant que le travail de nuit peut entraîner des troubles du sommeil et de la digestion, une réduction directe de l’espérance de vie ainsi que des coûts supportés par les travailleurs concernés mais aussi, au final, par la collectivité via l’État social.",
+      "En facilitant le travail nocturne, ce gouvernement socialise les coûts de ces problèmes de santé – pris en charge par la collectivité – tout en permettant des bénéfices qui restent en grande partie privés, engrangés par des entreprises comme Amazon, Zalando ou Shein.",
+      "Un problème encore plus grave est la limitation de la durée maximale du préavis. Vous évoquez un équilibre entre la protection sociale et l'attractivité économique mais, en réalité, vous réduisez les droits des travailleurs licenciés en affaiblissant leur capacité à rebondir et à sécuriser leur transition professionnelle.",
+      "Alors que la réforme du chômage produit ses effets par vagues successives, vous facilitez le licenciement de travailleurs disposant d’une longue carrière, qui seront les premiers touchés par ce texte. Je m’interroge vraiment – comme certains de vos partenaires d'ailleurs – sur la capacité de ce gouvernement à atteindre un taux d’emploi de 80 %.",
+      "Je reprends ici les termes de la secrétaire générale de la CSC, qui me paraissent relever du bon sens: \"La flexibilité est allée beaucoup trop loin et n’est pas motivée par des impératifs de salaires ou de revenus. Elle est motivée par le fait que le travail devienne une marchandise plutôt que quelque chose qui permet de vivre.\" Par voie de conséquence, cette réforme entraînera des pertes en cotisations sociales et en recettes fiscales qui pourraient être significatives.",
+      "Enfin, ce projet modifie les mécanismes de concertation collective en facilitant l’adoption de décisions sans large consensus. Là où une majorité qualifiée de 75 % était requise, vous introduisez des règles plus souples permettant de contourner ces blocages. Mais ce que le gouvernement appelle un blocage est parfois simplement l’expression légitime d’un désaccord social. La concertation sociale n’est pas un obstacle mais bien un pilier de notre modèle.",
+      "Ce texte révèle une vision du travail profondément déséquilibrée, une vision où la flexibilité devient la norme et la sécurité l’exception; une vision où l’on demande toujours plus d’adaptation aux travailleurs sans leur garantir en retour des droits renforcés. Ce texte n’est pas équilibré, raison pour laquelle je ne pourrai pas le soutenir."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Dan kom ik terug bij collega Ronse."
+    },
+    {
+     "type": "speech",
+     "id": "04.29",
+     "name": "Axel Ronse",
+     "party": "N-VA",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Vandaag is een mooie dag en ligt er een zeer belangrijk wetsontwerp voor. Dat wetsontwerp geeft mensen die meer willen werken, de vrijheid om dat te doen. Heel wat mensen geven aan dat ze nu mogelijkheden hebben om wat meer te werken dan op andere momenten in hun leven. We breiden die fiscaal vriendelijke overuren uit. Ze zullen daar netto ook meer aan verdienen. Heel veel mensen zijn daar vragende partij voor.",
+      "Het is inderdaad zo dat we onze arbeidsmarkt deels aan het herverkavelen zijn, met flexi-jobs die hopelijk tegen de zomer in alle sectoren mogelijk zullen zijn, met een plafond dat wordt opgetrokken en met studentenjobs waarvan we de uren hebben uitgebreid. Dat is het tweede beste scenario, want het allerbeste scenario is eigenlijk dat een klassiek werknemersstatuut interessanter wordt gemaakt, dat het lonender wordt om te werken, dat er meer flexibiliteit in het statuut zit en dat men daar prioritair altijd voor kiest. Dat is een oproep aan degenen die op dat vlak conservatief zijn en kritiek hebben op fiscaal vriendelijke overuren, flexi-jobs en de uitbreiding van studentenjobs, om ook in eigen boezem te kijken en meer mee te gaan in vereenvoudigingen van ons arbeidsrecht en in het minder belasten van arbeid. Dat is een eerste punt.",
+      "Ten tweede is er heel veel onzin verteld over de nachtarbeid. Ik ga me nog een keer richten tot alle communisten in de zaal. Beste communisten, chers camarades, mes grands amis du PTB , als u in het wetsontwerp leest dat ook maar één iemand die vandaag een premie voor nachtarbeid heeft om vanaf 20.00 uur te werken, rechten verliest, als blijkt dat daaraan wordt getornd, zoals u op elke betoging verkondigt, zeg het dan nu. Mijnheer Hedebouw, mijnheer Tonniau, nee? Niemand? Dan ga ik ervan uit – en ik reken erop – dat de communisten op 1 mei aan al hun mensen zullen zeggen dat niemand de premie voor nachtarbeid zal verliezen. Zo simpel is het. Er is heel veel fake news verteld over dat wetsontwerp en ik ben blij dat dat nu eindelijk wordt ingetrokken. Dat zal, voor alle duidelijkheid, voor jobs zorgen.",
+      "Verder heb ik hier heel wat onzin gehoord van de mensen die in het Europees Parlement hebben gestemd voor pay transparency – de liberale Vlaamse fractie – en toch kritiek geven op het feit dat onze regeringsleider op Europees niveau die problematiek en de impact ervan op onze competitiviteit aankaart. Ik vind dat eigenaardig.",
+      "Ik kom tot de tijdsregistratie. Er is een Europees arrest ter zake, waarmee we op de vingers getikt zijn. Ik vind dat we nu naar een heel soepele manier van tijdsregistratie gaan, waarbij we alle werkgevers de vrijheid geven om zelf te bepalen hoe ze aan dat arrest tegemoet kunnen komen. Dat zijn allemaal zeer eenvoudige dingen.",
+      "Deze regering doet maar één ding en dat is ons arbeidsrecht moderniseren. Niet op de manier van Nederland, waar men een massa mensen in een heel precair statuut heeft, maar op een manier die het zowel voor de werkgever als voor de werknemer lonend maakt om te werk te stellen of te werk gesteld te worden. Het is zeer belangrijk om in de economische storm waarin we ons vandaag bevinden, die modernisering in te voeren. Ze komt geen dag te vroeg. We hebben er zeer lang op gewacht. Men heeft 25 jaar de tijd gehad om ze in te voeren. Wij doen het nu.",
+      "Ik dank alle collega’s die daaraan meegewerkt hebben. Proficiat."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.30",
+     "name": "Kurt Moons",
+     "party": "VB",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Voorzitter, ik was niet onmiddellijk van plan om het woord te nemen, maar, daar ik goed voorbereid ben, zal ik het toch maar doen.",
+      "De centenindex bestaat feitelijk… Oei, dat is een ander wetsontwerp.",
+      "Ik wil gewoon aankaarten dat deze vergadering een chaotische bedoening is, zoals ik nog nooit heb meegemaakt. We zijn hier allemaal op tijd gekomen – om 9 uur – behalve een groot deel van de meerderheid. We nemen hier beslissingen op basis van reglementen, fundamentele regels, die ooit overeengekomen zijn in dit Parlement. Als wij ons daar evenwel op beroepen, samen met andere collega’s, worden we uitgekafferd als mensen die de democratie willen tegenhouden, die de meerderheid willen tegenhouden. De meerderheid is evenwel niet aanwezig. Hoe kunnen wij dan in godsnaam het probleem vormen? Daarenboven hebben alle partijen die nu op ons foeteren, ooit hetzelfde gedaan, want toen mocht het, maar nu niet.",
+      "Wat een chaotische bedoening is het hier in dit Parlement. Ik kom uit de privésector. Ik zetel intussen al bijna twee jaar in het Parlement. Ik dacht dat ik het nu allemaal wel gezien had, maar dat is helemaal niet het geval.",
+      "Als de burgers thuis het schouwspel van vandaag zouden zien, dan zouden ze zich afvragen wat hier allemaal aan de hand is en of dat dat de manier is om wetgeving tot stand te brengen. Er wordt zelfs schande gesproken over gerechtvaardigde eisen om amendementen naar de Raad van State te verwijzen. Ik denk niet dat dat de juiste werkwijze is.",
+      "De bevolking weet amper hoe het er hier aan toegaat, want de camera’s zijn er nu natuurlijk niet. Ik wil het daarom toch even duidelijk maken. Eerst moesten we wachten op de meerderheid omwille van het quorum. Plots werd er toch gestemd. We wisten niet wanneer er een vergadering was, want op de e-meetingapp – die we goed moeten volgen – stond het niet juist. Er stond daarin geen vergadering om 14 uur gepland en dus moesten we ook nog de website raadplegen. Er is dus geen duidelijk systeem. We moeten op verschillende platformen kijken om te weten wanneer er een vergadering is of wordt voortgezet. Voorwaar, wat een professionalisme!"
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Mijnheer Moons, als er wordt gemeld dat er om 14 uur een vergadering gepland is, dan zou men in de privésector erop aandringen dat men de agenda goed opvolgt."
+    },
+    {
+     "type": "speech",
+     "id": "04.31",
+     "name": "Kurt Moons",
+     "party": "VB",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "U hebt niet goed geluisterd: op de e-meetingapp stond de vergadering niet aangeduid, maar die hebt u waarschijnlijk niet bekeken."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Ik heb die niet bekeken, omdat de agenda vermeldde dat we om 14 uur bijeen zouden komen."
+    },
+    {
+     "type": "speech",
+     "id": "04.32",
+     "name": "Kurt Moons",
+     "party": "VB",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Hoe dan ook, de agenda’s worden bovendien voortdurend gewijzigd. We moeten de agenda voor volgende week goedkeuren net vóór de laatste stemming. Ik zit daar al maanden mee te lachen, want we weten immers dat die agenda alsnog wordt aangepast. Waarom moeten we een agenda goedkeuren als die dan in de loop van de week geregeld nog wordt aangepast? Maar goed, we zullen ons daar wel naar schikken.",
+      "(…) : (…)"
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.33",
+     "name": "Kurt Moons",
+     "party": "VB",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer Ronse, u hebt andere parlementsleden ook aangemaand om de spreker niet constant te onderbreken. Ik verwacht dat van u ook.",
+      "En wat met de democratische beginselen? Als onze voorstellen worden weggestemd, gewoon omdat ze van het Vlaams Belang komen, is dat dan democratisch? Dames en heren parlementsleden, handelt u dan democratisch?",
+      "In de privésector gaat het er anders aan toe. Hier is het een chaotische bedoening. Gelukkig zien de mensen niet hoe wetgeving hier tot stand komt. Vandaag moet ik plots mijn betoog houden over twee weliswaar gelinkte wetsontwerpen, terwijl er maar één op de agenda staat en dan nog wel pas morgen. Holderdebolder moet ik constructief meewerken, de wettelijke bepalingen bespreken en/of ze via amendementen weerleggen.",
+      "Men had mij er op voorhand voor gewaarschuwd dat het federale parlement illustreert hoe België werkt. Ik verwachtte het niet, maar het is eigenlijk nog veel erger. Het is heel duidelijk waarom België niet werkt. Er is geen gemeenschappelijk doel. Er is geen gemeenschappelijke overeenkomst. We weten niet waar we naartoe willen. Het is duidelijk dat dat België, waarvan het federale Parlement de emanatie is, moet ophouden te bestaan. Ik zal dan ook geen constructieve bijdrage leveren in de bespreking van de voorliggende wetsontwerpen, die mij vandaag door de strot worden geduwd."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Le président : Madame Thémont, vous souhaitiez également prendre la parole?"
+    },
+    {
+     "type": "speech",
+     "id": "04.34",
+     "name": "Sophie Thémont",
+     "party": "PS",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Merci, monsieur le président.",
+      "Je n'avais en fait initialement pas l'intention d'intervenir, moi non plus. Cependant, en cette veille de 1 er mai, je souhaitais quand-même adresser quelques mots en hommage aux travailleurs et travailleuses qui vont subir de plein fouet toutes ces mesures injustes.",
+      "À la veille du 1 er mai, nous avons vu aujourd'hui un spectacle mené par le MR, qui se prétend d'ailleurs le parti du travail. Je voudrais souligner que, même si vous dites que vous êtes le parti du travail, si vous n'êtes pas capables de rameuter vos troupes à 9 h, 10 h, 11 h et 14 h, c'est que vous n'êtes pas le parti de ceux qui se lèvent tôt.",
+      "Je vais intervenir sur deux ou trois points, monsieur le ministre, de votre belle réforme du travail. On flexibilise le travail de nuit. Venant de la part d'un parti qui ne sait pas se lever le matin, c'est indécent. Savez-vous ce que c'est de travailler la nuit? Comment on fout sa santé en l'air en travaillant la nuit? Comment on fout aussi en l'air sa vie de famille en travaillant la nuit?",
+      "La deuxième mesure que je souhaitais dénoncer porte sur les contrats de trois heures par semaine. Vous prétendez défendre le travail, en fait vous défendez l'exploitation des travailleurs et des travailleuses.",
+      "S'il fallait encore une preuve que vous ne respectez rien, après le travail de nuit, après les contrats de trois heures, que faites-vous? Vous limitez le préavis à 52 semaines, et donc vous n'épargnez aucun travailleur, vous pénalisez même ceux qui travaillent depuis très longtemps. Et, bien sûr, comment ne pas dénoncer aussi l'explosion du plafond des heures supplémentaires sans sursalaire et sans droits sociaux?",
+      "Vous pouvez répéter que vous voulez récompenser le travail, mais avec quoi, monsieur le ministre? Avec des contrats zéro heure? Avec un double saut d'index? Avec des primes de nuit supprimées? Vous passez votre temps à dire que l'emploi est le cœur de votre politique, mais quel emploi? Celui finalement où on s'épuise, où on travaille le dimanche, de nuit, en soirée, sans aucune compensation; celui où on ne gagne pas un centime de plus alors qu'on exécute un travail pénible; celui où la vie de famille passe au dixième plan.",
+      "À la veille du 1 er mai, si j'étais vous, je changerais de slogan, parce que vous n'êtes pas le parti des travailleurs, vous êtes le parti de l'exploitation des travailleurs."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Le président : Monsieur Piedboeuf, vous souhaitez réagir aux propos de Mme Thémont."
+    },
+    {
+     "type": "speech",
+     "id": "04.35",
+     "name": "Benoît Piedboeuf",
+     "party": "MR",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le président, je connais évidemment les outrances de langage de Mme Thémont. Elle oublie son propre comportement, puisque l’ensemble de ses partenaires et elle-même se sont levés pour ne pas débattre et pour éviter le débat. Il est exact que le MR n’était pas en nombre ce matin. Je vous signale qu’à 14 h, il l’était avec deux personnes sous certificat, qui normalement n’auraient pas dû être présentes, dont une qui a des difficultés à se déplacer et qui doit faire attention. Nous étions tous là, à l’exception de M. Ducarme, qui avait terminé tard hier. Tout le monde était donc présent à 14 h. Il est exact qu’il n’y avait pas le nombre de membres du MR ce matin, mais nous aurions pu débattre. Si nous n’avons pas pu le faire, c’est parce que vous avez fui la discussion. Le Parlement doit compter 76 présences, majorité comme opposition. Vous étiez présents et vous avez tous fui."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.36",
+     "name": "Sophie Thémont",
+     "party": "PS",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Je pense que nous n’avons vraiment pas de leçons à recevoir du MR. Nous étions, nous, au Parti Socialiste, en nombre à 9 h du matin. Oui, nous étions présents pour défendre le droit des travailleurs et des travailleuses face à ces mesures injustes et indigestes que vous essayez de faire passer aujourd’hui, en force, sans ouvrir le débat. Oui, nous étions là pour renvoyer des amendements et pour protéger l’indexation automatique des salaires, ainsi que ce que vous prétendez défendre, à savoir la concertation sociale, alors même que vous passez constamment en force. Je le répète, nous n'avons pas de leçons à recevoir du MR."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.37",
+     "name": "Anne Pirson",
+     "party": "Les Engagés",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le président, je vous remercie.",
+      "J'en profite également pour remercier l'opposition, en particulier le Vlaams Belang, pour sa compréhension dans la modification de l'ordre du jour. C'est très intéressant et sympathique de constater sa compréhension et sa bienveillance!",
+      "Monsieur le ministre, le projet de loi qu'on examine aujourd'hui s'inscrit vraiment dans une démarche importante, celle de la modernisation de notre droit du travail et notamment du travail de nuit. Notre législation sociale repose sur des bases solides, qui ont permis de construire un modèle vraiment protecteur au fil du temps. Il faut néanmoins faire évoluer ce modèle avec le temps, car le monde du travail change énormément avec la transformation des chaînes logistiques, l'essor du commerce électronique et les nouvelles attentes des travailleurs.",
+      "Face à tous ces changements, il est essentiel d'adapter notre cadre juridique, tout en préservant un équilibre entre la flexibilité économique et la protection sociale. C'est vraiment cette ligne là que Les Engagés défendent. Nous ne voulons pas d'immobilisme ni de dérégulation. Nous croyons vraiment en un modèle dans lequel le travail reste digne, protégé et valorisé, tout en permettant aux entreprises de véritablement s'adapter aux réalités économiques actuelles. Plusieurs dispositions du texte vont dans ce sens. Je pense notamment à la simplification administrative pour de nombreuses entreprises et surtout pour les PME, car la complicité actuelle est un réel frein. Simplifier ne signifie pas affaiblir, mais rendre le droit plus lisible et plus efficace.",
+      "La réforme du travail de nuit dans la distribution est également un point central répondant à une évolution économique évidente, puisque qu'une part croissante de l'activité se déroule en soirée, avec des attentes de rapidité accrue. Là encore, le travail de nuit est encadré au sein d'un nombre limité de commissions paritaires répondant à des définitions en cascade. On sait que maintenir un cadre trop rigide ferait courir le risque de délocalisation d'activités logistiques vers des pays plus flexibles, et cette réforme permet justement d'éviter cela en distinguant le travail en soirée du travail de nuit strict, tout en maintenant des garanties pour les travailleurs puisque les droits acquis sont préservés, notamment en matière de primes. Toute évolution future passera par le dialogue social.",
+      "Donc, l'approche se veut, en l'occurrence, progressiste et équilibrée.",
+      "Dans le même esprit, le développement des heures supplémentaires volontaires constitue un levier véritablement utile. Il apporte de la souplesse aux entreprises qui sont confrontées à des besoins ponctuels et il offre au travailleur la possibilité d'augmenter ses revenus dans un cadre clair et avantageux. C'est un principe simple: le travail doit payer et, lorsqu'un travailleur décide de s'investir davantage, il est légitime qu'il en retire un bénéfice réel.",
+      "Un cadre plus simple et plus réaliste permet également de lutter contre le travail non déclaré, en favorisant le passage vers un travail déclaré et encadré.",
+      "Le projet comporte aussi des adaptations du Code pénal social. De tels ajustements sont indispensables pour garantir la cohérence de l'ensemble. Chaque évolution du droit du travail doit s'accompagner d'un cadre pénal clair pour garantir la sécurité juridique et l'effectivité des contrôles. Un droit moderne doit être lisible, applicable et respecté. C'est une condition essentielle pour lutter contre la fraude sociale et garantir une concurrence loyale entre les entreprises.",
+      "Bien entendu, certaines dispositions appellent aussi à la vigilance; nous en sommes conscients. Je pense ainsi à la modification de la durée minimale du travail à temps partiel. Nous devons la suivre de près pour éviter une multiplication de contrats trop courts qui fragiliseraient le travailleur. La flexibilité, c'est très bien: elle doit rester un outil, mais pas un facteur de précarité. La réforme du travail de nuit devra aussi être appréciée à l'aune des exigences européennes en matière de santé et de sécurité au travail.",
+      "Pour conclure, je dirais que ce texte traduit véritablement une volonté d'adaptation responsable de notre droit du travail, avec plus de souplesse là où c'est nécessaire, mais sans renoncer aux protections essentielles."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.38",
+     "name": "Nathalie Muylle",
+     "party": "cd&v",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Collega’s, wat vandaag voorligt, is niet onbelangrijk omdat het past binnen een ruimer geheel. Het jammerlijke in het debat is dat – ik heb dat ook tegen de minister gezegd en ik begrijp de dynamiek erachter – alles in horten en stoten komt en dat we vaak een debat voeren over maatregelen op zich, terwijl deze elementen, die vooral inzetten op flexibiliteit op onze arbeidsmarkt, voor mijn partij duidelijk passen in een globale hervormingsagenda van deze regering, niet het minst in een globale hervorming van onze arbeidsmarkt. Daar zijn heel veel aspecten aan verbonden en een aantal daarvan liggen vandaag hier voor.",
+      "Als ik kort kijk naar de verschillende elementen, dan zijn er een aantal bezorgdheden die ook al door collega’s zijn gedeeld. Er is het verhaal van de uurroosters, dat we niet los kunnen zien van andere evoluties. Collega Van Quickenborne heeft daar ook naar verwezen in het kader van arbeidstijdsregistratie. Dat komt op ons af. Daarover zijn al heel wat uitspraken gedaan. Er bestaat ook een zeer grote bezorgdheid op het werkveld. In veel bedrijven en sectoren bestaan vandaag goede voorbeelden van systemen met lichte administratieve processen, ook specifiek gericht op bepaalde doelgroepen, waarbij arbeidstijdsregistratie wordt toegepast en waarvan men binnen het bedrijf een duidelijke toegevoegde waarde ziet. Ik hoop dat men vooral naar die systemen kijkt die vandaag echt een meerwaarde bieden, die niet louter registreren. Mijnheer de minister, ik heb u daarover al een paar keer bevraagd. U hebt gezegd dat u het daarmee eens bent. Ik hoop dus dat als er een voorstel komt vanuit de regering, we het dossier op die manier verder kunnen behandelen.",
+      "Wat de minimale arbeidsduur betreft – ik neem dat samen met het dossier van de overuren in het andere ontwerp – moet ik toegeven dat we als partij niet meteen enthousiast zijn over die maatregel op zich. Ik heb het dan niet over flexi’s, maar over de verkorting van de arbeidsduur.",
+      "Ik zie evenwel ook opportuniteiten. Als men kijkt naar flexi-jobs, dan voldoet vandaag niet iedereen aan de viervijfdevoorwaarde. Er zijn mensen in bepaalde statuten die niet kunnen flexi-jobben. Daarnaast zijn er ook sectoren die kozen voor opting-out, waar men dus niet kan flexi-jobben. In het kader van hertewerkstelling en re-integratie kunnen korte contracten mogelijk opnieuw leiden naar duurzame tewerkstelling. Dat is ook niet onbelangrijk. Ik denk dan aan personen met een handicap die progressief deeltijds opnieuw op de arbeidsmarkt willen komen en dat eigenlijk maar in beperkte mate kunnen doen. Er zijn dus ook opportuniteiten en mogelijkheden voor die eentiendecontracten. In die zin passen die ook wel in een flexibel arbeidsmarktbeleid.",
+      "Ik heb in het verleden al initiatieven genomen met betrekking tot de overuren. Deze regering heeft de studentenarbeid fel uitgebreid. Collega Ronse heeft er ook naar verwezen. Laten we hopen dat de uitbreiding met betrekking tot de overuren er voor de zomer komt, dat iedereen zijn taboes daarover weggooit en dat we echt naar die uitbreiding kunnen gaan, omdat dit belangrijk blijft voor het opvangen van piekarbeid. Voor mijn partij – en dat is ook niet nieuw – is een uur extra werken bij de eigen werkgever belangrijk. Daarom is die koppeling tussen flexi-jobs en de uitbreiding in het kader van vrijwillige overuren ook cruciaal.",
+      "Er bestaat vandaag al vrij veel. Er zijn die korte contracten. Er is studentenarbeid. Er zijn de flexi-jobs. Er is ook de hele regeling met betrekking tot overuren. Er is ook het verenigingswerk. Er zijn mensen die actief zijn in het kader van vrijwilligerswerk. Daarvoor bestaan er vandaag eigenlijk allemaal statuten. Als men dan kijkt naar de manier waarop die fiscaal worden behandeld, maar ook sociaal, dan ziet men dat sommigen rechten opbouwen en anderen niet. Denk bijvoorbeeld aan pensioenrechten. Op een bepaald ogenblik moeten we eens durven de oefening te maken en die zaken naast elkaar leggen om te bekijken wat de impact is op onze sociale zekerheid, maar ook op de fiscaliteit. We moeten daar een gelijk speelveld creëren.",
+      "Laat mij heel duidelijk zijn, mijn partij heeft niet de intentie om dingen te beknotten, het is juist de bedoeling om dingen mogelijk te maken. Het zijn nu eenmaal zaken die we nodig hebben in een flexibele arbeidsmarkt, die in de komende periode nog uitdagender zal worden. Het zou ook fijn zijn mochten we daar voor een stuk dezelfde spelregels hebben. Dat is een oefening die nog voor ons ligt. We moeten ervoor zorgen dat die zaken nog veel beter op elkaar worden afgestemd.",
+      "Als laatste punt wil ik stilstaan bij het verhaal van de nachtarbeid. Wat vandaag voorligt, is zeer genuanceerd. Het klopt dat daarover al veel verklaringen zijn afgelegd, maar we worden vandaag met een economische realiteit geconfronteerd waar we niet naast kunnen kijken. Voor mijn mandaat in het Parlement heb ik tien jaar in een distributiebedrijf gewerkt. Ik heb daar nog steeds veel contacten en ken de sector goed. Ik ben ook op de hoogte van de uitdagingen waarmee de distributiesector vandaag wordt geconfronteerd. Die zijn zeer groot. Ze zijn de afgelopen jaren alleen maar toegenomen en zullen in de toekomst niet afnemen.",
+      "Met wat we vandaag doen, respecteren we bestaande overeenkomsten. Er komt inderdaad een verenging van het begrip ‘nacht’, maar ik denk dat dat stappen zijn die we moeten zetten binnen de limitatieve lijst van sectoren. Voor onze partij was het cruciaal dat we samen met de CRB en de NAR vanaf 2027 een evaluatie zullen uitvoeren. We zijn er immers allemaal van overtuigd dat jarenlang nachtwerk een grote impact heeft op lichaam en geest. Dat geldt zowel in de distributie als in de zorg. We kennen allemaal voorbeelden uit onze omgeving van mensen die aangeven dat nachtwerk een tijdslimiet heeft en dat men dat niet gedurende de volledige loopbaan kan volhouden. Het welzijnsaspect is dan ook bijzonder belangrijk. Daarom is de evaluatie door de NAR en de CRB voor ons essentieel.",
+      "Zoals gezegd, moeten we die maatregelen zien binnen de globale hervormingsagenda van de arbeidsmarkt. Die elementen van flexibiliteit zullen wij als partij steunen. We vragen ook om alles wat met meer werken te maken heeft, grondig te bekijken om na te gaan hoe we de verschillende maatregelen beter op elkaar kunnen afstemmen, ook de stappen die we vandaag zetten."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.39",
+     "name": "Anja Vanrobaeys",
+     "party": "Vooruit",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de voorzitter, ik was niet ingeschreven, maar wil toch even kort reageren.",
+      "Collega’s, ik heb in de commissie aangegeven dat veel zaken voor ons een compromis zijn, maar ik heb me wel vrij genuanceerd uitgesproken over de vrijwillige overuren. Ik sta nog altijd achter mijn woorden van toen. Wanneer er meer werk is in een bedrijf, ontstaat er iets wat wij allemaal al eens hebben mogen ervaren. Werknemers zijn dan fier op het bedrijf waarvoor zij werken. Als er meer werk is, ontstaat er vaak een soort teamgeest waarbij werknemers bereid zijn een tandje bij te steken, het vele werk samen te doen en er zich samen door te worstelen.",
+      "Ik zou het dan ook jammer vinden – daarom kan ik akkoord gaan met die vrijwillige overuren – dat een werknemer dat wel fiscaal vriendelijk bij een andere werkgever kan doen, maar niet bij de eigen werkgever. Als er een piekmoment is, moet een werknemer die overuren vrijwillig kunnen presteren zonder dat hij of zij daarvoor zwaar wordt belast.",
+      "Mevrouw Muylle, ik kan mij volledig bij u aansluiten. Dat sluit ook aan bij wat de heer Ronse heeft uiteengezet. We moeten een en ander in zijn geheel bekijken. Er bestaat vandaag een hele koterij van mogelijkheden om fiscaalvriendelijk extra te werken, zoals flexi-jobs en verenigingswerk. In het vrijwilligerswerk bestaan verschillende statuten die soms een soort semivrijwilligerswerk worden. Er is ook mijn stokpaardje, namelijk het platformwerk of de peer-to-peereconomie, dat we gelukkig zullen aanpakken.Langs die kant, maar ook langs een andere kant bestaan er allerlei fiscale koterijen en achterpoortjes. Het is belangrijk dat we dat meenemen in de fiscale hervorming, zodat mensen die elke dag werken daar netto meer aan overhouden. Wie zich extra inzet, mag dat niet allemaal verliezen aan belastingen.",
+      "Ik wil nog twee punten meegeven. Over de nachtarbeid is veel verteld, alsof elke verpleegkundige vanaf morgen zijn of haar premie zou verliezen. Dat klopt helemaal niet. De wijziging is beperkt tot een aantal sectoren en tot nieuwe gevallen. Voor ons is het inderdaad heel belangrijk dat over die premies nog altijd wordt onderhandeld door de vakbonden en dat zij daar een rol in blijven spelen. Nachtarbeid heeft immers een impact op de gezondheid, zeker wanneer hij jarenlang wordt verricht. Ik hoor dat sommigen de vakbonden graag willen afschaffen, maar voor ons is het cruciaal dat die betrokkenheid behouden blijft.",
+      "Tot slot, mijnheer de minister, wil ik nog een vraag stellen over de tijdsregistratie. Het wordt hier voorgesteld alsof we opnieuw ponskaarten zouden willen invoeren. Zelfs de prikklok is niet helemaal afgeschaft. Spijtig genoeg werken sommige overheidsdiensten daar nog altijd mee. Een prikklok is echter wel iets anders dan tijdsregistratie. Het is belangrijk dat dat op een eenvoudige, gemakkelijk toepasbare manier gebeurt. Ik heb u daarover vorige week nog ondervraagd, mijnheer de minister. Een op zes werknemers voelt zich geroepen om bij thuiswerk constant en onmiddellijk op berichten te antwoorden, ook ’s avond laat en in het weekend. Er zijn veel burn-outs. Het is dus wel belangrijk om limieten te bepalen en aan te houden. Kunt u daarover nog een stand van zaken geven, mijnheer de minister?"
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.40",
+     "name": "Sarah Schlitz",
+     "party": "Ecolo-Groen",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le président, chers collègues, nous avons déjà beaucoup parlé de ce texte en commission.",
+      "Monsieur le ministre, vous le présentez comme une modernisation du marché du travail. Nous n’aurions pas le choix, parce que, par ailleurs, nos voisins font ceci et d'autres pays font cela. Nous serions donc contraints d'avancer de cette manière-là.",
+      "Mais, chers collègues, reprenons quand même un peu la base. Depuis quand est-il moderne d’avoir moins de règles protectrices des droits des travailleurs, des horaires moins prévisibles, moins de concertation collective, plus de pouvoir unilatéral pour l'employeur, des micro-contrats, plus d'heures prestées par semaine et plus de travail en soirée, la nuit, le dimanche? Ce n'est pas de la modernité. Ce n'est en tout cas pas le progrès auquel les travailleurs et travailleuses aspirent aujourd'hui. C'est un recul des droits sociaux des travailleurs et des travailleuses.",
+      "Prenons le premier point relatif à l'assouplissement des règles relatives aux horaires de travail et aux règlements de travail. Je serai brève, vu que nous sommes en séance plénière et que nous avons déjà beaucoup développé cet aspect en commission. Nous sommes face à un mécanisme qui réduit la lisibilité des horaires pour l'employé et qui diminue le poids des syndicats dans la concertation collective autour des horaires de travail.",
+      "Ici, sous couvert de simplification, vous réduisez la possibilité pour un travailleur ou une travailleuse de savoir concrètement et à l'avance quand il va travailler. Nous voyons aujourd'hui cette question se cristalliser notamment dans le conflit social chez bpost, où les travailleurs et travailleuses refusent une décision unilatérale de la direction qui décide, du jour au lendemain, de changer les horaires, et donc de bouleverser l'organisation familiale de plus de 27 000 familles. Ce conflit devrait nous alerter et nous appeler à davantage baliser les choses plutôt qu'à nous dire: \"Eh bien voilà, les choses vont ainsi; nous allons déréguler d'autant plus.\"",
+      "Le second point, qui constitue une évolution importante, est le fait que le projet ouvre la porte à des emplois beaucoup plus fragmentés en diminuant la durée de la semaine de travail. Concrètement, avec ce projet de loi, vous abaissez la durée minimale hebdomadaire d'un contrat de travail d'un tiers-temps, tel que c'est le cas actuellement – et c'est déjà peu; cela ne permet par exemple pas, dans la réforme des pensions, de se constituer des droits à la pension –, à un dixième de temps plein. \"Je travaille à un dixième\", personne n'aspire à cela, me semble-t-il. Cela veut dire 3 h 48 par semaine.",
+      "La règle du tiers-temps n'existait pas par hasard. Elle avait précisément été introduite pour éviter la multiplication des mini-contrats et des formes d'emplois trop précaires. Avec un seuil aussi bas, tel que vous l'introduisez, vous validez donc cette possibilité d'emplois extrêmement réduits, des emplois qui ne sécurisent pas les revenus ni les droits sociaux. Il est impossible de se constituer un quelconque droit à la pension avec une durée de temps de travail pareille.",
+      "Et cela ne permet pas non plus de se projeter dans un avenir professionnel, comme vous vous en doutez. On voit bien la logique à l'œuvre: on permet aux employeurs de mobiliser des travailleurs de manière très ponctuelle, de garder leurs compétences dans leur giron, de pouvoir les mobiliser quand cela les arrange et quand les personnes sont disponibles, mais sans devoir leur offrir un vrai contrat de travail qui leur permet, en contrepartie du travail fourni, de se projeter et se stabiliser dans la vie. C'est donc une autre forme de flexibilisation, à côté des flexi-jobs, des jobs étudiants et des heures supplémentaires.",
+      "En tout cas, je ne vois aucun avantage à cette formule pour le travailleur. Ce type de contrat n'ouvre pas de bonus particulier pour les futurs pensionnés et ne permet généralement pas d'atteindre les seuils nécessaires. Avec de tels contrats, on va assister à un maintien de certains profils, de certaines personnes, dans la précarité. Ces personnes vont naviguer entre des contrats très courts, très peu rémunérateurs, et des passages au CPAS, et vice versa. Finalement, ce sont les communes, les collectivités locales qui paieront à travers les CPAS. Ces personnes n'arriveront jamais à vraiment se sortir la tête hors de l'eau et à se projeter dans une activité, dans un vrai job, émancipateur et épanouissant. Ce n'est absolument pas à cela que l'on ouvre la voie. Plutôt que de consacrer ces heures de travail à la création de vrais emplois qui peuvent être rémunérateurs et émancipateurs, on continue à fragmenter le temps de travail.",
+      "Le point suivant est le point le plus lourd du texte. Il concerne le travail de nuit. Il prévoit la légalisation du travail de nuit, alors qu'actuellement, le travail de nuit est interdit, sauf exception. Puis, il réduit les primes de nuit à la plage comprise entre 23 h et 6 h du matin, au lieu de la plage actuelle comprise entre 20 h et 6 h du matin. Notre droit partait d'un principe simple: le travail de nuit n'est pas un travail ordinaire, et pour cette raison-là, il doit être balisé, limité très fortement et mieux rémunéré. C'était l'idée, l'esprit qu'il y avait dans la loi actuelle, et vous venez détricoter tout cela.",
+      "Un aspect très inquiétant est l'effet du travail de nuit sur la santé. Les effets du travail de nuit sont largement documentés. Le travail de nuit peut avoir un impact sur les troubles du sommeil, engendrer de la fatigue chronique, des risques cardiovasculaires, des troubles métaboliques, un impact sur la santé mentale, également accroître les risques de cancer, notamment les cancers du sein. L'Institut Fédéral des Droits Humains (IFDH) décrit également le fait que le travail de nuit porte atteinte aux droits à la santé, mais aussi à la vie familiale et aux droits de l'enfant. Il a un impact négatif sur la disponibilité mentale et physique des parents concernés par le travail de nuit, ainsi qu'un impact sur les enfants qui sont plus susceptibles d'être amenés à adopter une hygiène de vie moins favorable à leur bon développement, et à présenter dès lors davantage de problèmes de santé mentale ou comportementaux.",
+      "Plus globalement, augmenter et intensifier le travail de nuit dans la société, c’est aussi compliquer très fortement l’organisation familiale, puisque notre société fonctionne aujourd’hui essentiellement sur du travail de jour. C’est particulièrement vrai pour tout ce qui concerne l’enfance. Par exemple, les crèches fonctionnent la journée et n’ouvrent pas plus tard que 18 h. C'est pareil pour l'école, voire pire.",
+      "Il n’existe donc aucun système permettant à un parent solo de travailler de nuit tout en s’occupant de ses enfants, du moins sans pouvoir compter sur un soutien externe ou sur la solidarité familiale. Accroître le travail de nuit et l’imposer aux travailleurs contraint, de fait, le conjoint ou la conjointe à assumer une charge supplémentaire. Continuer à déréguler et à diversifier les plages de travail, allouera aussi moins de temps pour participer, par exemple, à la fête de l’école ou aux réunions de parents qui ont lieu entre 18 h et 20 h. Cela signifie que, petit à petit, insidieusement, certains groupes de la population n’auront même plus l’occasion de se croiser ou de partager des moments ensemble. Et cela m’inquiète très fortement, au-del à , é videmment, de tous les impacts sur la sant é que comporte cette r é forme.",
+      "De plus, mentionnons la protection contre le licenciement, qui est réduite. Le projet de loi plafonne la durée maximale du préavis à 52 semaines à partir de 17 ans d’ancienneté, pour les contrats qui commencent après le 1 er avril. Autrement dit, la protection construite avec l’ancienneté sera affaiblie. C’est particulièrement inquiétant pour les travailleurs les plus âgés, pour lesquels Unia vous a appelé, dès le premier jour de ce gouvernement, à mettre en place des mesures d’accompagnement, tant pour les travailleurs que pour les demandeurs d’emploi âgés, qui sont plus fortement victimes de discrimination. Or, nous n’avons vu aucune mesure se mettre en place à ce niveau-là. Et pourtant, vous en demandez toujours plus aux travailleurs âgés et aux demandeurs d’emploi les plus âgés, qui se retrouvent aujourd’hui face à une impossibilité de s’insérer sur le marché du travail, en raison du manque de postes disponibles et des préjugés dont ils font l’objet. Cet élément vient faciliter le licenciement de ces travailleurs les plus anciens, les plus âgés. Nous ne comprenons donc pas le rapport entre vouloir faire en sorte que les gens travaillent le plus longtemps possible et faciliter leur licenciement. Pour nous, c’est complètement contradictoire.",
+      "Enfin, la mesure du projet de loi n° 1333 permet de prester 450 heures supplémentaires dans l’horeca et 360 heures dans tous les autres secteurs. Ces heures supplémentaires peuvent être prestées sans motif, simplement avec la validation du principe par le travailleur et l’employeur, et sans récupération de ces heures. Un total de 240 heures peuvent être prestées sans sursalaire.",
+      "Par ailleurs, elles sont également exonérées fiscalement. Ce chiffre de 360 heures n’a rien de marginal, il est l'équivalent de 10 semaines de travail supplémentaires par an. Cela correspond à un accroissement du temps de travail pour ces travailleurs-là, plutôt que d'essayer de mieux réorganiser, de mieux répartir le travail entre les personnes qui travaillent aujourd'hui et celles qui en cherchent.",
+      "Pourtant, un des objectifs affichés de ce gouvernement consiste à faire en sorte que davantage de personnes retrouvent du travail alors qu’en l’occurrence, on voit que des heures qui auraient permis d'insérer des personnes de façon durable sur le marché de l'emploi sont en réalité remises sur le dos de ceux qui travaillent déjà. Dès lors, je ne comprends pas la logique. Vous prétendez vouloir atteindre un taux d'emploi de 80 % et, pourtant, nous assistons ici à un train de mesures qui ne font que supprimer et détourner des possibilités de création d'emplois.",
+      "Monsieur le ministre, pour conclure, j'ai entendu un collègue de la majorité nous dire que le droit du travail devait évoluer. Oui, en effet, le droit du travail doit évoluer et doit s'adapter aux nouvelles évolutions de la société, mais pas pour faciliter cette dérégulation massive qui pèse très fortement sur les conditions de travail des travailleurs, mais plutôt, avec ces nouvelles évolutions, pour faire en sorte de mieux protéger les travailleurs et les travailleuses, de mieux répartir le travail entre ceux qui travaillent et ceux qui ne travaillent pas, ainsi que de protéger le temps, la qualité de la vie privée, de la vie familiale, et de préserver la santé des travailleurs et des travailleuses. Et en l’occurrence, avec ce texte, vous faites tout l'inverse!"
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.41",
+     "name": "David Clarinval",
+     "party": null,
+     "role": "government",
+     "title": "ministre",
+     "lang": "fr",
+     "paragraphs": [
+      "Chers collègues, je suis très heureux de pouvoir vous présenter ce texte aujourd’hui, avec un jour d’avance. Cela montre que nous pouvons parfois aller vite au Parlement. Ce texte comprend deux lois qui ont été largement débattues en commission des Affaires sociales pendant de très nombreuses séances, y compris nocturnes.",
+      "Il s’agit de deux projets de loi qui mettent en œuvre une série de réformes prévues dans l’accord de gouvernement et qui contiennent des mesures importantes, de nature à faire une réelle différence sur le terrain, tant pour les travailleurs que pour les employeurs. Ces réformes sont attendues avec impatience par les travailleurs ainsi que par les entreprises de ce pays.",
+      "De nombreuses caricatures ont été faites au sujet de certains volets de ces réformes. Il est important de pouvoir couper les ailes aux canards qui ont été propagés par certains groupes dans cette Assemblée.",
+      "La première réforme importante reprise dans ce texte vise à réduire les charges administratives qui pèsent sur les entreprises. Nous supprimons l’obligation d’inscrire tous les horaires de travail applicables dans le règlement de travail. Aujourd’hui en effet, les employeurs doivent souvent y reprendre un grand nombre d’horaires possibles, ce qui rend ce document inutilement complexe. Nous rendons désormais possible l’inscription dans le règlement de travail d’un cadre relatif au temps de travail offrant une transparence et une protection suffisantes pour les travailleurs, tout en laissant aux employeurs la marge nécessaire pour organiser concrètement les horaires en fonction des besoins sur le terrain.",
+      "Ce cadre relatif au temps de travail n’est pas une nouveauté. Il existe déjà pour les travailleurs à temps partiel à horaires variables. C’est ce même cadre qui pourra désormais être utilisé pour les travailleurs à temps plein ainsi que pour les travailleurs à temps partiel à horaires fixes. L’introduction de ce cadre se fera selon la procédure habituelle de modification des règlements de travail, après quoi l’employeur et le travailleur pourront convenir d’un horaire d’un commun accord. Nous prévoyons en outre une procédure plus souple pour permettre d’étendre ce cadre relatif au temps de travail ou d’ajouter un nouvel horaire dans le règlement de travail. Cela me semble être une réforme de bon sens.",
+      "L’accord de gouvernement prévoyait également de supprimer l’obligation pour les travailleurs à temps partiel de prester au moins un tiers de la durée hebdomadaire de travail d’un travailleur à temps plein. Cette obligation est désormais abaissée à un dixième. Je tiens à souligner qu’une dérogation à cette règle du tiers était déjà possible aujourd’hui moyennant un accord des partenaires sociaux. Ces accords restent bien entendu pleinement maintenus par la nouvelle législation.",
+      "Par ailleurs, une évaluation visant à renforcer l'employabilité sera aussi réalisée cette année, en vue de proposer d'éventuelles modifications.",
+      "Aujourd'hui, lorsqu'un travailleur est licencié par l'employeur et qu'au moment du licenciement, il a droit à un préavis légal d'au moins 30 semaines, il peut bénéficier d'un budget forfaitaire unique de 1 800 euros qui peut être demandé auprès de l'ONEM. Ce budget est destiné à financer des mesures favorisant l'employabilité. Il faut savoir que cette prime a été sollicitée par trois personnes depuis son instauration voilà déjà un certain temps. Elle a donc démontré son manque d'efficacité. Nous demandons dès lors au Conseil National du Travail et au comité de gestion de l'ONEM d'en réaliser une évaluation et d'en tenir compte pour la rendre plus efficace.",
+      "J'en viens à présent à la suppression de l'interdiction du travail de nuit ainsi qu'aux modifications et assouplissements introduits pour le secteur de la distribution et les secteurs connexes, y compris le commerce électronique. Il importe de souligner que les réformes relatives au travail de nuit induites par le projet de loi présenté ce jour s'inscrivent dans une stratégie plus vaste, qui vise à rendre notre marché du travail plus durable et à augmenter le taux d'emploi. C'est vraiment indispensable pour garantir la viabilité à long terme de notre système social.",
+      "Je ne vais pas répéter tous les chiffres échangés en commission. Néanmoins, il faut quand même savoir que, si la Belgique atteignait la moyenne européenne, nous compterions 8 464 emplois supplémentaires dans ce pays. Ce n'est donc pas une réforme anodine. L'extension du travail en soirée et de nuit devrait donc entraîner un effet positif sur l'emploi en général.",
+      "Je ne vais pas non plus revenir sur les nombreux débats que nous avons eus sur le travail de nuit, mais on a quand même fait peur à pas mal de monde. En effet, cette réforme ne s'applique qu'à une liste bien précise d'entreprises, notamment celles qui exercent dans l'e-commerce. Cela ne change évidemment rien pour plusieurs autres secteurs. Les primes octroyées aux travailleurs sont intégralement maintenues. Nous mettons donc fin à toute une série de messages faux qui ont été propagés contre ce projet de loi.",
+      "Par ailleurs, nous supprimons l'interdiction du travail de nuit dans tous les secteurs. C'est même la seule mesure qui les vise dans leur ensemble. Toutes les autres dispositions ne s'appliquent qu'à la branche de la distribution et aux secteurs connexes, y compris le commerce électronique. Quatorze commissions paritaires sont concernées, plus bpost qui a, elle-même, sollicité le fait de pouvoir bénéficier de cette mesure.",
+      "Dans ces secteurs, le travail de nuit est défini comme le travail presté entre 23 h 00 et 06 h 00. Nous nous conformons ainsi, bien évidemment, à la convention nationale 171 de l'Organisation internationale du Travail (OIT), avec laquelle nous avons d'ailleurs pris des contacts.",
+      "En ce qui concerne les primes, il y aura un impact, mais seulement pour les nouveaux travailleurs engagés. Après l'entrée en vigueur de la loi, ils recevront une prime à partir de 23 h 00 au lieu de 20 h 00. En tout état de cause, la prime minimale, prévue à la convention collective de travail (CCT) n° 49, sera maintenue et est imposée par le projet de loi.",
+      "Je voudrais également souligner trois éléments. Pour les travailleurs déjà actifs dans le secteur de la distribution, rien ne change. Ils conservent totalement leur pouvoir d'achat. Pour ces derniers, la modification des primes ne pourra intervenir que si des raisons économiques le justifient, et uniquement après que la commission paritaire compétente aura été saisie. La loi prévoit explicitement qu'il pourra être dérogé à cette distinction après l'entrée en vigueur de la loi. Et, pour les travailleurs des autres secteurs – la santé, l'horeca, etc. –, rien ne change du tout.",
+      "On propose également de limiter le délai de préavis à 52 semaines. Dès qu'un travailleur atteint 17 ans d'ancienneté ou plus, le délai de préavis n'augmentera plus. Il sera fixé à 52 semaines. La limitation du délai de préavis favorise la mobilité sur le marché du travail, car les travailleurs sont moins enclins à rester trop longtemps dans une fonction uniquement en raison de l'indemnité de rupture, potentiellement élevée. Par ailleurs, le gouvernement fait le choix délibéré de ne rien modifier au contrat existant.",
+      "Le projet de loi qui vous est présenté aujourd'hui contient également une disposition supprimant l'obligation d'établir une déclaration d'intention pour chaque travailleur intérimaire qui entre pour la première fois en service auprès d'une agence d'intérim. Cette mesure met en œuvre un avis unanime des partenaires sociaux. Dans le cadre de la simplification administrative et de la poursuite de la numérisation de l'administration, il est prévu aussi que, pour les actes d'adhésion dans le cadre de la CCT n° 90, les plans bonus ne puissent désormais plus être déposés que par voie électronique.",
+      "Nous avons également un deuxième projet de loi, qui vise principalement le système attractif des heures supplémentaires, puisqu'avec ce projet, on peut octroyer 360 heures supplémentaires sans motif ni repos compensatoire dans tous les secteurs. Et, pour 240 de ces heures supplémentaires, il n'y a pas d'obligation de sursalaire et le brut est égal au net, c'est-à-dire sans cotisation sociale ni impôts des personnes physiques.",
+      "Dans le secteur de l'horeca, le nombre d'heures supplémentaires volontaires sera porté à 450, dont 360 sans sursalaire et avec le brut égal au net. Il ne s'agit pas d'un système entièrement nouveau, mais bien d'une prolongation et d'une extension du système qui existe et qui s'appelle les 120 heures de relance.",
+      "Nous garantissons la continuité d’utilisation des heures supplémentaires volontaires, en prévoyant une entrée en vigueur au 1 er avril, de manière à assurer la transition avec le système actuel des 120 heures de relance, qui a été prolongé jusqu’au 31 mars 2026.",
+      "Je ne vais pas être plus long sur les heures supplémentaires. Nous en avons abondamment parlé lors du débat en commission. Nous allons évidemment aussi adapter le Code pénal social aux différentes modifications qui vous sont présentées.",
+      "Monsieur le président, je pense avoir rappelé les principales mesures contenues dans ces deux textes de loi. Il y avait une question de M. Van Quickenborne à propos du prikklok.",
+      "In het kader van de begrotingsonderhandelingen heeft de regering inderdaad besloten om onze regels in overeenstemming te brengen met de Europese rechtspraak. Werkgevers uit de publieke en de private sector die nog niet beschikken over een objectief, betrouwbaar en soepel systeem om de arbeidstijd van elke werknemer te registreren, dienen tegen uiterlijk 1 april 2027 over een dergelijk systeem te beschikken. Het voorontwerp van wet dat van toepassing is op zowel de private als de publieke sector werd voor advies voorgelegd aan de Nationale Arbeidsraad. Vervolgens zal het in de regering besproken worden.",
+      "En tout cas, il est évidemment prévu que chaque entreprise sera libre d'appliquer un système de contrôle à sa sauce. Il n'y a par exemple pas d'obligation de pointage comme cela a été craint à un certain moment. Monsieur le président, je pense avoir répondu à la question qui m'a été posée."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.42",
+     "name": "Axel Ronse",
+     "party": "N-VA",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Ik wil de minister feliciteren met zijn antwoord. Ik ben zeker blij met het einde van zijn betoog, dat misschien geen link heeft met het wetsontwerp, maar wel een antwoord bood op een vraag die hier gesteld werd en al vaak het onderwerp was van fake news .",
+      "Er komt geen – geen – verplichte prikklok voor bedrijven. Dat werd hier net door de minister gezegd. Ik herhaal: er komt geen verplichte prikklok voor bedrijven!"
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Er zijn geen andere replieken, maar Mijnheer Van Quickenborne, u laat zich niet pramen, dacht ik."
+    },
+    {
+     "type": "speech",
+     "id": "04.43",
+     "name": "Vincent Van Quickenborne",
+     "party": "Anders.",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Dat is evident, mijnheer de voorzitter.",
+      "Mijnheer de minister, dank u voor uw antwoord.",
+      "De heer Ronse zegt dat er geen prikklok voor de bedrijven komt, maar dan heeft hij niet goed geluisterd, want de minister zegt net dat het wetsontwerp voor advies aan de sociale partners wordt voorgelegd. Dat betekent dus dat het wel degelijk voortgaat.",
+      "Dat doet mij denken aan die andere discussie, over de loontransparantierichtlijn. De heer Ronse zei toen: \"Stop de klok, we doen niet mee met die Europese verplichting.\" Dat zei hij op 16 april in het Parlement. Ook Knack heeft daarover een artikel gepubliceerd. Kort na de verklaring van de heer Ronse kwam er evenwel een reactie van minister Beenders in de pers. De titel van zijn persreactie was: \"De heer Beenders reageert verrast op de commotie die wordt gecreëerd rond de loontransparantie.\" Mevrouw Vanrobaeys, u kent die reactie misschien. Verder zei minster Beenders in die reactie: \"Er is in België geen enkel akkoord over een zogenaamde stop-de-klokmaatregel.\" Enkele uren na de verklaring van de heer Ronse kwam dus de reactie van minister Beenders, die voor dat dossier bevoegd is.",
+      "Il est bien compétent dans le dossier, monsieur le ministre.",
+      "Gelijke kansen zijn belangrijk. Minister Beenders zei dus dat daar niets van aan is. De heer Ronse zat dus wat uit zijn nek te kletsen, zoals zo vaak in het Parlement. Zo maakten we voor de zoveelste keer de grote Ronseshow mee, de Comical Ronseshow, terwijl de realiteit totaal anders is.",
+      "Mijnheer de minister, ik noteer in elk geval dat het wetsontwerp over de arbeidstijdsregistratie naar de sociale partners is gestuurd en dat alles dus verder loopt. Het stopt niet, zoals ook de loontransparantierichtlijn niet stopt. Het is dus niet \"stop de klok\", maar \" go, go, go\" .",
+      "Mijnheer de minister, ik heb nog één vraag voor u, over de flexi-jobs. Mevrouw Muylle en mevrouw Vanrobaeys hebben het daar ook over gehad. Hoe zit het nu met de flexi-vapes? Collega’s, u weet dat de flexi-jobs, die in dit wetsontwerp zitten, gekoppeld werden aan de vapes. Vooruit wil de vapes met smaakjes verbieden. Minister Vandenbroucke – meesterkoppelaar Houdini, zoals men hem ook noemt – koppelt alles aan alles. Dat is de truc van de socialisten. Alles wordt aan alles gekoppeld en is nog moeilijker te ontwarren dan spaghetti. Minister Vandenbroucke heeft gezegd dat hij de uitbreiding van de flexi-jobs niet zal toelaten als de vapes niet worden verboden.",
+      "Mijnheer de minister, u had beloofd met de veralgemening van de flexi-jobs te starten op 1 juli, dacht ik. Het is vandaag 29 april. Bestaat er daarover nu een akkoord in de regering? Is er al iets ingediend in het Parlement? Of zullen we weer een paar weken moeten wachten, en dan weer – zoals altijd, mijnheer de voorzitter – in bijna onmogelijke omstandigheden moeten werken, om de wetgeving waarschijnlijk retroactief in werking te laten treden?",
+      "Mijnheer de minister, gebeurt het op zijn arizona’s: te traag, te laat en te complex? Of gebeurt het op zijn clarinvals, goed, degelijk en ernstig? Dat wil ik nog graag weten."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Mijnheer Van Quickenborne, de heer Ronse is wat getriggerd, want we komen opnieuw op Kortrijkse grond."
+    },
+    {
+     "type": "speech",
+     "id": "04.44",
+     "name": "Axel Ronse",
+     "party": "N-VA",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "In het Europees Parlement is het de toenmalige Open Vld-fractie, die pay transparancy op de kaart heeft gezet en de regelgeving daarrond goedgekeurd. Het zijn wij die, net zoals bij de FLA, met de gebakken peren zitten. Wij hebben kunnen wegduwen wat u hebt ingevoerd.",
+      "Wat de richtlijn rond pay transparancy betreft, heeft de minister een heel legalistisch antwoord gegeven. Hij zei dat Europa ons daartoe dwingt en dat we dat op Belgisch niveau aan het bekijken zijn. Het is u ook bekend dat de eerste minister een Europese informele top heeft bijeengeroepen in Alden Biesen, daar een \"stop de klok\" heeft voorgesteld, onder andere ook voor die richtlijn en dat hij de roerganger is van het verzet daartegen. Weet u waar al die toestanden zijn ontstaan? Een of andere auteur had het daarover in zijn boek De eeuw van de vrouw . Dat komt allemaal uit die koker. U bewijst opnieuw dat u het allerkortste geheugen van de hele Wetstraat hebt."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Ik laat de heer Van Quickenborne nog reageren en daarna zal de minister antwoorden op zijn vragen."
+    },
+    {
+     "type": "speech",
+     "id": "04.45",
+     "name": "Vincent Van Quickenborne",
+     "party": "Anders.",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de voorzitter, de heer Ronse is opnieuw aan het liegen, zoals hij zo vaak doet in het Parlement.",
+      "Ten eerste, bij de laatste stemming over de regelgeving inzake loontransparantie heeft mijn fractie zich in het Europees Parlement onthouden. Mijnheer Ronse, u moet luisteren naar wat ik heb gezegd. Ik wil u eraan herinneren dat zelf hebt gezegd dat mijn fractie zich bij de laatste stemming heeft onthouden. Dat hebt u tot twee keer toe verklaard in het Parlement.",
+      "Ten tweede, en belangrijker, u liegt als u zegt dat uw eerste minister de \"stop de klok\" heeft voorgesteld voor dat dossier. Dat is manifest onjuist. Ik heb voorgelezen wat de heer Beenders daarover heeft gezegd. Het was Zweden dat heeft gezegd \"stop de klok\" en het was het VBO dat aan België heeft gevraagd om zich daarbij aan te sluiten. Eerste minister De Wever heeft geen mandaat gekregen van de regering om dat te doen, omdat de heer Beenders heeft gezegd dat we dat niet zullen doen. Ik lees opnieuw voor wat de heer Beenders heeft gezegd in zijn mededeling: “Er is in België geen enkel akkoord.” Mijnheer Ronse, u luistert zelfs niet meer. Als u iets zegt, dan luister ik wel. Dat is essentiële beleefdheid.",
+      "Wat hebt u te zeggen over de volgende uitspraak van minister Beenders? Ik citeer hem: \"Er is in België geen enkel akkoord over een zogenaamde stop-de-klokmaatregel.\" U liegt hier door te beweren dat eerste minister De Wever de klok heeft gestopt. Mijnheer Ronse, u kunt goed liegen, zeker in het Parlement.",
+      "Mijnheer de voorzitter, ik heb nog een vraag voor minister Clarinval in verband met de flexi-jobs."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Collega Van Quickenborne, het is een parlementaire geplogenheid om collega’s niet te beschuldigen van liegen. Het is veeleer gebruikelijk te zeggen dat er diverse manieren zijn om de realiteit te verwoorden."
+    },
+    {
+     "type": "speech",
+     "id": "04.46",
+     "name": "David Clarinval",
+     "party": null,
+     "role": "government",
+     "title": "ministre",
+     "lang": "fr",
+     "paragraphs": [
+      "Je peux répondre à la question du collègue Van Quickenborne sur les flexi-jobs. Je peux lui dire que le texte est en deuxième lecture au kern de demain à l'instar de nombreux autres dossiers.",
+      "Quant au dossier des vapes , il est dans les mains de mon collègue de la Santé. Je n'ai donc pas à me prononcer sur ce dossier de santé très important, mais je l'invite à interroger M. Vandenbroucke à ce sujet."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.47",
+     "name": "Vincent Van Quickenborne",
+     "party": "Anders.",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Ik noteer dus dat er nog altijd geen akkoord is. Morgen is er blijkbaar een belangrijke vergadering van het kernkabinet over laten we ze flexi-vapes noemen.",
+      "Je n'avais pas de question sur les vapes . On connait bien \"meester Frank\" , maître Frank qui veut tout contrôler.",
+      "Monsieur le ministre, j'en reviens au débat entre M. Ronse et moi-même sur \"Stop The Clock\". La Belgique s'est-elle positionnée? Est-elle dans le camp de \"Stop The Clock\", oui ou non?"
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.48",
+     "name": "David Clarinval",
+     "party": null,
+     "role": "government",
+     "title": "ministre",
+     "lang": "fr",
+     "paragraphs": [
+      "Ce n'est pas à l'ordre du jour, monsieur le président. Je vais renvoyer aux discussions internes au gouvernement pour le moment."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Het staat effectief niet op de agenda."
+    },
+    {
+     "type": "speech",
+     "id": "04.49",
+     "name": "David Clarinval",
+     "party": null,
+     "role": "government",
+     "title": "ministre",
+     "lang": "fr",
+     "paragraphs": [
+      "Je suis l'auteur principal du projet relatif à la transparence salariale, pay transparency , avec mon collègue Beenders, qui est coresponsable du dossier. Nous travaillons actuellement ensemble sur la rédaction d'un texte. Nous ferons tout pour trouver un compromis afin d'implementer ce texte, en veillant à ce qu'il soit le moins contraignant possible pour les entreprises et à ce qu’il respecte l'esprit de la directive."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Voilà, mijnheer Van Quickenborne, nu weet u alles wat daarover te weten valt."
+    },
+    {
+     "type": "speech",
+     "id": "04.50",
+     "name": "Vincent Van Quickenborne",
+     "party": "Anders.",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Bedankt.",
+      "De minister bevestigt dus dat ons land zich niet in het stop-de-klokkamp bevindt en dat – en ik zal mij voorzichtig uitdrukken – de heer Ronse niet de waarheid heeft gesproken. Hij doet dat echter wel eens vaker."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Vraagt nog iemand het woord? (Nee)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Quelqu'un demande-t-il encore la parole? (Non)"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De algemene bespreking is gesloten."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "La discussion générale est close."
+    },
+    {
+     "type": "heading",
+     "level": 3,
+     "nl": "Bespreking van de artikelen",
+     "fr": "Discussion des articles"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "We vatten de bespreking aan van de artikelen van het wetsontwerp nr. 1324/1. De door de commissie aangenomen tekst geldt als basis voor de bespreking. (Rgt 85, 4) (1324/8)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Nous passons à la discussion des articles du projet de loi n° 1324/1. Le texte adopté par la commission sert de base à la discussion. (Rgt 85, 4) (1324/8)"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Het wetsontwerp telt 35 artikelen."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Le projet de loi compte 35 articles."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Er werden geen amendementen ingediend."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Aucun amendement n'a été déposé."
+    },
+    {
+     "type": "note",
+     "lang": "nl",
+     "text": "De artikelen 1 tot 35 worden artikel per artikel aangenomen."
+    },
+    {
+     "type": "note",
+     "lang": "fr",
+     "text": "Les articles 1 à 35 sont adoptés article par article."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De bespreking van de artikelen is gesloten. De stemming over het geheel zal later plaatsvinden."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "La discussion des articles est close. Le vote sur l'ensemble aura lieu ultérieurement."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "We vatten de bespreking aan van de artikelen van het wetsontwerp nr. 1333/ 1. De door de commissie aangenomen tekst geldt als basis voor de bespreking. (Rgt 85, 4) (1333/7)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Nous passons à la discussion des articles du projet de de loi n. 1333/1. Le texte adopté par la commission sert de base à la discussion. (Rgt 85, 4) (1333/7)"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Het wetsontwerp telt 13 artikelen."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Le projet de loi compte 13 articles."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Er werden geen amendementen ingediend."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Aucun amendement n'a été déposé."
+    },
+    {
+     "type": "note",
+     "lang": "nl",
+     "text": "De artikelen 1 tot 13 worden artikel per artikel aangenomen."
+    },
+    {
+     "type": "note",
+     "lang": "fr",
+     "text": "Les articles 1 à 13 sont adoptés article par article."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De bespreking van de artikelen is gesloten. De stemming over het geheel zal later plaatsvinden."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "La discussion des articles est close. Le vote sur l'ensemble aura lieu ultérieurement."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De vergadering wordt gesloten. Volgende vergadering donderdag 30 april 2026 om 14.15 uur."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "La séance est levée. Prochaine séance le jeudi 30 avril 2026 à 14 h 15."
+    },
+    {
+     "type": "note",
+     "lang": "nl",
+     "text": "De vergadering wordt gesloten om 16.10 uur."
+    },
+    {
+     "type": "note",
+     "lang": "fr",
+     "text": "La séance est levée à 16 h 10."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Dit verslag heeft geen bijlage."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Ce compte rendu n'a pas d'annexe."
+    }
+   ]
+  }
+ ],
+ "named_votes": {
+  "1": {
+   "yes": [
+    "Bacquelaine Daniel",
+    "Bergers Jeroen",
+    "Bertels Jan",
+    "Bombled Christophe",
+    "Bouchez Georges-Louis",
+    "Buysrogge Peter",
+    "Cornillie Hervé",
+    "Cuylaerts Dorien",
+    "Daenen Nele",
+    "Deborsu Charlotte",
+    "Delcourt Catherine",
+    "De Maegd Michel",
+    "Demesmaeker Eva",
+    "Demon Franky",
+    "Depoorter Kathleen",
+    "De Roover Peter",
+    "De Vreese Maaike",
+    "De Wit Sophie",
+    "D'Haese Christoph",
+    "Dubois Xavier",
+    "Dufrane Anthony",
+    "El Yakhloufi Achraf",
+    "Farih Nawal",
+    "Foret Gilles",
+    "Frank Luc",
+    "Freilich Michael",
+    "Gatelier Jean-François",
+    "Gielis Tine",
+    "Gijbels Frieda",
+    "Goffin Philippe",
+    "Grillaert Leentje",
+    "Handichi Youssef",
+    "Hansez Isabelle",
+    "Hiligsmann Serge",
+    "Jadoul Pierre",
+    "Lamarti Fatima",
+    "Lambrecht Annick",
+    "Lanjri Nahima",
+    "Lasseaux Stéphane",
+    "Lejeune Marc",
+    "Matagne Julien",
+    "Metsu Koen",
+    "Meuleman Brent",
+    "Michel Mathieu",
+    "Muylle Nathalie",
+    "Nuino Ismaël",
+    "Oru Funda",
+    "Peeters Lotte",
+    "Piedboeuf Benoît",
+    "Pirson Anne",
+    "Ramlot Carmen",
+    "Raskin Wouter",
+    "Reuter Florence",
+    "Ronse Axel",
+    "Safai Darya",
+    "Scourneau Vincent",
+    "Seuntjens Oskar",
+    "Soete Jeroen",
+    "Tas Niels",
+    "Taton Julie",
+    "Tourneur Aurore",
+    "Truyman Lieve",
+    "Vandeberg Victoria",
+    "Van den Heuvel Koen",
+    "Vandeput Steven",
+    "Van der Donckt Wim",
+    "Van Hoof Els",
+    "Van Keymolen Phaedra",
+    "van Riet Katrijn",
+    "Vanrobaeys Anja",
+    "Van Vaerenbergh Kristien",
+    "Verkeyn Charlotte",
+    "Weydts Axel",
+    "Wollants Bert",
+    "Yzermans Alain"
+   ],
+   "no": [],
+   "abstain": [
+    "Dermagne Pierre-Yves",
+    "Hedebouw Raoul"
+   ]
+  },
+  "2": {
+   "yes": [
+    "Bacquelaine Daniel",
+    "Bergers Jeroen",
+    "Bertels Jan",
+    "Bombled Christophe",
+    "Bouchez Georges-Louis",
+    "Buysrogge Peter",
+    "Cornillie Hervé",
+    "Cuylaerts Dorien",
+    "Daenen Nele",
+    "Deborsu Charlotte",
+    "Delcourt Catherine",
+    "De Maegd Michel",
+    "Demesmaeker Eva",
+    "Demon Franky",
+    "Depoorter Kathleen",
+    "De Roover Peter",
+    "De Vreese Maaike",
+    "De Wit Sophie",
+    "D'Haese Christoph",
+    "Dubois Xavier",
+    "Dufrane Anthony",
+    "El Yakhloufi Achraf",
+    "Farih Nawal",
+    "Foret Gilles",
+    "Frank Luc",
+    "Freilich Michael",
+    "Gatelier Jean-François",
+    "Gielis Tine",
+    "Gijbels Frieda",
+    "Goffin Philippe",
+    "Grillaert Leentje",
+    "Handichi Youssef",
+    "Hansez Isabelle",
+    "Hiligsmann Serge",
+    "Jadoul Pierre",
+    "Kompany Pierre",
+    "Lamarti Fatima",
+    "Lambrecht Annick",
+    "Lanjri Nahima",
+    "Lasseaux Stéphane",
+    "Lejeune Marc",
+    "Mahdi Sammy",
+    "Matagne Julien",
+    "Metsu Koen",
+    "Meuleman Brent",
+    "Michel Mathieu",
+    "Muylle Nathalie",
+    "Nuino Ismaël",
+    "Oru Funda",
+    "Peeters Lotte",
+    "Piedboeuf Benoît",
+    "Pirson Anne",
+    "Ramlot Carmen",
+    "Raskin Wouter",
+    "Reuter Florence",
+    "Ronse Axel",
+    "Safai Darya",
+    "Scourneau Vincent",
+    "Seuntjens Oskar",
+    "Soete Jeroen",
+    "Tas Niels",
+    "Taton Julie",
+    "Tourneur Aurore",
+    "Truyman Lieve",
+    "Vandeberg Victoria",
+    "Van den Heuvel Koen",
+    "Vandeput Steven",
+    "Van der Donckt Wim",
+    "Van Hoof Els",
+    "Van Keymolen Phaedra",
+    "van Riet Katrijn",
+    "Vanrobaeys Anja",
+    "Van Vaerenbergh Kristien",
+    "Verkeyn Charlotte",
+    "Weydts Axel",
+    "Wollants Bert",
+    "Yzermans Alain"
+   ],
+   "no": [],
+   "abstain": []
+  },
+  "3": {
+   "yes": [
+    "Bacquelaine Daniel",
+    "Bergers Jeroen",
+    "Bertels Jan",
+    "Bombled Christophe",
+    "Bouchez Georges-Louis",
+    "Buysrogge Peter",
+    "Cornillie Hervé",
+    "Cuylaerts Dorien",
+    "Daenen Nele",
+    "Deborsu Charlotte",
+    "Delcourt Catherine",
+    "De Maegd Michel",
+    "Demesmaeker Eva",
+    "Demon Franky",
+    "Depoorter Kathleen",
+    "De Roover Peter",
+    "De Vreese Maaike",
+    "De Wit Sophie",
+    "D'Haese Christoph",
+    "Dubois Xavier",
+    "Dufrane Anthony",
+    "El Yakhloufi Achraf",
+    "Farih Nawal",
+    "Foret Gilles",
+    "Frank Luc",
+    "Freilich Michael",
+    "Gatelier Jean-François",
+    "Gielis Tine",
+    "Gijbels Frieda",
+    "Goffin Philippe",
+    "Grillaert Leentje",
+    "Handichi Youssef",
+    "Hansez Isabelle",
+    "Hiligsmann Serge",
+    "Jadoul Pierre",
+    "Kompany Pierre",
+    "Lamarti Fatima",
+    "Lambrecht Annick",
+    "Lanjri Nahima",
+    "Lasseaux Stéphane",
+    "Lejeune Marc",
+    "Mahdi Sammy",
+    "Matagne Julien",
+    "Metsu Koen",
+    "Meuleman Brent",
+    "Michel Mathieu",
+    "Muylle Nathalie",
+    "Nuino Ismaël",
+    "Oru Funda",
+    "Peeters Lotte",
+    "Piedboeuf Benoît",
+    "Pirson Anne",
+    "Ramlot Carmen",
+    "Raskin Wouter",
+    "Reuter Florence",
+    "Ronse Axel",
+    "Safai Darya",
+    "Scourneau Vincent",
+    "Seuntjens Oskar",
+    "Soete Jeroen",
+    "Tas Niels",
+    "Taton Julie",
+    "Tourneur Aurore",
+    "Truyman Lieve",
+    "Vandeberg Victoria",
+    "Van den Heuvel Koen",
+    "Vandeput Steven",
+    "Van der Donckt Wim",
+    "Van Hoof Els",
+    "Van Keymolen Phaedra",
+    "van Riet Katrijn",
+    "Vanrobaeys Anja",
+    "Van Vaerenbergh Kristien",
+    "Verkeyn Charlotte",
+    "Weydts Axel",
+    "Wollants Bert",
+    "Yzermans Alain"
+   ],
+   "no": [],
+   "abstain": []
+  }
+ }
+}

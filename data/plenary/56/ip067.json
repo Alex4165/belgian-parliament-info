@@ -1,0 +1,1596 @@
+{
+ "source": {
+  "type": "plenary",
+  "legislature": 56,
+  "session": 67,
+  "url": "https://www.dekamer.be/doc/PCRI/html/56/ip067x.html",
+  "date": "2025-10-14",
+  "part": "afternoon",
+  "provisional": false
+ },
+ "items": [
+  {
+   "number": "01",
+   "section": null,
+   "title": {
+    "nl": "Opening van de gewone zitting 2025-2026",
+    "fr": "Ouverture de la session ordinaire 2025-2026"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Dames en heren, waarde collega's,"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Mesdames, messieurs, chers collègues,"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De Kamer komt heden van rechtswege bijeen op grond van artikel 44 van de Grondwet."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "La Chambre se réunit aujourd'hui de plein droit, en vertu de l'article 44 de la Constitution."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Ik verklaar de zitting 2025-2026 voor geopend."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Je déclare ouverte la session 2025-2026."
+    }
+   ]
+  },
+  {
+   "number": "02",
+   "section": null,
+   "title": {
+    "nl": "Benoeming van het Vast Bureau",
+    "fr": "Nomination du Bureau définitif"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Aan de orde is de benoeming van het Vast Bureau."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "L'ordre du jour appelle la nomination du Bureau définitif."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Samenstelling van het Bureau"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Composition du Bureau"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "1. Het Bureau bestaat uit:"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "- de voorzitter,"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "- de drie ondervoorzitters,"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "- en de Bureauleden."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "1. Le Bureau est composé:"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "- du président,"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "- de trois vice-présidents,"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "- et de membres du Bureau."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "2. Het Bureau wordt aangevuld met:"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "- de gewezen voorzitters, lid van de Kamer,"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "- de voorzitters van de politieke fracties,"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "- een toegevoegd lid per politieke fractie met minder dan twaalf leden die geen in nr. 1 bedoeld lid van het Bureau heeft."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "2. Le Bureau est complété par:"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "- les anciens présidents, membres de la Chambre,"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "- les présidents des groupes politiques,"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "- un membre associé par groupe politique qui compte moins de douze membres et qui n'a pas de membre du Bureau visé au n° 1."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Wijze van benoeming"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Procédure de nomination"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter wordt verkozen overeenkomstig artikel 157 van het Reglement."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Le président est nommé conformément à l'article 157 du Règlement."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De Kamer benoemt de ondervoorzitters en Bureauleden overeenkomstig artikel 158, nr. 1, eerste zin, op voorstel van de politieke fracties. Het voorzitterschap wordt meegerekend in de toewijzing van deze functies volgens de evenredige vertegenwoordiging van de politieke fracties. Bovendien worden zoveel leden benoemd als nodig is opdat elke politieke fractie met ten minste twaalf leden ten minste een lid van het Bureau telt."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Les vice-présidents et membres du Bureau sont nommés par la Chambre conformément à l'article 158, n° 1, première phrase, et sur proposition des groupes politiques, étant entendu que la présidence est prise en compte pour l'attribution de ces fonctions selon la règle de la représentation proportionnelle des groupes politiques et qu'il est procédé à autant de nominations qu'il est nécessaire pour que chaque groupe politique d'au moins douze membres compte au moins un membre au sein du Bureau."
+    },
+    {
+     "type": "heading",
+     "level": 3,
+     "nl": "Verkiezing van de voorzitter",
+     "fr": "Élection du président"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De enige verkiezing waartoe moet worden overgegaan is die van de voorzitter van de Kamer."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "La seule élection à laquelle il convient de procéder est celle du président de la Chambre."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Vraagt iemand het woord?"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Quelqu'un demande-t-il la parole?"
+    },
+    {
+     "type": "speech",
+     "id": "02.01",
+     "name": "Benoît Piedboeuf",
+     "party": "MR",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le président, le groupe MR a énormément de plaisir à proposer la candidature de M. Peter De Roover à la présidence de notre Assemblée."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Vraagt nog iemand het woord? (Nee)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Quelqu’un demande-t-il encore la parole? (Non)"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Aangezien er slechts één kandidaat wordt voorgedragen, wordt er geen stemming gehouden. Bijgevolg ben ik, Peter De Roover, verkozen tot voorzitter van de Kamer en handhaaf ik mijn plaats op de voorzittersstoel."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Étant donné qu'il n'y a qu'un seul candidat, il n'y a pas lieu à scrutin. En conséquence, moi, Peter De Roover, suis élu en qualité de président de la Chambre et je maintiens ma place au perchoir."
+    },
+    {
+     "type": "note",
+     "lang": "nl",
+     "text": "(Applaus)"
+    },
+    {
+     "type": "note",
+     "lang": "fr",
+     "text": "(Applaudissements)"
+    },
+    {
+     "type": "heading",
+     "level": 3,
+     "nl": "Benoeming van de ondervoorzitters en van de Bureauleden",
+     "fr": "Nomination des vice-présidents et des membres du Bureau"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Aan de orde is de benoeming van de drie ondervoorzitters en de Bureauleden."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Il y a lieu de nommer les trois vice-présidents et les membres du Bureau."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Het voorzitterschap wordt meegerekend in de toewijzing van deze functies en wij benoemen drie ondervoorzitters en zoveel leden als nodig opdat elke politieke fractie met ten minste twaalf leden ten minste een lid van het Bureau telt (art. 3, nr. 1, derde lid, Rgt)."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Étant entendu que la présidence est prise en compte pour l’attribution de ces fonctions, nous procédons à la nomination de trois vice-présidents et à autant de nominations qu’il est nécessaire pour que chaque groupe politique d’au moins douze membres compte au moins un membre au sein du Bureau (art. 3, n° 1, al. 3, Rgt)."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Bijgevolg benoemen we in volgende volgorde: een lid van de Vlaams Belangfractie, een lid van de MR-fractie, een lid van de PS-fractie, een lid van de PVDA-PTB-fractie, een lid van de Les Engagésfractie en een lid van de Vooruitfractie."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Par conséquent, nous procédons à la nomination dans l'ordre suivant: un membre du groupe VB, un membre du groupe MR, un membre du groupe PS, un membre du groupe PVDA-PTB, un membre du groupe Les Engagés et un membre du groupe Vooruit."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Ik geef het woord aan de voorzitters van de politieke fracties met ten minste twaalf leden."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Je donne la parole aux présidents des groupes politiques comptant au moins douze membres."
+    },
+    {
+     "type": "speech",
+     "id": "02.02",
+     "name": "Barbara Pas",
+     "party": "VB",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de voorzitter, wij stellen namens de Vlaams Belangfractie de heer Wouter Vermeersch voor als eerste ondervoorzitter."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "02.03",
+     "name": "Benoît Piedboeuf",
+     "party": "MR",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le président, le groupe MR propose à la vice-présidence notre collègue Mme Florence Reuter."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "02.04",
+     "name": "Pierre-Yves Dermagne",
+     "party": "PS",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le président, au nom du groupe PS, nous proposons la reconduction de M. Frédéric Daerden au poste de troisième vice-président."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Ik verklaar de heren Wouter Vermeersch en Frédéric Daerden en mevrouw Florence Reuter benoemd als ondervoorzitters."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Je proclame MM. Wouter Vermeersch et Frédéric Daerden et Mme Florence Reuter nommés en qualité de vice-présidents de la Chambre."
+    },
+    {
+     "type": "speech",
+     "id": "02.05",
+     "name": "Sofie Merckx",
+     "party": "PVDA-PTB",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le président, nous proposons M. Nabil Boukili comme membre du Bureau."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "02.06",
+     "name": "Aurore Tourneur",
+     "party": "Les Engagés",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le président, nous proposons M. Benoît Lutgen comme membre du Bureau."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "02.07",
+     "name": "Oskar Seuntjens",
+     "party": "Vooruit",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de voorzitter, wij stellen de heer Jan Bertels voor als Bureaulid."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Ik verklaar de heren Nabil Boukili, Benoît Lutgen en Jan Bertels benoemd als lid van het Bureau van de Kamer."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Je proclame MM. Nabil Boukili, Benoît Lutgen et Jan Bertels nommés en qualité de membres du Bureau de la Chambre."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Het Bureau wordt aangevuld met"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "- de voorzitters van de politieke fracties:"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "de heer Axel Ronse, voorzitter van de N-VA-fractie;"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "mevrouw Barbara Pas, voorzitster van de Vlaams Belangfractie;"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "de heer Benoît Piedboeuf, voorzitter van de MR-fractie;"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "de heer Pierre-Yves Dermagne, voorzitter van de PS-fractie;"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "mevrouw Sofie Merckx, voorzitster van de PVDA-PTB-fractie;"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "mevrouw Aurore Tourneur, voorzitster van de Les Engagésfractie;"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "de heer Oskar Seuntjens, voorzitter van de Vooruitfractie;"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "mevrouw Nawal Farih, voorzitster van de cd&v-fractie;"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "mevrouw Sarah Schlitz, voorzitster van de Ecolo-Groenfractie;"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "mevrouw Alexia Bertrand, voorzitster van de Open Vld-fractie;"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "- een toegevoegd lid per politieke fractie met minder dan twaalf leden."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Le Bureau est complété par"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "- les présidents des groupes politiques:"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "M. Axel Ronse, président du groupe N-VA;"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Mme Barbara Pas, présidente du groupe Vlaams Belang;"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "M. Benoît Piedboeuf, président du groupe MR;"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "M. Pierre-Yves Dermagne, président du groupe PS;"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Mme Sofie Merckx, présidente du groupe PVDA-PTB;"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Mme Aurore Tourneur, présidente du groupe Les Engagés;"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "M. Oskar Seuntjens, président du groupe Vooruit;"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Mme Nawal Farih, présidente du groupe cd&v;"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Mme Sarah Schlitz, présidente du groupe Ecolo-Groen;"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Mme Alexia Bertrand, présidente du groupe Open Vld;"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "- un membre associé par groupe politique qui compte moins de douze membres."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Ik geef het woord aan de voorzitters van de cd&v-, Ecolo-Groen- en Open Vld-fractie, voor de aanwijzing van een toegevoegd lid."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Je donne la parole aux présidents des groupes cd&v, Ecolo-Groen et Open Vld pour la désignation d'un membre associé."
+    },
+    {
+     "type": "speech",
+     "id": "02.08",
+     "name": "Nawal Farih",
+     "party": "cd&v",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de voorzitter, wij stellen mevrouw Nathalie Muylle voor."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "02.09",
+     "name": "Sarah Schlitz",
+     "party": "Ecolo-Groen",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le président, nous proposons la candidature de M. Stefaan Van Hecke."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "02.10",
+     "name": "Alexia Bertrand (Open Vld)",
+     "party": null,
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de voorzitter, wij stellen de heer Vincent Van Quickenborne voor."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Ik verklaar mevrouw Nathalie Muylle en de heren Stefaan Van Hecke en Vincent Van Quickenborne benoemd als toegevoegd lid van het Bureau."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Je proclame Mme Nathalie Muylle et MM. Stefaan Van Hecke et Vincent Van Quickenborne nommés en qualité de membres associés du Bureau."
+    }
+   ]
+  },
+  {
+   "number": "03",
+   "section": null,
+   "title": {
+    "nl": "Wettig- en voltalligverklaring van de Kamer",
+    "fr": "Constitution de la Chambre"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De Kamer is voor wettig en voltallig verklaard. Daarvan zal worden kennisgegeven aan de Koning, aan de Senaat en aan de gemeenschaps- en gewestparlementen."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "La Chambre est constituée. Il en sera donné connaissance au Roi, au Sénat et aux parlements de Communautés et de Régions."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Die Kammer ist zusammengestellt. Seine Majestät der König, der Senat sowie die Regional- und Gemeinschaftsparlamente werden hiervon in Kenntnis gesetzt."
+    }
+   ]
+  },
+  {
+   "number": "04",
+   "section": null,
+   "title": {
+    "nl": "Woordje van de voorzitter",
+    "fr": "Mot du président"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Collega’s, wees gerust, ik zal u absoluut niet vervelen met een uitgebreide speech. Ik heb misbruik gemaakt van de eerste vergadering begin september om u toe te spreken. U hebt dat allemaal beluisterd, in de oren geknoopt en u brengt wat ik u toen heb gewenst, ook dagelijks in de praktijk."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Hoe dan ook, een vergadering zoals deze gaat traditioneel – het is geen verplichting – gepaard met een beleidsverklaring van de eerste minister, maar mogelijk hebben sommigen onder u vernomen dat dat vandaag niet het geval zal zijn. Ik ben dus eigenlijk aangeduid om het voorprogramma voor mijn rekening te nemen van een show die later zal plaatsvinden."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Lors de la première séance plénière, j'ai déjà eu l'occasion de prendre la parole et je ne vais pas profiter de celle-ci pour vous infliger un nouveau long discours, mais je souhaiterais tout de même partager quelques petites phrases avec vous à propos de notre Institution."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Het betreft slechts enkele regels. Dus ik kan u geruststellen."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Ik wil u uiteraard van harte bedanken voor het vertrouwen dat u in mij hebt gesteld. Vorig jaar had u misschien kunnen denken dat u het eens kon proberen met De Roover. Het feit dat u dat opnieuw doet, verheugt mij erg. Het is een voorrecht de werkzaamheden te mogen leiden, soms met lange ij en soms met korte ei. Ik zal er alles aan doen om uw vertrouwen niet te beschamen. Ik probeer, in de mate dat dat menselijk mogelijk is, mijn functie met de passende objectiviteit te vervullen, het Reglement als maatstaf te nemen en de oppositie de ruimte te geven die zij verdient."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Wij zijn hier allemaal door de kiezer geplaatst als vertegenwoordigers van het volk. Volksvertegen­woordiger, de naam zegt het zelf. Er is geen grotere eer voor een politicus of politica dan die functie te mogen uitoefenen. Dit Huis is de afspiegeling van de volkssoevereiniteit. Er is heel wat gebeurd om dat te realiseren. Het is aan ons om ervoor te zorgen dat de volkssoevereiniteit ook bewaard blijft."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Meningsverschillen botsen en het debat mag hard zijn. Niettemin roep ik iedereen op dat te doen met kracht, overtuigingskracht en tegelijkertijd met passend parlementair fatsoen. Iemand met een andere mening is geen vijand, maar eenvoudigweg iemand met een andere mening."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Au bout du compte, les adversaires politiques restent avant tout des êtres humains. Il m’arrive, moi aussi, d’éprouver des sentiments humains, quoi qu’en pensent certains."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Ik wens jullie allemaal een vruchtbaar politiek jaar toe, de wijze woorden van Willem van Oranje indachtig: point n’est besoin d'espérer pour entreprendre, ni de réussir pour persévérer . We doen allerhande pogingen om initiatieven tot een goed einde te brengen. Soms lukt dat, heel dikwijls niet."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Goede collega's, ik wens u daarmee uitermate veel succes, binnen de tolerantie die een goed Parlement mag kenmerken."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Ik dank u omdat u op die manier te werk zal gaan."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "(Applaus op alle banken)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "(Applaudissements sur tous les bancs)"
+    }
+   ]
+  },
+  {
+   "number": "05",
+   "section": null,
+   "title": {
+    "nl": "Benoeming van de leden van de Bureaus van de commissies",
+    "fr": "Élection des membres des Bureaux des commissions"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Overeenkomstig artikel 19 van het Reglement van de Kamer, zouden de commissies moeten vergaderen om hun Bureaus te benoemen."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Conformément à l'article 19 du Règlement de la Chambre, les commissions devraient se réunir afin de procéder à la nomination de leurs Bureaux."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Indien de Kamer het daarmee eens is, zouden we de procedure kunnen vereenvoudigen en de huidige leden van de Bureaus van de commissies als herkozen kunnen beschouwen."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Si la Chambre est d'accord, nous pourrions simplifier la procédure et considérer comme réélus les membres actuels des Bureaux des commissions."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Geen bezwaar? (Nee)"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Aldus zal geschieden."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Pas d'observation? (Non)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Il en sera ainsi."
+    }
+   ]
+  },
+  {
+   "number": "06",
+   "section": null,
+   "title": {
+    "nl": "Agenda",
+    "fr": "Ordre du jour"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Zoals ik daarnet al zei, heb ik gisteren om 12.55 uur een mail ontvangen van de regering."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "J'ai reçu hier un mail du gouvernement, que je vais vous lire: \"Monsieur le président de la Chambre, les discussions sur le budget n'ayant pas encore été bouclées, le premier ministre ne pourra pas se rendre demain à la Chambre pour prononcer le traditionnel State of the Union . Dès qu'un accord sur le budget sera trouvé au sein du gouvernement, le premier ministre sera disponible pour se rendre à la Chambre afin d'y prononcer sa déclaration et demander la confiance du Parlement. Je vous remercie.\""
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Die tekst werd mij ook in het Nederlands bezorgd."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Dat lijkt me dus een praktisch probleempje voor de agenda."
+    },
+    {
+     "type": "speech",
+     "id": "06.01",
+     "name": "Axel Ronse",
+     "party": "N-VA",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de voorzitter, geen enkel probleem is onoplosbaar, wij stellen namelijk een wijziging van de agenda voor.",
+      "Wij stellen voor om vandaag, 14 oktober, ons te beperken tot de benoeming van het Vast Bureau, om de geplande plenaire vergadering morgen te annuleren en om op 16 oktober een plenaire vergadering te houden met aanvang om 14.15 uur met het klassiek vragenuurtje en wetgevend werk. Deze ochtend hebben we tijdens de Conferentie van voorzitters een aantal zaken en stukken besproken. We stellen voor om het wetsontwerp nr. 1030 inzake de repartitiebijdrage, het voorstel van resolutie nr. 238 inzake de TreinPunten en het wetsontwerp nr. 619 aangaande het samenwerkingsakkoord inzake slachtofferzorg aan de agenda toe te voegen."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Wensen er collega's op dat voorstel tot wijziging van de agenda te reageren?"
+    },
+    {
+     "type": "speech",
+     "id": "06.02",
+     "name": "Barbara Pas",
+     "party": "VB",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de voorzitter, ik wil u eerst en vooral feliciteren met uw heraanstelling en u bedanken voor uw goede wensen. Wij zullen inderdaad met force oppositie voeren, want dat is op zijn minst nodig tegenover een regering vol farce .",
+      "Collega Ronse, dat België geen state is, wist ik al. Dat er geen union is, weten we ook. Vandaag moeten we echter vaststellen dat er ook geen traditionele State of the Union meer is op de tweede dinsdag van oktober. U wilt het punt immers van de agenda halen omdat de regering-De Wever te laat is.",
+      "Het verbaast mij echter niet dat het niet lukt om structurele hervormingen te realiseren binnen een Belgisch kader dat communautair volledig is stilgevallen, maar zelfs de vivaldiregering slaagde erin haar beleidsverklaring tijdig af te leggen.",
+      "Als de toestand ernstig is, komt men vaak te laat. Voor de noodvergadering op de Titanic, volgend op de aanvaring met de ijsberg, waren de meeste personeelsleden ook te laat.",
+      "Het is ook niet de eerste keer – dat zult u wellicht wel aanhalen – dat een premier afgaat doordat hij de deadline voor zijn State of the Union niet haalt. Ook daarin is deze regering zeker niet historisch. Het is niet de eerste keer. Verhofstadt, Di Rupo en Michel hebben als premier allemaal gezorgd voor een afgang, voor gezichtsverlies voor hun regering door de beleidsverklaring uit te stellen. Zij kwamen echter wel binnen de week met een uitgestelde versie.",
+      "Wij hebben er vandaag geen enkel zicht op wanneer er een beleidsverklaring zal komen. Er is geen nieuwe deadline. De voorzitter heeft de e-mail van de regering voorgelezen: zodra er binnen de regering een akkoord over de begroting is bereikt. Er staat geen jaartal bij. We hebben geen idee, we zullen wel zien wanneer we in dit Huis moeten springen. Is dat volgende week of tijdens de herfstvakantie? On verra .",
+      "U zult het ongetwijfeld bagatelliseren, zeggen dat het niet zo erg is, dat het niet de eerste keer is, dat het geen verplichting is. Dat de huidige regering niet beter is dan de vorige, wisten we al, maar, collega Ronse, het is toch wel heel erg dat uitgerekend degene die zelf poneerde dat hij budgettair orde op zaken wil stellen – herinner u, dat was de inzet van de regering-De Wever – zijn eerste begrotingsdeadline niet haalt. Budgettair orde op zaken stellen is de bestaansreden van de regering-De Wever. De premier heeft daarvoor zowat alle andere verkiezingsbeloftes in de vuilbak gegooid, inclusief de communautaire. Ik vind het in dat opzicht bijzonder pijnlijk dat uitgerekend deze regering budgettair te laat is.",
+      "De echte deadline is trouwens niet vandaag, met de State of the Union. Dat de heer De Wever zijn eerste State of the Union niet tijdig haalt, is affrontelijk, maar de deadline is eigenlijk morgen, namelijk een begrotingsdeadline. Op 15 oktober moet het ontwerp van begrotingsplan worden ingediend bij de Europese Commissie.",
+      "De premier mag zich vandaag dus op zijn minst komen verantwoorden hoe hij het zal oplossen nu hij die deadline niet haalt. Hij mag zich vandaag toch hier komen verantwoorden waarom hij er zo laat aan begonnen is?",
+      "Men wist op voorhand dat het een moeilijke oefening zou zijn. Men wist op voorhand dat er niet een-twee-drie een akkoord zou komen. En toch vond de regering begin deze zomer een tussentijdse begrotingscontrole niet eens nodig. Die werd uitgesteld. Het bleek maandenlang belangrijker om zich met het buitenland bezig te houden dan met het binnenland, en nu is de regering te laat. Alweer te laat.",
+      "Dat was ook het geval met de wetsontwerpen voor het zomerreces. Die waren door de regering ook te laat aan het Parlement bezorgd. Toen werd de oppositie vertragingsmanoeuvres verweten, maar het was de regering die te laat was met de indiening van die wetsontwerpen.",
+      "Mijnheer de voorzitter, collega’s, vandaag is de regering ook te laat. Er bestaan nochtans stipte mensen. Toen koningin Elisabeth ooit ergens te laat aankwam, werd dat groot nationaal nieuws. Ik meen dat het nu groot nationaal nieuws zou zijn als de regering-De Wever wel met iets op tijd zou komen. De regering- De Wever is ondertussen met alles chronisch te laat.",
+      "Ik heb geprobeerd daar een verklaring voor te zoeken. In de neurochirurgie wijt men de oorzaak voor persistent te laat komen aan een andere hersenwerking, te wijten aan de hippocampus. Ik geef dit maar mee als suggestie: Hippocampus lijkt me een passender naam voor een kabinetskat dan Maximus.",
+      "Mijnheer de voorzitter, collega’s, het bijkomend probleem van de laattijdigheid van deze regering is dat die het Parlement opnieuw in de knoei brengt door steeds te laat met wetteksten te komen. Het zal nog lang duren eer alle wetteksten er zijn. U weet hoe de procedure gaat: de teksten gaan in eerste lezing naar de ministerraad; er komt een tweede lezing; het advies van de Raad van State wordt ingewonnen, en noem maar op. Dan pas komen de teksten naar het Parlement. Vandaag staat de regering dus nog nergens. De begrotingsdiensten zeggen zelf dat ze twaalf weken, een kleine drie maanden, nodig hebben om een degelijke begroting uit te werken, opdat de teksten goed zijn.",
+      "Mijnheer de voorzitter, ik zeg u nu al dat, als men opnieuw zo laattijdig wetteksten indient die men op het laatste moment door het Parlement wil jagen, wij daaraan niet zullen meewerken. Wij willen ons werk grondig en deftig doen. Als er dit jaar nog meerwaardebelastingen, begrotingen, programmawetten of pensioenhervormingen naar het Parlement zullen komen, zullen wij de nodige tijd nemen om die grondig te behandelen. Wij zullen dus tweede lezingen vragen en dergelijke meer. Zeg dan niet dat de oppositie de werkzaamheden vertraagt, want het komt de regering toe om tijdig haar huiswerk te maken. Misschien moet de regering alvast nadenken om voorlopige twaalfden voor te bereiden, want ook dat zou niet de eerste keer zijn. Het wordt immers moeilijk om de deadline nog te halen.",
+      "Mijnheer de voorzitter, de regering moet niet alleen tijdig haar huiswerk maken, maar moet ook respect tonen voor het Parlement. De aanwezigheid van de regering bij een officiële openingsvergadering van het Parlement getuigt van respect. Dat de premier vandaag zijn kat stuurt – dan bedoel ik de spreekwoordelijke, niet de versie waarvan u dagelijks infantiele berichten op sociale media ziet verschijnen – getuigt niet van elementaire beleefdheid.",
+      "Ik citeer Jan Jambon, ook op een tweede dinsdag van oktober, toen hij nog in zijn toenmalige rol zat als fractievoorzitter van de oppositie: \"Mijnheer de voorzitter, kunnen we deze openingssessie even schorsen tot de eerste minister aanwezig is? Dat hoort zo bij het begin van het parlementair jaar.\" Inderdaad, dat hoort zo.",
+      "Collega Ronse, het zal u dan ook niet verbazen dat wij uw voorstel tot agendawijziging niet steunen. De eerste minister dient hier vandaag niet alleen uit beleefdheid aanwezig te zijn, maar ook tekst en uitleg te geven over waarom hij de begrotingsdeadline van 15 oktober niet haalt, hoe hij dat zal oplossen en waarom hij daar zo laat aan begonnen is.",
+      "Collega’s, wij vragen niets speciaals met het verzoek tot de aanwezigheid van de regering. Als in het Vlaams Parlement de deadline van de septemberverklaring niet gehaald wordt, komt de minister-president op de voorziene datum een korte verklaring afleggen in aanwezigheid van zijn voltallige regering. Dat lijkt me elementaire beleefdheid en een terecht gebruik. Ik vraag niet meer dan dat dat ook vandaag in dit Huis wordt toegepast.",
+      "We hebben ons eigen Kamerreglement. Artikel 50 van het Reglement laat ons toe om de aanwezigheid van ministers te vorderen. Ik zal dat schriftelijk doen, zoals het Reglement dat voorschrijft. Niet alleen uit elementaire beleefdheid, maar ook om te motiveren waarom de deadlines alweer niet gehaald worden, vind ik dat de eerste minister hier vandaag aanwezig moet zijn."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "06.03",
+     "name": "Benoît Piedboeuf",
+     "party": "MR",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le président, la situation n’est autre qu’un constat d'impossibilité, pour le moment, pour le gouvernement d'arriver à boucler le budget. Cette situation est aussi la conséquence du passé. Nous étions plusieurs partis présents dans l'Assemblée et sous la précédente législature. Depuis lors, des problèmes liés à l'organisation de notre défense se sont posés, impliquant des dépenses supplémentaires. Par ailleurs, les conséquences des mesures antérieures pèsent aussi. L’exercice est donc un petit peu plus difficile. Et comme l'exercice est difficile, le premier ministre a signalé...",
+      "(…) : (…)"
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "06.04",
+     "name": "Benoît Piedboeuf",
+     "party": "MR",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "é coutez, on n’est quand même pas à une semaine près! Cela s'est déjà produit par le passé. L'important est qu'on parvienne à avoir un budget qui tient la route dans un contexte particulièrement difficile.",
+      "La Vivaldi y est arrivée, comme cela a été dit par la collègue. Il n'y a pas de raison que l'Arizona n'y arrive pas. Laissons donc le gouvernement travailler sereinement. Et quand le travail sera fait, le premier ministre viendra faire sa déclaration comme d'habitude. Et il n'y aura pas de difficulté pour la majorité à accorder sa confiance au gouvernement.",
+      "Je n'ai rien d'autre à ajouter, monsieur le président."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "06.05",
+     "name": "Pierre-Yves Dermagne",
+     "party": "PS",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le président, chers collègues, contrairement à ce que je viens d'entendre, ce à quoi nous assistons aujourd'hui est bel et bien une première. C’est la première fois de notre histoire parlementaire et de notre histoire politique qu'un gouvernement de plein exercice – huit mois seulement après son entrée en fonction, après huit mois de négociations à cinq partis, présentés comme globalement alignés – ne soit pas à même de venir s'exprimer à la fois sur l'état de l'Union, c'est-à-dire l'état du pays, et sur les décisions budgétaires pour l'année à venir et les suivantes.",
+      "C’est la première fois de notre histoire que nous sommes confrontés à une telle absence.",
+      "Après le gouvernement des promesses non tenues – pensez notamment aux fameux 500 euros en plus pour les gens qui travaillent, ou au réinvestissement dans les soins de santé –, nous sommes face au gouvernement des rendez-vous manqués: le rendez-vous manqué avec la démocratie et celui avec la population qui, aujourd'hui, s'est exprimée en descendant dans la rue.",
+      "Aujourd'hui, nous devions entendre le premier ministre sur l'état du pays, sur l'état de l'Union. Son absence est signifiante. Elle est aujourd'hui signifiante de l'incapacité de cette majorité et de ce gouvernement à entendre les préoccupations de la population belge, à percevoir la sidération de cette population face aux premières mesures décidées ou annoncées par cette majorité et ce gouvernement, à entendre le désespoir et la colère d'une grande partie de la population.",
+      "Cette absence, aujourd'hui, en dit long sur la déconnexion d'une partie de la classe politique avec la population, ses attentes, ses contraintes, ses souhaits, ses rêves, ses espoirs, mais aussi ses peurs. Ce qui s'est exprimé aujourd'hui dans la rue à Bruxelles – et qui continue d'ailleurs à l'heure où nous parlons – a en réalité beaucoup plus de sens, beaucoup plus de portée que l'absence du premier ministre, que l'absence de cette majorité incapable de se mettre d'accord et d'assumer une série de mesures et de politiques face à la représentation nationale, face aux représentantes et représentants du peuple.",
+      "C'est inédit, mais cela s'inscrit dans un manque de respect vis-à-vis du Parlement et de la population. Depuis l'installation de ce gouvernement, nous avons eu droit à plusieurs déclarations gouvernementales soumises à l'examen et au débat des parlementaires. Nous avons eu droit à une majorité qui n'était pas en nombre et qui a même tenté, par des moyens dérobés, de faire avancer sa fameuse et infâme loi-programme.",
+      "Aujourd'hui, nous avons un gouvernement et une majorité aux abonnés absents des attentes et des craintes de la population belge.",
+      "Monsieur le président, chers collègues, j'entends les demandes de faire venir le premier ministre et son gouvernement ici aujourd'hui. Toutefois, je pense que leur absence est, en réalité, la réponse qu'ils entendent apporter à la population belge: \"Circulez, il n'y a rien à voir. Circulez, vos sentiments, vos expressions, vos frustrations, votre colère et votre mobilisation, nous n'en avons que faire!\" Monsieur le président, chers collègues, cette attitude augure de jours, de semaines et de mois de débats compliqués au sein de cette Assemblée. Dans l'opposition, nous souhaitons – et c'est l'engagement qui est pris devant vous aujourd'hui – nous faire le relais des attentes et des préoccupations de la population belge et nous opposer jusqu'au bout, par tous les moyens possibles, aux mesures injustes, inefficaces et – j'ai déjà utilisé le terme suivant, qui est fort – dégueulasses qui sont prises ou envisagées par ce gouvernement.",
+      "Si nous n'avons pas l'occasion d'en discuter aujourd'hui, monsieur le président, chers collègues, croyez bien que, dans les heures, les jours ou les semaines à venir – bref, quand le gouvernement daignera venir assumer sa politique devant ce Parlement et donc devant le peuple belge –, nous serons, nous Parti Socialiste, au rendez-vous et nous ne laisserons rien passer."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "06.06",
+     "name": "Raoul Hedebouw",
+     "party": "PVDA-PTB",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Chers collègues, chers citoyens, il est de tradition d’avoir ici, tous les deuxièmes mardis d’octobre, un débat avec le premier ministre.",
+      "De traditie dat de eerste minister hier verantwoording komt afleggen aan het volk over het beleid dat hij wil voeren bestaat al tientallen jaren. Voor het eerst in heel lange tijd komt hij dat vandaag niet doen. Iedereen, zowel burgers als journalisten en politici, stelt zich dan ook de vraag waarom de eerste minister vandaag niet naar het Parlement komt. Hij heeft weken de tijd gehad om tot een akkoord te komen, ook tijdens de zomermaanden. Er was tijd genoeg voor cd&v, N-VA en Vooruit om te discussiëren en tot een akkoord te komen. Waarom durft de eerste minister vandaag niet naar het Parlement te komen? Dat is de vraag die velen zich stellen.",
+      "U weet het antwoord. Op deze tweede dinsdag van oktober is in de straten van Brussel een groot democratisch proces op gang gebracht. Meer dan 120.000 mensen, uit de beste krachten van onze werkende klasse, kwamen de eerste minister duidelijk maken dat zij het zijn die de rijkdom van ons land produceren. De staalarbeiders, de arbeiders uit de chemiesector, het zorgpersoneel, het administratief personeel, de leerkrachten, de jongeren. Zij zijn het die vandaag de rijkdom van ons land produceren en ervoor zorgen dat ons bruto binnenlands product jaar na jaar blijft groeien.",
+      "Ces mains d’or étaient présentes aujourd'hui dans les rues de Bruxelles.",
+      "Dat is de politieke reden waarom deze regering hier vandaag niet is. Zij is bang van de sociale beweging en terecht.",
+      "Is de achterban van die partijen, inclusief die van de N-VA, blij dat de N-VA de btw gaat verhogen? Zijn de kiezers van de N-VA blij met de indexsprong? Neen, want dat stond niet in haar programma. Niets daarvan stond erin.",
+      "Er is een probleem met de legitimiteit van deze regering. Wat ik, en veel parlementsleden, in de betoging hebben gehoord was: wij hebben niet gestemd om tot 67 jaar te werken. Bij wie stond dat in het programma?",
+      "Qui avait mentionné dans son programme électoral qu'il fallait bosser jusque 67 ans? Il n'y en avait qu'un. Tous les autres ont trahi leur programme. Les manifestants nous ont dit: \"Je ne sais pas travailler jusque 67 ans\". \"Ik ben moe gewerkt.\" \"Je ne peux pas encaisser un malus pension, un malus de 200 à 300 euros, si je ne travaille pas jusqu'à 67 ans.\"",
+      "Comment osez-vous, chers partis, cd&v, Vooruit? Travailler jusqu’à 67 ans faisait-il partie du programme du MR? On entend les mouches voler! Évidemment, personne n'avait cela dans son programme!",
+      "Les gens nous ont dit: \"Ik kan niet tot 67 jaar werken.\"",
+      "Savez-vous ce qui m'a frappé dans cette manifestation ce matin? Il y avait tellement de jeunes dans cette manifestation. C'est incroyable et impressionnant, parce que l'Arizona a essayé d'opposer les générations en disant:",
+      "Als de ouderen niet langer dan tot 67 jaar willen werken, dan zal die schuld bij de jongeren terechtkomen.",
+      "\"Si les âgés ne veulent pas travailler jusqu’à 67 ans, les jeunes vont souffrir dans le futur.\" Cette propagande pour opposer les générations n’a pas fonctionné. Cela n’a pas marché. La manifestation était pleine de jeunes.",
+      "Chers collègues, l’enjeu du débat est que, dans le débat budgétaire, on a entendu vos différentes pistes. Elles vous font rire. Cela fait rire, d’augmenter la TVA. Vous vous en foutez, vous. Quand on gagne 6 000 ou 7 000 euros par mois, un peu de TVA en plus, on n’en a rien à faire. On s’en fout. Un petit saut d’index, quand on a 7 000 euros par mois, on s’en fout. Mais la classe travailleuse, chers collègues, on rigole avec elle.",
+      "Langdurig zieken, l à, vous êtes tous d’accord, dan is de consensus totaal. Wat een ambiance moet er daar aan die tafel zijn: we gaan die langdurig zieken laten betalen, die 500.000 mensen die hard gewerkt hebben, die kapot gewerkt zijn, die burn-outs hebben. Die mensen waren ook op de betoging. Zij hadden het moeilijk. Jullie zitten rond de tafel en zeggen: we halen bij die mensen een paar miljard op. Zo is het gemakkelijk.",
+      "Chers collègues, je crois que, démocratiquement, nous avons le droit que le premier ministre vienne avoir un débat politique sur l’état de la Nation. Nous avons le droit d’avoir ce débat politique. Ce n’est pas parce qu’il a les chocottes. Ce n’est pas parce que les autres partis ont peur, aussi, que nous ne devrions pas avoir ce débat-là. Depuis des années, nous avons ce débat le deuxième mardi du mois d’octobre. Nous avons ici le pouvoir démocratique. Je clôturerai par cela: nous avons le pouvoir démocratique de demander au premier ministre de venir.",
+      "Daarom hoeven we nog niet akkoord te gaan over de vragen, noch over het antwoord van de eerste minister. Dat is ook niet de vraag. Wel hebben we het recht om hier een democratisch politiek debat te voeren over de State of the Union en over de begroting en de stand van zaken daarin.",
+      "Mijnheer de voorzitter, u bent opnieuw verkozen. Dus u hebt zeker en vast zin om uw verantwoor­delijkheid te nemen. Wij vragen de eerste minister om naar hier te komen en een democratisch debat te voeren over de politieke en sociale situatie van vandaag. Krachtens artikel 50 van het Reglement kunt u die vraag aan het Parlement ter stemming voorleggen. De 120.000 betogers en de honderd­duizenden mensen die niet zijn komen betogen maar die achter de beweging staan omdat ze het moeilijk hebben, hebben allemaal het recht om hier vandaag een politiek debat te aanhoren.",
+      "Wij hebben artikel 50 trouwens ook ingeroepen bij Charles Michel. Hij was toen ook niet blij. Wie had er zin om hem te laten opvorderen, wij waren immers in de oppositie? Charles Michel heeft ons toen drie dagen laten wachten, maar geen week.",
+      "Voor ons is het duidelijk, mijnheer de voorzitter: wij willen dat de eerste minister hierheen komt. Het hoeft niet meteen een urenlang debat te zijn over een begroting die niet bestaat, maar we hebben het recht te vragen dat hij twee tot drie uur hierheen komt om het te hebben over de staat van de natie.",
+      "Collega’s, ik hoop dat u die vraag zult steunen."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "06.07",
+     "name": "Aurore Tourneur",
+     "party": "Les Engagés",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le président, nous actons que le gouvernement n'est pas parvenu à un accord ce mardi. Certains estiment que c'est une faiblesse. Pour Les Engagés, c'est une preuve de sérieux.",
+      "Parce que les décisions à prendre sont des décisions historiques, chers amis du PTB – un parti toujours au balcon! On doit prendre ici des décisions historiques qui vont impacter nos ménages, nos entreprises, les services publics. Ces décisions importantes doivent se prendre avec justesse et sagesse.",
+      "Chers collègues, je vous ai écoutés avec beaucoup d'attention et beaucoup de respect et ce n'est pas toujours réciproque. J'aimerais donc aussi pouvoir terminer ma prise de parole dans le respect et le calme.",
+      "Je pense, contrairement à certains, que le gouvernement écoute la rue. Moi, j'ai des amis qui sont dans la rue. J'ai des anciens collègues qui y sont aussi. Et donc, on pèse chaque euro, ce qu'on va maintenir, ce qu'on va réorienter, ce qu'on va économiser.",
+      "Plutôt que de venir avec un discours un peu vide, sans ligne budgétaire claire, sans trajectoire définie, le premier ministre a décidé qu'il valait mieux venir avec des projets clairs et en toute transparence. Et alors là, nous pourrons jouer, je pense, notre rôle de Parlement, exercer notre mission qui consiste à débattre, à contrôler et puis à prendre nos responsabilités.",
+      "Je pense donc qu'il n'y a pas de plus-value à la présence du gouvernement juste pour venir nous dire: \"Nous travaillons sur les dossiers, on a encore besoin de quelques jours.\" Oui, peut-être que la plus-value aurait été d'apostropher le chef du gouvernement pour vociférer et, puis, rapidement poster la réaction sur les réseaux sociaux.",
+      "Moi, je préfère franchement savoir le premier ministre occupé à poursuivre les échanges avec les partenaires de l'Arizona pour trouver au plus vite une solution, plutôt que de participer à une mascarade joliment filmée. Alors, laissons-les travailler! La priorité est aux décisions et pas aux campagnes de communication."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "06.08",
+     "name": "Oskar Seuntjens",
+     "party": "Vooruit",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Ik kan, zoals iedereen hier in de zaal, alleen maar hopen dat er snel een akkoord wordt bereikt, omdat de mensen duidelijkheid verdienen over wat de regering de komende jaren zal doen. Tot het zover is, stel ik voor dat iedereen in de zaal zijn werk in het Parlement ernstig voortzet.",
+      "In dat opzicht steunen wij de wijziging van de agenda, zodat wij als parlementsleden kunnen voortwerken in de commissies. Ik hoop dat de regering intussen ook hard doorwerkt, zodat we snel een goede begroting kunnen krijgen om ons land weer gezond te maken."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "06.09",
+     "name": "Nawal Farih",
+     "party": "cd&v",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Collega's, ik denk dat we allemaal weten dat we met de huidige regering voor een gigantische opdracht staan. Het is al eerder gezegd door de voorgaande sprekers dat er vandaag 80.000 mensen op straat zijn gekomen. We zijn ons dus allemaal bewust van de grote ongerustheid die leeft.",
+      "Wat echter het verschil is, mijnheer Hedebouw, tussen u en ons, is dat u roept in een tunnel, terwijl wij verantwoordelijkheid nemen. Voor ons is het van groot belang dat de koopkracht van de mensen beschermd blijft. Het is voor ons eveneens van groot belang dat we de meest kwetsbaren altijd beschermen. Mijnheer Hedebouw, als we daarvoor enkele dagen langer moeten onderhandelen, dan is dat zo, want voor ons staat de bescherming van de mensen voorop.",
+      "Ik herhaal nogmaals dat de opdracht gigantisch is, maar het resultaat zal belangrijker zijn dan de deadline. Laten we er hier vooral voor zorgen dat we verder kunnen werken. De mensen verwachten dat van ons. De regering heeft ons vertrouwen om zo snel mogelijk met een degelijk akkoord te landen."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "06.10",
+     "name": "Sarah Schlitz",
+     "party": "Ecolo-Groen",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le président, je trouve quand même particulier qu'il y ait un fait accompli de la part de la majorité. Il n'y a même pas eu d'excuses. Ils ne disent même pas qu'ils sont désolés. On ne sait pas. Cela prendra un jour ou deux de plus; peut-être devrons-nous venir un dimanche. On doit réorganiser tous les travaux du Parlement en fonction; c'est quand même un énorme manque de respect. Dans aucun secteur, les choses ne fonctionnent comme cela. La travailleurs ne disent pas à leur patron: \"Ça, je ne le fais pas. Je le ferai peut-être la semaine prochaine ou la semaine d'après.\" Les étudiants qui travaillent et qui n'arrivent pas à boucler leur mémoire ne peuvent pas le rendre deux semaines plus tard. À un moment, il est quelque peu rigolo de voir des gens aussi stricts, aussi durs, aussi contrôlants avec toute une catégorie de la population, prendre les choses complètement par-dessus la jambe quand il s'agit d'eux-mêmes.",
+      "Si c'est pour se mettre au travail sérieusement, je pense en effet, madame Tourneur, que c'est une bonne idée. Il est clair que si cela prend un peu plus de temps, je considère que ce n'est pas très grave. Par contre, il est quelque peu affligeant de constater que les discussions ont manifestement commencé trop tard et qu'il n'y a pas eu suffisamment de réunions pour pouvoir atterrir. Cela me paraissait complètement impossible d'aboutir dans ces conditions.",
+      "Par ailleurs, je m'interroge sur la capacité du gouvernement à négocier encore cette semaine, étant donné que M. Prévot n'est pas présent en Belgique en ce moment. Il était prévu que M. Prévot soit absent des débats budgétaires pendant toute la semaine. Est-il revenu pour négocier? Il part demain. À nouveau, pendant trois jours, les négociations ne se tiendront pas. Je ne comprends pas très bien quand les discussions pourront sérieusement se tenir pour aboutir.",
+      "Vous nous faites une leçon de communication. Jusqu'à présent, on a plutôt eu affaire à une démonstration de communications et de provocations dans tous les sens de la part des uns et des autres: saut d'index, augmentation de la TVA, chasse aux travailleurs malades. Des communications dans la presse, nous en avons vues. Par contre, du contenu et du travail à huis clos pour avancer, nous avons eu le sentiment d'en voir moins ces derniers jours.",
+      "Franchement, tant mieux si c'est le cas à partir de maintenant. Qu'ils se concentrent pour assumer leurs responsabilités, les responsabilités pour lesquelles ils sont en poste, auxquelles ils ont été désignés, qui sont les vrais enjeux d'aujourd'hui: le fait qu'aujourd'hui, pour avoir un rendez-vous chez un spécialiste, il y a au minimum trois mois d'attente; le fait qu'aujourd'hui, toute une catégorie de la population est à haut risque de basculer dans la pauvreté, en particulier les mamans solos, en particulier les femmes; le fait que l'étude qui a été produite par le Service des Pensions prouve que la réforme annoncée du ministre Jambon fait perdre en moyenne 300 euros aux futurs pensionnés.",
+      "Cette étude annonce une pension moyenne de 1 072 euros par mois. Mais ça, il faut le bloquer chez Les Engagés! Il faut bloquer ce truc-là maintenant, pour le budget 2026. Vous ne pouvez pas laisser faire ça avec les chiffres qui vous prouvent qu'on va droit dans le mur. C'est ça, la responsabilité dont vous devez faire preuve.",
+      "S'agissant de la crise climatique, cet été a été de nouveau meurtrier à travers toute l'Europe, avec des hectares partis en fumée, des inondations. La responsabilité dont vous devez faire preuve, c'est protéger notre population de ces risques-là. C'est pour ça qu'on fait de la politique. En tout cas, c'est pour ça que moi, je fais de la politique.",
+      "Et donc, même si je souhaite au gouvernement de se mettre au travail, j'entends aussi des spéculations dans la presse sur la raison pour laquelle ils n'ont pas réussi à atterrir. Je trouve que venir ici, devant le Parlement, expliquer les vraies raisons pour lesquelles ils n'ont pas su avancer serait faire preuve de responsabilité.",
+      "Dans cette optique je trouve qu'il ne serait pas complètement farfelu que M. De Wever vienne nous expliquer cela ici. Je pense que ça serait respectueux vis-à-vis du Parlement."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "06.11",
+     "name": "Alexia Bertrand (Open Vld)",
+     "party": null,
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de voorzitter, ik zal het kort houden, want de eerste minister is er inderdaad niet.",
+      "Het doet een beetje pijn maar ik moet de heer Hedebouw gelijk geven, en dat gebeurt niet vaak, une fois n’est pas coutume. De vraag die vandaag op ieders lippen ligt, is: waarom is de premier er niet vandaag?",
+      "Mijnheer de voorzitter, de eerste minister heeft u een mail gestuurd met de mededeling dat de regering nog niet klaar is met de werkzaamheden. Hoe komt het dat de regering nog niet klaar is? Zowel de meerderheid als de oppositie heeft zijn versie van het verhaal. Mevrouw Pas zegt dat de eerste minister te laat begonnen is aan een col buiten categorie, zoals hij dat zelf noemde. Maar nee, mevrouw Pas, de eerste minister haalt toch altijd zijn deadlines sinds hij begonnen is. Hij begon zelfs al tijdens zijn gastcollege in Gent. Ik denk niet dat hij te laat begonnen is. Beste collega’s, is het omdat er vandaag 80.000 mensen op straat zijn gekomen? Is het omdat er vandaag een betoging was tegen de pensioenmalus? Ik denk het niet, mevrouw Merckx. Iedere regering krijgt met betogingen te maken en ik ken de eerste minister niet als iemand die snel onder de indruk is. Me dunkt is dat niet de echte reden. Is het misschien – dat heeft nog niemand aangehaald – omdat er nieuwe belastingen op komst zijn en omdat de regering op zoek is naar extra inkomsten? Wel, ik zal eerlijk zijn, ik denk zelfs niet dat dat de reden is, want met de zogenoemde arizonataksen zijn er intussen voldoende precedenten. De regering weet heel goed hoe ze daarmee moet omgaan.",
+      "Neen, beste collega's, ik zal u zeggen waarom de premier er vandaag niet is: het is de schuld van Open Vld. (Hilariteit) Zoals alles in dit land, al 25 jaar lang. Het is altijd zo geweest: het is de schuld van Open Vld.",
+      "Beste voorzitter, beste collega's, ik wil gebruikmaken van deze opportuniteit om namens mijn fractie, namens mijn collega's, excuses aan te bieden voor de afwezigheid van de premier vandaag. Het is de schuld van Open Vld. Als hij er volgende week ook niet is, dan zal het ook de schuld zijn van Open Vld."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "06.12",
+     "name": "François De Smet",
+     "party": "DéFI",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le président, d'abord, je voudrais vous féliciter pour votre reconduction. Vous avez parlé des droits de la minorité. Et je veux pouvoir en témoigner, puisque je suis le plus petit représentant de l'opposition parlementaire. Il est bien connu que nous ne sommes pas du même bord politique, mais il est exact que vous respectez et protégez les droits de chaque parlementaire, y compris ceux de la minorité. Cela doit pouvoir être dit. Précisément, et n'applaudissez pas trop vite, chers collègues, quel contraste entre le respect que vous accordez en effet à chaque parlementaire et l'absence de respect dont ce gouvernement témoigne envers le Parlement!",
+      "Chers collègues de l'Arizona, il serait peut-être temps que vous vous demandiez s'il n'y a pas un problème dysfonctionnel, pour prendre un mot bien connu de notre système, dans le mode opératoire de cette majorité. D'abord, la majorité Arizona a mis huit mois pour se constituer. En soi, c'est déjà un record pour une majorité que nous connaissions depuis la sortie des urnes. Ensuite, une fois constituée, parce que tout n'était pas bien ficelé, il a fallu conclure un accord de Pâques. Et puis, parce que tout n'était finalement pas très bien ficelé, il a fallu conclure un accord d'été. À présent, on s'est dit: \"Zut! Nous avons oublié de confectionner un budget pluriannuel sur toute la législature pour que tous les accords conclus puissent tenir la route. Tiens, si nous attendions la première semaine d'octobre pour nous y mettre et voir si, par hasard, nous serions prêts le deuxième mardi d'octobre!\" Il est évident que ce gouvernement a démarré trop tard.",
+      "La question est de savoir si le premier ministre accorde sincèrement de l'importance à ce genre de tradition et de date. Je ne le crois pas. Le message qu'il nous envoie est: \"Mon calendrier est le mien. Je prendrai le temps que je veux. Je me fiche que certains prédécesseurs qui ne s'étaient pas présentés à temps aient toujours rectifié le tir quelques heures ou, au maximum, quelques jours après. Vous verrez bien quand je convoquerai le Parlement.\" Je trouve cela fort irrespectueux envers notre démocratie parlementaire et l'agenda des services. Que va-t-il se passer si, par hasard, mardi prochain, puisque c'est la date qu'on nous donne, le gouvernement n'est toujours pas prêt? Qu'allons-nous faire au sein des commissions? Allons-nous continuer à perdre du temps puisque nous sommes en train de perdre une semaine parlementaire entière? Alors, bien sûr, nous pouvons toujours travailler sur nos propositions de loi et nos questions, mais c'est du temps perdu pour le Parlement.",
+      "Si je compte bien, la majorité Arizona a, jusqu’à maintenant, passé plus de temps à négocier qu'à gouverner. Puisqu'ils en sont là, dans une dernière négociation pluriannuelle, qu'ils prennent le temps qu'ils veulent, mais qu'ils arrivent cette fois-ci avec un accord qui permette de ne pas se relancer dans des rounds de négociation et de nous laisser en plan comme cela!",
+      "Le deuxième contraste, c’est, en effet, l'absence du gouvernement et la grande foule ce matin dans les rues de Bruxelles. Moi aussi, j'y suis allé. Je suis issu d'un parti centriste. Je comprends une grande majorité des griefs. Je voulais surtout parler aux manifestants. Ce qui était très frappant, outre la foule qui était présente – dont, il est vrai, beaucoup de jeunes –, c’est que beaucoup de gens m'ont dit: \"Je manifeste pour la première fois.\" Cela doit quand même vous inquiéter, partenaires de l'Arizona. Beaucoup de gens issus de la classe moyenne manifestaient pour la première fois. La majorité des personnes qui étaient dans la rue ce matin sont des personnes qui travaillent, qui ont travaillé la majorité de leur vie et qui ont cotisé une grande partie de leur vie. Elles ne comprennent pas vos réformes et elles sont inquiètes. Je crois que ce bruit-là, vous ne pouvez pas le prendre juste avec de l'indifférence. Vous devez le prendre au sérieux.",
+      "Bien loin des clichés selon lesquels il n'y aurait dans les manifestations dans les rues de ce pays que des personnes qui seraient depuis 25 ans au chômage et ne se seraient jamais levées, il y a des travailleurs ALE, des artistes, des gens qui s'inquiètent pour leur pension et qui se disent: \"Tiens, mais on a changé les règles en cours de partie\" – si j'ose dire – \"et je ne me sens pas respecté, parfois même par des partis pour lesquels j'ai voté.\"",
+      "Serait-ce intéressant que le premier ministre vienne maintenant? Non, je pense que s'il vient maintenant, il va faire des blagues, il va faire quelques citations latines, mais il ne va pas nous répondre rapidement sur ce qu'il nous faut, c’est-à-dire un budget. J'encourage la majorité Arizona à le faire rapidement. Le deuxième mardi d'octobre est plus qu'une ligne dans notre Constitution, c'est une vraie tradition. Ne négligez pas le message qui est envoyé par ce premier ministre, consistant à dire: \"Tout cela, avec moi, ne compte pas\"!"
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Tot slot geef ik nog het woord aan de fractie die de agendawijziging heeft gevraagd."
+    },
+    {
+     "type": "speech",
+     "id": "06.13",
+     "name": "Axel Ronse",
+     "party": "N-VA",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Collega's, er zijn drie zaken waarover ik het fundamenteel eens ben met de oppositie.",
+      "Ten eerste, Peter De Roover is een goede Kamervoorzitter. Ik ben het volledig eens met de aanduiding.",
+      "Ten tweede, vandaag wordt er inderdaad een signaal gegeven. Het is een oorverdovend, ongezien signaal: 5 miljoen mensen, 5 millions de personnes , leerkrachten, arbeiders, mensen in de zorgsector en zelfstandigen zijn allemaal aan het werk. Ils sont tous en train de bosser!",
+      "Weet u welk signaal ze geven? Ze vragen aan Arizona om door te zetten, moeilijke maatregelen te nemen, de pensioenen te hervormen, het arbeidsrecht te vernieuwen, ervoor te zorgen dat onze kinderen ook een sociale toekomst kunnen hebben en om de begroting aan te pakken! Collega’s, ik vraag een warm applaus voor de 5 miljoen mensen die vandaag aan het werk zijn. (Applaus op de banken van de N-VA)",
+      "Er is nog een derde punt waarover ik het eens ben met de oppositie. Dat gaat over de traditie, la tradition , van de State of the Union. We breken inderdaad brutaal met een traditie. We breken met de traditie om elk jaar, zoals Sven Gatz in Brussel, tijdig een begroting in te dienen met gigantische tekorten, die opgesmukt werd en volledig opgepoetst, waarmee we de miserie doorschuiven naar de volgende generatie. Het gaat over Brussel, over Clerfayt, over een lening van Belfius ter waarde van 500 miljoen euro. Weg ermee, wij breken daarmee.",
+      "En ja, we zijn te laat, 25 jaar te laat. Mevrouw Bertrand, u was daarnet zeer pertinent. In tijden van hoogconjunctuur, onder Verhofstadt, hadden we inderdaad moeten hervormen, hervormen en hervormen. Er is veel te lang gewacht. Een hele generatie politici had niet de moed om te zien wat er zou komen op het vlak van vergrijzing en op het vlak van migratie. Dat geldt trouwens ook voor de periode van de Zweedse regering. Nu staat er echter een generatie klaar die dat wel in de ogen kijkt en die durft te hervormen.",
+      "Collega’s, ofwel hangen we hier de dramaqueen uit omdat de eerste minister niet aanwezig is, ofwel geven we de regering nu de kans om door te werken, om te proberen in deze moeilijke tijden een binnenlandse politieke uitdaging aan te pakken, de grootste van deze eeuw. De Franse regering is al twaalf keer gevallen over een begrotingstekort dat relatief gezien kleiner is dan het onze.",
+      "Collega’s, wat voor signaal zou het zijn aan de bevolking om hier nu een lang debat te voeren met een regering die zegt: we zijn er nog mee bezig, we zijn er nog niet uit? Laat de regering doorwerken. Zodra ze tot een resultaat kan komen, zal ze naar hier komen. Collega’s, ik beloof het u, dan zullen we een zeer scherp debat hebben. Dat beloof ik u."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Collega’s, in beginsel moet ik drie zaken vaststellen."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "In de eerste plaats is er de vraag of een derde van de leden de vraag steunt. Het komt mij voor dat dit het geval is."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Dan moeten wij twee stemmingen organiseren. De eerste betreft de wijziging van de agenda. De tweede gaat, op basis van artikel 50, over de vraag van de collega’s van het Vlaams Belang en van de collega’s van de PVDA-PTB; die vraag breng ik vanzelfsprekend ook ter stemming."
+    },
+    {
+     "type": "heading",
+     "level": 3,
+     "nl": "Motie tot agendawijziging",
+     "fr": "Motion de modification de l'ordre du jour"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Een motie werd ingediend door de heren Axel Ronse, Benoît Piedboeuf en Oskar Seuntjens en de dames Aurore Tourneur en Nawal Farih en luidt als volgt:"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "\"In toepassing van artikel 17, nr. 3, van het Reglement, vragen wij de volgende agenda­wijzigingen voor de plenaire vergaderingen van 14, 15 en 16 oktober:"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "- vergadering van 14 oktober: benoeming van het Vast Bureau; geen regeringsverklaring;"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "- vergadering van 15 oktober: annulering van de vergadering van 15 oktober;"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "- vergadering van 16 oktober: de plenaire vergadering start om 14.15 uur met het vragenuurtje. Vervolgens wordt wetgevend werk aan de agenda gesteld (zoals afgesproken op de Conferentie van deze ochtend: alleszins de stukken nrs. 1030, 238 en 619): het wetsontwerp over de repartitiebijdrage (nr. 1030), het voorstel van resolutie over de TreinPunten (nr. 238) en het wetsontwerp over het samenwerkingsakkoord inzake slachtofferzorg (nr. 619).\""
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Une motion a été déposée par MM. Axel Ronse, Benoît Piedboeuf et Oskar Seuntjens et par Mmes Aurore Tourneur et Nawal Farih et est libellée comme suit:"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "\"Conformément à l'article 17, n° 3, du Règlement, nous demandons d'apporter les modifications suivantes à l'ordre du jour des séances plénières des 14, 15 et 16 octobre:"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "- séance du 14 octobre: nomination du Bureau définitif; pas de déclaration gouvernementale;"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "- séance du 15 octobre: annulation de la séance du 15 octobre;"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "- séance du 16 octobre: la séance plénière commence à 14 h 15 par l'heure des questions. Ensuite, le travail législatif est mis à l'ordre du jour (comme convenu au cours de la Conférence des présidents de ce matin: en tout cas les documents n° s 1030, 238 et 619): le projet de loi sur la contribution de répartition (n° 1030), la proposition de résolution visant à créer des Points Train (n° 238) et le projet de loi portant assentiment à l'accord de coopération en matière d'assistance aux victimes (n° 619).\""
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Ik stel u voor om ons over deze vraag uit te spreken."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Je vous propose de nous prononcer sur cette demande."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Begin van de stemming / Début du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Heeft iedereen gestemd en zijn stem nagekeken? / Tout le monde a-t-il voté et vérifié son vote?"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Einde van de stemming / Fin du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Uitslag van de stemming / Résultat du vote."
+    },
+    {
+     "type": "vote",
+     "number": 1,
+     "subject": null,
+     "yes": 74,
+     "no": 58,
+     "abstain": 0,
+     "total": 132,
+     "result": {
+      "nl": "Bijgevolg neemt de Kamer de agendawijziging aan.",
+      "fr": "En conséquence, la Chambre adopte la modification de l'ordre du jour."
+     }
+    },
+    {
+     "type": "heading",
+     "level": 3,
+     "nl": "Moties tot vordering van een regeringslid",
+     "fr": "Motions en vue de requérir la présence d'un membre du gouvernement"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Een eerste motie werd ingediend door mevrouw Barbara Pas en luidt als volgt:"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "\"Met toepassing van artikel 50 van het Kamer­reglement vorderen we de aanwezigheid van de heer Bart De Wever, eerste minister van België, teneinde de Kamer tenminste verslag uit te brengen over de stand van zaken van de lopende begrotingsonderhandelingen en de reden van het uitstel van de geagendeerde regeerverklaring.\""
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Une première motion a été déposée par Mme Barbara Pas et est libellée comme suit:"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "\"En application de l‘article 50 du Règlement de la Chambre, nous requérons la présence de M. Bart De Wever, premier ministre de Belgique, afin de faire à tout le moins rapport à la Chambre sur l’état des négociations budgétaires en cours et sur le motif du report de la déclaration gouvernementale qui était à l’ordre du jour.\""
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Een tweede motie werd ingediend door de heer Raoul Hedebouw en luidt als volgt:"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "\"De PVDA-PTB-fractie verzet zich tegen het voorstel dat ons meegedeeld werd en morgen normaliter om 10 uur aan de Conferentie van voorzitters voorgelegd zou worden."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Het is belangrijk dat de eerste minister tijdens de plenaire vergadering van dinsdag om 14.15 uur present is om de Kamer een officiële mededeling te doen en een debat over het uitstel van de regeringsverklaring en de voortgang van de begrotingsonderhandelingen mogelijk te maken."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Overeenkomstig artikel 50 van het Reglement van de Kamer vordert de PVDA-PTB-fractie dan ook de aanwezigheid van de heer De Wever tijdens de plenaire vergadering van dinsdag 14 oktober.\""
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Une deuxième motion a été déposée par M. Raoul Hedebouw et est libellée comme suit:"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "\"Le groupe PVDA-PTB s'oppose à la proposition soumise à la Conférence des présidents prévue demain à 10h, telle qu'elle nous a été communiquée."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Il est indispensable que le premier ministre soit présent lors de la séance plénière de ce mardi à 14h15, afin de faire une communication officielle à la Chambre et de permettre un débat concernant le report de la déclaration gouvernementale et l'état des négociations budgétaires."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Conformément à l'article 50 du Règlement de la Chambre, le groupe PVDA-PTB requiert donc la présence de M. De Wever en séance plénière de ce mardi 14 octobre.\""
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Collega's, ik stel voor dat we beide moties samen behandelen."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Wie steunt de vraag om, op basis van artikel 50 van het Reglement, de aanwezigheid van de regering te vorderen?"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Ik stel u voor om ons over deze vraag uit te spreken."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Je vous propose de nous prononcer sur cette demande."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Begin van de stemming / Début du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Heeft iedereen gestemd en zijn stem nagekeken? / Tout le monde a-t-il voté et vérifié son vote?"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Einde van de stemming / Fin du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Uitslag van de stemming / Résultat du vote."
+    },
+    {
+     "type": "vote",
+     "number": 2,
+     "subject": null,
+     "yes": 54,
+     "no": 75,
+     "abstain": 7,
+     "total": 136,
+     "result": {
+      "nl": "Bijgevolg zijn de moties verworpen.",
+      "fr": "En conséquence, les motions sont rejetées."
+     }
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Collega’s, dat betekent dat wij een nieuwe agenda hebben aangenomen en dat wij elkaar donderdag terugzien voor een nagenoeg normale donderdagzitting."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Normaal gesproken zouden wij deze week allemaal slapeloze nachten hebben gehad. Ik mag de meerderheid onder u daarvan vrijwaren, behalve collega Coenegrachts. Hij zal slapeloze nachten tegemoetzien, want hij is vader geworden; ik wil hem daarvoor feliciteren."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "(Applaus)"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "(Applaudissements)"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Hij is een ervaringsdeskundige, dus ik denk niet dat we hem veel hoeven wijs te maken over het verloop van de volgende maanden, maar ik leef met hem mee."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De vergadering wordt gesloten. Volgende vergadering donderdag 16 oktober 2025 om 15.15 uur."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "La séance est levée. Prochaine séance le jeudi 16 octobre 2025 à 15 h 15."
+    },
+    {
+     "type": "note",
+     "lang": "nl",
+     "text": "De vergadering wordt gesloten om 15.23 uur."
+    },
+    {
+     "type": "note",
+     "lang": "fr",
+     "text": "La séance est levée à 15 h 23."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "De bijlage is opgenomen in een aparte brochure met nummer CRIV 56 PLEN 067 bijlage."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "L'annexe est reprise dans une brochure séparée, portant le numéro CRIV 56 PLEN 067 annexe."
+    }
+   ]
+  }
+ ],
+ "named_votes": {
+  "1": {
+   "yes": [
+    "Bacquelaine Daniel",
+    "Bergers Jeroen",
+    "Bertels Jan",
+    "Bombled Christophe",
+    "Buysrogge Peter",
+    "Cornillie Hervé",
+    "Cuylaerts Dorien",
+    "Daenen Nele",
+    "Delcourt Catherine",
+    "De Maegd Michel",
+    "Demesmaeker Eva",
+    "Demon Franky",
+    "Depoorter Kathleen",
+    "De Roover Peter",
+    "De Vreese Maaike",
+    "De Wit Sophie",
+    "D'Haese Christoph",
+    "Dubois Xavier",
+    "Ducarme Denis",
+    "Dufrane Anthony",
+    "El Yakhloufi Achraf",
+    "Farih Nawal",
+    "Foret Gilles",
+    "Frank Luc",
+    "Gatelier Jean-François",
+    "Gielis Tine",
+    "Gijbels Frieda",
+    "Goffin Philippe",
+    "Grillaert Leentje",
+    "Hansez Isabelle",
+    "Hiligsmann Serge",
+    "Jadoul Pierre",
+    "Kompany Pierre",
+    "Lamarti Fatima",
+    "Lambrecht Annick",
+    "Lanjri Nahima",
+    "Lasseaux Stéphane",
+    "Lejeune Marc",
+    "Lutgen Benoît",
+    "Mahdi Sammy",
+    "Matagne Julien",
+    "Matheï Steven",
+    "Metsu Koen",
+    "Meuleman Brent",
+    "Muylle Nathalie",
+    "Nuino Ismaël",
+    "Oru Funda",
+    "Peeters Lotte",
+    "Piedboeuf Benoît",
+    "Ramlot Carmen",
+    "Raskin Wouter",
+    "Reuter Florence",
+    "Ronse Axel",
+    "Safai Darya",
+    "Scourneau Vincent",
+    "Seuntjens Oskar",
+    "Soete Jeroen",
+    "Tas Niels",
+    "Taton Julie",
+    "Tourneur Aurore",
+    "Truyman Lieve",
+    "Vandeberg Victoria",
+    "Van den Heuvel Koen",
+    "Vandeput Steven",
+    "Van der Donckt Wim",
+    "Van Hoof Els",
+    "Van Keymolen Phaedra",
+    "van Riet Katrijn",
+    "Vanrobaeys Anja",
+    "Van Vaerenbergh Kristien",
+    "Verkeyn Charlotte",
+    "Weydts Axel",
+    "Wollants Bert",
+    "Yzermans Alain"
+   ],
+   "no": [
+    "Almaci Meyrem",
+    "Bertrand Alexia",
+    "Bilmez Kemal",
+    "Boukili Nabil",
+    "Bury Katleen",
+    "Coenegrachts Steven",
+    "Daems Greet",
+    "Daerden Frédéric",
+    "Dedonder Ludivine",
+    "De Knop Irina",
+    "Depoortere Ortwin",
+    "Dermagne Pierre-Yves",
+    "Désir Caroline",
+    "De Smet François",
+    "De Witte Kim",
+    "Dillen Marijke",
+    "Eggermont Natalie",
+    "Gabriëls Katja",
+    "Hedebouw Raoul",
+    "Huybrechts Britt",
+    "Jacquet Farah",
+    "Keuten Dieter",
+    "Lacroix Christophe",
+    "Legasse Dimitri",
+    "Magnette Paul",
+    "Merckx Sofie",
+    "Mertens Peter",
+    "Meunier Marie",
+    "Moons Kurt",
+    "Moscufo Nadia",
+    "Mutyebele Ngoi Lydia",
+    "Pas Barbara",
+    "Ponthier Annick",
+    "Prévot Patrick",
+    "Ribaudo Julien",
+    "Samyn Ellen",
+    "Schlitz Sarah",
+    "Sneppe Dominiek",
+    "Thémont Sophie",
+    "Thiébaut Éric",
+    "Tonniau Robin",
+    "Troosters Frank",
+    "Van Belleghem Francesca",
+    "Vanbesien Dieter",
+    "Vandemaele Matti",
+    "Van den Bosch Annik",
+    "Vander Elst Kjell",
+    "Van der Straeten Tinne",
+    "Van Hecke Stefaan",
+    "Van Hoecke Alexander",
+    "Van Lommel Reccino",
+    "Van Lysebettens Jeroen",
+    "Van Quickenborne Vincent",
+    "Van Tigchelt Paul",
+    "Verbelen Kristien",
+    "Vereeck Lode",
+    "Vermeersch Wouter",
+    "Yigit Ayse"
+   ],
+   "abstain": []
+  },
+  "2": {
+   "yes": [
+    "Almaci Meyrem",
+    "Aouasti Khalil",
+    "Bilmez Kemal",
+    "Boukili Nabil",
+    "Bury Katleen",
+    "Chahid Ridouane",
+    "Daems Greet",
+    "Daerden Frédéric",
+    "D'Amico Roberto",
+    "Dedonder Ludivine",
+    "Depoortere Ortwin",
+    "Dermagne Pierre-Yves",
+    "Désir Caroline",
+    "De Smet François",
+    "De Witte Kim",
+    "Dillen Marijke",
+    "Eggermont Natalie",
+    "Hedebouw Raoul",
+    "Huybrechts Britt",
+    "Jacquet Farah",
+    "Keuten Dieter",
+    "Lacroix Christophe",
+    "Legasse Dimitri",
+    "Magnette Paul",
+    "Maouane Rajae",
+    "Merckx Sofie",
+    "Mertens Peter",
+    "Meunier Marie",
+    "Moons Kurt",
+    "Moscufo Nadia",
+    "Mutyebele Ngoi Lydia",
+    "Pas Barbara",
+    "Ponthier Annick",
+    "Prévot Patrick",
+    "Ribaudo Julien",
+    "Samyn Ellen",
+    "Schlitz Sarah",
+    "Sneppe Dominiek",
+    "Thémont Sophie",
+    "Thiébaut Éric",
+    "Tonniau Robin",
+    "Troosters Frank",
+    "Van Belleghem Francesca",
+    "Vanbesien Dieter",
+    "Vandemaele Matti",
+    "Van den Bosch Annik",
+    "Van der Straeten Tinne",
+    "Van Hecke Stefaan",
+    "Van Hoecke Alexander",
+    "Van Lommel Reccino",
+    "Van Lysebettens Jeroen",
+    "Verbelen Kristien",
+    "Vereeck Lode",
+    "Vermeersch Wouter"
+   ],
+   "no": [
+    "Bacquelaine Daniel",
+    "Bergers Jeroen",
+    "Bertels Jan",
+    "Bombled Christophe",
+    "Buysrogge Peter",
+    "Cornillie Hervé",
+    "Cuylaerts Dorien",
+    "Daenen Nele",
+    "Deborsu Charlotte",
+    "Delcourt Catherine",
+    "De Maegd Michel",
+    "Demesmaeker Eva",
+    "Demon Franky",
+    "Depoorter Kathleen",
+    "De Roover Peter",
+    "De Vreese Maaike",
+    "De Wit Sophie",
+    "D'Haese Christoph",
+    "Dubois Xavier",
+    "Ducarme Denis",
+    "Dufrane Anthony",
+    "El Yakhloufi Achraf",
+    "Farih Nawal",
+    "Foret Gilles",
+    "Frank Luc",
+    "Gatelier Jean-François",
+    "Gielis Tine",
+    "Gijbels Frieda",
+    "Goffin Philippe",
+    "Grillaert Leentje",
+    "Hansez Isabelle",
+    "Hiligsmann Serge",
+    "Jadoul Pierre",
+    "Kompany Pierre",
+    "Lamarti Fatima",
+    "Lambrecht Annick",
+    "Lanjri Nahima",
+    "Lasseaux Stéphane",
+    "Lejeune Marc",
+    "Lutgen Benoît",
+    "Mahdi Sammy",
+    "Matagne Julien",
+    "Matheï Steven",
+    "Metsu Koen",
+    "Meuleman Brent",
+    "Muylle Nathalie",
+    "Nuino Ismaël",
+    "Oru Funda",
+    "Peeters Lotte",
+    "Piedboeuf Benoît",
+    "Ramlot Carmen",
+    "Raskin Wouter",
+    "Reuter Florence",
+    "Ronse Axel",
+    "Safai Darya",
+    "Scourneau Vincent",
+    "Seuntjens Oskar",
+    "Soete Jeroen",
+    "Tas Niels",
+    "Taton Julie",
+    "Tourneur Aurore",
+    "Truyman Lieve",
+    "Vandeberg Victoria",
+    "Van den Heuvel Koen",
+    "Vandeput Steven",
+    "Van der Donckt Wim",
+    "Van Hoof Els",
+    "Van Keymolen Phaedra",
+    "van Riet Katrijn",
+    "Vanrobaeys Anja",
+    "Van Vaerenbergh Kristien",
+    "Verkeyn Charlotte",
+    "Weydts Axel",
+    "Wollants Bert",
+    "Yzermans Alain"
+   ],
+   "abstain": [
+    "Bertrand Alexia",
+    "Coenegrachts Steven",
+    "De Knop Irina",
+    "Gabriëls Katja",
+    "Vander Elst Kjell",
+    "Van Quickenborne Vincent",
+    "Van Tigchelt Paul"
+   ]
+  }
+ }
+}

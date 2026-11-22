@@ -1,0 +1,4176 @@
+{
+ "source": {
+  "type": "plenary",
+  "legislature": 56,
+  "session": 72,
+  "url": "https://www.dekamer.be/doc/PCRI/html/56/ip072x.html",
+  "date": "2025-11-13",
+  "part": "evening",
+  "provisional": false
+ },
+ "items": [
+  {
+   "number": "01",
+   "section": {
+    "nl": "Interpellaties",
+    "fr": "Interpellations"
+   },
+   "title": {
+    "nl": "Interpellations jointes de",
+    "fr": "Samengevoegde interpellaties van"
+   },
+   "subtitles": {
+    "nl": [
+     "Nadia Moscufo à David Clarinval (VPM Emploi, Économie et Agriculture) sur \"Les propos du ministre Clarinval concernant le chômage\" (56000185I)",
+     "Sarah Schlitz aan David Clarinval (VEM Werk, Economie en Landbouw) over \"De antwoorden van de minister in de Kamer over de brieven aan werklozen die hun uitkering verliezen\" (56000182I)"
+    ],
+    "fr": [
+     "Sarah Schlitz à David Clarinval (VPM Emploi, Économie et Agriculture) sur \"Les réponses du ministre à la Chambre dans l’affaire des courriers aux exclus du chômage\" (56000182I)",
+     "Nadia Moscufo aan David Clarinval (VEM Werk, Economie en Landbouw) over \"De uitspraken van minister Clarinval over de werkloosheid\" (56000185I)"
+    ]
+   },
+   "docs": [],
+   "events": [
+    {
+     "type": "speech",
+     "id": "01.01",
+     "name": "Sarah Schlitz",
+     "party": "Ecolo-Groen",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le ministre, la semaine dernière, suite à pas mal d'efforts de la part de mes collègues et moi-même, vous êtes venu expliquer votre rôle dans deux polémiques survenues deux semaines plus tôt.",
+      "Pour rappel, vous avez fortement réagi sur les réseaux sociaux par voie de communiqués de presse à propos d'une manipulation des syndicats, que vous avez qualifiée d'inacceptable, destinée à faire peur aux gens, avec pour seul objectif de les pousser à aller manifester. Il s'est ensuite avéré que ce ne sont pas les syndicats qui ont transmis une information incorrecte, mais bien le contact center de l'ONEM qui ne disposait manifestement pas des informations correctes sur le dossier de cette affilée à la CSC.",
+      "Dans la tourmente, vous avez décidé d'initier une autre polémique en publiant dans la presse des informations erronées sur la nationalité des exclus du chômage. Vous vous êtes donc rendu sur les ondes de Bel RTL pour déclarer que: \"57% des exclus du chômage sont d'origine étrangère\", ce qui revient en réalité à dire que moins de la moitié sont belges.",
+      "C'est donc à partir de ces deux éléments que nous vous avons convoqué la semaine dernière au Parlement. Vous avez dès lors justifié vos propos sur la première affaire, à savoir celle des courriers des syndicats, en déclarant – c'est important –. que: \"L'imprécision telle que vous serez exclu du chômage dès 2026, à la veille d'une manifestation nationale, a pu nourrir l'inquiétude\", et c'est précisément ce qu'a exprimé Mme Zanin, qui s'est sentie instrumentalisée dans un débat politique. Or, monsieur le ministre, c'est le 23 octobre que Mme Zanin a elle-même, dans sa vidéo, dit avoir reçu ce courrier, soit neuf jours après la manifestation nationale du 14 octobre.",
+      "Alors, pourquoi avoir déclaré que ce courrier était parvenu à Mme Zanin la veille d’une manifestation nationale? De quelle manifestation nationale parlez-vous, dans ce cas?",
+      "Monsieur le ministre, par ailleurs, je n’ai pas obtenu de réponse à plusieurs des questions que je vous avais pourtant adressées préalablement vu qu'elles étaient initialement destinées à un échange en commission. Ces questions sont pourtant cruciales pour faire toute la lumière sur cette affaire. Je vais donc les poser à nouveau, avec plus de précision.",
+      "Premièrement, pourquoi avoir publié un communiqué de presse 44 minutes après la diffusion du justificatif de la CSC – également par voie de presse?",
+      "Deuxièmement, pour quelles raisons aviez-vous invité les demandeurs d’emploi à se tourner vers le contact center de l’ONEM, alors même que cette affaire venait de révéler que ce service ne fournit pas d’informations correctes aux personnes concernées et que ce sont bien les syndicats qui informent correctement les demandeurs d’emploi exclus de leurs droits – notamment du droit à la formation?",
+      "Troisièmement, pourquoi le contact center de l’ONEM ne dispose-t-il pas des informations correctes pour informer les personnes de leur situation? Était-ce une erreur humaine? L’ONEM dispose-t-il bien des données concernant les six vagues d'exclus? Ou est-ce le contact center qui n’a pas accès à ces informations? Pouvez-vous nous expliquer ce qu’il s’est passé et ce que vous avez mis en place pour que cela ne se reproduise plus?",
+      "Par ailleurs, vous avez également déclaré que \"certains syndicats ont diffusé des messages à leurs affiliés avant même que l’ONEM ne s’adresse officiellement à ces demandeurs d’emploi et alors qu’un calendrier avait été fixé au sein du comité de gestion de l’ONEM, en concertation avec ces mêmes syndicats\". J’ai été surprise de découvrir ces informations la semaine dernière. Pouvez-vous me dire quelle était votre intention en nous révélant cela? Les syndicats avaient-ils accepté ce calendrier, selon vos informations? S’étaient-ils engagés à ne pas communiquer avant l’envoi du courrier de l’ONEM?",
+      "Enfin, pourquoi ce calendrier a-t-il été fixé de cette manière? Car, dans les faits, pour les vagues 3, 4, 5 et 6, les personnes concernées n’ont pas été informées à temps pour pouvoir s’inscrire à une formation qui leur aurait permis d’échapper à l’exclusion. Pourquoi dès lors avoir choisi un tel calendrier?",
+      "Par ailleurs, ne considérez-vous pas que les syndicats ont rempli leur rôle lorsqu'ils ont décidé d'informer leurs affiliés dans les temps pour leur permettre de s'inscrire à une formation en pénurie avant la fin de leurs allocations de chômage? N'était-ce pas du reste l'exact but de cette réforme que d'inciter à l'activation professionnelle dont vous-même prônez la formation comme le premier pas?",
+      "Enfin, je vous ai également demandé de me transmettre les communications échangées entre la presse et votre cabinet à propos des chiffres sur l'origine des demandeurs d'emploi exclus. Nous n'avons toujours pas reçu ces courriers.",
+      "Par ailleurs, pourquoi n'avez-vous pas communiqué à la presse l'ensemble des éléments contenus dans la question de Mme Thémont, qui, au-delà de l'origine des demandeurs d'emploi exclus, portaient également sur l'âge ou le handicap, notamment?",
+      "J'espère obtenir davantage de réponses à mes questions que la semaine dernière, monsieur le ministre."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "01.02",
+     "name": "Nadia Moscufo",
+     "party": "PVDA-PTB",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le ministre, cela va toujours? C'est bien. Nous aussi.",
+      "La semaine dernière, nous vous avons interrogé à propos de deux fake news que vous aviez propagées.",
+      "La première, c'est lorsque vous aviez dit que plus d'un chômeur sur deux qui allait être exclu au cours des deux prochaines années était d'origine étrangère. Or, en réalité, moins de la moitié sont belges. Vous avez fait cette déclaration alors que vous savez très bien que c'est faux. Je vous le redis. Du reste, vous nous avez vous-même transmis les vrais chiffres. Je vous les retransmettrai ensuite pour que vous les relisiez: huit exclus sur dix sont bien belges, d'après les bons chiffres.",
+      "La deuxième fake news est votre utilisation de la vidéo d'une journaliste partageant sur les réseaux sociaux qu'elle avait reçu une lettre de son syndicat qui évoquait la fin de ses droits au chômage en 2026. Elle y exprimait son inquiétude. Prise de panique, elle a appelé l'ONEM, qui lui a dit de ne pas s'inquiéter. Vous, sans vérifier quoi que ce soit, vous avez utilisé cela en écrivant que les syndicats faisaient preuve de désinformation massive et de manipulation. C'est grave, monsieur le ministre. D'abord parce que c'est faux. Il faut bien relire la lettre des syndicats. Et puis, c'est grave parce que c'est une attaque en règle contre les syndicats. Je ne sais pas si vous avez déjà eu l'occasion dans votre vie de travailler pour un patron et si vous avez déjà eu l'occasion d'avoir eu besoin des syndicats. Ce fut mon cas, à tel point que je suis devenue déléguée. Vous savez quel est le premier travail d'un délégué syndical? C'est informer ses affiliés de leurs droits et les accompagner. Vous, quand le syndicat joue son rôle fondamental, vous parlez de \"manipulation pour faire peur aux gens\".",
+      "Sachez, monsieur le ministre, que vous n'avez pas besoin de gens pour faire peur aux gens, parce que vous-même, vous faites déjà peur aux gens avec des propos mensongers et lorsque vous défendez vos réformes injustes.",
+      "En ce qui concerne l'amalgame entre nationalité et origine, vous avez présenté la semaine dernière ici même vos excuses et avez reconnu que vous aviez commis une erreur. Monsieur le ministre, présenterez-vous vos excuses sur Bel RTL? C'est quand même là que vous avez pris un malin plaisir à raconter vos mensonges. Et quant à votre \"erreur\", je vous l'ai déjà dit, nous ne croyons pas que c'en est une. Nous pensons que c'est une stratégie profonde, non pas seulement de votre part en tant que ministre, mais de tout l'Arizona.",
+      "Vous avez d'ailleurs vous-même transmis des chiffres à la presse alors que vous saviez très bien que vous n'en aviez pas le droit. Monsieur le ministre, vous saviez que vous n'aviez pas le droit de transmettre ces chiffres. Vous devrez vous justifier.",
+      "En ce qui concerne vos propos insultants contre la CSC en l'occurrence, non seulement vous les avez maintenus, mais vous avez continué à taper sur le clou en disant que vous n'étiez pas d'accord avec l'imprécision du message indiqué dans le courrier, qu'il créerait la confusion. Or la confusion, c'est vous qui l'avez créée.",
+      "L'ONEM est sous votre autorité. Vous avez le devoir de vous assurer que les travailleurs de l'ONEM aient en leur possession toutes les informations nécessaires pour qu'ils puissent les transmettre aux personnes concernées. Dans le cas précis, les personnes du call center n'avaient pas suffisamment d'informations pour renseigner les personnes concernées. C'est votre responsabilité. Vous avez même reproché aux syndicats d'envoyer les courriers alertant leurs affiliés d'une éventuelle exclusion trop tôt.",
+      "Vous rendez-vous compte de ce que vous dites? Auriez-vous souhaité que les syndicats envoient la lettre après que les gens soient exclus?",
+      "Monsieur le ministre, comment se fait-il que la presse ait été informée à l'avance des chiffres, alors que la réponse à la question écrite de Mme Thémont devait rester sous embargo pendant 10 jours? Comment justifiez-vous cela ? Il vous a aussi été demandé de fournir tous les échanges que votre cabinet ou vous-même avez eus avec la presse à ce sujet.",
+      "Concernant les propos envers les syndicats, la lettre envoyée par la CSC peut-elle prouver ce que vous dites, à savoir que les syndicats sont pris en flagrant délit de manipulation et feraient de la désinformation massive? Vous allez même plus loin en disant que certains syndicats manipulent les chiffres. Si cette lettre ne prouve en rien ce que vous avez déclaré, alors vous devez retirer publiquement vos propos et reconnaître que vous avez (...)"
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Le président : Je vous remercie, madame Moscufo."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Chers collègues, la semaine passée, il y a également eu des interpellations. Il est clair que le ministre ne doit répondre qu'aux faits nouveaux."
+    },
+    {
+     "type": "speech",
+     "id": "01.03",
+     "name": "David Clarinval",
+     "party": null,
+     "role": "government",
+     "title": "ministre",
+     "lang": "fr",
+     "paragraphs": [
+      "Madame Schlitz, madame Moscufo, vous m'interrogez à nouveau en séance, d'une part, sur la ligne du temps et les décisions prises en comité de gestion de l'ONEM pour organiser la communication vis-à-vis des allocataires sociaux dans le cadre de la loi sur l'exclusion du chômage. D'autre part, vous m'interrogez sur les échanges avec la presse dans le cadre de ma réponse parlementaire écrite à Mme Thémont sur les statistiques des chercheurs d'emploi et leur origine. Il semble que vous mélangez dans vos questions des éléments contenus dans les deux interpellations développées ici même lors de la séance de la semaine dernière.",
+      "Je vous rappelle que j'ai déjà, la semaine dernière, très clairement et honnêtement exposé les éléments de la ligne du temps et les éléments de la communication avec la presse dans mes réponses à vos interpellations. J'ai donc déjà répondu complètement à toutes vos questions la semaine dernière. Je n'ai donc plus rien à ajouter à ce que j'ai dit lors de la séance plénière.",
+      "En ce qui concerne la mise à disposition de documents émanant de l'ONEM, je vous annonce, mesdames les députées, que je vais écrire personnellement à l'ONEM pour lui demander que l'administration vous transmette le procès-verbal du comité de gestion, dans le respect évidemment des obligations légales en matière de protection de la vie privée, le cas échéant. Pour plus de détails sur cette affaire, je vous invite à vous référer au rapport écrit de la séance passée.",
+      "Je vous remercie pour vos interpellations."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "01.04",
+     "name": "Benoît Piedboeuf",
+     "party": "MR",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le ministre, nous venons d’avoir la démonstration qu’en fait, ces interpellations étaient totalement irrecevables. C’est exactement le même thème que la semaine dernière. Il n’y a pas d’élément nouveau. On a patouillé un petit peu. On a essayé de faire croire; mais il n’y a rien de nouveau par rapport à ce qui a été fait. Ces interpellations étaient donc irrecevables."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Le président : Il était censé y avoir des éléments nouveaux. Il se pourrait qu’ils m’aient échappé, mais je n’en ai pas trouvés, pour être honnête."
+    },
+    {
+     "type": "speech",
+     "id": "01.05",
+     "name": "Sarah Schlitz",
+     "party": "Ecolo-Groen",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Chers collègues, je comprends bien le malaise que cette histoire fait peser sur vous, et par ailleurs qu'il soit tardif, et donc que vous ayez envie que cette séance se termine. Néanmoins, je vous rappelle que j'ai personnellement déposé des questions en commission. Vos collègues de la majorité ont refusé que nous organisions une séance en commission et ont préféré que nous passions par des interpellations en séance plénière.",
+      "Soit, je me suis plié à cette décision en vous interpellant. Néanmoins, ces questions étaient introduites. Je n'ai pas à ce jour reçu les réponses à l'ensemble de mes questions, loin de là. J'ai donc réintroduit une série de questions aujourd'hui qui, de nouveau, ne reçoivent pas de réponses. C'est donc quand même interpellant, parce que dans le rôle du contrôle des parlementaires envers les ministres, vous êtes censé, monsieur le ministre, répondre à mes questions. Voilà donc le premier élément.",
+      "Deuxièmement, vous ne répondez pas à ma question vous demandant de quelle manifestation vous parlez quand vous dites: \"à la veille d'une manifestation nationale\". Dès lors, soit vous me confirmez qu'il n'y avait pas de manifestation nationale le lendemain de l'envoi du courrier, ce qui confirmerait que vous avez menti; soit vous me parlez de cette manifestation et on comprendrait alors où vous voulez en venir. Mais dans le cas présent, vous ne répondez pas à cette question. Je ne peux donc que conclure, monsieur le ministre, que vous avez menti.",
+      "(…) : (…)"
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "01.06",
+     "name": "Sarah Schlitz",
+     "party": "Ecolo-Groen",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Mais c'est la vérité, monsieur Piedboeuf! Vous l'avez entendu comme moi, et M. Clarinval persiste et signe à dire que le courrier a été envoyé la veille d'une manifestation nationale alors que c'est entièrement faux.",
+      "Ensuite, je vois bien qu'il y a un dernier élément sur lequel vous m'avez proposé très rapidement de me transmettre les documents de l'ONEM. Je vous remercie et les analyserai avec attention. Par contre, nous attendons toujours les e-mails transmis par votre cabinet à la presse.",
+      "Si vous ne nous les transmettez pas, nous activerons une procédure relevant de la transparence des cabinets."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "01.07",
+     "name": "Georges-Louis Bouchez",
+     "party": "MR",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "(…)"
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "01.08",
+     "name": "Sarah Schlitz",
+     "party": "Ecolo-Groen",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur Bouchez, si M. Clarinval ne souhaite pas transmettre ces documents par lui-même, nous serons obligés d'activer cette clause de façon à faire toute la lumière sur les informations trompeuses qu'il a transmises à la presse, et donc aux citoyens.",
+      "Je dépose, monsieur le président, une motion de recommandation."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "01.09",
+     "name": "Nadia Moscufo",
+     "party": "PVDA-PTB",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le ministre, je profiterai de cette interpellation pour redire quelques éléments essentiels de notre vision en tant que parti.",
+      "Vous savez que nous nous appelons le Parti du Travail. Pour nous en effet, le travail a une valeur essentielle et émancipatrice. Le travail doit permettre un pouvoir d'achat garantissant une vie digne dans le respect des droits fondamentaux: le droit de se loger, de se soigner, de financer les études de ses enfants, le droit à l'énergie. Comme parti du travail, nous avons le respect du travail et le respect des travailleurs. Ce travail doit donner droit à une justice sociale et à une fiscalité juste. Il doit donner droit à la pension et au repos. Il doit garantir le droit des travailleurs et le droit des femmes.",
+      "Votre gouvernement Arizona a sa propre vision de la valeur travail: un travail mal payé en raison du blocage des salaires, un travail flexible qui ne permet pas de le concilier avec la vie de famille, un travail qui rend les gens malades. Avec l'Arizona, voilà comment vous traitez les travailleurs: en leur volant leur droit au repos, en volant nos pensions.",
+      "Votre réforme, qui veut exclure les gens après deux ans, s’inscrit dans votre stratégie visant à attaquer le monde du travail de ce pays, pour faire diminuer l’ensemble des salaires et augmenter la concurrence, de manière à ce que les gens qui n’ont plus rien acceptent des emplois à n’importe quel prix.",
+      "Les travailleurs de ce pays l'ont bien compris et c'est pour cette raison qu'ils se mettront en grève les 24, 25 et 26 novembre prochains. Oui, nous pouvons les applaudir parce que, face à votre outil de la division, ma classe a l'outil de la solidarité et de la lutte.",
+      "Concernant votre réforme d'exclusion, les CPAS attendent toujours la compensation que vous aviez promise. Tout récemment, les CPAS et le ministre bruxellois ont tiré la sonnette d'alarme: les moyens supplémentaires que vous avez promis ne sont toujours pas là. Les travailleurs des CPAS ne feront pas seulement face à des difficultés, mais à une véritable impossibilité d’accueillir les demandeurs qui vont arriver.",
+      "C’est pourquoi nous allons déposer une motion de recommandation dans laquelle nous vous demandons explicitement de publier un rectificatif public pour adresser des excuses formelles aux organisations syndicales pour vos propos mensongers et diffamatoires, et de rendre publics et transparents les échanges que vous avez eus avec les journalistes. Nous vous y demandons également de mettre votre réforme d’exclusion des chômeurs à la poubelle."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Le président : La parole est à M. Piedboeuf."
+    },
+    {
+     "type": "speech",
+     "id": "01.10",
+     "name": "Benoît Piedboeuf",
+     "party": "MR",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Je vous remercie, monsieur le président."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "01.11",
+     "name": "Nadia Moscufo",
+     "party": "PVDA-PTB",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "(…)"
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Le président : Madame Moscufo, vous avez conclu votre intervention en indiquant que vous déposiez une motion de recommandation."
+    },
+    {
+     "type": "speech",
+     "id": "01.12",
+     "name": "Nadia Moscufo",
+     "party": "PVDA-PTB",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "(…)"
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Le président : Je vous accorde encore une minute."
+    },
+    {
+     "type": "speech",
+     "id": "01.13",
+     "name": "Nadia Moscufo",
+     "party": "PVDA-PTB",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur Bouchez, arrêtez, arrêtez de dire que nous sommes le parti des assistés. Les assistés dans ce pays, ce sont les gens comme vous et vos amis que vous protégez, les multinationales qui s'en mettent plein les poches sur la sueur des 4,5 millions de travailleurs de ce pays.",
+      "Nous sommes le parti du travail qui défend la valeur émancipatrice du travail. Et vous, vous défendez le salaire mal payé en bloquant les salaires, monsieur Bouchez."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "01.14",
+     "name": "Georges-Louis Bouchez",
+     "party": "MR",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Vous savez, madame, je trouve assez extraordinaire que vous et votre groupe n’ayez pas créé un seul emploi et n’ayez pas contribué un seul euro au fonctionnement de l'économie. Vous n'avez jamais rien géré, rien créé. La seule chose que vous faites, c'est bloquer le pays. C'est la seule chose que vous savez faire.",
+      "Vous n'êtes certainement pas le parti du travail. Vous êtes le parti de la taxe et du baratin; parce que vos seules solutions, c'est de taxer et de raconter des mensonges.",
+      "Vous savez, madame, contrairement à vous – et je l'assume –, je n'oppose pas les multinationales et les investisseurs aux travailleurs; parce qu'une société, pour fonctionner, a besoin de chacune et chacun.",
+      "Votre projet divise, appauvrit. Il suffit de voir là où la gauche est prédominante, dans des régions comme Mons, Charleroi ou Liège, pour voir le bilan. Vous, vous préconisez la même chose, en pire.",
+      "Nous n’avons aucune leçon à recevoir, mais nous retenons une chose, c'est que vous êtes le parti du chômage à vie. Que les gens le sachent aujourd'hui! Vous ne méritez certainement pas le titre de parti du travail. Le vrai parti du travail, ce sont celles et ceux qui créent des règles pour récompenser les gens qui se lèvent tôt et qui financent la sécurité sociale."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "01.15",
+     "name": "Nadia Moscufo",
+     "party": "PVDA-PTB",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Comme parti du travail, nous défendons la lutte sociale comme moteur pour obtenir des droits et des emplois pour les travailleurs. Dans le soutien à la lutte sociale, nous défendons les organisations syndicales. Vous prétendez que le monde du travail ne crée pas d'emplois, mais il crée la richesse dans ce pays, monsieur Bouchez.",
+      "Je vais vous raconter une histoire sociale assez extraordinaire. À Herstal, une lutte a été menée pendant plusieurs semaines dans une entreprise qui s'appelle Safran pour défendre le droit au repos pour des gens qui étaient usés. Si mes souvenirs sont bons, une cinquantaine de personnes pouvaient partir en prépension. Il y eut six semaines de grève, sans salaire, monsieur Bouchez! Et vous savez ce qu'ont fait les gens là-bas? Ils ont associé le droit à la prépension à l'engagement de jeunes, avec un CDI, dans cette entreprise qui est le fleuron de notre région. Ce ne sont pas les actionnaires qui ont créé des emplois, mais bien la solidarité entre les générations qui a fait que les expérimentés ont pu se reposer avant de crever sur leur lieu de travail et que leurs enfants ont pu être engagés en contrat à durée indéterminée! Vous savez quel est votre problème? (…)"
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Le président : Je vous remercie, chère collègue. (Tumulte)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Revenons à l'ordre du jour. M. Piedboeuf a la parole."
+    },
+    {
+     "type": "speech",
+     "id": "01.16",
+     "name": "Benoît Piedboeuf",
+     "party": "MR",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le président, j'ai déposé une motion pure et simple pour laquelle je sollicite l'urgence.",
+      "Je l'ai fait pour mettre fin à cette pantalonnade, parce que c'en est vraiment une! Je regrette que les interpellatrices aient abusé des services et de vous, monsieur le président, en prétextant un élément neuf qui n'existait pas. C'est pour cela qu'on a assisté à une espèce de cirque qui est en fait un cirque militant. Je le regrette beaucoup, et j'ai donc déposé une motion pure et simple. Je vous remercie d'avance de lui accorder l'urgence."
+     ]
+    },
+    {
+     "type": "heading",
+     "level": 3,
+     "nl": "Moties",
+     "fr": "Motions"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Tot besluit van deze bespreking werden volgende moties ingediend."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "En conclusion de cette discussion, les motions suivantes ont été déposées."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Een eerste motie van aanbeveling werd ingediend door mevrouw Sarah Schlitz en luidt als volgt:"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "\"De Kamer,"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "gehoord de interpellaties van de dames Sarah Schlitz en Nadia Moscufo"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "en het antwoord van de vice-eersteminister en minister van Werk, Economie en Landbouw,"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "- gelet op de uitspraken van de minister over de brief met informatie die de vakbonden stuurden naar hun leden die hun werkloosheidsuitkering zullen verliezen, enerzijds, en over de personen die van die uitkeringen zullen worden uitgesloten, waarbij hij geen onderscheid maakte tussen de afkomst en de nationaliteit van de betrokkenen, anderzijds;"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "- gelet op de ontoereikende, onvolledige en soms onjuiste antwoorden van minister Clarinval op de interpellaties van vele parlementsleden op 6 november 2025;"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "verzoekt de regering onmiddellijk"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "- met spoed maatregelen te nemen om de toegang tot werk voor personen met een of meer beschermde criteria te verbeteren;"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "- de hervorming van de werkloosheidsreglementering op te schorten voor mensen die werken en voor groepen die vaak worden uitgesloten op de arbeidsmarkt;"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "- de notulen van het beheerscomité van de RVA waarin het tijdschema dat door de vakbonden en de RVA zou zijn vastgelegd voor de verspreiding van informatie aan degenen die binnenkort als gevolg van de hervorming zullen worden uitgesloten van werkloosheidsuitkeringen te publiceren of aan de parlementsleden mee te delen;"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "- alle communicatie tussen het kabinet van minister Clarinval en de persgroepen over de afkomst van de werkzoekenden die als gevolg van de hervorming zullen worden uitgesloten van werkloosheidsuitkeringen te publiceren of aan de parlementsleden te bezorgen.\""
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Une première motion de recommandation a été déposée par Mme Sarah Schlitz et est libellée comme suit:"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "\" La Chambre,"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "ayant entendu les interpellations de Mmes Sarah Schlitz et Nadia Moscufo"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "et la réponse du vice-premier ministre et ministre de l'Emploi, de l'Économie et de l'Agriculture,"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "- au vu des propos exprimés du ministre au sujet des courriers informatifs des syndicats aux affiliés qui perdront leurs allocations de chômage d'une part, et au sujet de l'amalgame entre l'origine et la nationalité des personnes exclues de ces allocations de l'autre part;"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "- au vu des réponses inadéquates, incomplètes et parfois fausses du ministre Clarinval suite aux interpellations de nombreux parlementaires le 6 novembre dernier;"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "demande immédiatement au gouvernement"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "- d'adopter de toute urgence des mesures pour renforcer l'insertion des personnes avec un ou plusieurs critères protégés;"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "- de suspendre la réforme du chômage pour les personnes qui travaillent et les publics à haut taux d'exclusion sur le marché de l'emploi;"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "- que le procès-verbal du comité de gestion de l'ONEM qui invoque le calendrier qui aurait été fixé entre les syndicats et l'ONEM sur la diffusion des informations aux futurs exclus de la réforme du chômage soit publié ou communiqué aux parlementaires;"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "- que toute communication entre le cabinet du ministre Clarinval et les groupes de presse au sujet de l'origine des personnes demandeuses d'emploi qui seront exclues par la réforme du chômage, soit publiée ou communiquée aux parlementaires.\""
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Een tweede motie van aanbeveling werd ingediend door mevrouw Nadia Moscufo en luidt als volgt:"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "\"De Kamer,"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "gehoord de interpellaties van de dames Sarah Schlitz en Nadia Moscufo"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "en het antwoord van de vice-eersteminister en minister van Werk, Economie en Landbouw,"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "- overwegende dat de regeringsleden verantwoordelijk zijn voor de verklaringen die ze in het openbaar afleggen,"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "- overwegende dat de minister die met name bevoegd is voor het sociaal overleg op 25 oktober 2025 een vakbond ten onrechte van 'manipulatie' en 'georganiseerde desinformatie op grote schaal' beschuldigd heeft,"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "- gelet op de ernstige impact van deze openbare verklaringen: besmeuring van de reputatie van de vakbonden, risico op inmenging in de vakbondsvrijheid, toenemende ongerustheid bij de betrokkenen en belemmering van de toegang tot beschermingsmechanismen,"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "- overwegende dat de minister de antwoorden op een schriftelijke parlementaire vraag bovendien vóór het verstrijken van de wettelijke termijn aan de pers bekendgemaakt heeft,"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "- overwegende dat de minister dit lek georganiseerd heeft om een deel van de werkzoekenden te stigmatiseren,"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "- overwegende dat de hervorming van het werkloosheidsstelsel ertoe zal leiden dat de werklozen in de armoede terechtkomen en niet dat ze opnieuw aan het werk gaan,"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "vraagt de regering"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "- een publieke rechtzetting en formele verontschuldigingen ten aanzien van de vakbonden te publiceren voor de onjuiste en lasterlijke uitspraken van de minister;"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "- de communicatie die de minister met de journalisten gevoerd heeft, op transparante wijze openbaar te maken;"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "- de hervorming van het werkloosheidsstelsel niet uit te voeren en veeleer in opleiding, begeleiding op maat en het scheppen van kwaliteitsvolle banen te investeren.\""
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Une deuxième motion de recommandation a été déposée par Mme Nadia Moscufo et est libellée comme suit:"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "\" La Chambre,"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "ayant entendu les interpellations de Mmes Sarah Schlitz et Nadia Moscufo"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "et la réponse du vice-premier ministre et ministre de l'Emploi, de l'Économie et de l'Agriculture,"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "- considérant la responsabilité qui incombe aux membres du gouvernement dans leurs déclarations publiques;"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "- considérant que, le 25 octobre 2025, le ministre, notamment en charge de la concertation sociale, a accusé – à tort – un syndicat de 'manipulation' et de 'désinformation massive organisée';"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "- considérant l'impact grave de cette déclaration publique: atteinte à la réputation des organisations syndicales, risque d'ingérence dans la liberté syndicale, accroissement de l'anxiété des personnes concernées et entrave à l'accès à des dispositifs de protection;"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "- considérant, par ailleurs, que le ministre a divulgué à la presse les réponses à une question parlementaire écrite avant l'expiration du délai réglementaire;"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "- considérant que le ministre a orchestré cette fuite dans le but de stigmatiser une partie des demandeurs d'emploi;"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "- considérant que la réforme du chômage précarisera les demandeurs d'emploi plutôt que de les remettre au travail;"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "demande au gouvernement"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "- de publier un rectificatif public ainsi que des excuses formelles à l'égard des organisations syndicales pour les propos mensongers et diffamatoires du ministre;"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "- de rendre publics, en toute transparence, les échanges que le ministre a eus avec les journalistes;"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "- de ne pas mettre en œuvre la réforme du chômage et de privilégier plutôt l'investissement dans la formation, l'accompagnement sur mesure et la création d'emplois de qualité.\""
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Een eenvoudige motie werd ingediend door de heren Benoît Piedboeuf, Axel Ronse en Oskar Seuntjens en door de dames Nawal Farih en Aurore Tourneur."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Une motion pure et simple a été déposée par MM. Benoît Piedboeuf, Axel Ronse et Oskar Seuntjens et Mmes Nawal Farih et Aurore Tourneur ."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Aangezien de urgentie voor de eenvoudige motie werd gevraagd, stel ik voor dat de Kamer zich straks over deze moties uitspreekt. (art. 140, nr. 6, tweede lid, Rgt.)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Étant donné que l'urgence de la motion pure et simple a été demandée, je propose que la Chambre se prononce sur ces motions tout à l'heure. (art. 140, n° 6, deuxième alinéa, Rgt.)"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Geen bezwaar? (Nee)"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Aldus zal geschieden."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Pas d'observation? (Non)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Il en sera ainsi."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De bespreking is gesloten."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "La discussion est close."
+    }
+   ]
+  },
+  {
+   "number": "02",
+   "section": {
+    "nl": "Geheime stemming (voortzetting)",
+    "fr": "Scrutin secret (continuation)"
+   },
+   "title": {
+    "nl": "Comité I – Benoeming van het Nederlandstalig plaatsvervangend lid – Uitslag van de stemming",
+    "fr": "Comité R – Nomination du membre suppléant néerlandophone – Résultat du scrutin"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Stemmen"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "108"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Votants"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Blanco of ongeldig"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "0"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Blancs ou nuls"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Geldig"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "108"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Valables"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Volstrekte meerderheid"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "55"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Majorité absolue"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De heer Michiel Beek heeft 13 stemmen gekregen."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "M. Michiel Beek a obtenu 13 voix."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De heer Dirk Van der Kelen heeft 95 stemmen gekregen."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "M. Dirk Van der Kelen a obtenu 95 voix."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Aangezien de heer Dirk Van der Kelen de volstrekte meerderheid van de stemmen heeft gekregen, wordt hij benoemd tot Nederlandstalig plaatsvervangend lid van de heer Filip Vanneste, werkend lid van het Vast Comité van toezicht op de inlichtingen- en veiligheidsdiensten."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Vu que M. Dirk Van der Kelen a obtenu la majorité absolue des voix, il est nommé en qualité de membre suppléant néerlandophone de M. Filip Vanneste, membre effectif du Comité permanent de contrôle des services de renseignement et de sécurité."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Geen bezwaar? ( Nee)"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Aldus zal geschieden."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Pas d'observation? (Non)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Il en sera ainsi."
+    }
+   ]
+  },
+  {
+   "number": "03",
+   "section": {
+    "nl": "Geheime stemming (voortzetting)",
+    "fr": "Scrutin secret (continuation)"
+   },
+   "title": {
+    "nl": "Informatieveiligheidscomité – Benoeming van twee werkende leden",
+    "fr": "Comité de sécurité de l'information – Nomination de deux membres effectifs"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De Kamer dient over te gaan tot de benoeming van twee werkende leden van het Informatieveiligheidscomité voor de openstaande mandaten van deskundige inzake elektronisch identiteitsbeheer, en van doctor, licentiaat of master in de rechten, deskundig op het vlak van sociaal recht of gezondheidsrecht."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "La Chambre doit procéder à la nomination de deux membres effectifs du Comité de sécurité de l'information pour les mandats vacants d'expert en gestion électronique des identités et de docteur, licencié ou master en droit, expert en droit social ou en droit de la santé."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Overeenkomstig artikel 4 van de wet van 5 september 2018 tot oprichting van het Informatieveiligheidscomité worden de leden benoemd door de Kamer op voordracht van de ministerraad."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Conformément à l'article 4 de la loi du 5 septembre 2018 instituant le Comité de sécurité de l'information, les membres sont nommés par la Chambre des représentants sur présentation du Conseil des ministres."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Overeenkomstig de beslissing van de plenaire vergadering van 6 november 2025 werden de voordracht van de ministerraad en de kandidaturen voor de twee openstaande mandaten overgezonden aan de politieke fracties."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Conformément à la décision de la séance plénière du 6 novembre 2025, la présentation du Conseil des ministres et les candidatures pour les deux mandats vacants ont été envoyées aux groupes politiques."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Aangezien er evenveel kandidaten zijn als het totale aantal te begeven mandaten, dient de Kamer niet over te gaan tot een geheime stemming."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Vu qu'il y a autant de candidats que le nombre total de mandats à pourvoir, la Chambre ne doit pas procéder à un scrutin secret."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Overeenkomstig het advies van de Conferentie van voorzitters van 5 november 2025, stel ik u bijgevolg voor om, met toepassing van artikel 157, nr. 6, van het Kamerreglement, de heer Jean Ramaekers en mevrouw Anne-Sophie Sturbois te benoemen tot werkend lid van het Informatieveiligheidscomité in de hoedanigheid van respectievelijk deskundige inzake elektronisch identiteitsbeheer, en doctor, licentiaat of master in de rechten deskundig op het vlak van sociaal recht of gezondheidsrecht."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Conformément à l'avis de la Conférence des présidents du 5 novembre 2025, je vous propose en conséquence, en application de l'article 157, n° 6, du Règlement de la Chambre, de nommer M. Jean Ramaekers et Mme Anne-Sophie Sturbois comme membres effectifs du Comité de sécurité de l'information, respectivement en qualité d'expert en gestion électronique des identités, et de docteur, licenciée ou master en droit, experte en droit social ou en droit de la santé."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Geen bezwaar? (Nee)"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Aldus zal geschieden."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Pas d'observation? (Non)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Il en sera ainsi."
+    }
+   ]
+  },
+  {
+   "number": "04",
+   "section": {
+    "nl": "Geheime stemming (voortzetting)",
+    "fr": "Scrutin secret (continuation)"
+   },
+   "title": {
+    "nl": "Urgentieverzoek van de regering",
+    "fr": "Demande d'urgence émanant du gouvernement"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De regering heeft de urgentieverklaring gevraagd met toepassing van artikel 51 van het Reglement, bij de indiening van het wetsontwerp tot wijziging van de wet inzake overheidsopdrachten aangaande bijzondere maatregelen voor overheidsopdrachten voor grensoverschrijdende projecten die verband houden met het trans-Europees vervoersnetwerk, nr. 1149/1."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Le gouvernement a demandé l'urgence conformément à l'article 51 du Règlement lors du dépôt du projet de loi modifiant la loi relative aux marchés publics concernant des mesures particulières applicables aux marchés publics pour des projets transfrontaliers liés au réseau transeuropéen de transport, n° 1149/1."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Ik geef het woord aan de regering om de vraag tot urgentieverklaring toe te lichten."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Je passe la parole au gouvernement pour développer la demande d'urgence."
+    },
+    {
+     "type": "speech",
+     "id": "04.01",
+     "name": "Anneleen Van Bossuyt",
+     "party": null,
+     "role": "government",
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de voorzitter, in naam van de eerste minister vraag ik de urgentie volgens artikel 51 van het Kamerreglement voor wetsontwerp nr. 1149. In dit dossier moeten een aantal artikelen van een Europese richtlijn worden omgezet, namelijk de artikelen 1, 8, 9, en de bijlage van richtlijn 2021/1187EU van het Europees Parlement en de Raad van 7 juli 2021 inzake het stroomlijnen van maatregelen met het oog op een snellere voltooiing van het trans-Europees vervoersnetwerk.",
+      "Het verzoek voor urgentieverklaring is ingegeven door het feit dat de Europese Commissie voor de betrokken richtlijn ondertussen een inbreukprocedure heeft ingeleid. Er blijkt zich een aanhoudend probleem voor te doen voor de omzetting van die artikelen.",
+      "Op 12 februari 2025 heeft de Europese Commissie een met redenen omkleed advies verstuurd naar het Koninkrijk België waarin werd aangegeven dat België niet de nodige wettelijke, reglementaire en administratieve bepalingen had genomen om zich in overeenstemming te brengen met de richtlijn die ik zonet heb vernoemd, terwijl de omzettingstermijn verstreken is op 10 augustus 2023.",
+      "Le 17 juillet 2025, la Commission européenne a émis un avis complémentaire motivé.",
+      "De nodige stappen moeten worden gezet om de wetgeving inzake overheidsopdrachten zo snel mogelijk in overeenstemming te brengen met de bepalingen van de om te zetten richtlijn, meer bepaald de artikelen 1, 8, 9 en de bijlage van de vermelde richtlijn.",
+      "Il est d'une importance capitale que ce projet de loi soit examiné par la Chambre des représentants dans les plus brefs délais, et ce afin d'éviter les amendes que la Commission européenne pourrait imposer au Royaume de Belgique. Étant donné que la Commission européenne a accordé au Royaume de Belgique un délai jusqu'au 17 décembre prochain pour répondre à l'avis complémentaire motivé du 17 juillet 2025, il est essentiel que la Chambre des représentants se soit prononcée avant cette date limite du 17 décembre 2025."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Ik stel u voor om ons over deze vraag uit te spreken."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Je vous propose de nous prononcer sur cette demande."
+    },
+    {
+     "type": "note",
+     "lang": "nl",
+     "text": "De urgentie wordt aangenomen bij zitten en opstaan."
+    },
+    {
+     "type": "note",
+     "lang": "fr",
+     "text": "L'urgence est adoptée par assis et levé."
+    }
+   ]
+  },
+  {
+   "number": "05",
+   "section": {
+    "nl": "Geheime stemming (voortzetting)",
+    "fr": "Scrutin secret (continuation)"
+   },
+   "title": {
+    "nl": "Inoverwegingnemingen",
+    "fr": "Prises en considération"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "In de laatst rondgedeelde agenda komt een lijst van voorstellen voor waarvan de inoverwegingneming is gevraagd."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Vous avez pris connaissance dans l'ordre du jour qui vous a été distribué de la liste des propositions dont la prise en considération est demandée."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Indien er geen bezwaar is, beschouw ik de inoverwegingneming van deze voorstellen als aangenomen. Overeenkomstig het Reglement worden die voorstellen naar de bevoegde commissies verzonden."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "S'il n'y a pas d'observations à ce sujet, je considère la prise en considération de ces propositions comme acquise. Je renvoie les propositions aux commissions compétentes conformément au Règlement."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Geen bezwaar? (Nee)"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Aldus zal geschieden."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Pas d'observation? (Non)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Il en sera ainsi."
+    },
+    {
+     "type": "heading",
+     "level": 4,
+     "nl": "Urgentieverzoek",
+     "fr": "Demande d'urgence"
+    },
+    {
+     "type": "speech",
+     "id": "05.01",
+     "name": "Sofie Merckx",
+     "party": "PVDA-PTB",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le président, nous demandons l'urgence pour notre proposition visant à instituer une commission d'enquête parlementaire chargée d'enquêter sur les allégations de blanchiment d'argent, les conflits d'intérêts et le manque de surveillance bancaire dans l'affaire Reynders, n ° 1157.",
+      "Elle concerne M. Reynders qui a déposé 700 000 euros en cash sur une période de 10 ans sans que sa banque ne pose la moindre question. Il a acheté pour 200 000 euros en billets de loterie. C'est ce qu'a fait M. Reynders.",
+      "Ce n'est pas une affaire personnelle ou un égarement individuel. C'est une affaire qui nous concerne. C'est une affaire d'État. Il a été ministre des Finances. Il a été vice-premier ministre durant de nombreuses années. Il était ministre de 1999 à 2019, au moment des faits.",
+      "Aujourd'hui, il est inculpé pour blanchiment d'argent. Et qu'est-ce qui se passe ici? Silence! C'est particulièrement silencieux sur les bancs du MR pour le moment. Ce n'est pourtant pas dans ses habitudes. Ce silence, nous ne l'acceptons pas.",
+      "On veut savoir, on doit savoir, c'est notre devoir en tant que députés de creuser l'origine de l'argent de M. Reynders. Dans quelle affaire cet argent est-il apparu? Est-ce l'argent du contribuable? Et quels liens entre le monde de la finance et le monde politique ont pu faire en sorte que cette affaire soit restée sous les radars pendant plus de 10 ans? Nous voulons le savoir.",
+      "C'est la raison pour laquelle nous déposons la demande de création d'une commission d'enquête. Nous espérons et nous pensons qu'il serait normal que tout le monde soutienne cette demande aujourd'hui."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Le président : Je vous propose de nous prononcer sur cette demande."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Ik stel u voor om ons over deze vraag uit te spreken."
+    },
+    {
+     "type": "note",
+     "lang": "fr",
+     "text": "L'urgence est rejetée par assis et levé."
+    },
+    {
+     "type": "note",
+     "lang": "nl",
+     "text": "De urgentie wordt verworpen bij zitten en opstaan."
+    },
+    {
+     "type": "heading",
+     "level": 4,
+     "nl": "Stemafspraken",
+     "fr": "Pairages"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Collega’s, alvorens we overgaan tot de naamstemmingen, vraag ik u de stemafspraken bekend te maken waarbij een lid zich onthoudt bij de stemming in overleg met een afwezig lid."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Chers collègues, avant de procéder aux votes nominatifs, je vous propose d'annoncer les pairages par lesquels un membre s'abstient de voter en accord avec un membre absent."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Zijn er stemafspraken?"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Y a-t-il des accords de pairage?"
+    },
+    {
+     "type": "speech",
+     "id": "05.02",
+     "name": "Pierre-Yves Dermagne",
+     "party": "PS",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le président, nous avons reçu une demande de pairage de la part de M. Lutgen et c'est un autre député luxembourgeois, non des moindres, qui va assurer le pairage, à savoir M. Courard."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Dan gaan we nu over tot de naamstemmingen."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Nous allons donc maintenant procéder aux votes nominatifs."
+    }
+   ]
+  },
+  {
+   "number": "06",
+   "section": {
+    "nl": "Naamstemmingen",
+    "fr": "Votes nominatifs"
+   },
+   "title": {
+    "nl": "Moties ingediend tot besluit van de interpellaties van:",
+    "fr": "Motions déposées en conclusion des interpellations de:"
+   },
+   "subtitles": {
+    "nl": [
+     "mevrouw Nadia Moscufo over \"de uitspraken van minister Clarinval over de werkloosheid\" (nr. 185)",
+     "Mme Sarah Schlitz sur \"les réponses du ministre Clarinval à la Chambre dans l’affaire des courriers aux exclus du chômage\" (n° 182)"
+    ],
+    "fr": [
+     "mevrouw Sarah Schlitz over \"de antwoorden van minister Clarinval in de Kamer over de brieven aan werklozen die hun uitkering verliezen\" (nr. 182)",
+     "Mme Nadia Moscufo sur \"les propos du ministre Clarinval concernant le chômage\" (n° 185)"
+    ]
+   },
+   "docs": [],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Deze interpellaties werden gehouden in de plenaire vergadering van vandaag."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Ces interpellations ont été développées en séance plénière de ce jour ."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Drie moties werden ingediend (MOT nr. 182/1):"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "- een eerste motie van aanbeveling werd ingediend door mevrouw Sarah Schlitz;"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "- een tweede motie van aanbeveling werd ingediend door mevrouw Nadia Moscufo;"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "- een eenvoudige motie werd ingediend door de heren Benoît Piedboeuf, Axel Ronse, Oskar Seuntjens en de dames Aurore Tourneur en Nawal Farih."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Trois motions ont été déposées (MOT n ° 182/1):"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "- une première motion de recommandation a été déposée par Mme Sarah Schlitz;"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "- une deuxième motion de recommandation a été déposée par Mme Nadia Moscufo;"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "- une motion pure et simple a été déposée par MM. Benoît Piedboeuf, Axel Ronse, Oskar Seuntjens et Mmes Aurore Tourneur et Nawal Farih."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Daar de eenvoudige motie van rechtswege voorrang heeft, breng ik deze motie in stemming."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "La motion pure et simple ayant la priorité de droit, je mets cette motion aux voix."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Vraagt iemand het woord voor een stemverklaring? (Nee)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Quelqu'un demande-t-il la parole pour une déclaration avant le vote? (Non)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Begin van de stemming / Début du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Heeft iedereen gestemd en zijn stem nagekeken? / Tout le monde a-t-il voté et vérifié son vote?"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Einde van de stemming / Fin du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Uitslag van de stemming / Résultat du vote."
+    },
+    {
+     "type": "vote",
+     "number": 1,
+     "subject": null,
+     "yes": 87,
+     "no": 55,
+     "abstain": 1,
+     "total": 143,
+     "result": {
+      "nl": "De eenvoudige motie is aangenomen. Bijgevolg vervallen de moties van aanbeveling.",
+      "fr": "La motion pure et simple est adoptée. Par conséquent, les motions de recommandation sont caduques."
+     }
+    }
+   ]
+  },
+  {
+   "number": "07",
+   "section": {
+    "nl": "Naamstemmingen",
+    "fr": "Votes nominatifs"
+   },
+   "title": {
+    "nl": "Aangehouden amendement op het voorstel van resolutie tot ondersteuning van de kandidatuur voor de bouw van de Einsteintelescoop in de Euregio Maas-Rijn (1131/1-4)",
+    "fr": "Amendement réservé à la proposition de résolution visant à soutenir la candidature pour la construction du télescope Einstein dans l'Euregio Meuse-Rhin (1131/1-4)"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [
+    "1131"
+   ],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Stemming over amendement nr. 1 van Dieter Keuten tot invoeging van een verzoek 8(n). (1131/4)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Vote sur l'amendement n° 1 de Dieter Keuten tendant à insérer une demande 8(n). (1131/4)"
+    },
+    {
+     "type": "speech",
+     "id": "07.01",
+     "name": "Dieter Keuten",
+     "party": "VB",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Ik wil mijn stemverklaring beginnen door op mijn beurt de voorzitter van het adviescomité te bedanken voor het opstellen van de sneuveltekst die aan de basis van deze resolutie ligt. Ik wil ook de andere leden van de commissie bedanken voor het overnemen van de punten en komma's die collega Kurt Moons en ik hebben aangedragen in de tekst die we zullen steunen.",
+      "Collega Kurt Moons viert vandaag trouwens zijn verjaardag. Van harte proficiat.",
+      "Collega Matheï heb ik in zijn betoog horen spreken over de Einstein Valley als speciale economische zone ter bevordering van innovatie, onderzoek en ontwikkeling. Dat is letterlijk wat in mijn amendement staat beschreven, dus alvast bedankt voor de steun.",
+      "Mijnheer Coenegrachts, u vond het nodig om mij een pessimist te noemen. Wel, het blinde en sloganeske optimisme heeft uw partij veel opgebracht. Doe vooral zo verder.",
+      "Optimist of pessimist, de kandidatuur voor het binnenhalen van de Einsteintelescoop verdient meer steun van deze federale regering. Deze week, vandaag en morgen, vindt in Kroatië het vierde jaarlijkse congres over de Einsteintelescoop plaats. Ik wil onze minister van Wetenschaps­beleid, mevrouw Matz, aanbevelen om nog snel op een Falcon te springen om er onze kandidatuur, al is het maar één keer, daadwerkelijk te steunen."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Bedankt, mijnheer Keuten."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Het lijkt hier nog 8,5 minuten op een feesttent, want ook collega Van Tigchelt verjaart vandaag."
+    },
+    {
+     "type": "note",
+     "lang": "nl",
+     "text": "(Applaus)"
+    },
+    {
+     "type": "note",
+     "lang": "fr",
+     "text": "(Applaudissements)"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Hoe verheugd we over beiden ook zijn, laat dat uw stemgedrag niet beïnvloeden."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Begin van de stemming / Début du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Heeft iedereen gestemd en zijn stem nagekeken? / Tout le monde a-t-il voté et vérifié son vote?"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Einde van de stemming / Fin du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Uitslag van de stemming / Résultat du vote."
+    },
+    {
+     "type": "vote",
+     "number": 2,
+     "subject": "Stemming over amendement nr. 1 van Dieter Keuten tot invoeging van een verzoek 8(n). (1131/4)",
+     "yes": 19,
+     "no": 125,
+     "abstain": 0,
+     "total": 144,
+     "result": {
+      "nl": "Bijgevolg is het amendement verworpen.",
+      "fr": "En conséquence, l'amendement est rejeté."
+     }
+    }
+   ]
+  },
+  {
+   "number": "08",
+   "section": {
+    "nl": "Naamstemmingen",
+    "fr": "Votes nominatifs"
+   },
+   "title": {
+    "nl": "Geheel van het voorstel van resolutie tot ondersteuning van de kandidatuur voor de bouw van de Einsteintelescoop in de Euregio Maas-Rijn (1131/3)",
+    "fr": "Ensemble de la proposition de résolution visant à soutenir la candidature pour la construction du télescope Einstein dans l'Euregio Meuse-Rhin (1131/3)"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [
+    "1131"
+   ],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Vraagt iemand het woord voor een stemverklaring? (Nee)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Quelqu'un demande-t-il la parole pour une déclaration avant le vote? (Non)"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Begin van de stemming / Début du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Heeft iedereen gestemd en zijn stem nagekeken? / Tout le monde a-t-il voté et vérifié son vote?"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Einde van de stemming / Fin du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Uitslag van de stemming / Résultat du vote."
+    },
+    {
+     "type": "vote",
+     "number": 3,
+     "subject": null,
+     "yes": 144,
+     "no": 0,
+     "abstain": 0,
+     "total": 144,
+     "result": {
+      "nl": "Bijgevolg neemt de Kamer het voorstel van resolutie aan. Het zal ter kennis van de regering worden gebracht. (1131/5)",
+      "fr": "En conséquence, la Chambre adopte la proposition de résolution. Il en sera donné connaissance au gouvernement. (1131/5)"
+     }
+    }
+   ]
+  },
+  {
+   "number": "09",
+   "section": {
+    "nl": "Naamstemmingen",
+    "fr": "Votes nominatifs"
+   },
+   "title": {
+    "nl": "Aangehouden amendementen en artikelen van het wetsontwerp tot wijziging van artikel 10 van de wet van 26 juli 1996 tot bevordering van de werkgelegenheid en tot preventieve vrijwaring van het concurrentie­vermogen (1096/1-5)",
+    "fr": "Amendements et articles réservés du projet de loi modifiant l'article 10 de la loi du 26 juillet 1996 relative à la promotion de l'emploi et à la sauvegarde préventive de la compétitivité (1096/1-5)"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [
+    "1096"
+   ],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Stemming over amendement nr. 3 van Sophie Thémont cs op artikel 2. (1096/5)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Vote sur l'amendement n° 3 de Sophie Thémont cs à l'article 2. (1096/5)"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Begin van de stemming / Début du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Heeft iedereen gestemd en zijn stem nagekeken? / Tout le monde a-t-il voté et vérifié son vote?"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Einde van de stemming / Fin du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Uitslag van de stemming / Résultat du vote."
+    },
+    {
+     "type": "vote",
+     "number": 4,
+     "subject": "Stemming over amendement nr. 3 van Sophie Thémont cs op artikel 2. (1096/5)",
+     "yes": 30,
+     "no": 93,
+     "abstain": 20,
+     "total": 143,
+     "result": {
+      "nl": "Bijgevolg is het amendement verworpen en is artikel 2 aangenomen.",
+      "fr": "En conséquence, l'amendement est rejeté et l'article 2 est adopté."
+     }
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Stemming over amendement nr. 4 van Sophie Thémont cs tot weglating van artikel 3. (1096/5)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Vote sur l'amendement n° 4 de Sophie Thémont cs visant à supprimer l'article 3. (1096/5)"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Mag de uitslag van de vorige stemming ook gelden voor deze stemming? (Ja)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Peut-on considérer que le résultat du vote précédent est valable pour celui-ci? (Oui)"
+    },
+    {
+     "type": "vote",
+     "number": 4,
+     "subject": "Stemming over amendement nr. 4 van Sophie Thémont cs tot weglating van artikel 3. (1096/5)",
+     "yes": 30,
+     "no": 93,
+     "abstain": 20,
+     "total": 143,
+     "result": {
+      "nl": "Bijgevolg is het amendement verworpen en is artikel 3 aangenomen.",
+      "fr": "En conséquence, l'amendement est rejeté et l'article 3 est adopté."
+     },
+     "reused": true
+    }
+   ]
+  },
+  {
+   "number": "10",
+   "section": {
+    "nl": "Naamstemmingen",
+    "fr": "Votes nominatifs"
+   },
+   "title": {
+    "nl": "Geheel van het wetsontwerp tot wijziging van artikel 10 van de wet van 26 juli 1996 tot bevordering van de werkgelegenheid en tot preventieve vrijwaring van het concurrentievermogen (1096/4)",
+    "fr": "Ensemble du projet de loi modifiant l'article 10 de la loi du 26 juillet 1996 relative à la promotion de l'emploi et à la sauvegarde préventive de la compétitivité (1096/4)"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [
+    "1096"
+   ],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Vraagt iemand het woord voor een stemverklaring? (Nee)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Quelqu'un demande-t-il la parole pour une déclaration avant le vote? (Non)"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Begin van de stemming / Début du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Heeft iedereen gestemd en zijn stem nagekeken? / Tout le monde a-t-il voté et vérifié son vote?"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Einde van de stemming / Fin du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Uitslag van de stemming / Résultat du vote."
+    },
+    {
+     "type": "vote",
+     "number": 5,
+     "subject": null,
+     "yes": 106,
+     "no": 0,
+     "abstain": 38,
+     "total": 144,
+     "result": {
+      "nl": "Bijgevolg neemt de Kamer het wetsontwerp aan. Het zal aan de Koning ter bekrachtiging worden voorgelegd. (1096/6)",
+      "fr": "En conséquence, la Chambre adopte le projet de loi. Il sera soumis à la sanction royale. (1096/6)"
+     }
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Reden van onthouding? (Nee)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Raison d'abstention? (Non)"
+    }
+   ]
+  },
+  {
+   "number": "11",
+   "section": {
+    "nl": "Naamstemmingen",
+    "fr": "Votes nominatifs"
+   },
+   "title": {
+    "nl": "Wetsontwerp tot goedkeuring van de algemene rekening van het algemeen bestuur en van de algemene rekeningen van de administratieve openbare instellingen met ministerieel beheer en van de administratieve diensten met boekhoudkundige autonomie van het jaar 2024 (1038/3)",
+    "fr": "Projet de loi visant à approuver le compte général de l'Administration générale et des comptes généraux des organismes administratifs publics à gestion ministérielle et des services administratifs à comptabilité autonome pour l'année 2024 (1038/3)"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [
+    "1038"
+   ],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Vraagt iemand het woord voor een stemverklaring? (Nee)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Quelqu'un demande-t-il la parole pour une déclaration avant le vote? (Non)"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Begin van de stemming / Début du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Heeft iedereen gestemd en zijn stem nagekeken? / Tout le monde a-t-il voté et vérifié son vote?"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Einde van de stemming / Fin du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Uitslag van de stemming / Résultat du vote."
+    },
+    {
+     "type": "vote",
+     "number": 6,
+     "subject": null,
+     "yes": 86,
+     "no": 34,
+     "abstain": 24,
+     "total": 144,
+     "result": {
+      "nl": "Bijgevolg neemt de Kamer het wetsontwerp en de bijgevoegde tabellen aan. Het zal aan de Koning ter bekrachtiging worden voorgelegd. (1038/4)",
+      "fr": "En conséquence, la Chambre adopte le projet de loi et les tableaux annexés. Il sera soumis à la sanction royale. (1038/4)"
+     }
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Reden van onthouding? (Nee)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Raison d'abstention? (Non)"
+    }
+   ]
+  },
+  {
+   "number": "12",
+   "section": {
+    "nl": "Naamstemmingen",
+    "fr": "Votes nominatifs"
+   },
+   "title": {
+    "nl": "Wetsontwerp tot wijziging van de wet van 22 mei 2003 houdende organisatie van de begroting en van de comptabiliteit van de federale Staat, met het oog op de gedeeltelijke omzetting van de Richtlijn (EU) 2024/1265 (1018/4)",
+    "fr": "Projet de loi modifiant la loi du 22 mai 2003 portant organisation du budget et de la comptabilité de l'État fédéral, en vue de transposer partiellement la directive (UE) 2024/1265 (1018/4)"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [
+    "1018"
+   ],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Vraagt iemand het woord voor een stemverklaring? (Nee)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Quelqu'un demande-t-il la parole pour une déclaration avant le vote? (Non)"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Begin van de stemming / Début du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Heeft iedereen gestemd en zijn stem nagekeken? / Tout le monde a-t-il voté et vérifié son vote?"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Einde van de stemming / Fin du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Uitslag van de stemming / Résultat du vote."
+    },
+    {
+     "type": "vote",
+     "number": 7,
+     "subject": null,
+     "yes": 94,
+     "no": 33,
+     "abstain": 17,
+     "total": 144,
+     "result": {
+      "nl": "Bijgevolg neemt de Kamer het wetsontwerp aan. Het zal aan de Koning ter bekrachtiging worden voorgelegd. (1018/5)",
+      "fr": "En conséquence, la Chambre adopte le projet de loi. Il sera soumis à la sanction royale. (1018/5)"
+     }
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Reden van onthouding? (Nee)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Raison d'abstention? (Non)"
+    }
+   ]
+  },
+  {
+   "number": "13",
+   "section": {
+    "nl": "Naamstemmingen",
+    "fr": "Votes nominatifs"
+   },
+   "title": {
+    "nl": "Wetsontwerp tot wijziging van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof, met het oog op de gedeeltelijke omzetting van de Richtlijn (EU) 2024/1265 (1055/4)",
+    "fr": "Projet de loi modifiant la loi du 16 mai 2003 fixant les dispositions générales applicables aux budgets, au contrôle des subventions et à la comptabilité des communautés et des régions, ainsi qu'à l'organisation du contrôle de la Cour des comptes, en vue de transposer partiellement la directive (UE) 2024/1265 (1055/4)"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [
+    "1055"
+   ],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Vraagt iemand het woord voor een stemverklaring? (Nee)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Quelqu'un demande-t-il la parole pour une déclaration avant le vote? (Non)"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Begin van de stemming / Début du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Heeft iedereen gestemd en zijn stem nagekeken? / Tout le monde a-t-il voté et vérifié son vote?"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Einde van de stemming / Fin du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Uitslag van de stemming / Résultat du vote."
+    },
+    {
+     "type": "vote",
+     "number": 8,
+     "subject": null,
+     "yes": 94,
+     "no": 33,
+     "abstain": 17,
+     "total": 144,
+     "result": {
+      "nl": "Bijgevolg neemt de Kamer het wetsontwerp aan. Het zal aan de Senaat worden overgezonden. (1055/5)",
+      "fr": "En conséquence, la Chambre adopte le projet de loi. Il sera transmis au Sénat. (1055/5)"
+     }
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Reden van onthouding? ( Nee )"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Raison d'abstention? ( Non )"
+    }
+   ]
+  },
+  {
+   "number": "14",
+   "section": {
+    "nl": "Naamstemmingen",
+    "fr": "Votes nominatifs"
+   },
+   "title": {
+    "nl": "Wetsontwerp tot wijziging van de wet van 16 maart 1994 betreffende het statuut en de bezoldiging van het onderwijzend personeel van de Koninklijke Militaire School (991/3)",
+    "fr": "Projet de loi modifiant la loi du 16 mars 1994 relative au statut et aux rétributions du personnel enseignant de l'École royale militaire (991/3)"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [
+    "991"
+   ],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Vraagt iemand het woord voor een stemverklaring? (Nee)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Quelqu'un demande-t-il la parole pour une déclaration avant le vote? (Non)"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Begin van de stemming / Début du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Heeft iedereen gestemd en zijn stem nagekeken? / Tout le monde a-t-il voté et vérifié son vote?"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Einde van de stemming / Fin du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Uitslag van de stemming / Résultat du vote."
+    },
+    {
+     "type": "vote",
+     "number": 9,
+     "subject": null,
+     "yes": 128,
+     "no": 0,
+     "abstain": 15,
+     "total": 143,
+     "result": {
+      "nl": "Bijgevolg neemt de Kamer het wetsontwerp aan. Het zal aan de Koning ter bekrachtiging worden voorgelegd. (991/4)",
+      "fr": "En conséquence, la Chambre adopte le projet de loi. Il sera soumis à la sanction royale. (991/4)"
+     }
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Reden van onthouding? ( Nee )"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Raison d'abstention? ( Non )"
+    }
+   ]
+  },
+  {
+   "number": "15",
+   "section": {
+    "nl": "Naamstemmingen",
+    "fr": "Votes nominatifs"
+   },
+   "title": {
+    "nl": "Aangehouden amendementen en artikel van het wetsontwerp tot wijziging van de wet van 15 mei 2007 tot erkenning en bescherming van het beroep van auto-expert en tot oprichting van een Instituut van de auto-experts (I) (946/1-7)",
+    "fr": "Amendements et article réservés du projet de loi modifiant la loi du 15 mai 2007 relative à la reconnaissance et à la protection de la profession d'expert en automobiles et créant un Institut des experts en automobiles (I) (946/1-7)"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [
+    "946"
+   ],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Stemming over amendement nr. 4 van Annik Van den Bosch cs op artikel 13. (946/7)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Vote sur l'amendement n° 4 de Annik Van den Bosch cs à l'article 13. (946/7)"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Begin van de stemming / Début du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Heeft iedereen gestemd en zijn stem nagekeken? / Tout le monde a-t-il voté et vérifié son vote?"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Einde van de stemming / Fin du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Uitslag van de stemming / Résultat du vote."
+    },
+    {
+     "type": "vote",
+     "number": 10,
+     "subject": "Stemming over amendement nr. 4 van Annik Van den Bosch cs op artikel 13. (946/7)",
+     "yes": 15,
+     "no": 87,
+     "abstain": 42,
+     "total": 144,
+     "result": {
+      "nl": "Bijgevolg is het amendement verworpen en is artikel 13 aangenomen.",
+      "fr": "En conséquence, l'amendement est rejeté et l'article 13 est adopté."
+     }
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Stemming over amendement nr. 3 van Annik Van den Bosch cs tot invoeging van een artikel 21/1(n). (946/7)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Vote sur l'amendement n° 3 de Annik Van den Bosch cs tendant à insérer un article 21/1(n). (946/7)"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Mag de uitslag van de vorige stemming ook gelden voor deze stemming? (Ja)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Peut-on considérer que le résultat du vote précédent est valable pour celui-ci? (Oui)"
+    },
+    {
+     "type": "vote",
+     "number": 10,
+     "subject": "Stemming over amendement nr. 3 van Annik Van den Bosch cs tot invoeging van een artikel 21/1(n). (946/7)",
+     "yes": 15,
+     "no": 87,
+     "abstain": 42,
+     "total": 144,
+     "result": {
+      "nl": "Bijgevolg is het amendement verworpen.",
+      "fr": "En conséquence, l'amendement est rejeté."
+     },
+     "reused": true
+    }
+   ]
+  },
+  {
+   "number": "16",
+   "section": {
+    "nl": "Naamstemmingen",
+    "fr": "Votes nominatifs"
+   },
+   "title": {
+    "nl": "Geheel van het wetsontwerp tot wijziging van de wet van 15 mei 2007 tot erkenning en bescherming van het beroep van auto-expert en tot oprichting van een Instituut van de auto-experts (I) (946/6)",
+    "fr": "Ensemble du projet de loi modifiant la loi du 15 mai 2007 relative à la reconnaissance et à la protection de la profession d'expert en automobiles et créant un Institut des experts en automobiles (I) (946/6)"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [
+    "946"
+   ],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Vraagt iemand het woord voor een stemverklaring? (Nee)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Quelqu'un demande-t-il la parole pour une déclaration avant le vote? (Non)"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Begin van de stemming / Début du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Heeft iedereen gestemd en zijn stem nagekeken? / Tout le monde a-t-il voté et vérifié son vote?"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Einde van de stemming / Fin du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Uitslag van de stemming / Résultat du vote."
+    },
+    {
+     "type": "vote",
+     "number": 11,
+     "subject": null,
+     "yes": 118,
+     "no": 0,
+     "abstain": 26,
+     "total": 144,
+     "result": {
+      "nl": "Bijgevolg neemt de Kamer het wetsontwerp aan. Het zal aan de Koning ter bekrachtiging worden voorgelegd. (946/8)",
+      "fr": "En conséquence, la Chambre adopte le projet de loi. Il sera soumis à la sanction royale. (946/8)"
+     }
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Reden van onthouding? ( Nee )"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Raison d'abstention? ( Non )"
+    }
+   ]
+  },
+  {
+   "number": "17",
+   "section": {
+    "nl": "Naamstemmingen",
+    "fr": "Votes nominatifs"
+   },
+   "title": {
+    "nl": "Wetsontwerp tot wijziging van de wet van 15 mei 2007 tot erkenning en bescherming van het beroep van auto-expert en tot oprichting van een Instituut van de auto-experts voor wat betreft het beroep tegen de verkiezingsresultaten (II) (947/3)",
+    "fr": "Projet de loi modifiant la loi du 15 mai 2007 relative à la reconnaissance et à la protection de la profession d'expert en automobiles et créant un Institut des experts en automobiles en ce qui concerne le recours contre le résultat des élections (II) (947/3)"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [
+    "947"
+   ],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Vraagt iemand het woord voor een stemverklaring? (Nee)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Quelqu'un demande-t-il la parole pour une déclaration avant le vote? (Non)"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Begin van de stemming / Début du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Heeft iedereen gestemd en zijn stem nagekeken? / Tout le monde a-t-il voté et vérifié son vote?"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Einde van de stemming / Fin du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Uitslag van de stemming / Résultat du vote."
+    },
+    {
+     "type": "vote",
+     "number": 12,
+     "subject": null,
+     "yes": 117,
+     "no": 1,
+     "abstain": 26,
+     "total": 144,
+     "result": {
+      "nl": "Bijgevolg neemt de Kamer het wetsontwerp aan. Het zal aan de Senaat worden overgezonden. (947/6)",
+      "fr": "En conséquence, la Chambre adopte le projet de loi. Il sera transmis au Sénat. (947/6)"
+     }
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Reden van onthouding? ( Nee )"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Raison d'abstention? ( Non )"
+    },
+    {
+     "type": "note",
+     "lang": "fr",
+     "text": "(M. Nabil Boukili a voté comme son groupe.)"
+    }
+   ]
+  },
+  {
+   "number": "18",
+   "section": {
+    "nl": "Naamstemmingen",
+    "fr": "Votes nominatifs"
+   },
+   "title": {
+    "nl": "Wetsontwerp houdende wijziging van de wet van 26 mei 2002 betreffende het recht op maatschappelijke integratie voor wat betreft de compensatie van OCMW's naar aanleiding van de beperking van de werkloosheidsuitkering in de tijd (1110/5)",
+    "fr": "Projet de loi modifiant la loi du 26 mai 2002 concernant le droit à l'intégration sociale en ce qui concerne la compensation des CPAS suite à la limitation dans le temps des allocations de chômage (1110/5)"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [
+    "1110"
+   ],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Vraagt iemand het woord voor een stemverklaring? (Nee)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Quelqu'un demande-t-il la parole pour une déclaration avant le vote? (Non)"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Begin van de stemming / Début du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Heeft iedereen gestemd en zijn stem nagekeken? / Tout le monde a-t-il voté et vérifié son vote?"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Einde van de stemming / Fin du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Uitslag van de stemming / Résultat du vote."
+    },
+    {
+     "type": "vote",
+     "number": 13,
+     "subject": null,
+     "yes": 78,
+     "no": 38,
+     "abstain": 27,
+     "total": 143,
+     "result": {
+      "nl": "Bijgevolg neemt de Kamer het wetsontwerp aan. Het zal aan de Koning ter bekrachtiging worden voorgelegd. (1110/6)",
+      "fr": "En conséquence, la Chambre adopte le projet de loi. Il sera soumis à la sanction royale. (1110/6)"
+     }
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Reden van onthouding? (Nee)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Raison d'abstention? (Non)"
+    }
+   ]
+  },
+  {
+   "number": "19",
+   "section": {
+    "nl": "Naamstemmingen",
+    "fr": "Votes nominatifs"
+   },
+   "title": {
+    "nl": "Goedkeuring van de agenda",
+    "fr": "Adoption de l’ordre du jour"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "We moeten overgaan tot de goedkeuring van de agenda voor de vergadering van donderdag 20 november 2025."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Nous devons procéder à l'approbation de l'ordre du jour de la séance du jeudi 20 novembre 2025."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Zijn er dienaangaande opmerkingen? (Nee)"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Bijgevolg is de agenda aangenomen."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Y a-t-il une observation à ce sujet ? (Non)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "En conséquence, l'ordre du jour est adopté."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De vergadering wordt gesloten. Volgende vergadering donderdag 20 november 2025 om 14.15 uur."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "La séance est levée. Prochaine séance le jeudi 20 novembre 2025 à 14 h 15."
+    },
+    {
+     "type": "note",
+     "lang": "nl",
+     "text": "De vergadering wordt gesloten op vrijdag 14 november 2025 om 00.03 uur."
+    },
+    {
+     "type": "note",
+     "lang": "fr",
+     "text": "La séance est levée le vendredi 14 novembre 2025 à 00 h 03."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "De bijlage is opgenomen in een aparte brochure met nummer CRIV 56 PLEN 072 bijlage."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "L'annexe est reprise dans une brochure séparée, portant le numéro CRIV 56 PLEN 072 annexe."
+    }
+   ]
+  }
+ ],
+ "named_votes": {
+  "1": {
+   "yes": [
+    "Bacquelaine Daniel",
+    "Bergers Jeroen",
+    "Bertels Jan",
+    "Bertrand Alexia",
+    "Bombled Christophe",
+    "Bouchez Georges-Louis",
+    "Buysrogge Peter",
+    "Coenegrachts Steven",
+    "Cornillie Hervé",
+    "Cuylaerts Dorien",
+    "Daenen Nele",
+    "Deborsu Charlotte",
+    "De Knop Irina",
+    "Delcourt Catherine",
+    "De Maegd Michel",
+    "Demesmaeker Eva",
+    "Demon Franky",
+    "Depoorter Kathleen",
+    "De Roover Peter",
+    "De Smet François",
+    "De Vreese Maaike",
+    "De Wit Sophie",
+    "D'Haese Christoph",
+    "Dubois Xavier",
+    "Ducarme Denis",
+    "Dufrane Anthony",
+    "El Yakhloufi Achraf",
+    "Farih Nawal",
+    "Foret Gilles",
+    "Frank Luc",
+    "Freilich Michael",
+    "Gabriëls Katja",
+    "Gatelier Jean-François",
+    "Gielis Tine",
+    "Gijbels Frieda",
+    "Goffin Philippe",
+    "Grillaert Leentje",
+    "Handichi Youssef",
+    "Hansez Isabelle",
+    "Hiligsmann Serge",
+    "Jadoul Pierre",
+    "Kompany Pierre",
+    "Lamarti Fatima",
+    "Lambrecht Annick",
+    "Lanjri Nahima",
+    "Lasseaux Stéphane",
+    "Lejeune Marc",
+    "Mahdi Sammy",
+    "Matagne Julien",
+    "Matheï Steven",
+    "Metsu Koen",
+    "Meuleman Brent",
+    "Michel Mathieu",
+    "Muylle Nathalie",
+    "Nuino Ismaël",
+    "Oru Funda",
+    "Peeters Lotte",
+    "Piedboeuf Benoît",
+    "Pirson Anne",
+    "Ramlot Carmen",
+    "Raskin Wouter",
+    "Reuter Florence",
+    "Ronse Axel",
+    "Safai Darya",
+    "Scourneau Vincent",
+    "Seuntjens Oskar",
+    "Soete Jeroen",
+    "Tas Niels",
+    "Taton Julie",
+    "Tourneur Aurore",
+    "Truyman Lieve",
+    "Vandeberg Victoria",
+    "Van den Heuvel Koen",
+    "Vandeput Steven",
+    "Van der Donckt Wim",
+    "Vander Elst Kjell",
+    "Van Hoof Els",
+    "Van Keymolen Phaedra",
+    "Van Quickenborne Vincent",
+    "van Riet Katrijn",
+    "Vanrobaeys Anja",
+    "Van Tigchelt Paul",
+    "Van Vaerenbergh Kristien",
+    "Verkeyn Charlotte",
+    "Weydts Axel",
+    "Wollants Bert",
+    "Yzermans Alain"
+   ],
+   "no": [
+    "Almaci Meyrem",
+    "Aouasti Khalil",
+    "Bayet Hugues",
+    "Bilmez Kemal",
+    "Boukili Nabil",
+    "Bury Katleen",
+    "Chahid Ridouane",
+    "Daems Greet",
+    "D'Amico Roberto",
+    "Dedonder Ludivine",
+    "Depoortere Ortwin",
+    "Dermagne Pierre-Yves",
+    "Désir Caroline",
+    "De Witte Kim",
+    "Dillen Marijke",
+    "Eggermont Natalie",
+    "Hedebouw Raoul",
+    "Huybrechts Britt",
+    "Jacquet Farah",
+    "Keuten Dieter",
+    "Legasse Dimitri",
+    "Magnette Paul",
+    "Maouane Rajae",
+    "Merckx Sofie",
+    "Mertens Peter",
+    "Meunier Marie",
+    "Moons Kurt",
+    "Moscufo Nadia",
+    "Mutyebele Ngoi Lydia",
+    "Pas Barbara",
+    "Ponthier Annick",
+    "Prévot Patrick",
+    "Ribaudo Julien",
+    "Samyn Ellen",
+    "Schlitz Sarah",
+    "Sneppe Dominiek",
+    "Somers Werner",
+    "Thémont Sophie",
+    "Thiébaut Éric",
+    "Tonniau Robin",
+    "Troosters Frank",
+    "Van Belleghem Francesca",
+    "Vanbesien Dieter",
+    "Vandemaele Matti",
+    "Van den Bosch Annik",
+    "Van der Straeten Tinne",
+    "Van Hecke Stefaan",
+    "Van Hoecke Alexander",
+    "Van Lommel Reccino",
+    "Van Lysebettens Jeroen",
+    "Van Rooy Sam",
+    "Verbelen Kristien",
+    "Vereeck Lode",
+    "Vermeersch Wouter",
+    "Yigit Ayse"
+   ],
+   "abstain": [
+    "Courard Philippe"
+   ]
+  },
+  "2": {
+   "yes": [
+    "Bury Katleen",
+    "Depoortere Ortwin",
+    "Dillen Marijke",
+    "Huybrechts Britt",
+    "Keuten Dieter",
+    "Moons Kurt",
+    "Pas Barbara",
+    "Ponthier Annick",
+    "Samyn Ellen",
+    "Sneppe Dominiek",
+    "Somers Werner",
+    "Troosters Frank",
+    "Van Belleghem Francesca",
+    "Van Hoecke Alexander",
+    "Van Lommel Reccino",
+    "Van Rooy Sam",
+    "Verbelen Kristien",
+    "Vereeck Lode",
+    "Vermeersch Wouter"
+   ],
+   "no": [
+    "Almaci Meyrem",
+    "Aouasti Khalil",
+    "Bacquelaine Daniel",
+    "Bayet Hugues",
+    "Bergers Jeroen",
+    "Bertels Jan",
+    "Bertrand Alexia",
+    "Bilmez Kemal",
+    "Bombled Christophe",
+    "Bouchez Georges-Louis",
+    "Boukili Nabil",
+    "Buysrogge Peter",
+    "Chahid Ridouane",
+    "Coenegrachts Steven",
+    "Cornillie Hervé",
+    "Courard Philippe",
+    "Cuylaerts Dorien",
+    "Daems Greet",
+    "Daenen Nele",
+    "Daerden Frédéric",
+    "D'Amico Roberto",
+    "Deborsu Charlotte",
+    "Dedonder Ludivine",
+    "De Knop Irina",
+    "Delcourt Catherine",
+    "De Maegd Michel",
+    "Demesmaeker Eva",
+    "Demon Franky",
+    "Depoorter Kathleen",
+    "Dermagne Pierre-Yves",
+    "De Roover Peter",
+    "Désir Caroline",
+    "De Smet François",
+    "De Vreese Maaike",
+    "De Wit Sophie",
+    "De Witte Kim",
+    "D'Haese Christoph",
+    "Dubois Xavier",
+    "Ducarme Denis",
+    "Dufrane Anthony",
+    "Eggermont Natalie",
+    "El Yakhloufi Achraf",
+    "Farih Nawal",
+    "Foret Gilles",
+    "Frank Luc",
+    "Freilich Michael",
+    "Gabriëls Katja",
+    "Gatelier Jean-François",
+    "Gielis Tine",
+    "Gijbels Frieda",
+    "Goffin Philippe",
+    "Grillaert Leentje",
+    "Handichi Youssef",
+    "Hansez Isabelle",
+    "Hedebouw Raoul",
+    "Hiligsmann Serge",
+    "Jacquet Farah",
+    "Jadoul Pierre",
+    "Kompany Pierre",
+    "Lamarti Fatima",
+    "Lambrecht Annick",
+    "Lanjri Nahima",
+    "Lasseaux Stéphane",
+    "Legasse Dimitri",
+    "Lejeune Marc",
+    "Magnette Paul",
+    "Mahdi Sammy",
+    "Maouane Rajae",
+    "Matagne Julien",
+    "Matheï Steven",
+    "Merckx Sofie",
+    "Mertens Peter",
+    "Metsu Koen",
+    "Meuleman Brent",
+    "Meunier Marie",
+    "Michel Mathieu",
+    "Moscufo Nadia",
+    "Mutyebele Ngoi Lydia",
+    "Muylle Nathalie",
+    "Nuino Ismaël",
+    "Oru Funda",
+    "Peeters Lotte",
+    "Piedboeuf Benoît",
+    "Pirson Anne",
+    "Prévot Patrick",
+    "Ramlot Carmen",
+    "Raskin Wouter",
+    "Reuter Florence",
+    "Ribaudo Julien",
+    "Ronse Axel",
+    "Safai Darya",
+    "Schlitz Sarah",
+    "Scourneau Vincent",
+    "Seuntjens Oskar",
+    "Soete Jeroen",
+    "Tas Niels",
+    "Taton Julie",
+    "Thémont Sophie",
+    "Thiébaut Éric",
+    "Tonniau Robin",
+    "Tourneur Aurore",
+    "Truyman Lieve",
+    "Vanbesien Dieter",
+    "Vandeberg Victoria",
+    "Vandemaele Matti",
+    "Van den Bosch Annik",
+    "Van den Heuvel Koen",
+    "Vandeput Steven",
+    "Van der Donckt Wim",
+    "Vander Elst Kjell",
+    "Van der Straeten Tinne",
+    "Van Hecke Stefaan",
+    "Van Hoof Els",
+    "Van Keymolen Phaedra",
+    "Van Lysebettens Jeroen",
+    "Van Quickenborne Vincent",
+    "van Riet Katrijn",
+    "Vanrobaeys Anja",
+    "Van Tigchelt Paul",
+    "Van Vaerenbergh Kristien",
+    "Verkeyn Charlotte",
+    "Weydts Axel",
+    "Wollants Bert",
+    "Yigit Ayse",
+    "Yzermans Alain"
+   ],
+   "abstain": []
+  },
+  "3": {
+   "yes": [
+    "Almaci Meyrem",
+    "Aouasti Khalil",
+    "Bacquelaine Daniel",
+    "Bayet Hugues",
+    "Bergers Jeroen",
+    "Bertels Jan",
+    "Bertrand Alexia",
+    "Bilmez Kemal",
+    "Bombled Christophe",
+    "Bouchez Georges-Louis",
+    "Boukili Nabil",
+    "Bury Katleen",
+    "Buysrogge Peter",
+    "Chahid Ridouane",
+    "Coenegrachts Steven",
+    "Cornillie Hervé",
+    "Courard Philippe",
+    "Cuylaerts Dorien",
+    "Daems Greet",
+    "Daenen Nele",
+    "Daerden Frédéric",
+    "D'Amico Roberto",
+    "Deborsu Charlotte",
+    "Dedonder Ludivine",
+    "De Knop Irina",
+    "Delcourt Catherine",
+    "De Maegd Michel",
+    "Demesmaeker Eva",
+    "Demon Franky",
+    "Depoortere Ortwin",
+    "Depoorter Kathleen",
+    "Dermagne Pierre-Yves",
+    "De Roover Peter",
+    "Désir Caroline",
+    "De Smet François",
+    "De Vreese Maaike",
+    "De Wit Sophie",
+    "De Witte Kim",
+    "D'Haese Christoph",
+    "Dillen Marijke",
+    "Dubois Xavier",
+    "Ducarme Denis",
+    "Dufrane Anthony",
+    "Eggermont Natalie",
+    "El Yakhloufi Achraf",
+    "Farih Nawal",
+    "Foret Gilles",
+    "Frank Luc",
+    "Freilich Michael",
+    "Gabriëls Katja",
+    "Gatelier Jean-François",
+    "Gielis Tine",
+    "Gijbels Frieda",
+    "Goffin Philippe",
+    "Grillaert Leentje",
+    "Handichi Youssef",
+    "Hansez Isabelle",
+    "Hedebouw Raoul",
+    "Hiligsmann Serge",
+    "Huybrechts Britt",
+    "Jacquet Farah",
+    "Jadoul Pierre",
+    "Keuten Dieter",
+    "Kompany Pierre",
+    "Lamarti Fatima",
+    "Lambrecht Annick",
+    "Lanjri Nahima",
+    "Lasseaux Stéphane",
+    "Legasse Dimitri",
+    "Lejeune Marc",
+    "Magnette Paul",
+    "Mahdi Sammy",
+    "Maouane Rajae",
+    "Matagne Julien",
+    "Matheï Steven",
+    "Merckx Sofie",
+    "Mertens Peter",
+    "Metsu Koen",
+    "Meuleman Brent",
+    "Meunier Marie",
+    "Michel Mathieu",
+    "Moons Kurt",
+    "Moscufo Nadia",
+    "Mutyebele Ngoi Lydia",
+    "Muylle Nathalie",
+    "Nuino Ismaël",
+    "Oru Funda",
+    "Pas Barbara",
+    "Peeters Lotte",
+    "Piedboeuf Benoît",
+    "Pirson Anne",
+    "Ponthier Annick",
+    "Prévot Patrick",
+    "Ramlot Carmen",
+    "Raskin Wouter",
+    "Reuter Florence",
+    "Ribaudo Julien",
+    "Ronse Axel",
+    "Safai Darya",
+    "Samyn Ellen",
+    "Schlitz Sarah",
+    "Scourneau Vincent",
+    "Seuntjens Oskar",
+    "Sneppe Dominiek",
+    "Soete Jeroen",
+    "Somers Werner",
+    "Tas Niels",
+    "Taton Julie",
+    "Thémont Sophie",
+    "Thiébaut Éric",
+    "Tonniau Robin",
+    "Tourneur Aurore",
+    "Troosters Frank",
+    "Truyman Lieve",
+    "Van Belleghem Francesca",
+    "Vanbesien Dieter",
+    "Vandeberg Victoria",
+    "Vandemaele Matti",
+    "Van den Bosch Annik",
+    "Van den Heuvel Koen",
+    "Vandeput Steven",
+    "Van der Donckt Wim",
+    "Vander Elst Kjell",
+    "Van der Straeten Tinne",
+    "Van Hecke Stefaan",
+    "Van Hoecke Alexander",
+    "Van Hoof Els",
+    "Van Keymolen Phaedra",
+    "Van Lommel Reccino",
+    "Van Lysebettens Jeroen",
+    "Van Quickenborne Vincent",
+    "van Riet Katrijn",
+    "Vanrobaeys Anja",
+    "Van Rooy Sam",
+    "Van Tigchelt Paul",
+    "Van Vaerenbergh Kristien",
+    "Verbelen Kristien",
+    "Vereeck Lode",
+    "Verkeyn Charlotte",
+    "Vermeersch Wouter",
+    "Weydts Axel",
+    "Wollants Bert",
+    "Yigit Ayse",
+    "Yzermans Alain"
+   ],
+   "no": [],
+   "abstain": []
+  },
+  "4": {
+   "yes": [
+    "Aouasti Khalil",
+    "Bayet Hugues",
+    "Bilmez Kemal",
+    "Boukili Nabil",
+    "Chahid Ridouane",
+    "Daems Greet",
+    "Daerden Frédéric",
+    "D'Amico Roberto",
+    "Dedonder Ludivine",
+    "Dermagne Pierre-Yves",
+    "Désir Caroline",
+    "De Witte Kim",
+    "Eggermont Natalie",
+    "Hedebouw Raoul",
+    "Jacquet Farah",
+    "Legasse Dimitri",
+    "Magnette Paul",
+    "Maouane Rajae",
+    "Merckx Sofie",
+    "Mertens Peter",
+    "Meunier Marie",
+    "Moscufo Nadia",
+    "Mutyebele Ngoi Lydia",
+    "Prévot Patrick",
+    "Ribaudo Julien",
+    "Thémont Sophie",
+    "Thiébaut Éric",
+    "Tonniau Robin",
+    "Van den Bosch Annik",
+    "Yigit Ayse"
+   ],
+   "no": [
+    "Almaci Meyrem",
+    "Bacquelaine Daniel",
+    "Bergers Jeroen",
+    "Bertels Jan",
+    "Bertrand Alexia",
+    "Bombled Christophe",
+    "Bouchez Georges-Louis",
+    "Buysrogge Peter",
+    "Coenegrachts Steven",
+    "Cornillie Hervé",
+    "Cuylaerts Dorien",
+    "Daenen Nele",
+    "Deborsu Charlotte",
+    "De Knop Irina",
+    "Delcourt Catherine",
+    "De Maegd Michel",
+    "Demesmaeker Eva",
+    "Demon Franky",
+    "Depoorter Kathleen",
+    "De Roover Peter",
+    "De Smet François",
+    "De Vreese Maaike",
+    "De Wit Sophie",
+    "D'Haese Christoph",
+    "Dubois Xavier",
+    "Ducarme Denis",
+    "Dufrane Anthony",
+    "El Yakhloufi Achraf",
+    "Farih Nawal",
+    "Foret Gilles",
+    "Frank Luc",
+    "Freilich Michael",
+    "Gabriëls Katja",
+    "Gatelier Jean-François",
+    "Gielis Tine",
+    "Gijbels Frieda",
+    "Goffin Philippe",
+    "Grillaert Leentje",
+    "Handichi Youssef",
+    "Hansez Isabelle",
+    "Hiligsmann Serge",
+    "Jadoul Pierre",
+    "Kompany Pierre",
+    "Lamarti Fatima",
+    "Lambrecht Annick",
+    "Lanjri Nahima",
+    "Lasseaux Stéphane",
+    "Lejeune Marc",
+    "Mahdi Sammy",
+    "Matagne Julien",
+    "Matheï Steven",
+    "Metsu Koen",
+    "Meuleman Brent",
+    "Michel Mathieu",
+    "Muylle Nathalie",
+    "Nuino Ismaël",
+    "Oru Funda",
+    "Peeters Lotte",
+    "Piedboeuf Benoît",
+    "Pirson Anne",
+    "Ramlot Carmen",
+    "Raskin Wouter",
+    "Reuter Florence",
+    "Ronse Axel",
+    "Safai Darya",
+    "Schlitz Sarah",
+    "Scourneau Vincent",
+    "Seuntjens Oskar",
+    "Soete Jeroen",
+    "Tas Niels",
+    "Taton Julie",
+    "Tourneur Aurore",
+    "Truyman Lieve",
+    "Vanbesien Dieter",
+    "Vandemaele Matti",
+    "Van den Heuvel Koen",
+    "Vandeput Steven",
+    "Van der Donckt Wim",
+    "Vander Elst Kjell",
+    "Van der Straeten Tinne",
+    "Van Hecke Stefaan",
+    "Van Hoof Els",
+    "Van Keymolen Phaedra",
+    "Van Lysebettens Jeroen",
+    "Van Quickenborne Vincent",
+    "van Riet Katrijn",
+    "Vanrobaeys Anja",
+    "Van Tigchelt Paul",
+    "Van Vaerenbergh Kristien",
+    "Verkeyn Charlotte",
+    "Weydts Axel",
+    "Wollants Bert",
+    "Yzermans Alain"
+   ],
+   "abstain": [
+    "Bury Katleen",
+    "Courard Philippe",
+    "Depoortere Ortwin",
+    "Dillen Marijke",
+    "Huybrechts Britt",
+    "Keuten Dieter",
+    "Moons Kurt",
+    "Pas Barbara",
+    "Ponthier Annick",
+    "Samyn Ellen",
+    "Sneppe Dominiek",
+    "Somers Werner",
+    "Troosters Frank",
+    "Van Belleghem Francesca",
+    "Van Hoecke Alexander",
+    "Van Lommel Reccino",
+    "Van Rooy Sam",
+    "Verbelen Kristien",
+    "Vereeck Lode",
+    "Vermeersch Wouter"
+   ]
+  },
+  "5": {
+   "yes": [
+    "Bacquelaine Daniel",
+    "Bergers Jeroen",
+    "Bertels Jan",
+    "Bertrand Alexia",
+    "Bombled Christophe",
+    "Bouchez Georges-Louis",
+    "Bury Katleen",
+    "Buysrogge Peter",
+    "Coenegrachts Steven",
+    "Cornillie Hervé",
+    "Cuylaerts Dorien",
+    "Daenen Nele",
+    "Deborsu Charlotte",
+    "De Knop Irina",
+    "Delcourt Catherine",
+    "De Maegd Michel",
+    "Demesmaeker Eva",
+    "Demon Franky",
+    "Depoortere Ortwin",
+    "Depoorter Kathleen",
+    "De Roover Peter",
+    "De Smet François",
+    "De Vreese Maaike",
+    "De Wit Sophie",
+    "D'Haese Christoph",
+    "Dillen Marijke",
+    "Dubois Xavier",
+    "Ducarme Denis",
+    "Dufrane Anthony",
+    "El Yakhloufi Achraf",
+    "Farih Nawal",
+    "Foret Gilles",
+    "Frank Luc",
+    "Freilich Michael",
+    "Gabriëls Katja",
+    "Gatelier Jean-François",
+    "Gielis Tine",
+    "Gijbels Frieda",
+    "Goffin Philippe",
+    "Grillaert Leentje",
+    "Handichi Youssef",
+    "Hansez Isabelle",
+    "Hiligsmann Serge",
+    "Huybrechts Britt",
+    "Jadoul Pierre",
+    "Keuten Dieter",
+    "Kompany Pierre",
+    "Lamarti Fatima",
+    "Lambrecht Annick",
+    "Lanjri Nahima",
+    "Lasseaux Stéphane",
+    "Lejeune Marc",
+    "Mahdi Sammy",
+    "Matagne Julien",
+    "Matheï Steven",
+    "Metsu Koen",
+    "Meuleman Brent",
+    "Michel Mathieu",
+    "Moons Kurt",
+    "Muylle Nathalie",
+    "Nuino Ismaël",
+    "Oru Funda",
+    "Pas Barbara",
+    "Peeters Lotte",
+    "Piedboeuf Benoît",
+    "Pirson Anne",
+    "Ponthier Annick",
+    "Ramlot Carmen",
+    "Raskin Wouter",
+    "Reuter Florence",
+    "Ronse Axel",
+    "Safai Darya",
+    "Samyn Ellen",
+    "Scourneau Vincent",
+    "Seuntjens Oskar",
+    "Sneppe Dominiek",
+    "Soete Jeroen",
+    "Somers Werner",
+    "Tas Niels",
+    "Taton Julie",
+    "Tourneur Aurore",
+    "Troosters Frank",
+    "Truyman Lieve",
+    "Van Belleghem Francesca",
+    "Vandeberg Victoria",
+    "Van den Heuvel Koen",
+    "Vandeput Steven",
+    "Van der Donckt Wim",
+    "Vander Elst Kjell",
+    "Van Hoecke Alexander",
+    "Van Hoof Els",
+    "Van Keymolen Phaedra",
+    "Van Lommel Reccino",
+    "Van Quickenborne Vincent",
+    "van Riet Katrijn",
+    "Vanrobaeys Anja",
+    "Van Rooy Sam",
+    "Van Tigchelt Paul",
+    "Van Vaerenbergh Kristien",
+    "Verbelen Kristien",
+    "Vereeck Lode",
+    "Verkeyn Charlotte",
+    "Vermeersch Wouter",
+    "Weydts Axel",
+    "Wollants Bert",
+    "Yzermans Alain"
+   ],
+   "no": [],
+   "abstain": [
+    "Almaci Meyrem",
+    "Aouasti Khalil",
+    "Bayet Hugues",
+    "Bilmez Kemal",
+    "Boukili Nabil",
+    "Chahid Ridouane",
+    "Courard Philippe",
+    "Daems Greet",
+    "Daerden Frédéric",
+    "D'Amico Roberto",
+    "Dedonder Ludivine",
+    "Dermagne Pierre-Yves",
+    "Désir Caroline",
+    "De Witte Kim",
+    "Eggermont Natalie",
+    "Hedebouw Raoul",
+    "Jacquet Farah",
+    "Legasse Dimitri",
+    "Magnette Paul",
+    "Maouane Rajae",
+    "Merckx Sofie",
+    "Mertens Peter",
+    "Meunier Marie",
+    "Moscufo Nadia",
+    "Mutyebele Ngoi Lydia",
+    "Prévot Patrick",
+    "Ribaudo Julien",
+    "Schlitz Sarah",
+    "Thémont Sophie",
+    "Thiébaut Éric",
+    "Tonniau Robin",
+    "Vanbesien Dieter",
+    "Vandemaele Matti",
+    "Van den Bosch Annik",
+    "Van der Straeten Tinne",
+    "Van Hecke Stefaan",
+    "Van Lysebettens Jeroen",
+    "Yigit Ayse"
+   ]
+  },
+  "6": {
+   "yes": [
+    "Bacquelaine Daniel",
+    "Bergers Jeroen",
+    "Bertels Jan",
+    "Bertrand Alexia",
+    "Bombled Christophe",
+    "Bouchez Georges-Louis",
+    "Buysrogge Peter",
+    "Coenegrachts Steven",
+    "Cornillie Hervé",
+    "Cuylaerts Dorien",
+    "Daenen Nele",
+    "Deborsu Charlotte",
+    "De Knop Irina",
+    "Delcourt Catherine",
+    "De Maegd Michel",
+    "Demesmaeker Eva",
+    "Demon Franky",
+    "Depoorter Kathleen",
+    "De Roover Peter",
+    "De Vreese Maaike",
+    "De Wit Sophie",
+    "D'Haese Christoph",
+    "Dubois Xavier",
+    "Ducarme Denis",
+    "Dufrane Anthony",
+    "El Yakhloufi Achraf",
+    "Farih Nawal",
+    "Foret Gilles",
+    "Frank Luc",
+    "Freilich Michael",
+    "Gabriëls Katja",
+    "Gatelier Jean-François",
+    "Gielis Tine",
+    "Gijbels Frieda",
+    "Goffin Philippe",
+    "Grillaert Leentje",
+    "Handichi Youssef",
+    "Hansez Isabelle",
+    "Hiligsmann Serge",
+    "Jadoul Pierre",
+    "Kompany Pierre",
+    "Lamarti Fatima",
+    "Lambrecht Annick",
+    "Lanjri Nahima",
+    "Lasseaux Stéphane",
+    "Lejeune Marc",
+    "Mahdi Sammy",
+    "Matagne Julien",
+    "Matheï Steven",
+    "Metsu Koen",
+    "Meuleman Brent",
+    "Michel Mathieu",
+    "Muylle Nathalie",
+    "Nuino Ismaël",
+    "Oru Funda",
+    "Peeters Lotte",
+    "Piedboeuf Benoît",
+    "Pirson Anne",
+    "Ramlot Carmen",
+    "Raskin Wouter",
+    "Reuter Florence",
+    "Ronse Axel",
+    "Safai Darya",
+    "Scourneau Vincent",
+    "Seuntjens Oskar",
+    "Soete Jeroen",
+    "Tas Niels",
+    "Taton Julie",
+    "Tourneur Aurore",
+    "Truyman Lieve",
+    "Vandeberg Victoria",
+    "Van den Heuvel Koen",
+    "Vandeput Steven",
+    "Van der Donckt Wim",
+    "Vander Elst Kjell",
+    "Van Hoof Els",
+    "Van Keymolen Phaedra",
+    "Van Quickenborne Vincent",
+    "van Riet Katrijn",
+    "Vanrobaeys Anja",
+    "Van Tigchelt Paul",
+    "Van Vaerenbergh Kristien",
+    "Verkeyn Charlotte",
+    "Weydts Axel",
+    "Wollants Bert",
+    "Yzermans Alain"
+   ],
+   "no": [
+    "Bilmez Kemal",
+    "Boukili Nabil",
+    "Bury Katleen",
+    "Daems Greet",
+    "D'Amico Roberto",
+    "Depoortere Ortwin",
+    "De Witte Kim",
+    "Dillen Marijke",
+    "Eggermont Natalie",
+    "Hedebouw Raoul",
+    "Huybrechts Britt",
+    "Jacquet Farah",
+    "Keuten Dieter",
+    "Merckx Sofie",
+    "Mertens Peter",
+    "Moons Kurt",
+    "Moscufo Nadia",
+    "Pas Barbara",
+    "Ponthier Annick",
+    "Ribaudo Julien",
+    "Samyn Ellen",
+    "Sneppe Dominiek",
+    "Somers Werner",
+    "Tonniau Robin",
+    "Troosters Frank",
+    "Van Belleghem Francesca",
+    "Van den Bosch Annik",
+    "Van Hoecke Alexander",
+    "Van Lommel Reccino",
+    "Van Rooy Sam",
+    "Verbelen Kristien",
+    "Vereeck Lode",
+    "Vermeersch Wouter",
+    "Yigit Ayse"
+   ],
+   "abstain": [
+    "Almaci Meyrem",
+    "Aouasti Khalil",
+    "Bayet Hugues",
+    "Chahid Ridouane",
+    "Courard Philippe",
+    "Daerden Frédéric",
+    "Dedonder Ludivine",
+    "Dermagne Pierre-Yves",
+    "Désir Caroline",
+    "De Smet François",
+    "Legasse Dimitri",
+    "Magnette Paul",
+    "Maouane Rajae",
+    "Meunier Marie",
+    "Mutyebele Ngoi Lydia",
+    "Prévot Patrick",
+    "Schlitz Sarah",
+    "Thémont Sophie",
+    "Thiébaut Éric",
+    "Vanbesien Dieter",
+    "Vandemaele Matti",
+    "Van der Straeten Tinne",
+    "Van Hecke Stefaan",
+    "Van Lysebettens Jeroen"
+   ]
+  },
+  "7": {
+   "yes": [
+    "Almaci Meyrem",
+    "Bacquelaine Daniel",
+    "Bergers Jeroen",
+    "Bertels Jan",
+    "Bertrand Alexia",
+    "Bombled Christophe",
+    "Bouchez Georges-Louis",
+    "Buysrogge Peter",
+    "Coenegrachts Steven",
+    "Cornillie Hervé",
+    "Cuylaerts Dorien",
+    "Daenen Nele",
+    "Deborsu Charlotte",
+    "De Knop Irina",
+    "Delcourt Catherine",
+    "De Maegd Michel",
+    "Demesmaeker Eva",
+    "Demon Franky",
+    "Depoorter Kathleen",
+    "De Roover Peter",
+    "De Vreese Maaike",
+    "De Wit Sophie",
+    "D'Haese Christoph",
+    "Dubois Xavier",
+    "Ducarme Denis",
+    "Dufrane Anthony",
+    "El Yakhloufi Achraf",
+    "Farih Nawal",
+    "Foret Gilles",
+    "Frank Luc",
+    "Freilich Michael",
+    "Gabriëls Katja",
+    "Gatelier Jean-François",
+    "Gielis Tine",
+    "Gijbels Frieda",
+    "Goffin Philippe",
+    "Grillaert Leentje",
+    "Handichi Youssef",
+    "Hansez Isabelle",
+    "Hiligsmann Serge",
+    "Jadoul Pierre",
+    "Kompany Pierre",
+    "Lamarti Fatima",
+    "Lambrecht Annick",
+    "Lanjri Nahima",
+    "Lasseaux Stéphane",
+    "Lejeune Marc",
+    "Mahdi Sammy",
+    "Maouane Rajae",
+    "Matagne Julien",
+    "Matheï Steven",
+    "Metsu Koen",
+    "Meuleman Brent",
+    "Michel Mathieu",
+    "Muylle Nathalie",
+    "Nuino Ismaël",
+    "Oru Funda",
+    "Peeters Lotte",
+    "Piedboeuf Benoît",
+    "Pirson Anne",
+    "Ramlot Carmen",
+    "Raskin Wouter",
+    "Reuter Florence",
+    "Ronse Axel",
+    "Safai Darya",
+    "Schlitz Sarah",
+    "Scourneau Vincent",
+    "Seuntjens Oskar",
+    "Soete Jeroen",
+    "Tas Niels",
+    "Taton Julie",
+    "Tourneur Aurore",
+    "Truyman Lieve",
+    "Vanbesien Dieter",
+    "Vandeberg Victoria",
+    "Vandemaele Matti",
+    "Van den Heuvel Koen",
+    "Vandeput Steven",
+    "Van der Donckt Wim",
+    "Vander Elst Kjell",
+    "Van der Straeten Tinne",
+    "Van Hecke Stefaan",
+    "Van Hoof Els",
+    "Van Keymolen Phaedra",
+    "Van Lysebettens Jeroen",
+    "Van Quickenborne Vincent",
+    "van Riet Katrijn",
+    "Vanrobaeys Anja",
+    "Van Tigchelt Paul",
+    "Van Vaerenbergh Kristien",
+    "Verkeyn Charlotte",
+    "Weydts Axel",
+    "Wollants Bert",
+    "Yzermans Alain"
+   ],
+   "no": [
+    "Aouasti Khalil",
+    "Bayet Hugues",
+    "Bury Katleen",
+    "Chahid Ridouane",
+    "Daerden Frédéric",
+    "Dedonder Ludivine",
+    "Depoortere Ortwin",
+    "Dermagne Pierre-Yves",
+    "Désir Caroline",
+    "Dillen Marijke",
+    "Huybrechts Britt",
+    "Keuten Dieter",
+    "Legasse Dimitri",
+    "Magnette Paul",
+    "Meunier Marie",
+    "Moons Kurt",
+    "Mutyebele Ngoi Lydia",
+    "Pas Barbara",
+    "Ponthier Annick",
+    "Prévot Patrick",
+    "Samyn Ellen",
+    "Sneppe Dominiek",
+    "Somers Werner",
+    "Thémont Sophie",
+    "Thiébaut Éric",
+    "Troosters Frank",
+    "Van Belleghem Francesca",
+    "Van Hoecke Alexander",
+    "Van Lommel Reccino",
+    "Van Rooy Sam",
+    "Verbelen Kristien",
+    "Vereeck Lode",
+    "Vermeersch Wouter"
+   ],
+   "abstain": [
+    "Bilmez Kemal",
+    "Boukili Nabil",
+    "Courard Philippe",
+    "Daems Greet",
+    "D'Amico Roberto",
+    "De Smet François",
+    "De Witte Kim",
+    "Eggermont Natalie",
+    "Hedebouw Raoul",
+    "Jacquet Farah",
+    "Merckx Sofie",
+    "Mertens Peter",
+    "Moscufo Nadia",
+    "Ribaudo Julien",
+    "Tonniau Robin",
+    "Van den Bosch Annik",
+    "Yigit Ayse"
+   ]
+  },
+  "8": {
+   "yes": [
+    "Almaci Meyrem",
+    "Bacquelaine Daniel",
+    "Bergers Jeroen",
+    "Bertels Jan",
+    "Bertrand Alexia",
+    "Bombled Christophe",
+    "Bouchez Georges-Louis",
+    "Buysrogge Peter",
+    "Coenegrachts Steven",
+    "Cornillie Hervé",
+    "Cuylaerts Dorien",
+    "Daenen Nele",
+    "Deborsu Charlotte",
+    "De Knop Irina",
+    "Delcourt Catherine",
+    "De Maegd Michel",
+    "Demesmaeker Eva",
+    "Demon Franky",
+    "Depoorter Kathleen",
+    "De Roover Peter",
+    "De Vreese Maaike",
+    "De Wit Sophie",
+    "D'Haese Christoph",
+    "Dubois Xavier",
+    "Ducarme Denis",
+    "Dufrane Anthony",
+    "El Yakhloufi Achraf",
+    "Farih Nawal",
+    "Foret Gilles",
+    "Frank Luc",
+    "Freilich Michael",
+    "Gabriëls Katja",
+    "Gatelier Jean-François",
+    "Gielis Tine",
+    "Gijbels Frieda",
+    "Goffin Philippe",
+    "Grillaert Leentje",
+    "Handichi Youssef",
+    "Hansez Isabelle",
+    "Hiligsmann Serge",
+    "Jadoul Pierre",
+    "Kompany Pierre",
+    "Lamarti Fatima",
+    "Lambrecht Annick",
+    "Lanjri Nahima",
+    "Lasseaux Stéphane",
+    "Lejeune Marc",
+    "Mahdi Sammy",
+    "Maouane Rajae",
+    "Matagne Julien",
+    "Matheï Steven",
+    "Metsu Koen",
+    "Meuleman Brent",
+    "Michel Mathieu",
+    "Muylle Nathalie",
+    "Nuino Ismaël",
+    "Oru Funda",
+    "Peeters Lotte",
+    "Piedboeuf Benoît",
+    "Pirson Anne",
+    "Ramlot Carmen",
+    "Raskin Wouter",
+    "Reuter Florence",
+    "Ronse Axel",
+    "Safai Darya",
+    "Schlitz Sarah",
+    "Scourneau Vincent",
+    "Seuntjens Oskar",
+    "Soete Jeroen",
+    "Tas Niels",
+    "Taton Julie",
+    "Tourneur Aurore",
+    "Truyman Lieve",
+    "Vanbesien Dieter",
+    "Vandeberg Victoria",
+    "Vandemaele Matti",
+    "Van den Heuvel Koen",
+    "Vandeput Steven",
+    "Van der Donckt Wim",
+    "Vander Elst Kjell",
+    "Van der Straeten Tinne",
+    "Van Hecke Stefaan",
+    "Van Hoof Els",
+    "Van Keymolen Phaedra",
+    "Van Lysebettens Jeroen",
+    "Van Quickenborne Vincent",
+    "van Riet Katrijn",
+    "Vanrobaeys Anja",
+    "Van Tigchelt Paul",
+    "Van Vaerenbergh Kristien",
+    "Verkeyn Charlotte",
+    "Weydts Axel",
+    "Wollants Bert",
+    "Yzermans Alain"
+   ],
+   "no": [
+    "Aouasti Khalil",
+    "Bayet Hugues",
+    "Bury Katleen",
+    "Chahid Ridouane",
+    "Daerden Frédéric",
+    "Dedonder Ludivine",
+    "Depoortere Ortwin",
+    "Dermagne Pierre-Yves",
+    "Désir Caroline",
+    "Dillen Marijke",
+    "Huybrechts Britt",
+    "Keuten Dieter",
+    "Legasse Dimitri",
+    "Magnette Paul",
+    "Meunier Marie",
+    "Moons Kurt",
+    "Mutyebele Ngoi Lydia",
+    "Pas Barbara",
+    "Ponthier Annick",
+    "Prévot Patrick",
+    "Samyn Ellen",
+    "Sneppe Dominiek",
+    "Somers Werner",
+    "Thémont Sophie",
+    "Thiébaut Éric",
+    "Troosters Frank",
+    "Van Belleghem Francesca",
+    "Van Hoecke Alexander",
+    "Van Lommel Reccino",
+    "Van Rooy Sam",
+    "Verbelen Kristien",
+    "Vereeck Lode",
+    "Vermeersch Wouter"
+   ],
+   "abstain": [
+    "Bilmez Kemal",
+    "Boukili Nabil",
+    "Courard Philippe",
+    "Daems Greet",
+    "D'Amico Roberto",
+    "De Smet François",
+    "De Witte Kim",
+    "Eggermont Natalie",
+    "Hedebouw Raoul",
+    "Jacquet Farah",
+    "Merckx Sofie",
+    "Mertens Peter",
+    "Moscufo Nadia",
+    "Ribaudo Julien",
+    "Tonniau Robin",
+    "Van den Bosch Annik",
+    "Yigit Ayse"
+   ]
+  },
+  "9": {
+   "yes": [
+    "Almaci Meyrem",
+    "Aouasti Khalil",
+    "Bacquelaine Daniel",
+    "Bayet Hugues",
+    "Bergers Jeroen",
+    "Bertels Jan",
+    "Bertrand Alexia",
+    "Bombled Christophe",
+    "Bouchez Georges-Louis",
+    "Bury Katleen",
+    "Buysrogge Peter",
+    "Chahid Ridouane",
+    "Coenegrachts Steven",
+    "Cornillie Hervé",
+    "Courard Philippe",
+    "Cuylaerts Dorien",
+    "Daenen Nele",
+    "Daerden Frédéric",
+    "Deborsu Charlotte",
+    "Dedonder Ludivine",
+    "De Knop Irina",
+    "Delcourt Catherine",
+    "De Maegd Michel",
+    "Demesmaeker Eva",
+    "Demon Franky",
+    "Depoortere Ortwin",
+    "Depoorter Kathleen",
+    "Dermagne Pierre-Yves",
+    "Désir Caroline",
+    "De Smet François",
+    "De Vreese Maaike",
+    "De Wit Sophie",
+    "D'Haese Christoph",
+    "Dillen Marijke",
+    "Dubois Xavier",
+    "Ducarme Denis",
+    "Dufrane Anthony",
+    "El Yakhloufi Achraf",
+    "Farih Nawal",
+    "Foret Gilles",
+    "Frank Luc",
+    "Freilich Michael",
+    "Gabriëls Katja",
+    "Gatelier Jean-François",
+    "Gielis Tine",
+    "Gijbels Frieda",
+    "Goffin Philippe",
+    "Grillaert Leentje",
+    "Handichi Youssef",
+    "Hansez Isabelle",
+    "Hiligsmann Serge",
+    "Huybrechts Britt",
+    "Jadoul Pierre",
+    "Keuten Dieter",
+    "Kompany Pierre",
+    "Lamarti Fatima",
+    "Lambrecht Annick",
+    "Lanjri Nahima",
+    "Lasseaux Stéphane",
+    "Legasse Dimitri",
+    "Lejeune Marc",
+    "Magnette Paul",
+    "Mahdi Sammy",
+    "Maouane Rajae",
+    "Matagne Julien",
+    "Matheï Steven",
+    "Metsu Koen",
+    "Meuleman Brent",
+    "Meunier Marie",
+    "Michel Mathieu",
+    "Moons Kurt",
+    "Mutyebele Ngoi Lydia",
+    "Muylle Nathalie",
+    "Nuino Ismaël",
+    "Oru Funda",
+    "Pas Barbara",
+    "Peeters Lotte",
+    "Piedboeuf Benoît",
+    "Pirson Anne",
+    "Ponthier Annick",
+    "Prévot Patrick",
+    "Ramlot Carmen",
+    "Raskin Wouter",
+    "Reuter Florence",
+    "Ronse Axel",
+    "Safai Darya",
+    "Samyn Ellen",
+    "Schlitz Sarah",
+    "Scourneau Vincent",
+    "Seuntjens Oskar",
+    "Sneppe Dominiek",
+    "Soete Jeroen",
+    "Somers Werner",
+    "Tas Niels",
+    "Taton Julie",
+    "Thémont Sophie",
+    "Thiébaut Éric",
+    "Tourneur Aurore",
+    "Troosters Frank",
+    "Truyman Lieve",
+    "Van Belleghem Francesca",
+    "Vanbesien Dieter",
+    "Vandeberg Victoria",
+    "Vandemaele Matti",
+    "Van den Heuvel Koen",
+    "Vandeput Steven",
+    "Van der Donckt Wim",
+    "Vander Elst Kjell",
+    "Van der Straeten Tinne",
+    "Van Hecke Stefaan",
+    "Van Hoecke Alexander",
+    "Van Hoof Els",
+    "Van Keymolen Phaedra",
+    "Van Lommel Reccino",
+    "Van Lysebettens Jeroen",
+    "Van Quickenborne Vincent",
+    "van Riet Katrijn",
+    "Vanrobaeys Anja",
+    "Van Rooy Sam",
+    "Van Tigchelt Paul",
+    "Van Vaerenbergh Kristien",
+    "Verbelen Kristien",
+    "Vereeck Lode",
+    "Verkeyn Charlotte",
+    "Vermeersch Wouter",
+    "Weydts Axel",
+    "Wollants Bert",
+    "Yzermans Alain"
+   ],
+   "no": [],
+   "abstain": [
+    "Bilmez Kemal",
+    "Boukili Nabil",
+    "Daems Greet",
+    "D'Amico Roberto",
+    "De Witte Kim",
+    "Eggermont Natalie",
+    "Hedebouw Raoul",
+    "Jacquet Farah",
+    "Merckx Sofie",
+    "Mertens Peter",
+    "Moscufo Nadia",
+    "Ribaudo Julien",
+    "Tonniau Robin",
+    "Van den Bosch Annik",
+    "Yigit Ayse"
+   ]
+  },
+  "10": {
+   "yes": [
+    "Bilmez Kemal",
+    "Boukili Nabil",
+    "Daems Greet",
+    "D'Amico Roberto",
+    "De Witte Kim",
+    "Eggermont Natalie",
+    "Hedebouw Raoul",
+    "Jacquet Farah",
+    "Merckx Sofie",
+    "Mertens Peter",
+    "Moscufo Nadia",
+    "Ribaudo Julien",
+    "Tonniau Robin",
+    "Van den Bosch Annik",
+    "Yigit Ayse"
+   ],
+   "no": [
+    "Bacquelaine Daniel",
+    "Bergers Jeroen",
+    "Bertels Jan",
+    "Bertrand Alexia",
+    "Bombled Christophe",
+    "Bouchez Georges-Louis",
+    "Buysrogge Peter",
+    "Coenegrachts Steven",
+    "Cornillie Hervé",
+    "Cuylaerts Dorien",
+    "Daenen Nele",
+    "Deborsu Charlotte",
+    "De Knop Irina",
+    "Delcourt Catherine",
+    "De Maegd Michel",
+    "Demesmaeker Eva",
+    "Demon Franky",
+    "Depoorter Kathleen",
+    "De Roover Peter",
+    "De Smet François",
+    "De Vreese Maaike",
+    "De Wit Sophie",
+    "D'Haese Christoph",
+    "Dubois Xavier",
+    "Ducarme Denis",
+    "Dufrane Anthony",
+    "El Yakhloufi Achraf",
+    "Farih Nawal",
+    "Foret Gilles",
+    "Frank Luc",
+    "Freilich Michael",
+    "Gabriëls Katja",
+    "Gatelier Jean-François",
+    "Gielis Tine",
+    "Gijbels Frieda",
+    "Goffin Philippe",
+    "Grillaert Leentje",
+    "Handichi Youssef",
+    "Hansez Isabelle",
+    "Hiligsmann Serge",
+    "Jadoul Pierre",
+    "Kompany Pierre",
+    "Lamarti Fatima",
+    "Lambrecht Annick",
+    "Lanjri Nahima",
+    "Lasseaux Stéphane",
+    "Lejeune Marc",
+    "Mahdi Sammy",
+    "Matagne Julien",
+    "Matheï Steven",
+    "Metsu Koen",
+    "Meuleman Brent",
+    "Michel Mathieu",
+    "Muylle Nathalie",
+    "Nuino Ismaël",
+    "Oru Funda",
+    "Peeters Lotte",
+    "Piedboeuf Benoît",
+    "Pirson Anne",
+    "Ramlot Carmen",
+    "Raskin Wouter",
+    "Reuter Florence",
+    "Ronse Axel",
+    "Safai Darya",
+    "Scourneau Vincent",
+    "Seuntjens Oskar",
+    "Soete Jeroen",
+    "Tas Niels",
+    "Taton Julie",
+    "Tourneur Aurore",
+    "Truyman Lieve",
+    "Vandeberg Victoria",
+    "Van den Heuvel Koen",
+    "Vandeput Steven",
+    "Van der Donckt Wim",
+    "Vander Elst Kjell",
+    "Van Hoof Els",
+    "Van Keymolen Phaedra",
+    "Van Quickenborne Vincent",
+    "van Riet Katrijn",
+    "Vanrobaeys Anja",
+    "Van Tigchelt Paul",
+    "Van Vaerenbergh Kristien",
+    "Verkeyn Charlotte",
+    "Weydts Axel",
+    "Wollants Bert",
+    "Yzermans Alain"
+   ],
+   "abstain": [
+    "Almaci Meyrem",
+    "Aouasti Khalil",
+    "Bayet Hugues",
+    "Bury Katleen",
+    "Chahid Ridouane",
+    "Courard Philippe",
+    "Daerden Frédéric",
+    "Dedonder Ludivine",
+    "Depoortere Ortwin",
+    "Dermagne Pierre-Yves",
+    "Désir Caroline",
+    "Dillen Marijke",
+    "Huybrechts Britt",
+    "Keuten Dieter",
+    "Legasse Dimitri",
+    "Magnette Paul",
+    "Maouane Rajae",
+    "Meunier Marie",
+    "Moons Kurt",
+    "Mutyebele Ngoi Lydia",
+    "Pas Barbara",
+    "Ponthier Annick",
+    "Prévot Patrick",
+    "Samyn Ellen",
+    "Schlitz Sarah",
+    "Sneppe Dominiek",
+    "Somers Werner",
+    "Thémont Sophie",
+    "Thiébaut Éric",
+    "Troosters Frank",
+    "Van Belleghem Francesca",
+    "Vanbesien Dieter",
+    "Vandemaele Matti",
+    "Van der Straeten Tinne",
+    "Van Hecke Stefaan",
+    "Van Hoecke Alexander",
+    "Van Lommel Reccino",
+    "Van Lysebettens Jeroen",
+    "Van Rooy Sam",
+    "Verbelen Kristien",
+    "Vereeck Lode",
+    "Vermeersch Wouter"
+   ]
+  },
+  "11": {
+   "yes": [
+    "Almaci Meyrem",
+    "Aouasti Khalil",
+    "Bacquelaine Daniel",
+    "Bayet Hugues",
+    "Bergers Jeroen",
+    "Bertels Jan",
+    "Bilmez Kemal",
+    "Bombled Christophe",
+    "Bouchez Georges-Louis",
+    "Boukili Nabil",
+    "Buysrogge Peter",
+    "Chahid Ridouane",
+    "Cornillie Hervé",
+    "Courard Philippe",
+    "Cuylaerts Dorien",
+    "Daems Greet",
+    "Daenen Nele",
+    "Daerden Frédéric",
+    "D'Amico Roberto",
+    "Deborsu Charlotte",
+    "Dedonder Ludivine",
+    "Delcourt Catherine",
+    "De Maegd Michel",
+    "Demesmaeker Eva",
+    "Demon Franky",
+    "Depoorter Kathleen",
+    "Dermagne Pierre-Yves",
+    "De Roover Peter",
+    "Désir Caroline",
+    "De Smet François",
+    "De Vreese Maaike",
+    "De Wit Sophie",
+    "De Witte Kim",
+    "D'Haese Christoph",
+    "Dubois Xavier",
+    "Ducarme Denis",
+    "Dufrane Anthony",
+    "Eggermont Natalie",
+    "El Yakhloufi Achraf",
+    "Farih Nawal",
+    "Foret Gilles",
+    "Frank Luc",
+    "Freilich Michael",
+    "Gatelier Jean-François",
+    "Gielis Tine",
+    "Gijbels Frieda",
+    "Goffin Philippe",
+    "Grillaert Leentje",
+    "Handichi Youssef",
+    "Hansez Isabelle",
+    "Hedebouw Raoul",
+    "Hiligsmann Serge",
+    "Jacquet Farah",
+    "Jadoul Pierre",
+    "Kompany Pierre",
+    "Lamarti Fatima",
+    "Lambrecht Annick",
+    "Lanjri Nahima",
+    "Lasseaux Stéphane",
+    "Legasse Dimitri",
+    "Lejeune Marc",
+    "Magnette Paul",
+    "Mahdi Sammy",
+    "Maouane Rajae",
+    "Matagne Julien",
+    "Matheï Steven",
+    "Merckx Sofie",
+    "Mertens Peter",
+    "Metsu Koen",
+    "Meuleman Brent",
+    "Meunier Marie",
+    "Michel Mathieu",
+    "Moscufo Nadia",
+    "Mutyebele Ngoi Lydia",
+    "Muylle Nathalie",
+    "Nuino Ismaël",
+    "Oru Funda",
+    "Peeters Lotte",
+    "Piedboeuf Benoît",
+    "Pirson Anne",
+    "Prévot Patrick",
+    "Ramlot Carmen",
+    "Raskin Wouter",
+    "Reuter Florence",
+    "Ribaudo Julien",
+    "Ronse Axel",
+    "Safai Darya",
+    "Schlitz Sarah",
+    "Scourneau Vincent",
+    "Seuntjens Oskar",
+    "Soete Jeroen",
+    "Tas Niels",
+    "Taton Julie",
+    "Thémont Sophie",
+    "Thiébaut Éric",
+    "Tonniau Robin",
+    "Tourneur Aurore",
+    "Truyman Lieve",
+    "Vanbesien Dieter",
+    "Vandeberg Victoria",
+    "Vandemaele Matti",
+    "Van den Bosch Annik",
+    "Van den Heuvel Koen",
+    "Vandeput Steven",
+    "Van der Donckt Wim",
+    "Van der Straeten Tinne",
+    "Van Hecke Stefaan",
+    "Van Hoof Els",
+    "Van Keymolen Phaedra",
+    "Van Lysebettens Jeroen",
+    "van Riet Katrijn",
+    "Vanrobaeys Anja",
+    "Van Vaerenbergh Kristien",
+    "Verkeyn Charlotte",
+    "Weydts Axel",
+    "Wollants Bert",
+    "Yigit Ayse",
+    "Yzermans Alain"
+   ],
+   "no": [],
+   "abstain": [
+    "Bertrand Alexia",
+    "Bury Katleen",
+    "Coenegrachts Steven",
+    "De Knop Irina",
+    "Depoortere Ortwin",
+    "Dillen Marijke",
+    "Gabriëls Katja",
+    "Huybrechts Britt",
+    "Keuten Dieter",
+    "Moons Kurt",
+    "Pas Barbara",
+    "Ponthier Annick",
+    "Samyn Ellen",
+    "Sneppe Dominiek",
+    "Somers Werner",
+    "Troosters Frank",
+    "Van Belleghem Francesca",
+    "Vander Elst Kjell",
+    "Van Hoecke Alexander",
+    "Van Lommel Reccino",
+    "Van Quickenborne Vincent",
+    "Van Rooy Sam",
+    "Van Tigchelt Paul",
+    "Verbelen Kristien",
+    "Vereeck Lode",
+    "Vermeersch Wouter"
+   ]
+  },
+  "12": {
+   "yes": [
+    "Almaci Meyrem",
+    "Aouasti Khalil",
+    "Bacquelaine Daniel",
+    "Bayet Hugues",
+    "Bergers Jeroen",
+    "Bertels Jan",
+    "Bilmez Kemal",
+    "Bombled Christophe",
+    "Bouchez Georges-Louis",
+    "Buysrogge Peter",
+    "Chahid Ridouane",
+    "Cornillie Hervé",
+    "Courard Philippe",
+    "Cuylaerts Dorien",
+    "Daems Greet",
+    "Daenen Nele",
+    "Daerden Frédéric",
+    "D'Amico Roberto",
+    "Deborsu Charlotte",
+    "Dedonder Ludivine",
+    "Delcourt Catherine",
+    "De Maegd Michel",
+    "Demesmaeker Eva",
+    "Demon Franky",
+    "Depoorter Kathleen",
+    "Dermagne Pierre-Yves",
+    "De Roover Peter",
+    "Désir Caroline",
+    "De Smet François",
+    "De Vreese Maaike",
+    "De Wit Sophie",
+    "De Witte Kim",
+    "D'Haese Christoph",
+    "Dubois Xavier",
+    "Ducarme Denis",
+    "Dufrane Anthony",
+    "Eggermont Natalie",
+    "El Yakhloufi Achraf",
+    "Farih Nawal",
+    "Foret Gilles",
+    "Frank Luc",
+    "Freilich Michael",
+    "Gatelier Jean-François",
+    "Gielis Tine",
+    "Gijbels Frieda",
+    "Goffin Philippe",
+    "Grillaert Leentje",
+    "Handichi Youssef",
+    "Hansez Isabelle",
+    "Hedebouw Raoul",
+    "Hiligsmann Serge",
+    "Jacquet Farah",
+    "Jadoul Pierre",
+    "Kompany Pierre",
+    "Lamarti Fatima",
+    "Lambrecht Annick",
+    "Lanjri Nahima",
+    "Lasseaux Stéphane",
+    "Legasse Dimitri",
+    "Lejeune Marc",
+    "Magnette Paul",
+    "Mahdi Sammy",
+    "Maouane Rajae",
+    "Matagne Julien",
+    "Matheï Steven",
+    "Merckx Sofie",
+    "Mertens Peter",
+    "Metsu Koen",
+    "Meuleman Brent",
+    "Meunier Marie",
+    "Michel Mathieu",
+    "Moscufo Nadia",
+    "Mutyebele Ngoi Lydia",
+    "Muylle Nathalie",
+    "Nuino Ismaël",
+    "Oru Funda",
+    "Peeters Lotte",
+    "Piedboeuf Benoît",
+    "Pirson Anne",
+    "Prévot Patrick",
+    "Ramlot Carmen",
+    "Raskin Wouter",
+    "Reuter Florence",
+    "Ribaudo Julien",
+    "Ronse Axel",
+    "Safai Darya",
+    "Schlitz Sarah",
+    "Scourneau Vincent",
+    "Seuntjens Oskar",
+    "Soete Jeroen",
+    "Tas Niels",
+    "Taton Julie",
+    "Thémont Sophie",
+    "Thiébaut Éric",
+    "Tonniau Robin",
+    "Tourneur Aurore",
+    "Truyman Lieve",
+    "Vanbesien Dieter",
+    "Vandeberg Victoria",
+    "Vandemaele Matti",
+    "Van den Bosch Annik",
+    "Van den Heuvel Koen",
+    "Vandeput Steven",
+    "Van der Donckt Wim",
+    "Van der Straeten Tinne",
+    "Van Hecke Stefaan",
+    "Van Hoof Els",
+    "Van Keymolen Phaedra",
+    "Van Lysebettens Jeroen",
+    "van Riet Katrijn",
+    "Vanrobaeys Anja",
+    "Van Vaerenbergh Kristien",
+    "Verkeyn Charlotte",
+    "Weydts Axel",
+    "Wollants Bert",
+    "Yigit Ayse",
+    "Yzermans Alain"
+   ],
+   "no": [
+    "Boukili Nabil"
+   ],
+   "abstain": [
+    "Bertrand Alexia",
+    "Bury Katleen",
+    "Coenegrachts Steven",
+    "De Knop Irina",
+    "Depoortere Ortwin",
+    "Dillen Marijke",
+    "Gabriëls Katja",
+    "Huybrechts Britt",
+    "Keuten Dieter",
+    "Moons Kurt",
+    "Pas Barbara",
+    "Ponthier Annick",
+    "Samyn Ellen",
+    "Sneppe Dominiek",
+    "Somers Werner",
+    "Troosters Frank",
+    "Van Belleghem Francesca",
+    "Vander Elst Kjell",
+    "Van Hoecke Alexander",
+    "Van Lommel Reccino",
+    "Van Quickenborne Vincent",
+    "Van Rooy Sam",
+    "Van Tigchelt Paul",
+    "Verbelen Kristien",
+    "Vereeck Lode",
+    "Vermeersch Wouter"
+   ]
+  },
+  "13": {
+   "yes": [
+    "Annick Lambrecht",
+    "Nawal Farih",
+    "Aurore Tourneur",
+    "Katrijn van Riet",
+    "Wouter Raskin",
+    "Steven Matheï",
+    "Catherine Delcourt",
+    "Jean-François Gatelier",
+    "Daniel Bacquelaine",
+    "Koen Metsu",
+    "Nahima Lanjri",
+    "Nathalie Muylle",
+    "Steven Vandeput",
+    "Kathleen Depoorter",
+    "Alain Yzermans",
+    "Stéphane Lasseaux",
+    "Florence Reuter",
+    "Ismaël Nuino",
+    "Niels Tas",
+    "Frieda Gijbels",
+    "Benoît Piedboeuf",
+    "Peter Buysrogge",
+    "Els Van Hoof",
+    "Peter De Roover",
+    "Franky Demon",
+    "Michael Freilich",
+    "Maaike De Vreese",
+    "Wim Van der Donckt",
+    "Julien Matagne",
+    "Pierre Jadoul",
+    "Koen Van den Heuvel",
+    "Kristien Van Vaerenbergh",
+    "Sammy Mahdi",
+    "Eva Demesmaeker",
+    "Anja Vanrobaeys",
+    "Youssef Handichi",
+    "Bert Wollants",
+    "Jan Bertels",
+    "Christoph D'Haese",
+    "Nele Daenen",
+    "Xavier Dubois",
+    "Vincent Scourneau",
+    "Oskar Seuntjens",
+    "Denis Ducarme",
+    "Axel Weydts",
+    "Darya Safai",
+    "Philippe Goffin",
+    "Gilles Foret",
+    "Phaedra Van Keymolen",
+    "Leentje Grillaert",
+    "Carmen Ramlot",
+    "Victoria Vandeberg",
+    "Jeroen Bergers",
+    "Serge Hiligsmann",
+    "Luc Frank",
+    "Dorien Cuylaerts",
+    "Marc Lejeune",
+    "Funda Oru",
+    "Lieve Truyman",
+    "Charlotte Verkeyn",
+    "Lotte Peeters",
+    "Georges-Louis Bouchez",
+    "Achraf El Yakhloufi",
+    "Michel De Maegd",
+    "Anne Pirson",
+    "Charlotte Deborsu",
+    "Tine Gielis",
+    "Isabelle Hansez",
+    "Axel Ronse",
+    "Anthony Dufrane",
+    "Christophe Bombled",
+    "Fatima Lamarti",
+    "Sophie De Wit",
+    "Jeroen Soete",
+    "Brent Meuleman",
+    "Mathieu Michel",
+    "Hervé Cornillie",
+    "Pierre Kompany"
+   ],
+   "no": [
+    "Pierre-Yves Dermagne",
+    "Kemal Bilmez",
+    "Nabil Boukili",
+    "Raoul Hedebouw",
+    "Robin Tonniau",
+    "Annik Van den Bosch",
+    "Nadia Moscufo",
+    "Farah Jacquet",
+    "François De Smet",
+    "Stefaan Van Hecke",
+    "Peter Mertens",
+    "Sofie Merckx",
+    "Roberto D'Amico",
+    "Jeroen Van Lysebettens",
+    "Ludivine Dedonder",
+    "Sarah Schlitz",
+    "Ridouane Chahid",
+    "Julien Ribaudo",
+    "Rajae Maouane",
+    "Caroline Désir",
+    "Sophie Thémont",
+    "Hugues Bayet",
+    "Paul Magnette",
+    "Éric Thiébaut",
+    "Patrick Prévot",
+    "Dimitri Legasse",
+    "Frédéric Daerden",
+    "Tinne Van der Straeten",
+    "Meyrem Almaci",
+    "Khalil Aouasti",
+    "Ayse Yigit",
+    "Natalie Eggermont",
+    "Marie Meunier",
+    "Greet Daems",
+    "Lydia Mutyebele Ngoi",
+    "Dieter Vanbesien",
+    "Matti Vandemaele",
+    "Kim De Witte"
+   ],
+   "abstain": [
+    "Ellen Samyn",
+    "Katleen Bury",
+    "Wouter Vermeersch",
+    "Alexia Bertrand",
+    "Vincent Van Quickenborne",
+    "Katja Gabriëls",
+    "Werner Somers",
+    "Frank Troosters",
+    "Annick Ponthier",
+    "Kjell Vander Elst",
+    "Dominiek Sneppe",
+    "Ortwin Depoortere",
+    "Barbara Pas",
+    "Lode Vereeck",
+    "Marijke Dillen",
+    "Steven Coenegrachts",
+    "Britt Huybrechts",
+    "Dieter Keuten",
+    "Reccino Van Lommel",
+    "Irina De Knop",
+    "Alexander Van Hoecke",
+    "Philippe Courard",
+    "Paul Van Tigchelt",
+    "Kristien Verbelen",
+    "Francesca Van Belleghem",
+    "Kurt Moons",
+    "Sam Van Rooy"
+   ]
+  }
+ }
+}

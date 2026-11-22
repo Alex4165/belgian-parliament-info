@@ -18,12 +18,12 @@ SOURCE_URL = "https://www.dekamer.be/doc/PCRI/html/{leg}/ip{num:03d}x.html"
 
 PARTIES = {
     "N-VA", "VB", "MR", "PS", "PVDA-PTB", "Les Engagés", "Vooruit", "cd&v",
-    "Ecolo-Groen", "Anders.", "DéFI", "INDEP-ONAFH",
+    "Ecolo-Groen", "Anders.", "DéFI", "INDEP-ONAFH", "ONAFH",
 }
 SESSION_PARTS = {"Ochtend": "morning", "Namiddag": "afternoon", "Middag": "afternoon", "Avond": "evening"}
 
 # "01.01  Charlotte Verkeyn (N-VA): text" / "02.03  Frank Vandenbroucke, ministre: text"
-SPEECH_RE = re.compile(r"^(?P<id>\d{2}\.\d{2})\s+(?P<who>[^:]{2,120}?)\s*:\s*(?P<text>.*)$", re.S)
+SPEECH_RE = re.compile(r"^(?P<id>\d{2}\.\d{2,3})\s+(?P<who>[^:]{2,120}?)\s*:\s*(?P<text>.*)$", re.S)
 DOC_RE = re.compile(r"\((\d{2,4})/[\d\-, /]+\)")
 VOTE_NO_RE = re.compile(r"\(Stemming/vote (\d+)\)")
 NAMED_VOTE_RE = re.compile(r"Naamstemming - Vote nominatif:\s*(\d+)")
@@ -41,6 +41,9 @@ PROCEDURE_RE = re.compile(
     r"|^Ingediende (amendementen|moties)|^(Amendements|Motions) déposé"
     r"|^De ingediende|^Les amendements|^Wij vatten|^Nous passons|^Nous abordons"
 )
+MONTHS = {m: i + 1 for i, m in enumerate(
+    "januari februari maart april mei juni juli augustus september oktober november december".split())}
+DATE_LONG_RE = re.compile(r"\b(\d{1,2}) (" + "|".join(MONTHS) + r") (\d{4})\b", re.I)
 DATE_RE = re.compile(r"\b(\d{2})-(\d{2})-(\d{4})\b")
 
 
@@ -60,7 +63,8 @@ def parse_speaker(who: str) -> dict:
     who = clean(who)
     m = re.match(r"^(.*?)\s*\(([^)]+)\)$", who)
     if m and m.group(2) in PARTIES:
-        return {"name": m.group(1), "party": m.group(2), "role": None}
+        party = "Onafhankelijk" if "ONAFH" in m.group(2) else m.group(2)
+        return {"name": m.group(1), "party": party, "role": None}
     if who.lower().startswith("de voorzitter") or who.lower().startswith("la présidente") or who.lower().startswith("le président"):
         return {"name": None, "party": None, "role": "chair"}
     m = re.match(r"^(Minister|Eerste minister|Vice-eersteminister|Staatssecretaris)\s+(.*)$", who)
@@ -73,12 +77,24 @@ def parse_speaker(who: str) -> dict:
 
 
 def walk(soup):
-    """Yield (cls, text, in_table) for every <p> in document order."""
-    for p in soup.find_all("p"):
+    """Yield (cls, text, in_table, element) for every paragraph/heading in document order.
+
+    Newer reports mark headings with class Titre1NL/Titre1FR...; older (definitive) ones use
+    bare <h1>-<h4>, NL first then its FR twin. Those are mapped onto the Titre classes.
+    """
+    prev_heading = None  # (level, lang) of the previous non-empty element if it was a heading
+    for p in soup.find_all(["p", "h1", "h2", "h3", "h4"]):
         text = clean(p.get_text(" "))
         if not text:
             continue
-        cls = (p.get("class") or [""])[0]
+        if p.name == "p":
+            cls = (p.get("class") or [""])[0]
+            prev_heading = None
+        else:
+            level = p.name[1]
+            lang = "FR" if prev_heading == (level, "NL") else "NL"
+            cls = f"Titre{level}{lang}"
+            prev_heading = (level, lang)
         yield cls, text, p.find_parent("table") is not None, p
 
 
@@ -89,9 +105,15 @@ def parse(path: Path) -> dict:
     num = int(m.group(1)) if m else None
     leg = int(path.parent.name) if path.parent.name.isdigit() else 56
 
+    for tag in soup(["style", "script"]):
+        tag.decompose()
     head = clean(soup.get_text(" ")[:5000])
     dm = DATE_RE.search(head)
     date = f"{dm.group(3)}-{dm.group(2)}-{dm.group(1)}" if dm else None
+    if not date:  # definitive reports: "van Donderdag 4 juli 2024"
+        dm = DATE_LONG_RE.search(head)
+        if dm:
+            date = f"{dm.group(3)}-{MONTHS[dm.group(2).lower()]:02d}-{int(dm.group(1)):02d}"
     part = next((v for k, v in SESSION_PARTS.items() if re.search(rf"\b{k}\b", head)), None)
 
     doc = {
@@ -132,7 +154,7 @@ def parse(path: Path) -> dict:
             elif section and lang == "fr":
                 section["fr"] = text
             continue
-        if in_toc or cls.startswith("som"):
+        if cls.startswith("som"):
             continue
 
         # --- named-vote annex -------------------------------------------------
@@ -228,6 +250,12 @@ def parse(path: Path) -> dict:
         if p.find(class_="oraspr"):
             sm = SPEECH_RE.match(text)
             if sm:
+                original = next((e for e in events() if e["type"] == "speech" and e["id"] == sm.group("id")), None)
+                if original is not None:
+                    # definitive reports repeat each speech as a full translation under the same number
+                    speech = {"lang": lang, "paragraphs": [clean(sm.group("text"))]}
+                    original["translation"] = speech
+                    continue
                 speech = {"type": "speech", "id": sm.group("id"), **parse_speaker(sm.group("who")),
                           "lang": lang, "paragraphs": [clean(sm.group("text"))]}
                 events().append(speech)
@@ -246,7 +274,24 @@ def parse(path: Path) -> dict:
             continue
         events().append({"type": "procedure", "lang": lang, "text": text})
 
+    reconcile_votes(doc)
     return doc
+
+
+def reconcile_votes(doc: dict) -> None:
+    """Named-vote lists are authoritative. Vote tables of special-majority laws are split per
+    language group, which the simple table reader gets wrong; recompute counts from names."""
+    for item in doc["items"]:
+        for e in item["events"]:
+            if e["type"] != "vote":
+                continue
+            named = doc["named_votes"].get(str(e["number"]))
+            if not named or not any(named.values()):
+                continue
+            counts = {k: len(named[k]) for k in ("yes", "no", "abstain")}
+            if any(e[k] != counts[k] for k in counts):
+                e["table_counts"] = {k: e[k] for k in ("yes", "no", "abstain", "total")}
+                e.update(counts, total=sum(counts.values()))
 
 
 

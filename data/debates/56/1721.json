@@ -1,0 +1,795 @@
+{
+ "doc": "1721",
+ "docs": [
+  "1721"
+ ],
+ "legislature": 56,
+ "title": {
+  "nl": "Wetsontwerp houdende wijziging van de wet van 26 mei 2002 betreffende het recht op maatschappelijke integratie en de wet van 2 april 1965 betreffende het ten laste nemen van de steun verleend door de openbare centra voor maatschappelijk welzijn wat betreft het geïndividualiseerd project voor maatschappelijke integratie (1721/1-8)",
+  "fr": "Projet de loi modifiant la loi du 26 mai 2002 concernant le droit à l'intégration sociale et la loi du 2 avril 1965 relative à la prise en charge des secours accordés par les centres publics d'aide sociale en ce qui concerne le projet individualisé d'intégration sociale (1721/1-8)",
+  "subtitles": {
+   "nl": [],
+   "fr": []
+  }
+ },
+ "sessions": [
+  {
+   "session": 150,
+   "date": "2026-11-19",
+   "part": "afternoon",
+   "url": "https://www.dekamer.be/doc/PCRI/html/56/ip150x.html"
+  },
+  {
+   "session": 151,
+   "date": "2026-11-19",
+   "part": "evening",
+   "url": "https://www.dekamer.be/doc/PCRI/html/56/ip151x.html"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Wouter Raskin",
+   "party": "N-VA",
+   "role": null,
+   "refs": [
+    "150/19.01",
+    "150/19.23"
+   ]
+  },
+  {
+   "name": "Ellen Samyn",
+   "party": "VB",
+   "role": null,
+   "refs": [
+    "150/19.02"
+   ]
+  },
+  {
+   "name": "Florence Reuter",
+   "party": "MR",
+   "role": null,
+   "refs": [
+    "150/19.03"
+   ]
+  },
+  {
+   "name": "Marie Meunier",
+   "party": "PS",
+   "role": null,
+   "refs": [
+    "150/19.04",
+    "150/19.13",
+    "150/19.15",
+    "150/19.21"
+   ]
+  },
+  {
+   "name": "Robin Tonniau",
+   "party": "PVDA-PTB",
+   "role": null,
+   "refs": [
+    "150/19.05",
+    "150/19.22",
+    "150/19.24"
+   ]
+  },
+  {
+   "name": "Anne Pirson",
+   "party": "Les Engagés",
+   "role": null,
+   "refs": [
+    "150/19.06",
+    "150/19.14",
+    "150/19.16",
+    "150/19.25"
+   ]
+  },
+  {
+   "name": "Anja Vanrobaeys",
+   "party": "Vooruit",
+   "role": null,
+   "refs": [
+    "150/19.07"
+   ]
+  },
+  {
+   "name": "Nahima Lanjri",
+   "party": "cd&v",
+   "role": null,
+   "refs": [
+    "150/19.08",
+    "150/19.17",
+    "150/19.20"
+   ]
+  },
+  {
+   "name": "Sarah Schlitz",
+   "party": "Ecolo-Groen",
+   "role": null,
+   "refs": [
+    "150/19.09",
+    "150/19.11",
+    "150/19.18",
+    "150/19.19",
+    "150/19.26"
+   ]
+  },
+  {
+   "name": "Anneleen Van Bossuyt",
+   "party": null,
+   "role": "government",
+   "refs": [
+    "150/19.10",
+    "150/19.12"
+   ]
+  }
+ ],
+ "votes": [
+  {
+   "ref": "151/vote 7",
+   "session": 151,
+   "date": "2026-11-19",
+   "subject": "Stemming over amendement nr. 10 van Ellen Samyn cs op artikel 4. (1721/8)",
+   "item_title": "Aangehouden amendementen en artikelen van het wetsontwerp houdende wijziging van de wet van 26 mei 2002 betreffende het recht op maatschappelijke integratie en de wet van 2 april 1965 betreffende het ten laste nemen van de steun verleend door de openbare centra voor maatschappelijk welzijn wat betreft het geïndividualiseerd project voor maatschappelijke integratie (1721/1-8)",
+   "result": {
+    "nl": "Bijgevolg is het amendement verworpen en is artikel 4 aangenomen.",
+    "fr": "En conséquence, l'amendement est rejeté et l'article 4 est adopté."
+   },
+   "yes": 13,
+   "no": 117,
+   "abstain": 0,
+   "total": 130,
+   "reused": false,
+   "docs": [
+    "1721"
+   ],
+   "by_party": {
+    "Anders.": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 6,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 7,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 14,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 18,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 23,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 16,
+     "abstain": 0
+    },
+    "PVDA-PTB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "voor",
+     "yes": 13,
+     "no": 0,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 10,
+     "abstain": 0
+    }
+   },
+   "kind": "amendment",
+   "final": false
+  },
+  {
+   "ref": "151/vote 7",
+   "session": 151,
+   "date": "2026-11-19",
+   "subject": "Stemming over amendement nr. 11 van Ellen Samyn cs op artikel 5. (1721/8)",
+   "item_title": "Aangehouden amendementen en artikelen van het wetsontwerp houdende wijziging van de wet van 26 mei 2002 betreffende het recht op maatschappelijke integratie en de wet van 2 april 1965 betreffende het ten laste nemen van de steun verleend door de openbare centra voor maatschappelijk welzijn wat betreft het geïndividualiseerd project voor maatschappelijke integratie (1721/1-8)",
+   "result": {
+    "nl": "Bijgevolg is het amendement verworpen en is artikel 5 aangenomen.",
+    "fr": "En conséquence, l'amendement est rejeté et l'article 5 est adopté."
+   },
+   "yes": 13,
+   "no": 117,
+   "abstain": 0,
+   "total": 130,
+   "reused": true,
+   "docs": [
+    "1721"
+   ],
+   "by_party": {
+    "Anders.": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 6,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 7,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 14,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 18,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 23,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 16,
+     "abstain": 0
+    },
+    "PVDA-PTB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "voor",
+     "yes": 13,
+     "no": 0,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 10,
+     "abstain": 0
+    }
+   },
+   "kind": "amendment",
+   "final": false
+  },
+  {
+   "ref": "151/vote 7",
+   "session": 151,
+   "date": "2026-11-19",
+   "subject": "Stemming over amendement nr. 12 van Ellen Samyn cs tot invoeging van een artikel 7/1(n). (1721/8)",
+   "item_title": "Aangehouden amendementen en artikelen van het wetsontwerp houdende wijziging van de wet van 26 mei 2002 betreffende het recht op maatschappelijke integratie en de wet van 2 april 1965 betreffende het ten laste nemen van de steun verleend door de openbare centra voor maatschappelijk welzijn wat betreft het geïndividualiseerd project voor maatschappelijke integratie (1721/1-8)",
+   "result": {
+    "nl": "Bijgevolg is het amendement verworpen.",
+    "fr": "En conséquence, l'amendement est rejeté."
+   },
+   "yes": 13,
+   "no": 117,
+   "abstain": 0,
+   "total": 130,
+   "reused": true,
+   "docs": [
+    "1721"
+   ],
+   "by_party": {
+    "Anders.": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 6,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 7,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 14,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 18,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 23,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 16,
+     "abstain": 0
+    },
+    "PVDA-PTB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "voor",
+     "yes": 13,
+     "no": 0,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 10,
+     "abstain": 0
+    }
+   },
+   "kind": "amendment",
+   "final": false
+  },
+  {
+   "ref": "151/vote 8",
+   "session": 151,
+   "date": "2026-11-19",
+   "subject": null,
+   "item_title": "Geheel van het wetsontwerp houdende wijziging van de wet van 26 mei 2002 betreffende het recht op maatschappelijke integratie en de wet van 2 april 1965 betreffende het ten laste nemen van de steun verleend door de openbare centra voor maatschappelijk welzijn wat betreft het geïndividualiseerd project voor maatschappelijke integratie (1721/5)",
+   "result": {
+    "nl": "Bijgevolg neemt de Kamer het wetsontwerp aan. Het zal aan de Koning ter bekrachtiging worden voorgelegd.",
+    "fr": "En conséquence, la Chambre adopte le projet de loi. Il sera soumis à la sanction royale."
+   },
+   "yes": 95,
+   "no": 35,
+   "abstain": 0,
+   "total": 130,
+   "reused": false,
+   "docs": [
+    "1721"
+   ],
+   "by_party": {
+    "Anders.": {
+     "stance": "voor",
+     "yes": 6,
+     "no": 0,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 7,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "voor",
+     "yes": 14,
+     "no": 0,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "voor",
+     "yes": 18,
+     "no": 0,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "voor",
+     "yes": 23,
+     "no": 0,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 16,
+     "abstain": 0
+    },
+    "PVDA-PTB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "voor",
+     "yes": 13,
+     "no": 0,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "voor",
+     "yes": 11,
+     "no": 0,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "voor",
+     "yes": 10,
+     "no": 0,
+     "abstain": 0
+    }
+   },
+   "kind": "whole",
+   "final": true
+  }
+ ],
+ "summary": {
+  "plain_title": "Verplicht integratiecontract voor iedereen met een leefloon, ook bij verslaving en schulden",
+  "problem": "Wie een leefloon krijgt, sluit vaak een contract met het OCMW: het GPMI (in het Frans PIIS). Daarin staan afspraken om opnieuw zelfstandig te worden. Nog niet iedereen moet zo'n contract sluiten. Mensen met een verslaving konden ook vrijgesteld worden om redenen van gezondheid of billijkheid. Volgens de regering en de partijen die het voorstel steunen, werden mensen daardoor soms alleen gelaten met een uitkering, maar zonder begeleiding of uitzicht op beterschap.",
+  "proposal": [
+   "Het GPMI wordt verplicht voor alle leefloners, ook voor mensen met een 'equivalent leefloon'.",
+   "Een verslaving aan alcohol, drugs of gokken is op zich geen reden meer om vrijgesteld te worden. Het OCMW stuurt de persoon naar een arts naar keuze. Als de arts een behandeling voorschrijft, komt die in het GPMI.",
+   "De persoon moet zich inspannen, maar hoeft niet te genezen. Als er een wachtlijst is, wordt de afspraak tijdelijk stopgezet. Het medisch beroepsgeheim blijft gelden.",
+   "Wie problemen heeft met zijn budget of schulden, krijgt een verplicht begeleidingsprogramma op maat.",
+   "Het aantal verplichte evaluaties daalt van drie naar twee per jaar, OCMW's krijgen extra subsidies en de wet geldt pas vanaf 1 september 2027."
+  ],
+  "positions": [
+   {
+    "actor": "N-VA",
+    "summary": "Steunt de hervorming volledig. Volgens N-VA laat het OCMW mensen met een verslaving of schulden zo niet meer aan hun lot over, en betaalt de overheid niet langer mee aan een verslaving.",
+    "refs": [
+     "150/19.01",
+     "150/19.23"
+    ]
+   },
+   {
+    "actor": "VB",
+    "summary": "Steunt elke verstrenging van het leefloon, maar vindt dat de hervorming niet ver genoeg gaat. Vlaams Belang wijst op zwakke punten: GPMI's die alleen op papier bestaan, te weinig cijfers, overgebleven vrijstellingen, te veel werk voor de OCMW's en te weinig jobs en plaatsen in afkickcentra.",
+    "refs": [
+     "150/19.02"
+    ]
+   },
+   {
+    "actor": "MR",
+    "summary": "Steunt de tekst. Volgens MR horen solidariteit en verantwoordelijkheid samen en is begeleiding op maat een plicht, geen straf. MR wil wel dat het medisch geheim en de vrije keuze van de patiënt blijven gelden.",
+    "refs": [
+     "150/19.03"
+    ]
+   },
+   {
+    "actor": "PS",
+    "summary": "Is tegen. Volgens PS wordt het GPMI een middel om te controleren en te straffen. PS waarschuwt dat mensen met een verslaving hun leefloon kunnen verliezen, en dat er te weinig zorgplaatsen en te weinig geld voor de OCMW's zijn.",
+    "refs": [
+     "150/19.04",
+     "150/19.13",
+     "150/19.15",
+     "150/19.21"
+    ]
+   },
+   {
+    "actor": "PVDA-PTB",
+    "summary": "Is tegen. Volgens PVDA werkt verplichte verslavingszorg niet, is het oneerlijk dat verslaving anders behandeld wordt dan andere ziektes, en worden de waarschuwingen van experts en de lange wachtlijsten genegeerd.",
+    "refs": [
+     "150/19.05",
+     "150/19.22",
+     "150/19.24"
+    ]
+   },
+   {
+    "actor": "Les Engagés",
+    "summary": "Steunt de tekst omdat hij in het regeerakkoord staat, maar wil blijven opletten. Er moeten genoeg zorgplaatsen zijn, en de OCMW's moeten genoeg geld krijgen en dat ook op tijd.",
+    "refs": [
+     "150/19.06",
+     "150/19.14",
+     "150/19.16",
+     "150/19.25"
+    ]
+   },
+   {
+    "actor": "Vooruit",
+    "summary": "Steunt de tekst omdat het om een inspanning gaat en niet om een resultaat, omdat er rekening wordt gehouden met wachtlijsten en omdat de arts beslist over de behandeling. Vooruit vraagt ook een betere uitwisseling van gegevens om het werk van de OCMW's lichter te maken.",
+    "refs": [
+     "150/19.07"
+    ]
+   },
+   {
+    "actor": "cd&v",
+    "summary": "Steunt de tekst. Volgens cd&v moet het GPMI maatwerk blijven en gaat het om een inspanning, waarbij hervallen niet meteen tot verlies van het leefloon leidt. cd&v wil dat de uitvoering en de resultaten worden opgevolgd.",
+    "refs": [
+     "150/19.08",
+     "150/19.17",
+     "150/19.20"
+    ]
+   },
+   {
+    "actor": "Ecolo-Groen",
+    "summary": "Is tegen. Volgens Ecolo-Groen geven de OCMW's te veel werk zonder genoeg geld, werkt dwang bij verslaving en schulden niet, zijn er juridische problemen en worden armoedeproblemen die de hele samenleving aangaan, op het individu afgeschoven.",
+    "refs": [
+     "150/19.09",
+     "150/19.11",
+     "150/19.18",
+     "150/19.19",
+     "150/19.26"
+    ]
+   },
+   {
+    "actor": "Regering",
+    "summary": "Minister Van Bossuyt zegt dat het GPMI een middel is om mensen te begeleiden, niet om hen te straffen. De bestaande sancties veranderen niet. Er zijn waarborgen zoals de vrije keuze van arts, het medisch geheim en de regeling voor wachtlijsten, en de OCMW's krijgen extra steun.",
+    "refs": [
+     "150/19.10",
+     "150/19.12"
+    ]
+   }
+  ],
+  "arguments_for": [
+   {
+    "point": "Mensen met een verslaving mogen niet aan hun lot worden overgelaten. Ze hebben juist meer begeleiding nodig om opnieuw vooruit te kunnen.",
+    "actors": [
+     "N-VA",
+     "Les Engagés",
+     "cd&v",
+     "Vooruit",
+     "MR",
+     "Regering"
+    ],
+    "refs": [
+     "150/19.01",
+     "150/19.06",
+     "150/19.08",
+     "150/19.07",
+     "150/19.03",
+     "150/19.10"
+    ],
+    "quote": "Une personne dépendante n'est pas perdue pour l'intégration. Elle ne doit pas être laissée seule avec sa maladie.",
+    "quote_ref": "150/19.06"
+   },
+   {
+    "point": "Het leefloon is een vangnet, maar moet ook een weg zijn naar zelfstandigheid en werk. Solidariteit gaat samen met verantwoordelijkheid.",
+    "actors": [
+     "MR",
+     "Les Engagés",
+     "cd&v",
+     "VB",
+     "N-VA",
+     "Regering"
+    ],
+    "refs": [
+     "150/19.03",
+     "150/19.06",
+     "150/19.08",
+     "150/19.02",
+     "150/19.01",
+     "150/19.10"
+    ],
+    "quote": "nous ne voulons ni d'une solidarité qui laisse les personnes seules face à leurs difficultés ni d'un système qui les enferme dans l'assistance.",
+    "quote_ref": "150/19.03"
+   },
+   {
+    "point": "Er zijn waarborgen. De persoon moet zich inspannen maar hoeft niet te genezen, kiest zelf een arts, hervallen mag, en een wachtlijst wordt hem niet aangerekend.",
+    "actors": [
+     "Les Engagés",
+     "Vooruit",
+     "cd&v",
+     "MR",
+     "Regering"
+    ],
+    "refs": [
+     "150/19.06",
+     "150/19.07",
+     "150/19.08",
+     "150/19.03",
+     "150/19.12"
+    ],
+    "quote": "Le bénéficiaire est tenu à une obligation de moyens, mais pas à une obligation de résultats. Donc, personne ne devra guérir de son addiction pour conserver son revenu d'intégration.",
+    "quote_ref": "150/19.06"
+   },
+   {
+    "point": "De samenleving mag niet blijven betalen voor een verslaving als er niets aan gedaan wordt.",
+    "actors": [
+     "N-VA",
+     "VB",
+     "Regering"
+    ],
+    "refs": [
+     "150/19.01",
+     "150/19.02",
+     "150/19.10"
+    ],
+    "quote": "Het kan toch niet de bedoeling zijn dat de samenleving betaalt voor iemands verslaving zonder dat daaraan iets wordt gedaan?",
+    "quote_ref": "150/19.10"
+   },
+   {
+    "point": "De OCMW's krijgen minder papierwerk, want er zijn twee evaluaties per jaar in plaats van drie. Ze krijgen ook extra subsidies.",
+    "actors": [
+     "N-VA",
+     "MR",
+     "Les Engagés",
+     "Vooruit",
+     "cd&v",
+     "Regering"
+    ],
+    "refs": [
+     "150/19.01",
+     "150/19.03",
+     "150/19.06",
+     "150/19.07",
+     "150/19.08",
+     "150/19.10"
+    ],
+    "quote": "Le temps de nos travailleurs sociaux doit être consacré à accompagner des personnes et non pas à remplir des formulaires!",
+    "quote_ref": "150/19.03"
+   },
+   {
+    "point": "Begeleiding op maat bij budgetproblemen en schulden voorkomt dat mensen nog dieper in de problemen komen.",
+    "actors": [
+     "N-VA",
+     "cd&v"
+    ],
+    "refs": [
+     "150/19.01",
+     "150/19.08"
+    ],
+    "quote": "Daarom is het goed dat ook in die gevallen kan worden ingegrepen en dat begeleiding mogelijk is bij een schuldenproblematiek, zodat mensen niet van de regen in de drop terechtkomen.",
+    "quote_ref": "150/19.08"
+   }
+  ],
+  "arguments_against": [
+   {
+    "point": "Verslavingszorg die verplicht wordt, werkt niet. Wie dreigt zijn leefloon te verliezen, kan zijn problemen gaan verbergen. Een stabiel inkomen is juist nodig om te herstellen.",
+    "actors": [
+     "PVDA-PTB",
+     "PS",
+     "Ecolo-Groen"
+    ],
+    "refs": [
+     "150/19.05",
+     "150/19.22",
+     "150/19.04",
+     "150/19.09",
+     "150/19.11"
+    ],
+    "quote": "Het punt is eerder dat verplichte verslavingszorg niet helpt.",
+    "quote_ref": "150/19.22"
+   },
+   {
+    "point": "Verslaving is een ziekte, maar wordt anders behandeld dan andere ziektes. Volgens de tegenstanders is dat een vorm van discriminatie.",
+    "actors": [
+     "PVDA-PTB",
+     "Ecolo-Groen"
+    ],
+    "refs": [
+     "150/19.05",
+     "150/19.09"
+    ],
+    "quote": "Als verslaving een ziekte is en daarover wetenschappelijke consensus bestaat, waarom maakt u dan toch nog een onderscheid tussen gewone zieken en mensen met een verslaving?",
+    "quote_ref": "150/19.05"
+   },
+   {
+    "point": "Er zijn te weinig plaatsen in de verslavingszorg en de geestelijke gezondheidszorg. Er komen geen extra middelen om die tekorten op te lossen.",
+    "actors": [
+     "PS",
+     "PVDA-PTB",
+     "Ecolo-Groen",
+     "VB"
+    ],
+    "refs": [
+     "150/19.04",
+     "150/19.05",
+     "150/19.09",
+     "150/19.18",
+     "150/19.02"
+    ],
+    "quote": "Une obligation légale ne crée pas un médecin disponible et elle ne crée pas non plus une place en centre spécialisé.",
+    "quote_ref": "150/19.04"
+   },
+   {
+    "point": "De OCMW's hebben nu al te veel werk en te weinig geld. Een GPMI voor iedereen betekent nog meer werk, en het werk dat vooraf gebeurt, wordt niet betaald.",
+    "actors": [
+     "PS",
+     "Ecolo-Groen",
+     "VB"
+    ],
+    "refs": [
+     "150/19.04",
+     "150/19.09",
+     "150/19.02"
+    ],
+    "quote": "les travailleurs sociaux ne sont pas des machines à produire des PIIS.",
+    "quote_ref": "150/19.04"
+   },
+   {
+    "point": "Veel mensen met schulden hebben gewoon te weinig inkomen. Het probleem is niet dat ze slecht met geld omgaan. Begeleiding die verplicht is, met sancties erbij, helpt hen niet.",
+    "actors": [
+     "PS",
+     "Ecolo-Groen"
+    ],
+    "refs": [
+     "150/19.04",
+     "150/19.09",
+     "150/19.26"
+    ],
+    "quote": "On ne peut pas apprendre à une personne comment payer une facture de 150 euros quand elle est déjà à moins de 100 euros sur son compte.",
+    "quote_ref": "150/19.04"
+   },
+   {
+    "point": "De Raad van State had opmerkingen over privacy, het medisch geheim en de toestemming voor zorg. Ecolo-Groen vraagt zich ook af of de tekst wel in overeenstemming is met de Grondwet.",
+    "actors": [
+     "Ecolo-Groen",
+     "PS"
+    ],
+    "refs": [
+     "150/19.09",
+     "150/19.04"
+    ],
+    "quote": "Le Conseil d'État demande une révision du texte au regard du respect de la vie privée et souligne plusieurs intrusions.",
+    "quote_ref": "150/19.09"
+   }
+  ]
+ },
+ "checks": [],
+ "meta": {
+  "generator": "claude-cli",
+  "prompt_version": "1",
+  "generated_at": "2026-11-22T21:53:20+00:00"
+ },
+ "repairs": []
+}

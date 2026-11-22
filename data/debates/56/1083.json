@@ -1,0 +1,419 @@
+{
+ "doc": "1083",
+ "docs": [
+  "1083",
+  "1087",
+  "1242"
+ ],
+ "legislature": 56,
+ "title": {
+  "nl": "Voorstel van resolutie betreffende de arrestatie en het proces tegen Victoire Ingabire, voorzitter van de DALFA-Umurinzi partij in Rwanda, en de bredere inperking van de politieke oppositie in Rwanda (1083/1-5)",
+  "fr": "Proposition de résolution relative à l'arrestation de Victoire Ingabire, présidente du parti Dalfa-Umurinzi au Rwanda, à son procès et à la répression plus large visant l'opposition politique rwandaise (1083/1-5)",
+  "subtitles": {
+   "nl": [
+    "Voorstel van resolutie betreffende de onmiddellijke vrijlating van Victoire Ingabire uit de Rwandese gevangenis (1087/1-2)",
+    "Voorstel van resolutie betreffende de willekeurige opsluiting van Victoire Ingabire (1242/1-2)"
+   ],
+   "fr": [
+    "Proposition de résolution relative à la libération immédiate de Victoire Ingabire de sa prison rwandaise (1087/1-2)",
+    "Proposition de résolution concernant la détention arbitraire de Victoire Ingabire (1242/1-2)"
+   ]
+  }
+ },
+ "sessions": [
+  {
+   "session": 150,
+   "date": "2026-11-19",
+   "part": "afternoon",
+   "url": "https://www.dekamer.be/doc/PCRI/html/56/ip150x.html"
+  },
+  {
+   "session": 151,
+   "date": "2026-11-19",
+   "part": "evening",
+   "url": "https://www.dekamer.be/doc/PCRI/html/56/ip151x.html"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Kathleen Depoorter",
+   "party": "N-VA",
+   "role": null,
+   "refs": [
+    "150/16.01"
+   ]
+  },
+  {
+   "name": "Ellen Samyn",
+   "party": "VB",
+   "role": null,
+   "refs": [
+    "150/16.02"
+   ]
+  },
+  {
+   "name": "Charlotte Deborsu",
+   "party": "MR",
+   "role": null,
+   "refs": [
+    "150/16.03"
+   ]
+  },
+  {
+   "name": "Lydia Mutyebele Ngoi",
+   "party": "PS",
+   "role": null,
+   "refs": [
+    "150/16.04"
+   ]
+  },
+  {
+   "name": "Pierre Kompany",
+   "party": "Les Engagés",
+   "role": null,
+   "refs": [
+    "150/16.05"
+   ]
+  },
+  {
+   "name": "Annick Lambrecht",
+   "party": "Vooruit",
+   "role": null,
+   "refs": [
+    "150/16.06"
+   ]
+  },
+  {
+   "name": "Els Van Hoof",
+   "party": "cd&v",
+   "role": null,
+   "refs": [
+    "150/16.07"
+   ]
+  },
+  {
+   "name": "Meyrem Almaci",
+   "party": "Ecolo-Groen",
+   "role": null,
+   "refs": [
+    "150/16.08"
+   ]
+  }
+ ],
+ "votes": [
+  {
+   "ref": "151/vote 4",
+   "session": 151,
+   "date": "2026-11-19",
+   "subject": null,
+   "item_title": "Voorstel van resolutie betreffende de arrestatie en het proces tegen Victoire Ingabire, voorzitter van de DALFA-Umurinzi partij in Rwanda, en de bredere inperking van de politieke oppositie in Rwanda (1083/5)",
+   "result": {
+    "nl": "Bijgevolg neemt de Kamer het voorstel van resolutie aan. Het zal ter kennis van de regering worden gebracht.",
+    "fr": "En conséquence, la Chambre adopte la proposition de résolution. Il en sera donné connaissance au gouvernement."
+   },
+   "yes": 130,
+   "no": 0,
+   "abstain": 0,
+   "total": 130,
+   "reused": false,
+   "docs": [
+    "1083"
+   ],
+   "by_party": {
+    "Anders.": {
+     "stance": "voor",
+     "yes": 6,
+     "no": 0,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "voor",
+     "yes": 1,
+     "no": 0,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "voor",
+     "yes": 7,
+     "no": 0,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "voor",
+     "yes": 14,
+     "no": 0,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "voor",
+     "yes": 18,
+     "no": 0,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "voor",
+     "yes": 23,
+     "no": 0,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "voor",
+     "yes": 16,
+     "no": 0,
+     "abstain": 0
+    },
+    "PVDA-PTB": {
+     "stance": "voor",
+     "yes": 11,
+     "no": 0,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "voor",
+     "yes": 13,
+     "no": 0,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "voor",
+     "yes": 11,
+     "no": 0,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "voor",
+     "yes": 10,
+     "no": 0,
+     "abstain": 0
+    }
+   },
+   "kind": "whole",
+   "final": true
+  }
+ ],
+ "summary": {
+  "plain_title": "De Kamer vraagt dat Rwanda oppositieleider Victoire Ingabire vrijlaat",
+  "problem": "Victoire Ingabire leidt de oppositie in Rwanda. Ze zat al eerder jaren in de gevangenis nadat ze zich kandidaat had gesteld voor de presidentsverkiezingen. Op 19 juni 2025 werd ze opnieuw gearresteerd. Volgens de indieners is dat een politiek gemotiveerde vervolging en past het in een breder patroon: in Rwanda worden politieke tegenstanders, journalisten en het middenveld onderdrukt.",
+  "proposal": [
+   "De Kamer vraagt dat Victoire Ingabire onmiddellijk wordt vrijgelaten.",
+   "De Kamer vraagt dat de politiek gemotiveerde aanklachten tegen haar worden ingetrokken en dat haar recht op een volwaardige verdediging wordt gerespecteerd.",
+   "De Kamer roept de Rwandese regering op om de mensenrechten te respecteren en te stoppen met het intimideren en willekeurig arresteren van tegenstanders, journalisten en mensen uit het middenveld.",
+   "De Kamer vraagt de Belgische regering om de arrestatie te veroordelen en de zaak via diplomatieke weg en op Europees niveau bij Rwanda aan te kaarten.",
+   "Via amendementen zijn de passages over het opnieuw opstarten van Belgische ontwikkelingshulp en toekomstige financiële steun aan Rwanda uit de tekst geschrapt."
+  ],
+  "positions": [
+   {
+    "actor": "N-VA",
+    "summary": "N-VA vindt dat een democratische oppositie een essentieel onderdeel van de democratie is, en vraagt de vrijlating van Ingabire. De partij wil dat België hierover in gesprek gaat met Rwanda, nu de diplomatieke relaties hersteld zijn.",
+    "refs": [
+     "150/16.01"
+    ]
+   },
+   {
+    "actor": "VB",
+    "summary": "Vlaams Belang steunt de vrijlating van Ingabire, maar wil geen structurele ontwikkelingshulp meer aan het Rwandese regime. Humanitaire hulp aan de bevolking mag wel. De partij steunde de amendementen die de passages over ontwikkelingshulp schrapten.",
+    "refs": [
+     "150/16.02"
+    ]
+   },
+   {
+    "actor": "MR",
+    "summary": "MR verdedigt het recht van Ingabire om haar mening te uiten. Volgens de partij mag de strijd tegen de ideologie van de genocide geen excuus zijn om de oppositie het zwijgen op te leggen. MR ziet het herstel van de diplomatieke banden als een middel om meer druk te zetten.",
+    "refs": [
+     "150/16.03"
+    ]
+   },
+   {
+    "actor": "PS",
+    "summary": "PS steunt de resolutie en noemt het Rwandese regime een dictatuur. De partij vindt het jammer dat haar eigen tekst niet werd gebruikt en bekritiseert dat de regering mogelijk mensen naar Rwanda wil terugsturen.",
+    "refs": [
+     "150/16.04"
+    ]
+   },
+   {
+    "actor": "Les Engagés",
+    "summary": "Les Engagés steunt de verdediging van Ingabire en noemt haar opsluiting onwettig. De partij wil dat de internationale gemeenschap aandringt op een dialoog tussen de bevolkingsgroepen in Rwanda.",
+    "refs": [
+     "150/16.05"
+    ]
+   },
+   {
+    "actor": "Vooruit",
+    "summary": "Vooruit vraagt dat de regering de willekeurige arrestatie veroordeelt en de vrijlating eist. Volgens de partij moet Rwanda zich houden aan de internationale verdragen die het heeft ondertekend.",
+    "refs": [
+     "150/16.06"
+    ]
+   },
+   {
+    "actor": "cd&v",
+    "summary": "cd&v noemt het proces politiek gemotiveerd en het bewijs zwak. De partij wijst op de zaak-Rusesabagina om te tonen dat internationale druk resultaat kan opleveren.",
+    "refs": [
+     "150/16.07"
+    ]
+   },
+   {
+    "actor": "Ecolo-Groen",
+    "summary": "Ecolo-Groen vindt de resolutie meer dan symbolisch: ze zet internationaal druk, vlak voor de rechtszaak van 8 december. De partij vraagt de regering om er op Europees en internationaal niveau mee aan de slag te gaan.",
+    "refs": [
+     "150/16.08"
+    ]
+   }
+  ],
+  "arguments_for": [
+   {
+    "point": "In een democratie moet de oppositie vrij kunnen spreken. Kritiek op de regering mag geen misdaad zijn.",
+    "actors": [
+     "N-VA",
+     "MR",
+     "cd&v",
+     "Vooruit"
+    ],
+    "refs": [
+     "150/16.01",
+     "150/16.03",
+     "150/16.06",
+     "150/16.07"
+    ],
+    "quote": "Democratische oppositie, collega's, is geen vijand van de Staat.",
+    "quote_ref": "150/16.01"
+   },
+   {
+    "point": "Het proces is volgens de sprekers politiek gemotiveerd. Het Afrikaans Hof voor de Rechten van de Mens oordeelde al eerder dat haar rechten werden geschonden, en het huidige bewijs is zwak.",
+    "actors": [
+     "cd&v",
+     "VB",
+     "Ecolo-Groen",
+     "Vooruit",
+     "Les Engagés"
+    ],
+    "refs": [
+     "150/16.07",
+     "150/16.02",
+     "150/16.08",
+     "150/16.06",
+     "150/16.05"
+    ],
+    "quote": "Ondanks de zware aanklacht is het aangebrachte bewijs flinterdun en voornamelijk gebaseerd op dubieuze getuigenissen, filmpjes op internet en illegaal verkregen audiofragmenten.",
+    "quote_ref": "150/16.07"
+   },
+   {
+    "point": "Internationale druk kan echt iets veranderen. De sprekers verwijzen naar de vrijlating van Paul Rusesabagina en naar de rechtszaak die op 8 december begint.",
+    "actors": [
+     "cd&v",
+     "Ecolo-Groen"
+    ],
+    "refs": [
+     "150/16.07",
+     "150/16.08"
+    ],
+    "quote": "Wantoestanden blootleggen en aan de kaak stellen, dat loont.",
+    "quote_ref": "150/16.07"
+   },
+   {
+    "point": "Met het herstel van de diplomatieke relaties met Rwanda kan België zijn principes beter verdedigen. Die principes opgeven is daarvoor niet nodig.",
+    "actors": [
+     "MR",
+     "N-VA"
+    ],
+    "refs": [
+     "150/16.03",
+     "150/16.01"
+    ],
+    "quote": "Rétablir le dialogue, ce n'est pas renoncer à nos convictions, c'est se donner justement encore plus de moyens pour les défendre.",
+    "quote_ref": "150/16.03"
+   },
+   {
+    "point": "Het is terecht dat Rwanda strijdt tegen de ideologie achter de genocide, maar dat mag geen excuus zijn om tegenstanders op te sluiten.",
+    "actors": [
+     "MR"
+    ],
+    "refs": [
+     "150/16.03"
+    ],
+    "quote": "cette lutte ne doit en rien servir de prétexte pour museler l'opposition politique.",
+    "quote_ref": "150/16.03"
+   },
+   {
+    "point": "Rwanda heeft internationale verdragen ondertekend en moet zich daaraan houden.",
+    "actors": [
+     "Vooruit"
+    ],
+    "refs": [
+     "150/16.06"
+    ],
+    "quote": "Wie verdragen ratificeert, moet daar ook op aangesproken kunnen worden.",
+    "quote_ref": "150/16.06"
+   }
+  ],
+  "arguments_against": [
+   {
+    "point": "Niemand sprak zich uit tegen de resolutie. Ze werd met 130 stemmen voor aangenomen, zonder tegenstemmen of onthoudingen. Wel hadden sommige partijen bedenkingen. Vlaams Belang wilde bijvoorbeeld niet dat de tekst de deur openzette voor nieuwe ontwikkelingshulp aan Rwanda.",
+    "actors": [
+     "VB"
+    ],
+    "refs": [
+     "150/16.02"
+    ],
+    "quote": "Eén vrijlating mag geen toegangsticket worden tot nieuwe Belgische ontwikkelingssteun.",
+    "quote_ref": "150/16.02"
+   },
+   {
+    "point": "Een resolutie alleen is niet genoeg: de regering moet ook echt iets doen. Ze mag het onderwerp niet laten vallen om de herstelde relaties met Rwanda te sparen.",
+    "actors": [
+     "PS",
+     "VB",
+     "cd&v"
+    ],
+    "refs": [
+     "150/16.04",
+     "150/16.02",
+     "150/16.07"
+    ],
+    "quote": "Elle ne peut pas fermer les yeux au nom des relations diplomatiques restaurées avec Kigali.",
+    "quote_ref": "150/16.04"
+   },
+   {
+    "point": "PS vindt het niet consequent om Rwanda te bekritiseren en tegelijk te overwegen om mensen zonder papieren naar Rwanda terug te sturen.",
+    "actors": [
+     "PS"
+    ],
+    "refs": [
+     "150/16.04"
+    ],
+    "quote": "Et c'est vers ce régime que cinq États membres européens ont décidé d'envoyer des personnes sans papiers",
+    "quote_ref": "150/16.04"
+   },
+   {
+    "point": "PS vindt het jammer dat haar eigen voorstel van resolutie niet werd gebruikt voor de uiteindelijke tekst.",
+    "actors": [
+     "PS"
+    ],
+    "refs": [
+     "150/16.04"
+    ],
+    "quote": "Nous regrettons que notre initiative n'ait pas été retenue dans la version finale.",
+    "quote_ref": "150/16.04"
+   },
+   {
+    "point": "De aandacht gaat naar één bekende naam, terwijl veel andere tegenstanders, journalisten en activisten zonder aandacht in de gevangenis zitten.",
+    "actors": [
+     "MR",
+     "Les Engagés"
+    ],
+    "refs": [
+     "150/16.03",
+     "150/16.05"
+    ],
+    "quote": "La Belgique doit également porter leur voix.",
+    "quote_ref": "150/16.03"
+   }
+  ]
+ },
+ "checks": [],
+ "meta": {
+  "generator": "claude-cli",
+  "prompt_version": "1",
+  "generated_at": "2026-11-22T21:56:57+00:00"
+ },
+ "repairs": []
+}

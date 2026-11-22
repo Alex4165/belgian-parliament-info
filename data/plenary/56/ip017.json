@@ -1,0 +1,818 @@
+{
+ "source": {
+  "type": "plenary",
+  "legislature": 56,
+  "session": 17,
+  "url": "https://www.dekamer.be/doc/PCRI/html/56/ip017x.html",
+  "date": "2024-12-19",
+  "part": null,
+  "provisional": false
+ },
+ "items": [
+  {
+   "number": "01",
+   "section": null,
+   "title": {
+    "nl": "Agenda",
+    "fr": "Ordre du jour"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Overeenkomstig het advies van de Conferentie van voorzitters van 18 december 2024 hebt u een gewijzigde agenda voor de vergadering van vandaag ontvangen."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Conformément à l’avis de la Conférence des présidents du 18 décembre 2024, vous avez reçu un ordre du jour modifié pour la séance d'aujourd'hui."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Zijn er dienaangaande opmerkingen? (Nee)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Y a-t-il une observation à ce sujet? (Non)"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Bijgevolg is de agenda aangenomen."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "En conséquence, l'ordre du jour est adopté."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Ik vermoed dat door de Europese top een aantal collega's in de file staan. Laat het een argument zijn om het openbaar vervoer te gebruiken of om op een ontiegelijk vroeg uur te vertrekken."
+    }
+   ]
+  },
+  {
+   "number": "02",
+   "section": {
+    "nl": "Begrotingen",
+    "fr": "Budgets"
+   },
+   "title": {
+    "nl": "Ontwerp van financiewet voor het begrotings­jaar 2025 (530/1-5)",
+    "fr": "Projet de loi de finances pour l'année budgétaire 2025 (530/1-5)"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [
+    "530"
+   ],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "De rapporteurs, Hugues Bayet en Dieter Vanbesien, verwijzen naar het schriftelijk verslag."
+    },
+    {
+     "type": "heading",
+     "level": 3,
+     "nl": "Algemene bespreking",
+     "fr": "Discussion générale"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De algemene bespreking is geopend."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "La discussion générale est ouverte."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Aangezien er nog geen vice-eersteminister aanwezig is, zullen we contact opnemen met de regering om te vragen dat de betrokkene van dienst met bekwame spoed hierheen komt."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Eerst zullen de ingeschreven sprekers het woord nemen. Vervolgens zal de staatssecretaris voor Begroting reageren, waarna er weer gerepliceerd kan worden."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Specifieke vragen aan een minister worden straks behandeld tijdens de tweede ronde van de bespreking."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Op de Conferentie van voorzitters werd afgesproken dat de spreektijd niet beperkt is, maar er is wel het gentleman’s agreement om elkaar niet tot het uiterste uit te putten."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "La N-VA entamera les discussions."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Steven Vandeput zal de spits afbijten."
+    },
+    {
+     "type": "speech",
+     "id": "02.01",
+     "name": "Steven Vandeput",
+     "party": "N-VA",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de voorzitter, mevrouw de staatssecretaris, collega's, wij vatten de bespreking van de financiewet aan. Dat wetsontwerp is eigenlijk per definitie geen begroting. In dat kader zouden we kunnen zeggen dat we vandaag een zuiver technische bespreking houden, want we moeten maatregelen nemen om ervoor te zorgen dat in afwachting van een regering met volheid van bevoegdheid ons staatsapparaat niet in de soep draait, zoals men het zou kunnen noemen. Mijn uiteenzetting zal dan ook eerder kort zijn. De financiewet, de voorlopige twaalfden, is in essentie een technische oefening.",
+      "Als we echter de bundel van 361 pagina's dik vastpakken, stellen we toch vast dat daarin heel wat afwijkingen vervat zitten. Heel veel van die afwijkingen – we zijn technisch voldoende onderlegd om te beseffen dat er dingen bestaan als de index en volume-effecten – zijn echt als puur technisch te benoemen. Daarnaast zijn afwijkingen mogelijk vanwege een formele betaalkalender, die af en toe wettelijk is vastgelegd, waardoor in voorkomend geval een bedrag van meer dan drie twaalfden vroeger moet worden betaald dan binnen drie maanden.",
+      "Toch zijn er ook een aantal zaken die zich op zijn minst op de grens bevinden en waar al voor een stukje politieke keuzes achter te zoeken zouden kunnen zijn. De federale wetenschappelijke instellingen krijgen bijvoorbeeld 50, 75 of soms 100 % van hetgeen hun toegezegd is aan het begin van het jaar. Dat kan wettelijk zo bepaald zijn, maar het kan ook anders, want bijvoorbeeld de gedoteerde instellingen zullen gewoon moeten volgen in de methode van de twaalfden. Ook het koningshuis, dat wettelijk op het einde van het trimester moet worden vergoed of waarvoor de betaling op het einde van het trimester zou moeten gebeuren, is in dit ontwerp van voorlopige twaalfden al voor twee trimesters voorzien. Dat roept de vraag op of het effectief nodig is om nu reeds twee trimesters te voorzien, aangezien de drie maanden maar tot eind maart leiden. Een aantal subsidies worden ook reeds aan het begin van het jaar gestort en ook voor bijvoorbeeld ontwikkelingshulp – begrijpe wie kan – wordt al 75 % betaald in het begin van het jaar. Maar goed, laten we dat nog allemaal toedekken met de mantel der technische aanpassingen die moeten gebeuren en waarover we dus niet verder zwaar moeten discussiëren.",
+      "Dan blijft er nog altijd 326.623.000 euro over waarvoor eigenlijk geen wettelijke basis gegeven kan worden of waarvoor geen verantwoording bestaat. Veel daarvan is voor Defensie. Een ander deel is voor de Regie der Gebouwen. Die is een toonbeeld geweest, bijvoorbeeld bij het vinden van detentiehuizen, van het erin slagen om al het toegewezen geld ook effectief voor de uitvoering te gebruiken. Quod non!",
+      "Ook voor de strijd tegen drugs is er in geld voorzien. Wij zijn niet tegen de strijd tegen drugs en wij vinden absoluut dat Defensie meer geld moet krijgen, maar blijkbaar komen ineens keuzes naar boven voor onderwerpen waarvoor wel een paar maatregelen zijn genomen toen de regering nog volheid van bevoegdheid had, maar waarvoor kennelijk nooit in voldoende middelen is voorzien. Voor de strijd tegen drugs is er niets gebeurd sinds de wet in 2022 werd goedgekeurd, maar vandaag worden daarvoor in de voorlopige twaalfden ineens middelen voorzien. Dat is een goede zaak, maar wat zal een regering die geen volheid van bevoegdheid heeft op dat ogenblik doen met die toegewezen middelen? Op welke manier zullen die aangewend worden?",
+      "Ook Fedasil kan rekenen op een bijkomende dotatie, die verder reikt dan het voortdurend aanpassen aan de volume-effecten. Er wordt bijvoorbeeld ook goedkeuring gegeven aan een nieuw programma voor ontwikkelings­samenwerking, ten bedrage van 78,8 miljoen euro.",
+      "Dat zijn dus keuzes die niet louter terug te brengen zijn tot technische keuzes. Het zijn keuzes die gemaakt worden. Mensen in dit halfrond die bezig zijn met begroting zeggen dat zij die technische oefening willen doen omdat de Staat niet mag stilvallen. Mevrouw de staatssecretaris, dat hebt u overvloedig aangetoond. Het bestel mag niet manklopen. Echter, als er dan toch keuzes gemaakt worden, waarom worden dan niet de juiste keuzes gemaakt?",
+      "Ik heb hier in het verleden nog voorlopige twaalfden goedgekeurd, die ook toen nodig waren om het staatsbestel niet te doen vastlopen. Nu zien we een aantal keuzes gemaakt worden, voor ontwikkelingssamenwerking en voor Fedasil enzovoort, en zien we een aantal keuzes die kennelijk niet gemaakt moeten worden door een regering in lopende zaken – keuzes waarvan men nochtans zou kunnen zeggen dat het met het oog op de continuïteit misschien goed zou zijn om een aantal voorzieningen te nemen. De oorlog in Oekraïne is nog niet gedaan. Die zal ook morgen niet gedaan zijn, maar men kiest ervoor alleen de leeflonen te budgetteren. Voor een bijdrage aan de militaire steun aan Oekraïne is er geen ruimte in deze voorlopige twaalfden.",
+      "Na een lange discussie werd er beslist om twee kerncentrales open te houden, maar de budgettaire gevolgen daarvan worden uitgesteld. Die beslissing werd genomen en ze moet haar beslag krijgen bij het opstellen van de voorlopige twaalfden, maar er is geen ruimte voorzien voor de bijkomende problemen die ze met zich meebrengt voor onze begroting.",
+      "Dan is er de pensioenhervorming. Wij weten allemaal dat we moeten wachten op de centjes van het Europees herstelplan, omdat Europa niet tevreden is met wat de vivaldiregering heeft gedaan. Er wordt echter geen aanzet gegeven om er alsnog voor te zorgen dat die Europese middelen uiteindelijk tot bij ons zouden komen.",
+      "Collega's, het mag duidelijk zijn – de staats­secretaris heeft dat in de commissie ook herhaaldelijk vermeld –, technisch genomen zijn dit voorlopige twaalfden, maar in werkelijkheid is dit een vivaldibegroting. De staatssecretaris zegt dat dit een begroting is die ervoor zorgt dat het voor de volgende ploeg een walk in the park wordt om de zaken op orde te stellen. Mevrouw de staats­secretaris, u weet het zelf, dat is niet het geval. Vivaldi laat ons achter met een federaal tekort van 18 miljard voor dit jaar, dat nog oploopt.",
+      "U hebt van de Zweedse regering een erfenis gekregen met een schuld onder de 100 % van het bbp. Vandaag is het opnieuw 105 % en het zal nog stijgen tot 119 % in 2029 als er niets gebeurt. Ik ben het met iedereen hier in het halfrond eens, er moet snel een regering komen met volheid van bevoegdheid om de maatregelen te nemen die absoluut noodzakelijk zijn.",
+      "Collega's, mijnheer Van Quickenborne, ik twijfel er niet aan, straks zal er nog een aantal keren worden gevraagd waar die dan blijft. Ik kan u daar een antwoord op geven. In politiek moet men durven vooruitkijken, maar af en toe moet men ook eens achteromkijken. Als ik achteromkijk, dan zie ik in 2014 een federale overheid die de zaken stilaan op orde kreeg – niet helemaal, dat geef ik toe, maar het ging de goede richting uit. Vandaag zie ik een federale overheid met een overheidstekort van bijna 18 miljard, dat nog zal stijgen naar 20 miljard.",
+      "Mijnheer Van Quickenborne, wij hebben hier vroeger nog over voorlopige twaalfden gestemd. Toen waren die voorlopige twaalfden echter een besparing. Ze waren op zich milderend, zoals de collega aanhaalt. Ze waren in essentie, doordat er geen nieuw beleid kwam, een verlichting van onze overheidsboekhouding, want het was gewoon niet mogelijk om nieuw beleid te voeren.",
+      "Wat stellen we vandaag vast? We moeten over voorlopige twaalfden stemmen waarin – en dat is het beleid van Vivaldi – geen enkele maatregel zit, ofschoon er keuzes gemaakt zijn, om de toestand effectief te verbeteren. Integendeel, waar vroeger voorlopige twaalfden, een financiewet, een verlichting waren voor de federale begroting, kijken we vandaag uit naar een verdere achteruitgang en dat is de verantwoordelijkheid van Vivaldi.",
+      "Collega's, omdat wij geen deel willen uitmaken van degenen die het staatsbestel laten vastlopen zullen wij niet tegenstemmen, maar laat me duidelijk zijn: dit is een vivaldibegroting die geen steun verdient. Wij zullen ons straks dan ook onthouden."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Dank u wel, mijnheer Vandeput."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De volgende spreker is de heer Vermeersch, maar ik zie hem nog niet."
+    },
+    {
+     "type": "speech",
+     "id": "02.02",
+     "name": "Barbara Pas",
+     "party": "VB",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de voorzitter, de Europese Raad zorgt voor verkeerschaos in Brussel. Hij is al twintig minuten in Brussel, maar zou binnen vijf minuutjes de parking moeten binnenrijden."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Het Vlaams Belang wordt in zijn werking gehinderd door de Europese instellingen. Dan geef ik het woord aan de heer Piedboeuf."
+    },
+    {
+     "type": "speech",
+     "id": "02.03",
+     "name": "Benoît Piedboeuf",
+     "party": "MR",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le président, je serai moins long que mon prédécesseur car le MR fait encore partie du gouvernement Vivaldi et nous défendons son bilan. Comme nous préparons le suivant, nous serons contents de pouvoir arriver très rapidement avec un budget, parce que tout le monde nous attend et qu'il est grand temps que nous puissions commencer le travail. En attendant, il faut que l'État soit en état de fonctionnement, et cette loi de finances est à cet égard indispensable.",
+      "Dans la confection de celle-ci, même si on peut discuter de certains crédits qui ont été modifiés, je ne peux que me réjouir que, ensemble, nous ayons décidé d'ajouter le budget nécessaire à la stratégie de vaccination contre la fièvre catarrhale et la maladie de la langue bleue. C'était fondamental et, même si le gouvernement est en affaires courantes, nous sommes parvenus à prendre ensemble cette décision importante. Je me réjouis donc que les douzièmes provisoires contiennent cette adaptation, qui a un impact budgétaire bien moindre que l'impact économique que cette maladie aurait pu entraîner à court et à long terme car, quand les animaux sont malades, ils ne se reproduisent plus.",
+      "Pour le reste, il s'agit d'un texte nécessaire au fonctionnement de l'État et nous voterons bien entendu en faveur de cette loi de finances."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Le président : Je suis heureux d'accueillir le vice-premier ministre Dermagne parmi nous."
+    },
+    {
+     "type": "speech",
+     "id": "02.04",
+     "name": "Frédéric Daerden",
+     "party": "PS",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le président, monsieur le vice-premier ministre, madame la ministre, chers collègues, nous voici en train de débattre des douzièmes provisoires, plus de six mois après les élections. Qui l'eût cru? Il n'y a toujours pas d'accord pour s'entendre sur un accord de gouvernement. Et pourtant le contexte auquel nous faisons face aujourd'hui nous rappelle l'importance d'avoir des hommes et des femmes politiques qui prennent leurs responsabilités. On songe à la situation sociale et économique, avec la fermeture d'Audi qui plonge 4 000 travailleurs dans l'angoisse totale. Pensons aussi à la situation tendue des hôpitaux, avec le personnel soignant et les patients qui trinquent. Songeons encore au contexte financier et aux finances publiques, dont l'état exige des réponses qui permettent de retourner vers l'équilibre sans recourir à l'austérité. Je pense également à la situation de nos services publics, conjuguée au défi de nos grandes villes, ou encore à la nécessité d'une coordination entre les entités fédérées pour relever les défis en matière de transition climatique ou pour s'opposer au traité du Mercosur.",
+      "Chers collègues, vous serez d'accord avec moi, j'en suis sûr: un tel contexte ne tolère pas l'absence d'un gouvernement de plein exercice. De ce fait, on laisse filer le déficit et la dette, et ce n'est pas cela gouverner. Qu'il n'y ait pas de doute: nous n'appelons pas de nos vœux un budget composé des recettes Arizona telles qu'annoncées dans la presse – et sans que nous sachions si cette information est exacte –, qui seraient autant d'attaques contre le pouvoir d'achat des retraités et des plus fragiles, contre les malades et les soignants, contre les pouvoirs locaux; des coupes claires dans les services publics avec peu voire pas de contributions des plus riches et du capital; le tout accompagné d'effets retours colossaux, comme par magie. Rien d'étonnant, ce sont les recettes habituelles de la droite: préserver les plus riches, attaquer les plus faibles, ne pas financer les réformes. Ce débat, nous l'aurons plus tard, si l'Arizona voit le jour.",
+      "Nous sommes ici, aujourd'hui, réunis pour voter un budget de douzièmes provisoires et autoriser le prélèvement de l'impôt, acte nécessaire et indispensable, même pour assurer la bonne continuité de l' É tat et de ses services publics.",
+      "Mon groupe soutiendra donc évidemment ce projet.",
+      "En période d'affaires courantes, le pilote est bien le gouvernement en affaires courantes mais cela peut aussi être le Parlement quand il ne s'agit pas d'affaires courantes. Le dossier de la vaccination contre la langue bleue en est la preuve. Mon groupe, avec mon collègue Patrick Prévot en particulier, a déposé une résolution pour prévoir un remboursement pour les éleveurs confrontés à la maladie de leurs bêtes.",
+      "Grâce à cette résolution, dans ces douzièmes provisoires, 40 millions seront consacrés à la vaccination obligatoire contre la langue bleue. Les éleveurs ne comprenaient pas que les vaccins soient gratuits en France et payants chez nous. Pour la première fois de notre histoire, on aurait donc eu une vaccination rendue obligatoire par l'État sans qu'un budget pour la financer n'existe. Cela aurait été catastrophique pour les éleveurs déjà lourdement impactés par la crise et qui font face à des problèmes de trésorerie. Il est donc positif qu'on puisse aider les éleveurs à affronter cette crise sanitaire en 2025.",
+      "C'est un bon exemple du travail du Parlement et d'avancées obtenues sous l'impulsion du PS. Je veux donc saluer le rôle du Parlement qui a permis de débloquer ce dossier.",
+      "En Belgique, ce n'est pas facile de former un gouvernement. Nous le savons depuis quelques années. Tout le monde sait que la probable Arizona annonçait un gouvernement en été, avant les congés d'automne, avant les fêtes peut-être ou maintenant peut-être avant la Saint-Valentin. La situation ne permet pas de s'en remettre au calendrier arizonien car le problème, monsieur le président, chers collègues, est que les partis qui tentent de former l'Arizona empêchent le Parlement, le pilote, de travailler.",
+      "Je ne reviendrai pas dans cette discussion budgétaire sur le rejet de notre proposition sur l'interruption volontaire de grossesse (IVG) par les partis de l'Arizona mais je pendrai comme exemples le blocage dans ce Parlement sur le dossier d'Audi Bruxelles qui nécessiterait une commission d'enquête et une révision de la loi Renault et l'augmentation de la norme de croissance des soins de santé. Que les partis impliqués dans les négociations de l'Arizona laissent le Parlement travailler. Qu'ils nous laissent travailler!",
+      "Vous l'aurez compris, c'est un appel à la responsabilité de chacun pour voter aujourd'hui le budget provisoire mais également pour rendre sa liberté à notre Parlement.",
+      "De mon côté et de celui de mon parti, nous sommes et serons toujours au service des citoyens. Nous sommes tout à fait disposés à continuer à travailler au sein de ce Parlement pour trouver des solutions comme sur le dossier de la langue bleue. Nous ferons des soins de santé la priorité numéro un de la rentrée."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "02.05",
+     "name": "Sofie Merckx",
+     "party": "PVDA-PTB",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le président, monsieur le vice-premier ministre, madame la secrétaire d'État, chers collègues, aujourd'hui, les douzièmes provisoires nous sont soumis parce qu'il n'y a toujours pas de gouvernement six mois après les élections.",
+      "Je fais sans doute partie des personnes contentes que ce gouvernement ne soit pas encore formé. Certes, il ne faut pas continuer à creuser le déficit. Il est d'ailleurs évident que des mesures seraient nécessaires pour avoir un budget en équilibre. Selon moi, si la formation de ce gouvernement Arizona n'avance pas, c'est notamment parce que les négociateurs ont peur des mesures qu'ils veulent mettre sur la table. Je pense notamment au fait de faire payer les travailleurs en haussant la TVA à 9 %; cette mesure ne figure plus dans la dernière note. C'est une bonne nouvelle car faire payer les travailleurs comme ils le prévoyaient est réellement injuste. Nous nous battrons contre ces injustices!",
+      "Par ailleurs, il est anormal de faire travailler les gens plus longtemps pour moins de pension et d'attaquer de la sorte nos services publics. Ce n'est pas aux travailleurs de payer ce déficit budgétaire car ils n'en sont pas les responsables!",
+      "Le poste de ministre des Finances a toujours été aux mains des libéraux. S'il y a aujourd'hui un tax shift , par exemple, qui a créé des problèmes pour notre sécurité sociale et pour le paiement de nos pensions, c'est parce que certains choix ont été faits et que des cadeaux fiscaux ont été offerts, notamment aux plus grandes entreprises.",
+      "Le PTB était effectivement dans la rue avec les syndicalistes vendredi passé. Nous serons bien sûr toujours contre les mesures d'austérité qu'on veut prendre ici ainsi qu'au niveau du gouvernement wallon, où une austérité sans précédent s'annonce, avec non seulement une attaque contre l'enseignement, mais aussi contre nos communes qui sont sous-financées. Ce n'est pas aux habitants de ces communes de payer cette crise.",
+      "Mevrouw de staatssecretaris, ik zal het nu hebben over de voorlopige twaalfden zelf.",
+      "U hebt steeds gezegd dat dat iets technisch is en dat de voorlopige twaalfden een kopie zijn van de begroting van het jaar voordien, gedeeld door twaalf. We hebben tijdens de discussie echter gezien dat er heel wat afwijkingen zijn op de algemene regel. Dat mag echter. Het is ook zeer duidelijk bepaald wanneer we mogen afwijken: voor indexering, volume-effecten of bepaalde contractuele verbintenissen. Er moet ook een legale basis voor zijn.",
+      "We hebben dus gezien dat er veel afwijkingen zijn opgenomen in de twaalfden. Een specifieke afwijking werd echter niet opgenomen, hoewel het Rekenhof duidelijk stelde dat nieuwe economische parameters een legitieme basis kunnen zijn voor een afwijking. Tijdens de bespreking een aantal weken geleden, kwam zo'n nieuwe economische parameter naar boven, in casu de studie van Decoster van de KU Leuven over de inkomensongelijkheid in België. (Mevrouw Merckx toont een krant.)",
+      "Ik heb het daarnet ook al gezegd. We hebben een budgettair probleem in ons land en we moeten bekijken hoe we dat kunnen oplossen. De studie toont echter duidelijk aan dat de inkomens­ongelijkheid veel hoger is dan aangekondigd, hoewel we dachten dat ze niet zo hoog was. Het is dus nodig om met die nieuwe economische parameter rekening te houden om ervoor te zorgen dat de begroting niet verder ontspoort. Voor ons is het dus duidelijk dat de discussie rond de miljonairstaks geen symbooldiscussie is. Het gaat om de vrijwaring van de toekomst van onze sociale zekerheid, van onze gezondheidszorg en onze overheidsdiensten. U hebt daarmee dus echter geen rekening gehouden.",
+      "Het tweede probleem dat in de discussie naar voren kwam, is de onderfinanciering van de FOD Justitie. Het Rekenhof stelde namelijk vast dat er een onderfinanciering is. Ondanks het feit dat het Rekenhof slechts een summier onderzoek heeft kunnen doen van de voorlopige twaalfden, zegt het zelf dat er tekorten zullen zijn. Er is bijvoorbeeld geen budget voorzien voor een eventuele verlengde opening van de gevangenis van Sint-Gillis. Het tekort zou maar liefst 42 miljoen euro bedragen.",
+      "Dat is dan nog in een context waarin wij door Europa al vaak op de vingers getikt zijn over onder andere ons penitentiair beleid of gevangenisbeleid, bijvoorbeeld wegens het hoge aantal geïnter­neerden. Het personeel van de gevangenis is ook op straat gekomen. Er is de enorme overbevolking. Twee dagen geleden hebben wij ook vernomen dat het justitiepaleis van Nijvel moet worden geëvacueerd omdat het gebouw gewoon op instorten staat.",
+      "Het is niet nieuw. Het Rekenhof geeft kritiek op het ingeschreven budget voor Justitie. Ook bij de meest recente budgettaire aanpassing was er al een probleem van structurele tekorten op Justitie. Er is bijvoorbeeld ook een heel groot probleem van achterstallige betalingen.",
+      "U hebt ook vaak opgemerkt dat indien de voorliggende begroting niet wordt goedgekeurd, er een soort shutdown komt en de lonen niet kunnen worden betaald. De werking van Justitie toont echter aan dat het departement bijna permanent in shutdown is. Het is gewoon structureel onder­gefinancierd.",
+      "Daarom hebben wij amendementen ingediend, die ik later zal toelichten, om ervoor te zorgen dat meer geld naar Justitie gaat.",
+      "Mevrouw de staatssecretaris, wij begrijpen opnieuw niet waarom niet meer geld is uitgetrokken voor Justitie. Dat zou ik graag aangepast zien. Het Rekenhof wijst er immers op dat we duidelijk van een volume-effect kunnen spreken, gezien bijvoorbeeld het hoge aantal gevangenen in ons land.",
+      "We kunnen het natuurlijk niet over de voorlopige twaalfden hebben zonder oog te hebben voor de groeinorm in de gezondheidszorg. Ik weet dat de groeinorm hier vandaag niet ter stemming voorligt, maar er is wel een link. Enerzijds zien we immers dat bepaalde budgetten ondergefinancierd blijven – ik zal het zo dadelijk ook over Defensie hebben, waarvoor wel veel geld wordt uitgetrokken –, anderzijds is er duidelijk een wettelijke basis die stelt dat de groeinorm in 2025 2,5 % moet zijn. Nochtans geeft het Planbureau duidelijk aan dat die norm 3,2 % moet zijn. We zouden dus kunnen stellen dat er een nieuwe economische parameter is, waaraan we de voorlopige twaalfden moeten aanpassen, teneinde de groeinorm op 3,2 % vast te leggen, zoals het Planbureau aangeeft. Die norm geeft ook de noden weer.",
+      "Het is echt wel schandalig hoe Open Vld en de MR tot op vandaag de uitvoering van die beloofde groeinorm van 2,5 % blokkeren. De collega voor mij had het er ook over. De crisis in de gezondheidszorg is werkelijk dramatisch. De ziekenhuisdirecteurs hebben het nog aangegeven. Het ziekenhuis in Jolimont begint mensen te ontslaan. Ik hoor dat er ook in andere ziekenhuizen plannen op tafel liggen om mensen te ontslaan omdat het deficit zo hoog is. Die groeinorm is nodig. Er is ook hervorming in de gezondheidszorg nodig. We zijn het totaal niet eens met het feit dat u voor de gezondheidszorg met twee maten en twee gewichten werkt. Zij hebben recht op minstens 2,5 %. Dat had er moeten in staan.",
+      "Dan wil ik het hebben over de inspanning voor Defensie. Daar zien we dan het omgekeerde. Daar zien we dat het budget in het kader van de drie twaalfden enorm wordt verhoogd. Ik heb dat ook opgemerkt tijdens de bespreking. Dat budget wordt voor drie maanden met 829 miljoen euro verhoogd. Het budget van Defensie stijgt van 1,3 naar 2,1 miljard euro. Dat is stijging van 60 %.",
+      "Tijdens de commissie heb ik daarover vragen gesteld. U kon daar niet op antwoorden. Daarom zal ik mevrouw Dedonder daarover straks ondervragen. Wij hebben een nota gekregen die dat moet uitleggen. Ondanks de nota van het Rekenhof blijft die 829 miljoen euro onverklaarbaar voor mij. Men kan verwijzen naar het STAR-plan en de NAVO-norm, maar volgens mijn berekeningen is er nog altijd een overbudgettering van meer dan 300 miljoen euro op drie maanden voor Defensie.",
+      "Dat is voor mij het bewijs dat het hier om politieke keuzes gaat. In Defensie wil men wel investeren, wat ten koste gaat van budget dat niet in andere zaken wordt geïnvesteerd.",
+      "Mevrouw de staatssecretaris, ik zal ook aan minister Dedonder vragen waar die 300 miljoen extra vandaan komt die naar Defensie gaat en die niet is voorzien in het STAR-plan, maar ik zou daarover van u graag wat meer uitleg krijgen.",
+      "Zoals gezegd zullen wij deze voorlopige twaalfden niet goedkeuren.",
+      "We wachten nu al zes maanden op een regering, maar ze is er nog steeds niet. De vraag is wie het tekort in de begroting zal betalen. Ik maak uit de discussie binnen de arizonapartijen over een eventuele meerwaardebelasting op dat 1/9 de van de inspanningen zou worden gedragen door de sterkste schouders en 8/9 de door de gewone werknemers. Voor mij is het duidelijk: het is niet geen tijd voor Arizona, geen tijd voor deze voorlopige twaalfden. We hebben dan ook verschillende amendementen ingediend. Ik zal ze even overlopen. Het zijn deels dezelfde amendementen als tijdens de bespreking in de commissie, maar we hebben ook een andere oefening gemaakt. Die 300 miljoen die vandaag extra wordt besteed aan Defensie en die niet wordt verklaard door de wettelijke basis van het STAR-plan, willen wij voor de helft investeren in Justitie, omdat wij menen dat er daar echt een structureel probleem van onderfinanciering is. Dat blijkt duidelijk uit de commentaar van het Rekenhof en uit de situatie op het terrein. De andere helft willen wij investeren in de gezondheidszorg, zodat die een iets eerlijker deel krijgt."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "02.06",
+     "name": "Wouter Vermeersch",
+     "party": "VB",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Allereerst mijn excuses. Door het drukke verkeer ben ik hier niet op tijd geraakt. Ik heb niettemin via de audio in de wagen de debatten kunnen volgen, voor zover er sprake was van een debat. Verschillende leden hebben vooral het woord genomen.",
+      "Er is al gezegd dat we vandaag hier het ontwerp van financiewet, ook wel de noodbegroting genoemd of de zogenaamde voorlopige twaalfden, voor het eerste kwartaal van 2025 bespreken. Ik neem u graag nog even mee naar 10 juni 2024, de dag na de verkiezingen. Normaal gezien zouden we hier vandaag een volwaardige begroting moeten bespreken. Op 10 juni, de dag na de verkiezingen, was het duidelijk dat Bart De Wever in de campagne het beeld had gecreëerd dat hij wel eerste minister moest worden om de vaderlandse begroting te redden en op orde te stellen en om een federale omslag door te voeren. Bart De Wever profileerde zich als een soort nieuw Belgisch staatsman die snel even de begroting op orde zou zetten en die het land eindelijk zou hervormen. Dat was toen althans de belofte. De teneur was toen duidelijk. De kiezer had de kaarten geschud. Als we de analyses mochten geloven, lagen die kaarten bijzonder gunstig.",
+      "De grote winnaar van de verkiezingen, het Vlaams Belang, werd al meteen aan de kant geschoven. De confederale ambities werden snel vergeten. De regeringen in dit land, ook de federale, zouden snel worden gevormd. De federale formatie kon wel eens ongezien kort duren. Een federale regering tegen 21 juli was mogelijk, zo luidde het toen. Elke dag formeren kostte immers vele miljoenen euro’s. De stembusslag had een duidelijk pad aangegeven.",
+      "Het ene uitstel volgde echter het andere op. Al snel werd 21 juli uitgesteld naar de Europese deadline van 20 september. Ook de Europese datum van 15 oktober om een begrotingsplan in te dienen, werd niet gehaald. Vervolgens circuleerde een timing van medio november. Ik citeer een zelfverzekerde De Wever na de gemeenteraads­verkiezingen: \"Mijn natuurlijke deadline ligt in november. De begroting moet immers nog dit jaar goedgekeurd worden. Om de budgettaire situatie recht te trekken mag men begrotingsjaar 2025 niet verloren laten gaan, want dan heeft men bij voorbaat al verloren.\" Midden november werd vervolgens ergens rond Sinterklaas, Sinterklaas werd Kerstmis en ondertussen is er al sprake van het einde van het jaar en zelfs valentijn komt stilaan in zicht. 21 juli werd dus 20 september, 15 oktober werd medio november, Sinterklaas werd Kerstmis en eindejaar wordt valentijn. Cupido wil maar niet raak schieten bij de onderhandelende partijen.",
+      "We gaan van het ene zogenaamde ‘moment van de waarheid’ over tot de volgende zogenaamde ‘beslissende fase’ en dan weer naar een ander zogenaamd ‘cruciaal moment’. Aan deadlines geen gebrek. \"De federale formatie toont opnieuw aan dat België niet werkt\", aldus minister-president Diependaele gisteren in Knack . Hij heeft natuurlijk gelijk, collega’s.",
+      "De tijd dringt, want de begrotingsdiensten hebben twaalf weken nodig voor de opmaak van een nieuwe begroting. Mevrouw de staatssecretaris, kunt u nogmaals bevestigen dat de FOD BOSA twaalf weken nodig heeft om een begroting voor te bereiden? Ofwel starten ze op 2 januari met de aanmaak van nieuwe voorlopige twaalfden – de hier voorliggende voorlopige twaalfden gelden immers maar voor drie maanden, waardoor er dus twaalf weken zijn om nieuwe voorlopige twaalfden op te stellen vanaf 1 april 2025 –, ofwel starten de begrotingsdiensten in januari met de opmaak van een volwaardige begroting voor de resterende drie kwartalen van 2025. Hoe dan ook is nu al een vierde van 2025 verloren gegaan.",
+      "Volgens berekeningen in Het Laatste Nieuws stijgt de staatsschuld in dit land met 1.000 euro per seconde. Aan het einde van mijn betoog zal de staatsschuld dus met ruim 1 miljoen euro zijn gestegen, mijnheer de voorzitter. Zo kunt u meteen berekenen hoelang mijn betoog zal duren.",
+      "We zijn vandaag meer dan zes maanden na de verkiezingen. Dit weekend gaat de formatie de geschiedenisboeken in als – voorlopig toch – de derde langste regeringsvorming ooit in dit land. Ondertussen blijven wij het land met bij de hoogste belastingen en de hoogste overheidsuitgaven ter wereld. De tekorten en schulden blijven na de doortocht van Vivaldi op een onhoudbaar hoog niveau en meer dan zes maanden na de verkiezingen blijven wij dus ook het land dat de broodnodige hervormingen ontbreekt om de financiën weer op de rails te krijgen. Van de beloofde arbeidsmarkthervorming, pensioen­hervorming en fiscale hervorming, die dringend en broodnodig zijn, is in het Parlement nog geen enkel spoor. Meer dan een halfjaar na de verkiezingen kampen de onderhandelende partijen met de aloude Belgische ziekte. Een deftige begroting in elkaar steken, lijkt een onmogelijke opdracht geworden.",
+      "Ondertussen is er in de pers de afgelopen dagen door de toponderhandelaars forse kritiek geuit op de werkwijze van de formateur, de methode-De Wever. Bart De Wever blijkt een typisch Belgische formateur te zijn, met een Waals werktempo. Als we de onderhandelaars die vorige week in de pers werden geciteerd mogen geloven, dan wordt er helemaal niet zo hard gewerkt als wordt beweerd. In de pers konden we ook de volgende uitspraak noteren: \"Wij hebben in zes maanden nog nooit – nog nooit – onderhandeld over het sociaal­economische.\" Zo haalde Frank Vandenbroucke de formateur publiekelijk onderuit.",
+      "Ondertussen volgen de documenten elkaar op: zogenaamde supernota's, sneuvelteksten, sociaaleconomische nota's met bijbehorende begrotingstabellen, raamakkoorden en onwrikbare kaders. Het regent daarin voorstellen voor nieuwe belastingen: vermogensbelasting, vermogens­winstbelasting, meerwaardebelasting, verkooptaks op ondernemingen en – houd u vast – ook opnieuw accijnsstijgingen en btw-verhogingen. Dat zijn stuk voor stuk belastingen die voornamelijk zullen terechtkomen bij de Vlamingen. Wij, vertegen­woordigers van de Vlamingen, mogen niet meestappen in dat opbod.",
+      "De Belgische Staat moet niet nog meer belasten, neen, ze moet dringend minder beginnen uitgeven. Al 25 jaar beloven regeringen in dit land minder uitgaven en minder belastingen, maar de uitgaven bleven stijgen en vooral de hardwerkende Vlamingen moesten belasting na belasting slikken. Wij zullen ons daartegen blijven verzetten. Wij hebben in dit land met de hoogste belastingen ter wereld geen belastingverhogingen nodig en zelfs geen belastingverschuivingen, maar wel een echte belastingverlaging.",
+      "Mevrouw de staatssecretaris, de Europese Commissie eist 16 miljard euro in saneringen of nieuwe structurele belastingen. U noemde die 16 miljard in de commissie herhaaldelijk een wandeling in het park, a walk in the park . Blijft u bij die uitspraak? Vindt u nog steeds dat heel die oefening van 16 miljard een fluitje van een cent wordt?",
+      "U wijst daarbij steevast naar de vele miljarden euro’s aan besparingen die de vivaldiregering zou hebben gerealiseerd. Dat is natuurlijk ronduit lachwekkend. Als men een leugen vaak genoeg herhaalt, begint men die zelf te geloven. Ik denk dat u een beetje aan dat syndroom lijdt. Die kaap van 16 miljard is natuurlijk een deel van de verpletterende erfenis die u en uw vivaldiregering hebben nagelaten aan de komende regering.",
+      "Laten we duidelijk zijn, uw regering heeft nooit overschotten gerealiseerd. Ze heeft integendeel de putten nog veel dieper gemaakt. De vivaldiregering zal vooral de geschiedenis ingaan als de regering die een verpletterende erfenis nalaat voor de toekomstige regeringen en generaties.",
+      "Dat is trouwens ook de eindbalans van de vele jaren van regeringsdeelname van de liberalen, inzonderheid de Vlaamse liberalen. Zowat 25 jaar maakten zij deel uit van de regeringen in dit land en de overheidsuitgaven zijn enkel doorgestegen. De belastingen zijn eveneens tot bij de hoogste van de wereld verheven. Open Vld werd dan ook geheel terecht genadeloos afgestraft door de Vlaamse kiezer.",
+      "Mevrouw de staatssecretaris, ik heb nog een vraag voor u. Vanochtend konden we in De Standaard het voorstel van Kaja Kallas lezen, de nieuwe hoge vertegenwoordiger van de EU voor buitenlandse zaken en veiligheidsbeleid, om 300 miljard aan bevroren Russische tegoeden te confisqueren en aan Oekraïne te geven. 200 miljard daarvan staat in België bij Euroclear. U en uw regering rekenen echter op de extra inkomsten uit de vennoot­schapsbelasting bij Euroclear op de intresten van dezelfde bevroren Russische tegoeden. Het Rekenhof wees er eerder al herhaaldelijk op dat acties van de Europese Commissie om de inkomsten van die tegoeden en de tegoeden zelf te confisqueren, de inkomsten voor de Belgische begroting ernstig zouden kunnen beïnvloeden en dus een aanzienlijk risico vormen. Dan is er ook nog het risico dat Rusland een procedure zou aanspannen bij de Wereldbank tegen de Belgische Staat. Het zou kunnen eisen dat dit land het aangeslagen geld en de intresten daarop terugbetaalt. In zo'n geval bestaat het risico dat de Belgische begroting en dus de belastingbetaler vroeg of laat opdraait voor de constructie, die toch wel op wankele juridische gronden is gebaseerd.",
+      "Dat is dan ook mijn derde vraag. Hoe schat u dat risico in, zeker na de uitspraken van Kallas? We lopen immers niet alleen het risico in de toekomst vele honderden miljoenen euro's te missen als die gelden worden geconfisqueerd, maar ook het risico om vele honderden miljoenen euro's te moeten terugbetalen als de constructie succesvol wordt aangevochten. Graag kregen we daarover wat meer duidelijkheid, zeker na de uitlatingen gisteren van de Europese Commissie.",
+      "Het principe van een financiewet voor voorlopige kredieten is duidelijk. Om de continuïteit van de openbare dienstverlening te verzekeren, dient het Parlement maandelijks uitgaven goed te keuren die overeenstemmen met een twaalfde van de goedgekeurde jaarbegroting. Zoals we konden lezen in de juridische nota van de diensten, legt de wet de wetgever een strikt kader voor de voorlopige kredieten op. Die worden berekend op grond van de overeenkomstige kredieten in de laatst goedgekeurde algemene uitgavenbegroting en mogen dus niet worden aangewend voor uitgaven van nieuwe aard, waartoe de wetgever voordien geen machtiging heeft verleend.",
+      "Wat heeft het Rekenhof daarover onder meer in onze commissie gezegd?",
+      "Ten eerste, het Rekenhof heeft slechts een dikke week de tijd gehad om de turf van 800 pagina's door te nemen. Normaal gezien heeft het Rekenhof meerdere weken nodig om de cijfers te bekijken, maar die tijd was er niet en dat valt natuurlijk te betreuren. Het verslag van het Rekenhof is dan ook zeer summier, anderhalve pagina, bij gebrek aan tijd om inzicht in de cijfers te krijgen. Dat betreuren wij.",
+      "Ten tweede, op onze vragen of het principe van voorlopige kredieten werd gerespecteerd, verwees het Rekenhof meermaals naar de mogelijk ontoereikende kredieten voor bijvoorbeeld gerechtskosten, de gevangenissen, allerhande andere kosten en naar de ongedekte cheque voor de Oekraïneprovisie.",
+      "Ik sta erop om nog eens duidelijk te stellen dat de vivaldipartijen na de verkiezingen van 9 juni niet meer over een werkbare meerderheid in het Parlement beschikken. Vivaldi mag in lopende zaken geen nieuw beleid maken en moet zich strikt houden aan het principe van de voorlopige kredieten. Toch ligt hier vandaag een document van vele honderden pagina's aan gevraagde afwijkingen ter stemming. Een correcte toepassing van voorlopige kredieten vormt nochtans de basis van een regering in lopende zaken. Ook daar loopt het in onderhavig ontwerp van financiewet grondig verkeerd. Het instrument van de voorlopige kredieten wordt aangewend om aan politiek te doen.",
+      "Neem nu bijvoorbeeld de afwijking op de voorlopige kredieten met de royale opslag voor het koningshuis. Collega Vandeput had het er al over dat de koninklijke familie in de Belgische noodbegroting een voorkeursbehandeling krijgt en dat het systeem van de voorlopige kredieten daarbij niet wordt gevolgd. In plaats van één kwartaal krijgt de koninklijke familie namelijk al twee kwartalen aan dotaties uitgekeerd in het ontwerp betreffende de voorlopige kredieten. Bovendien wordt er een fikse indexering toegepast. Ondanks de noodbegroting en de oplopende tekorten krijgt de koninklijke familie een royale opslag in 2025. Terughoudendheid en soberheid zouden de ontslagnemende regering en het koningshuis in deze tijden sieren. Voor het Vlaams Belang moeten die dotaties met de zuurverdiende centen van de belastingbetaler aan de miljardairsfamilie in Laken eindelijk worden geschrapt. Wij hebben daartoe dan ook de nodige wetsvoorstellen ingediend.",
+      "Daarnaast gaat er ook steeds meer geld naar de opvang van illegalen en asielzoekers. Het is werkelijk hallucinant dat ontslagnemend staats­secretaris voor Asiel de Moor voor het eerste kwartaal van 2025 minstens 10 miljoen euro extra vraagt voor de asielopvang. Het feit dat men kredieten als dotatie voor Fedasil en interdeparte­mentale provisie voorziet, betekent dat men vertrekt van het principe van de niet-sluiting van de bestaande opvangcapaciteit. Het Vlaams Belang zal de voortzetting van het vivaldibeleid niet goedkeuren.",
+      "Het Rekenhof verwijst in zijn antwoorden op onze vragen naar zogenaamde prognosemodellen en volume-effecten, begrijp dus: minstens evenveel of misschien zelfs meer illegalen en asielzoekers in 2025 dan voorheen. Staatssecretaris de Moor hoopt vandaag niet alleen langs de kassa te passeren, maar vraagt bovendien steeds meer. We investeren al meer dan 1 miljard in asielzoekers. Het is duidelijk dat de financiën van dit land op een onhoudbaar traject zitten, terwijl er tegelijk steeds meer geld wordt gevraagd voor de opvang van asielzoekers.",
+      "De asielcijfers blijven pieken. Het Vlaams Belang is ervan overtuigd dat er alleen fors kan worden bespaard in dit land door de asielstroom in te dijken. Minder instroom en veel meer uitstroom in combinatie met een verstrengde toegang tot de sociale zekerheid voor nieuwkomers, zal leiden tot een enorme besparing en tot gezondere overheidsfinanciën. Het Vlaams Belang weet waar miljarden te halen vallen. Dat is niet bij de hardwerkende Vlamingen. Bespaar op asiel en niet op onze mensen.",
+      "Ik wil het nu over ontwikkelingssamenwerking hebben. Tijdens de voorbereiding van de begroting voor 2025 werden voor maar liefst 315 miljoen euro extra vastleggingskredieten toegekend aan ontwikkelingssamenwerking. Dat is een derde van een miljard euro. Ik herhaal dat die toekenning gebeurt om een nieuwe vierjarenprogrammatie op te starten. Volgens het Rekenhof zou dat geen nieuw beleid zijn, hoewel het Rekenhof ook aangaf dat het niet duidelijk is op welke politieke beslissingen dit programma steunt. Collega’s, voor ons gaat het wel degelijk om nieuw beleid. Een nieuwe vierjarenprogrammatie en volume-effecten betekenen ook hier meer ontwikkelings­samenwerking.",
+      "Indien we de pers mogen geloven, hebben de onderhandelende arizonapartijen plannen om te besparen op ontwikkelingssamenwerking. De Nederlandse regering bijvoorbeeld, met onze zusterpartij PVV, heeft dat alvast gedaan. Zij heeft de daad bij het woord gevoegd en vele honderden miljoenen euro's bespaard op ontwikkelings­samenwerking.",
+      "Ik keer terug naar België en naar deze voorlopige twaalfden. Het is natuurlijk niet aan de ontslagnemende regering om een derde van een miljard euro bijkomende vastleggingen te doen. Dat is aan een volgende regering. De vivaldipartijen deelden de voorbije jaren vele honderden miljoenen euro's van ons belastinggeld uit aan ontwikkelingshulp voor het buitenland. Zij blijven dat doen tot het bittere einde. Dat gaat de bevoegdheden van lopende zaken ver te boven. Dat is voor ons totaal onaanvaardbaar.",
+      "Of het nu gaat over de afwijking en de royale opslag voor het koningshuis, de extra uitgaven voor asiel en migratie of de extra uitgaven voor ontwikkelingssamenwerking, er zitten in deze vele honderden pagina’s aan voorlopige twaalfden duidelijke en bijkomende politieke keuzes. Het is en blijft duidelijk een vivaldibegroting.",
+      "Mevrouw de staatssecretaris, u hebt dat ook met zoveel woorden geantwoord in de commissie. Ik heb de video herbekeken. U zei en ik citeer: ʺ Dit is wel degelijk een begroting van Vivaldi. Ten eerste is ze ingediend door de vivaldiregering en ten tweede, de voorlopige twaalfden zijn gebaseerd op de vivaldibegroting van 2024. ʺ",
+      "Mijn vierde vraag is dan ook of u dat hier nog eens luid en duidelijk in de plenaire wilt herhalen en herbevestigen, zodanig dat onze goede collega’s van de N-VA het ook heel duidelijk in hun oren knopen dat ze zich nu plots onthouden bij de stemming over een vivaldibegroting. Dat is ongezien in de afgelopen vijf jaar. Door uw stemhouding maakt u een voortzetting van het vivaldibeleid mogelijk. In de vorige legislatuur was dat ondenkbaar en onmogelijk. Het kan verkeren als de postjes en de Wetstraat 16 aan het lonken zijn."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "02.07",
+     "name": "Steven Vandeput",
+     "party": "N-VA",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer Vermeersch, mag ik u erop attent maken dat u er persoonlijk voor aan het zorgen bent op dit moment dat we boven het miljoen extra zijn. Ik verwijs naar wat u daarnet zei, u hebt de 1 miljoen extra schuld al overschreden en ik hou u daarvoor verantwoor­delijk.",
+      "Alle gekheid op een stokje. Ik hoor u graag spreken over Vivaldi en de arizonaregering die er dringend moet komen, zoals ook andere collega’s zeiden, dat het allemaal te lang duurt en dat er dan maatregelen op tafel liggen. U weet net als ik – of u weet het niet, mijnheer Vermeersch, misschien is het nieuw voor u – dat wanneer men compromissen maakt, er maar een compromis is als dat er is over alles, over het geheel. Als het een beetje langer duurt, zou dat misschien zo kunnen zijn omdat … Ik heb begrepen dat u in de wagen hebt geluisterd naar de andere sprekers. Ik hoor hier een aantal zaken die ik ook heb aangehaald op voorhand. Ik heb duidelijk aangegeven waarom wij ons straks zullen onthouden bij de stemming. Ik kom terug op wat u net allemaal hebt beweerd over nota’s die lekken, die verschijnen en waarvan men zich het zijne maakt.",
+      "Wie een regering wenst te vormen, zal een compromis moeten bereiken over het geheel. Ik kan me slechts duidelijk uitspreken voor de N-VA, en daarin kan ik u wel gelijk geven: wat wij gezegd hebben voor 9 juni, zeggen we ook na 9 juni. Dit land heeft nood aan een beleid dat onze begroting terug op orde brengt, een beleid waardoor mensen terug zin hebben om aan het werk te gaan. We moeten een activeringsbeleid voeren die naam waardig. We moeten de pensioenen op orde zetten, zodat we die ook in de toekomst kunnen garanderen. Onze economie moeten we ondersteunen waar dat nodig is. Met het oog op de toekomst moeten we zeker ook de schulden afbouwen, want daar hangt natuurlijk alles aan vast. Zulke zaken leggen wij voor bij de regeringsonderhandelingen.",
+      "Mijnheer Vermeersch, met veel bravoure vertelt u dat het allemaal te lang duurt en dat het niet goed is allemaal. Daarom hoor ik van u wel eens graag welke uw alternatieven zijn. Let wel, ik betwijfel niet dat u alternatieven kunt aanbrengen, ik bedoel vooral of u kunt aangeven wie in het halfrond samen met u op basis van uw voorstellen een meerderheid zal vormen zodat u uw alternatieven voor het land kunt invoeren. Daar gaat het uiteindelijk om: beslissingen kunnen maar genomen worden als u een democratische meerderheid op de been kunt brengen."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Mijnheer Vandeput, een interruptie dient u te beperken tot twee minuten."
+    },
+    {
+     "type": "speech",
+     "id": "02.08",
+     "name": "Wouter Vermeersch",
+     "party": "VB",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Inderdaad, mijnheer Vandeput, politiek is keuzes maken. Daar verwees u naar. U vroeg welke keuzes wij zouden maken. Wel, ik heb als begrotingsspecialist even het regeerakkoord en de begrotingstabellen van Nederland nagekeken. Wat doet men in Nederland? Daar kiest men ervoor om de belastingen te verlagen. Meer koopkracht dus. Tegelijkertijd investeert men in defensie, in ouderenzorg en in betaalbaar wonen. Waar haalt men het geld, in Nederland? Men bespaart op asiel, migratie en ontwikkelingshulp. Politiek is inderdaad keuzes maken. Wij stellen vast dat in landen waar partijen als het Vlaams Belang in de regering zitten, de juiste keuzes worden gemaakt.",
+      "In Nederland komt er nu het strengste asiel- en migratiebeleid ooit. Ik garandeer u, mocht het Vlaams Belang mee aan de knoppen zitten, dan zouden wij ook hier ervoor pleiten en ervoor zorgen dat in het regeerakkoord staat dat het strengste asiel- en migratiebeleid ooit in dit land er komt. Wat in Nederland kan, mijnheer Vandeput, moet in Vlaanderen ook kunnen. Wij van het Vlaams Belang willen natuurlijk ook zorgen voor minder belastingen en voor meer koopkracht, door minder geld te verspillen aan asiel en migratie en door eindelijk een beleid te voeren van eerst onze mensen.",
+      "Ik weet niet of een van mijn collega's het persbericht kan brengen dat in die blauwe map op mijn bank ligt? Gisteren heeft de VVB een persbericht verspreid. Een duidelijke boodschap aan uw partij. Zij zegt eigenlijk: Bart De Wever heeft heel wat beloftes gedaan. Hij zei op de dag van de verkiezingen: zelfbestuur is de beste kuur. Mijn fractieleidster heeft mij het persbericht gebracht. Ik lees er even uit voor: \"Bart De Wever heeft het vertrouwen van de Vlaming gevraagd en de Vlaming heeft hem dat geschonken, voor pijnlijke socio-economische hervormingen maar evenzeer voor institutionele hervormingen, om dit land eindelijk op orde te zetten zodat de Vlamingen niet langer de Belgische financiële put moeten vullen, een put die nota bene volledig wordt gegraven door de overheden waar Franstalige partijen het voor het zeggen hebben, het Brussels Hoofdstedelijk Gewest op kop. Ondanks de evidente noodzakelijkheid van institutionele hervormingen om de welvaart en het welzijn van Vlaanderen, maar ook van Brussel en Wallonië, op lange termijn duurzaam veilig te stellen, blijft het hier oorverdovend stil.\"",
+      "Mijnheer Vandeput, ik zal u een wedervraag stellen. Waarom blijft het daarover oorverdovend stil? Wat is uw reactie, wat is uw antwoord op dit persbericht van de VVB, die u houdt aan uw verkiezingsbeloftes, verkiezingsbeloftes die u de dag na de verkiezingen al vergeten bent?",
+      "U hebt uw partner, deze sterke winnaar van de verkiezingen, de tweede Vlaams-nationalistische partij, onmiddellijk aan de kant geschoven. Het is een schande voor de welvaart van Vlaanderen.",
+      "Mijnheer de voorzitter, geeft u collega Vandeput de toestemming om te antwoorden?"
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : U had een twintigtal minuten tijd om vragen te stellen aan collega Vandeput."
+    },
+    {
+     "type": "speech",
+     "id": "02.09",
+     "name": "Wouter Vermeersch",
+     "party": "VB",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Zwijgen en niet antwoorden op een vraag is natuurlijk ook een antwoord. Ik denk dat de VVB al een antwoord heeft op het persbericht, namelijk de oorverdo­vende stilte van N-VA hierover. We kijken uit naar het vervolg.",
+      "Collega’s, ik had het al over ontwikkelings­samenwerking en de vivaldibegroting. De voorlopige twaalfden zijn gebaseerd op de laatst goedgekeurde begroting, die van 2024, met de kaduke vivaldicijfers. Die kaduke cijfers vormen de basis van deze besprekingen en dat schept op zijn zachtst gezegd weinig vertrouwen. Onze conclusie is duidelijk. Deze noodbegroting wordt misbruikt om politieke maatregelen te nemen. De regering in lopende zaken gaat haar bevoegdheden te buiten door nieuw beleid te voeren. Beide zaken zijn voor ons onaanvaardbaar.",
+      "Collega’s, het Vlaams Belang zal wat hier voorligt zeker niet goedkeuren. Het Vlaams Belang heeft op deze voorlopige twaalfden, zoals steeds, uitsluitend amendementen ingediend die stuk voor stuk besparingen inhouden. Wij nodigen zeker de Vlaamse partijen uit om consequent te zijn en deze mee goed te keuren, want de burger weet maar al te goed dat de tekorten vandaag de belastingen van morgen zijn.",
+      "Ik rond af.",
+      "Meer dan een halfjaar na de verkiezingen kampen de onderhandelende partijen met de aloude Belgische ziekte. Een degelijke begroting in elkaar steken lijkt een onmogelijke opdracht te worden.",
+      "Nochtans is een ernstige begroting de essentie van elk beleid. Een nieuwe federale regering zal vele miljarden aan besparingen en nieuwe belastingen opdringen, vooral aan de Vlamingen. De financiële putten die door Brussel en Wallonië werden gegraven, zullen door die hardwerkende Vlamingen mogen worden gedempt.",
+      "Bart De Wever belooft de Vlaming nog steeds verandering te brengen, maar kiest telkens opnieuw voor het Belgische status-quo. Zolang een partij als de N-VA blijft kiezen voor Belgische regeringsvormingen in plaats van voor een Vlaamse staatsvorming, is die partij veroordeeld tot het rommelen in de Belgische marge en is ons geliefde Vlaanderen veroordeeld tot het verder inboeten aan welzijn en welvaart.",
+      "De Wever noemde de Vlaming de meest gepluimde kip van allemaal, maar staat op het punt om die kip nog verder tot op het bot uit te benen. Hij heeft de Vlaming een rad voor de ogen gedraaid en maakt telkens opnieuw de verkeerde keuzes. Wij kunnen u bij deze bevestigen dat hij de oppositie van het Vlaams Belang in alle parlementen op zijn pad zal treffen."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Ik ontneem niet graag een spreker het woord, zeker wanneer de indruk zou kunnen ontstaan dat ik daarbij partijpolitiek zou tussen­komen. Ik vestig er wel algemeen de aandacht op dat het hier gaat om een bespreking over de voorlopige twaalfden."
+    },
+    {
+     "type": "speech",
+     "id": "02.10",
+     "name": "Wouter Vermeersch",
+     "party": "VB",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "(…)"
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Ik heb u het woord niet ontnomen, mijnheer Vermeersch. Ik heb ook gezegd dat ik u graag heb laten uitspreken. U hebt daar ruim gebruik van gemaakt, u hebt dat recht. Ik herhaal gewoon wat er op de agenda staat."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Mevrouw Pas, u hebt het woord."
+    },
+    {
+     "type": "speech",
+     "id": "02.11",
+     "name": "Barbara Pas",
+     "party": "VB",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de voorzitter, het zou eraan mankeren dat u de spreker het woord ontnomen zou hebben, hij mag op het spreek­gestoelte immers verkondigen wat hij wil. U kent het Kamerreglement en ik vind die opmerking van u zeer misplaatst.",
+      "Ik kan alleen maar vaststellen dat mijn collega pertinente vragen heeft gesteld over de voorlopige twaalfden aan de bevoegde staatssecretaris, en ik hoop dat hij daar een antwoord op zal krijgen, en ik kan me niet van de indruk ontdoen dat dat niet bij alle sprekers het geval was.",
+      "Ik vind het dus een zeer misplaatste opmerking. De heer Vermeersch heeft geantwoord op een vraag die hem is gesteld door collega Vandeput. Het is niet aan u om te beperken wat iemand op het spreekgestoelte kan zeggen en wat niet."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Het siert u, mevrouw de fractievoorzitster, dat u het lid van uw fractie verdedigt."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Dan geef ik nu het woord aan de heer Dubois."
+    },
+    {
+     "type": "speech",
+     "id": "02.12",
+     "name": "Xavier Dubois",
+     "party": "Les Engagés",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le président, comme mon prédécesseur l’a mentionné, chaque seconde qui passe aggrave la dette de l’État. Je vais faire en sorte que mon intervention contribue nettement moins à la dette de l’État que la sienne.",
+      "Chers collègues, ce projet de loi contenant les crédits provisoires pour les trois premiers mois de l’année 2025 n’est pas parfait. C’est une évidence. Nous sommes intervenus à plusieurs reprises en commission pour interpeller Mme la secrétaire d'État.",
+      "En effet, nous ne pouvons nous cacher derrière l’aspect technique de ce texte de près de 800 pages. Ce serait facile car cela permettrait de ne pas voir son impact sur de nombreux départements publics, et donc services à la population. Derrière les chiffres se cachent la gestion de l’État et, en définitive, la vie de tous nos concitoyens.",
+      "Nos interpellations relatives aux points soulevés par la Cour des comptes, dont nous saluons le travail au passage, l’ont confirmé: ce texte n’est pas idéal. Des questions restent en suspens. Celle de l’aide militaire à l’Ukraine, pour laquelle aucun crédit n’est prévu par le projet de loi, ou celle encore des frais de justice, notamment, pour lesquels la Cour des comptes elle-même mentionne l’insuffisance probable de crédits.",
+      "D’autres questions, comme celle de nos éleveurs confrontés à l’épidémie de fièvre catarrhale, qui met en danger l’existence même de nombreuses exploitations agricoles, ont trouvé des pistes de réponse. Un amendement, approuvé en commission, prévoit en effet une aide de 40 millions en vue de soutenir financièrement les éleveurs dans la nécessaire campagne de vaccination de leur élevage.",
+      "Notre soutien à ce texte n’est pas une validation béate de lignes budgétaires où on ne distingue pas notre empreinte. Il n’est pas non plus issu d’un calcul politique à bas coût où nous rechercherions notre intérêt en perdant de vue l’essentiel. L’essentiel, c’est que notre État continue de fonctionner, que les fonctionnaires soient payés, que les citoyens et les entreprises puissent bénéficier des services d’un État opérationnel durant les trois premiers mois de l’année, en attendant mieux.",
+      "Nous n'avons pas de comptes à rendre et nous aurions pu nous en laver les mains. Après tout, le budget sur lequel sont basés ces douzièmes provisoires n'est pas le nôtre. Cependant, nous estimons que les difficultés auxquelles notre pays est confronté exigent de se positionner de manière responsable et d'avancer. C'est le cas aujourd'hui et ce sera encore le cas demain. Dans ces deux cas, les Engagés répondent et répondront présents.",
+      "Les défis auxquels nous faisons face sont de taille et les réponses structurelles qui auraient dû être apportées ne sont pas arrivées durant la législature passée. Le risque d'enchérissement du coût de financement de l'État devient une réalité tangible. Il suffit de regarder la dégradation récente de la note de notre voisin français pour en mesurer les conséquences.",
+      "Les Engagés prennent aujourd'hui leurs responsabilités en soutenant ce projet de loi de finances portant les douzièmes provisoires, pour assurer le fonctionnement de l'État. Nos responsabilités, nous les prendrons encore demain pour garantir la soutenabilité de nos finances publiques, pour garantir un service efficace à l'ensemble de nos concitoyens et pour garantir la résilience de notre société. Merci pour votre attention."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "02.13",
+     "name": "Jan Bertels",
+     "party": "Vooruit",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de voorzitter, maak u geen zorgen, ik zal me beperken tot het onderwerp op de agenda, het ontwerp van financiewet.",
+      "Het wetsontwerp dat hier vandaag voorligt, de voorlopige twaalfden, dient – en ik citeer uit de commissie – \"om een shutdown van de openbare dienstverlening te voorkomen\". Het is ons inziens dan ook de plicht en de verantwoordelijkheid van dit Parlement om dit wetsontwerp aan te nemen. Zoals veel collega's al hebben gezegd, moet de overheid kunnen blijven functioneren. Dat zijn we verplicht aan de inwoners van het land.",
+      "Collega's, het werd al herhaaldelijk toegelicht, maar de FOD BOSA en daarna de ontslagnemende regering zijn heel stipt omgegaan met de berekening van de kredieten voorlopige twaalfden, zoals we in de commissie hebben gezien, in plus en in min. De voorlopige kredieten werden berekend op basis van de laatst goedgekeurde algemene uitgavenbegroting, in dit geval de initiële begroting 2024. Dat is conform de vigerende wetgeving.",
+      "De departementen en administraties konden enkel afwijkingen van deze berekeningen voorstellen voor onvermijdelijke uitzonderingen. Dat zijn uitzonderingen die absoluut noodzakelijk zijn om de uitgaven op te vangen waarvan de wettelijke, reglementaire of bij overeenkomst bepaalde vervaldatum of de eerste budgettaire impact in de loop van het eerste trimester valt. Vandaar dat er soms ook uitgaven zijn toegekend voor vier of zes maanden, mijnheer Vermeersch. Dat weet u even goed als ik.",
+      "Andere wijzigingen konden worden voorgesteld, maar zijn niet aanvaard. Er zitten dus geen nieuwe uitgaven of initiatieven in waarvoor dit Parlement nog geen toelating had gegeven. Het Rekenhof heeft, ongeacht wat geïnsinueerd wordt, daarop toezicht gehouden en volgens het Rekenhof is het voorliggend ontwerp correct.",
+      "Collega's, de voorliggende financiewet bevat dus geen nieuwe politieke keuzes. Iedereen is het erover eens dat nieuwe keuzes pas aan bod kunnen komen in een volwaardige begroting voor 2025 en dus materie zijn voor een nieuwe regering. Voor Vooruit moet een nieuwe begroting de financiën van ons land terug op koers brengen; ook daarmee vertel ik niets nieuws. Tevens moet de nieuwe begroting structurele hervormingen doorvoeren en de lasten en inspanningen eerlijk verdelen. Daarmee zijn we elke dag bezig tijdens de onderhandelingen. Vooruit zal blijven ijveren voor een sociale begroting, daar werken we zeven dagen op zeven aan.",
+      "Zoals iedereen hopen wij dat die volwaardige begroting en nieuwe regering er zo snel mogelijk zijn, zodat we een volwaardige discussie kunnen voeren over de staatsfinanciën van dit land. In afwachting daarvan moet de overheid kunnen blijven functioneren, moeten onze inwoners een beroep kunnen doen op de overheid. Om die reden zal onze fractie alvast het ontwerp van voorlopige twaalfden volmondig goedkeuren. Dat is volgens ons onze plicht en onze verantwoordelijkheid als parlementslid."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "02.14",
+     "name": "Koen Van den Heuvel",
+     "party": "cd&v",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de voorzitter, ook mijn uiteenzetting zal kort zijn en sluit nauw aan bij de vorige.",
+      "Een ontwerp van voorlopige twaalfden is inderdaad een noodmaatregel. Vanuit zeker oogpunt mogen we van geluk spreken dat we deze methodiek ter beschikking hebben, zodat we niet zoals in de Verenigde Staten moeten overgaan tot een shutdown. Voorlopige twaalfden laten ons toe om de basistaken van de overheid blijvend te vervullen, zoals de uitbetaling van pensioenen en de lonen van onze ambtenaren, en de honorering van lopende contracten.",
+      "Daar staat tegenover dat voorlopige twaalfden niet het voorbeeld zijn van goed en efficiënt bestuur, aangezien ze zorgen voor heel wat papierwerk bij onze administratie, die dat werk niet meteen verwacht. Investeringen vallen voorlopig stil en, zoals al werd aangehaald, het wetsontwerp bevat geen hervormingen, terwijl dit land broodnodig structurele hervormingen nodig heeft, en evenmin besparingen.",
+      "Vroeger, in een vorig decennium, werd al eens gezegd dat voorlopige twaalfden de begroting wat meer op orde houden, maar dat geldt tegenwoordig niet meer. We constateren dat de voorlopige twaalfden een sluipende automatische stijging van de uitgaven teweegbrengen. Daarom stellen wij dat we de voorlopige twaalfden weliswaar zullen steunen, maar dat onze steun tijdelijk is. Onze fractie wil absoluut onderlijnen dat dit land dat systeem niet te lang mag laten duren en dus dringend een hervormingsregering nodig heeft.",
+      "Voor onze partij is het heel duidelijk. Liever morgen dan overmorgen is er een nieuwe regering die de structurele hervormingen doorvoert op de arbeidsmarkt en in de pensioensector en die ook voor een duidelijke ambitieuze fiscale hervorming gaat die werken laat lonen. Het betreft een hervorming die niet voor een belastingverhoging gaat maar voor een taxshift, om op die manier de overheidsfinanciën in dit land op orde te krijgen.",
+      "Voorlopig zal onze fractie de voorliggende voorlopige twaalfden, de ingediende begroting, steunen, omdat ze op enkele uitzonderingen na ook technisch nauw aansluiten bij de vorige begrotingen. Wij hebben natuurlijk met voldoening de blauwtongsubsidie voor het blauwtongvaccin mee gesteund.",
+      "Mevrouw de staatssecretaris, ik kan alleen maar meegeven dat onze fractie de voorliggende voorlopige twaalfden wil steunen. Ze zijn misschien geen voorbeeld van efficiënt bestuur, maar de aanpak was wel efficiënt. Daarvoor willen wij u bedanken."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "02.15",
+     "name": "Dieter Vanbesien",
+     "party": "Ecolo-Groen",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Collega's, we zijn hier vandaag samen om niet over een echte begroting te stemmen, maar over een technische noodbegroting van voorlopige kredieten voor de maanden januari, februari en maart, die gebaseerd is op de begroting van 2024. In principe is dat dus iets heel eenvoudigs.",
+      "Zoals zo vaak blijkt echter ook nu weer dat ook eenvoudige dingen uiteindelijk niet altijd zo eenvoudig zijn. Er zijn de strikte twaalfden en de afwijkingen op de strikte twaalfden. Die afwijkingen moeten goed gemotiveerd worden en objectief zijn.",
+      "Zo is er de stijging van het budget voor Fedasil, dat door verschillende collega's wordt gehekeld. Die stijging is te wijten aan de hogere nood aan opvangplaatsen. Die opvangplaatsen zijn nodig opdat mensen de komende winter, die over twee dagen begint, niet op straat moeten slapen. Dat is geen nieuw beleid: we hebben daar altijd naar gestreefd en nu opnieuw. De collega's van de harde, strenge, rechtse lijn vinden dat geen goed argument. Ik ben daarentegen fier dat er in het Parlement vooralsnog een meerderheid is die het wel een goed argument vindt dat iedereen minstens een dak boven het hoofd mag hebben.",
+      "Alle motivaties voor dit soort afwijkingen werden gecontroleerd door het Rekenhof. Het besluit van het Rekenhof is dat ze gefundeerd zijn, dat het niet gaat over nieuw beleid en dat ze voldoen aan de regels voor de voorlopige kredieten.",
+      "Die regels hebben echter een aantal anomalieën tot gevolg. De energienorm is daarvan een voorbeeld. Die maatregel, die de stijgende energiekosten in toom moet houden om de concurrentiepositie van onze industrie te bewaken en om de koopkracht van de gewone mensen te vrijwaren, zou in januari in werking moeten treden, maar dat kan nu niet door het gebruik van de voorlopige kredieten.",
+      "Een andere anomalie betreft de militaire steun aan Oekraïne. De financiering via de fiscale opbrengsten op Russische tegoeden dreigt weg te vallen omdat die volledig naar Europa zouden gaan. Dat lijkt voor mij wel een probleem te zijn, want het gevolg daarvan is dat er vanaf 1 januari geen budget meer is voor eventuele militaire steun aan Oekraïne. Daarmee dreigen wij mogelijk onze internationale engagementen niet te kunnen waarmaken. Dat zou gênant voor ons land zijn.",
+      "Deze vragen zal ik dan ook straks aan de eerste minister of aan de minister van Defensie zal stellen: welke engagementen hebben wij vandaag nog in het kader van militaire steun aan Oekraïne? Wat wordt er precies van ons verwacht en hoe zullen we die verwachtingen vanaf 1 januari inlossen?",
+      "Mijnheer de voorzitter, mevrouw de staats­secretaris, collega's, de voorliggende voorlopige kredieten houden een zeer grote stijging van het budget voor Defensie in, namelijk 800 miljoen extra voor de eerste drie maanden van het jaar. Op zich heb ik daarmee geen problemen. Wij hebben het STAR-plan mee goedgekeurd, met een groeipad voor investeringen in Defensie. Wij zullen dat plan nu niet afvallen, wij steunen die investering. Ik maak wel de volgende bedenking. De regering onder leiding van Open Vld heeft die groeinorm voor Defensie zonder problemen goedgekeurd en die partij werpt hierbij niet op dat het niet aan de vivaldiregering in lopende zaken is om over de stijging van de uitgaven voor Defensie te beslissen en dat het de nieuwe arizonacoalitie toekomt om die stijging door te zetten of niet. Dat staat in schril contrast met de houding van die partij tegenover de groeinorm van het RIZIV-budget. Dat is uiteraard een heel ander proces dan deze voorlopige twaalfden, maar er is wel een parallel te trekken. Voor het RIZIV-budget wil Open Vld niet dat de vivaldiregering de knoop doorhakt. Voor het defensiebudget is dat geen probleem, voor het RIZIV-budget is dat wel een probleem. Dat is werken met twee maten en twee gewichten.",
+      "Ik hoop dat het RIZIV-budget snel in orde komt en dat de eerste minister hier straks nog even een stand van zaken in dat dossier kan geven.",
+      "Collega's, dat de voorliggende begroting er een van voorlopige kredieten wordt genoemd, is veelzeggend. Dat impliceert dat het hier vandaag gaat over pappen en nathouden om de boel draaiende te houden in afwachting van een echte begroting, opgemaakt door een regering met volheid van bevoegdheid. We zijn nu zes maanden na de verkiezingen en die regering is er nog steeds niet. We stevenen af op de op twee na langste formatie in de geschiedenis, voorlopig. De bronzen medaille kan nog steeds zilver of goud worden.",
+      "De kaarten liggen duidelijk, maar men heeft meer nodig dan kaarten om te kunnen samenwerken. Men heeft vertrouwen nodig en vooral ook veel goede wil. Ik roep de arizonapartijen dan ook op, zoals we in de vorige legislatuur ook vaak hebben gezegd, om over hun schaduw te stappen, vooral de rechtse partijen dan.",
+      "Onze fractie heeft zich ertoe geëngageerd om het ontwerp van voorlopige kredieten te steunen, maar ik voeg daar wel nog het volgende aan toe. In de loop van de discussies over de noodbegroting werd de ietwat filosofische vraag gesteld – ze werd hier herhaald – of het nu om een vivaldibegroting gaat of niet. De staatssecretaris heeft geantwoord dat het inderdaad een vivaldibegroting is, want de huidige regering is de vivaldiregering en zij heeft de begroting opgesteld.",
+      "Mevrouw de staatssecretaris, ik ben het daar niet helemaal mee eens. Voor mij is het evengoed een arizonabegroting als een vivaldibegroting. Ik verklaar me nader. Het enige wat onderhavige begroting doet, is ervoor zorgen dat de arizonapartijen drie maanden extra tijd krijgen om een regering te vormen en dat ondertussen de lonen van de ambtenaren, de militairen en de rechters worden betaald. Het enige wat de begroting doet, is ervoor zorgen dat de formateur morgen voor de zestiende keer naar de Koning kan stappen om te zeggen dat hij meer tijd nodig heeft om een regering te vormen en een echte begroting op te stellen. De begroting doet niets anders dan extra tijd kopen voor de arizonapartijen.",
+      "Het straffe is dat de grootste arizonapartij, de N-VA, de partij van de formateur, de noodbegroting niet eens steunt. De N-VA rekent dus op ons om ervoor te zorgen dat de politiemensen worden betaald en dat de treinen blijven rijden, terwijl de arizonapartijen drie extra maanden krijgen om voort te onderhandelen, zonder zelf verantwoor­delijkheid te nemen.",
+      "Wij zijn het engagement aangegaan om vandaag onze steun te geven aan een noodbegroting voor de komende drie maanden en wij zullen dat ook doen, maar, beste N-VA, ik ben er niet zo zeker van dat wij dat een volgende keer nog maar eens zomaar zullen doen. Stel dat de onderhandelingen rond Arizona blijven aanslepen, stel dat de formateur in maart voor de 25ste keer naar de Koning gaat om meer tijd te vragen om een regering te vormen. Ik ben er niet zeker van dat wij er dan opnieuw zomaar voor zullen zorgen dat de formateur nog eens drie maanden uitstel krijgt en ik kan me inbeelden dat een aantal andere partijen daar ook zo over denken. Deze keer zorgen wij dus voor meer tijd voor Arizona, beste N-VA, maar als het binnen drie maanden nog steeds niet rond is, dan zult u misschien eens zelf uw verantwoor­delijkheid moeten nemen. Maak een regering, zorg voor een landing, kom met een begroting. Ons land heeft het nodig."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Dan geef ik nu het woord aan de heer Van Quickenborne, de laatste spreker in de eerste ronde. Daarna zal mevrouw Bertrand antwoorden."
+    },
+    {
+     "type": "speech",
+     "id": "02.16",
+     "name": "Vincent Van Quickenborne (Open Vld)",
+     "party": null,
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mevrouw de staatssecretaris, ik wil in de eerste plaats u en uw diensten danken om alles op tijd klaar te hebben voor de voorlopige twaalfden.",
+      "Het debat in de commissie heeft ons geleerd dat het Rekenhof, dat inderdaad over niet veel tijd beschikte, uitdrukkelijk heeft bepaald dat er geen sprake is van nieuw beleid, maar dat het gaat over volume-effecten en dat wij, conform de wet van 2003, de regels respecteren en dus een noodbegroting voorleggen.",
+      "Collega's, het is belangrijk wat het Rekenhof in de commissie heeft gezegd. Het heeft voor de eerste keer gesproken over het risico van een government shutdown . Daarover werd een vraag gesteld door collega Vermeersch en het Rekenhof zei dat men een government shutdown riskeert vanaf 1 januari als de voorlopige twaalfden niet worden goedgekeurd. Dat zou betekenen dat de pensioenen en de lonen van politiemensen niet worden betaald, dat men riskeert ziekenhuizen te moeten sluiten, dat politiewagens niet meer kunnen uitrukken omdat hun benzinetank leeg is en dat men zelfs geen belastingen meer zou kunnen innen. Dat laatste zou misschien eens interessant zijn in ons land.",
+      "Dat is natuurlijk de reden waarom wij voor deze noodbegroting zullen stemmen. Ik wil andere partijen, zoals de N-VA, danken om hier niet tegen te stemmen, waardoor deze goedgekeurd zal worden, collega Vanbesien.",
+      "Mijnheer de voorzitter, de echte reden waarom we hier staan, is het nog steeds ontbreken van een regering. Iedereen dacht na de logische uitslag van de verkiezingen in juni dat we hier nu een volwaardige begroting voor 2025 zouden bespreken. Eerlijk gezegd, I can’t wait . We zaten er allemaal op te wachten. De verkiezingsuitslag was immers zeer duidelijk. De zeer logische coalitie die er moet komen bestaat uit bijna allemaal winnaars. Proficiat aan Les Engagés en de MR aan Waalse zijde. Aan Vlaamse zijde haalt de N-VA een goed resultaat, Vooruit gaat erop vooruit en cd&v boekte verlies, maar dat zullen we even verzwijgen. Open Vld was de grote verliezer en dat hebben we van begin af aan toegegeven.",
+      "Die coalitie dient zich aan, maar na zes maanden blijkt er nog altijd geen regering te zijn. Hoe komt het dat er nog steeds geen regering is? Vlaams minister-president Diependaele stelt in Knack dat de federale formatie aantoont dat België niet werkt. Hij spreekt zelfs over twee democratieën. Collega’s, staat u me toe te zeggen dat velen onder u dit totale onzin vinden. Waarom? Voor de eerste keer in decennia heeft het land van De Panne tot Opgrimbie, zoals Leterme ooit zei, of van Stabroek tot Aarlen, zoals ik eraan toevoeg, rechts gestemd. Het land heeft in Wallonië, Vlaanderen en zelfs in het Brussels Hoofdstedelijk Gewest rechts gestemd. Dat is de realiteit vandaag.",
+      "Tot voor kort stemde Wallonië vaak links en Vlaanderen vaak rechts, waardoor het moeilijk was een regering te vormen. Nu liggen de kaarten anders, maar het lukt nog altijd niet. Wat is dan de echte reden waarom deze coalitie niet uit de startblokken kan schieten?",
+      "Het is inderdaad een logische coalitie, maar het is geen natuurlijke coalitie. Ze is onnatuurlijk. Waarom is ze onnatuurlijk? Omdat er geen keitje in de schoen zit maar een serieuze steen. Die steen heet Vooruit. Een linkse partij in die coalitie.",
+      "Trouwens, laten we eerlijk zijn, Vooruit is dezelfde partij als die waarmee de heer Diependaele in zee gegaan is in Vlaanderen. De Vlaamse regering helt intussen naar links. Met 3 miljard extra uitgaven. Met een schuld die oploopt naar 100 % van de inkomsten.",
+      "U ziet ook wat er in Wallonië gebeurt, in de Waalse regering. De heer Crucke is hier aanwezig. De heer Piedboeuf ook. Met deze Waalse regering komt er geen euro belastingverhoging. Enkel belasting­verlagingen en besparingen.",
+      "Ook wordt de vaste benoeming afgeschaft in Wallonië. Ook in het onderwijs. Il faut le faire! In Wallonië doet men het: een echt centrumrechts beleid, dat schril afsteekt tegen wat de heer Diependaele brengt in Vlaanderen.",
+      "Inderdaad, men moet Vooruit daarvoor feliciteren. Vooruit doet de boot naar links hellen. Het doet dat nu ook met de arizonacoalitie.",
+      "Hoe langer het duurt, mijnheer Crucke, hoe linkser het wordt. Waaruit blijkt dat? Dat blijkt niet uit wat wij hier in het Parlement vertellen, maar dat blijkt uit de lekken die worden georganiseerd door de arizonapartijen zelf. Er zijn lekken door de arizonapartijen zelf. Wat blijkt uit die teksten, collega's? U kent het fameuze mantra dat mensen die werken, mensen die sparen, niet extra belast mogen worden. Geen nieuwe belastingen. U kent dat mantra. Als men dat mantra toepast op de arizonacoalitie moet men vaststellen dat precies het omgekeerde aan het gebeuren is.",
+      "Een voorbeeld: mensen die sparen. Er zijn veel mensen die sparen in ons land. Gelukkig wordt er veel gespaard. Het spaarquotum is hoog. Maar wat doet de N-VA in de commissie van collega Vandeput? Wij waren erbij. Schaamteloos is daar voorgesteld de roerende voorheffing op spaarboekjes op te trekken van 15 % naar 30%."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Mijnheer Van Quickenborne, collega Vandeput wil daarop reageren. Dat was wellicht ook de bedoeling."
+    },
+    {
+     "type": "speech",
+     "id": "02.17",
+     "name": "Steven Vandeput",
+     "party": "N-VA",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer Van Quickenborne, ik kan uw betoog wel smaken. Alleen kan men niet op een donderdagochtend vlak voor het kerstreces opnieuw maagd worden. Dat gaat niet. Het is net door het ontbreken van enig beleid dat gaat in de richting van het onder controle krijgen van de begroting, het ondersteunen van sparen, werken en ondernemen, dat we vandaag in deze situatie met de tekorten zitten.",
+      "U verwijst naar voorstellen die door andere partijen in dit halfrond werden ingediend. Ik doe dat ook altijd, maar dan geef ik dat hele voorstel weer. Het gaat erover dat wij tegen een veroordeling aankijken voor het verschillend behandelen van verschillende spaarmiddelen. Dat is wat ons voorstel wil oplossen. Dat voorstel is geen verhoging, maar houdt in dat de meeste spaarders in ons land, die van hun loon een appeltje voor de dorst opzijleggen, een verhoogde vrijstelling zouden krijgen van eender welke belasting op hun spaargeld. Dat is het voorstel van de N-VA dat u hier verkeerd uitlegt.",
+      "U hebt gevraagd, en wij hebben dat toegestaan, om daaraan een voorstel van u vast te klikken, waarin u geen enkel antwoord biedt op de dreiging om door Europa veroordeeld te worden voor het verschillend behandelen van spaarmiddelen. Mag ik u er trouwens op attent maken dat als we vandaag met verhoogde tarieven zitten voor verschillende vormen van sparen voor wie gewerkt heeft en dat omzet in een kapitaaltje voor de toekomst, een appeltje voor de dorst, dat is omdat uw vivaldiregering aanpassingen in de hoogte heeft gedaan. Als u verwijst naar voorstellen, doe dat dan correct en volledig en wees terughoudend, want op één dag wordt u niet terug maagd."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "02.18",
+     "name": "Vincent Van Quickenborne (Open Vld)",
+     "party": null,
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer Vandeput, ik had mijn redenering zelfs nog niet afgemaakt, maar ik zal antwoorden op uw vraag.",
+      "Ten eerste, u merkt op dat er een Europese veroordeling dreigt. Dat hebt u opgemerkt. Er dreigt een Europese veroordeling en dus moet een en ander worden aangepast. U geeft de indruk, door een verhoging naar 30 % door te voeren, dat die verhoging het antwoord is dat Europa wil. Mijnheer Vandeput, daarover gaat het niet. Het punt van Europa is dat de Belgische banken en de buitenlandse banken ongelijk worden behandeld door het reglementaire spaarboekje. Dat is wat moet worden aangepakt en niet het tarief van de roerende voorheffing, niet die 15 % en niet die 30 %.",
+      "Ten tweede, ik wou bij uw voorstel komen. Ik wou inderdaad meegeven dat de vrijstelling wordt verdubbeld. Dat is juist. Collega’s, wat is echter het probleem? Het probleem waarvoor ik in de commissie heb gewaarschuwd, zoals u heel goed weet, en dat Febelfin nu ook aangeeft, is het volgende. Mijnheer de voorzitter, ik lees voor wat Febelfin heeft verklaard in de commissie van vrijdag 13 december 2025. De instelling heeft een advies rondgestuurd, dat ik u voorlees. Het geeft het probleem aan.",
+      "Ik citeer: \"In concreto betekent dit dat elke euro intresten aan de bron zal worden belast, in het voorstel van N-VA meteen aan 30 %, en dat de burger pas na meer dan een jaar zijn of haar te veel betaalde roerende voorheffing zal kunnen terugvorderen. Voor burgers die enkel een spaarrekening hebben – dat zijn er veel in ons land, collega’s – zal dit dus een grote wijziging zijn en nieuwe inspanningen vergen. Personen die minder financieel of fiscaal geletterd zijn of die minder reactief zijn, lopen bovendien het risico om de vrijstelling gewoon te missen.\"",
+      "Collega’s, concreet is het probleem het volgende. Stel, iemand met een spaarboekje heeft 100 euro intrest. Vandaag is dat de bevrijdende roerende voorheffing. Daarop worden geen belastingen betaald. Mijnheer Vandeput, in uw voorstel zal van die 100 euro 30 % afgaan. Dat geld is weg. De betrokkene krijgt maar 70 euro. Collega’s, om die 30 euro terug te krijgen, moet de betrokkene zijn belastingaangifte aanpassen en krijgt hij het geld na een jaar of twee jaar terug. Indien hij of zij dat niet doet, is hij of zij de centen kwijt.",
+      "Mijnheer Bertels, ik richt me tot de leden van Vooruit. Zult u, die volgens uw overtuiging opkomt voor de zwakkeren in de maatschappij en voor mensen met een uitkering, ook opkomen voor de mensen met klein spaargeld? Zult u aanvaarden dat mensen die 100 euro intrest hebben, eerst 30 % of 30 euro moeten afstaan aan de schatkist en vervolgens zelf inspanningen moeten doen om via de belastingaangifte dat geld terug te vorderen?",
+      "Vandaag zijn drie miljoen belastingaangiftes vooraf ingevuld. Dat betekent dat mensen dat niet meer moeten wijzigen. Dit voorstel zal betekenen dat ze allemaal, ook de gepensioneerden, hun interesten op de belastingaangifte zullen moeten invullen om uiteindelijk die 30 euro terug te krijgen.",
+      "Collega's, ik wil daarvoor waarschuwen. Ik denk dat dat een gevaarlijke zaak is. Ik denk dat gewone, minder geletterde mensen hiervan de dupe zouden kunnen zijn."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "02.19",
+     "name": "Charlotte Verkeyn",
+     "party": "N-VA",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer Van Quickenborne, u zult onmiddellijk horen dat ik met mijn stem sukkel, maar ik sukkel niet genoeg om toch iets te willen zeggen over de show die u daar speelt. Ik dacht dat het hier ging over de bespreking van de financiewet en het gedrocht dat voorligt, een vivaldiproject. U leidt echter de aandacht af met tal van andere wetsvoorstellen die nog in bespreking zijn. Ik wil gewoon heel even wijzen op een klein beetje eerlijkheid die u daar mag hanteren.",
+      "U weet dat wij een voorstel gedaan hebben om die administratieve vereenvoudiging door te voeren, zodat dat het bij de andere beleggings­instrumenten ook niet meer nadien hoeft, maar aan de bron. Wij zijn van oordeel dat dat inderdaad aan de bron moet blijven gebeuren. U hebt jaren de tijd gehad om dat in te voeren. Waar hebt u op gewacht, mijnheer van Quickenborne?"
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "02.20",
+     "name": "Vincent Van Quickenborne (Open Vld)",
+     "party": null,
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Ja, dank u mevrouw Verkeyn. Ik heb een voorstel gedaan in de vorige legislatuur om dat probleem van Europa op te lossen, wat ik daarnet heb vermeld.",
+      "Dat was dus een eerste voorbeeld, de spaarders.",
+      "Ten tweede, de mensen die werken. Iedereen zegt dat we mensen die werken geen nieuwe belastingen mogen opleggen. Nochtans, als men de lekken leest die door Arizona zijn georganiseerd, blijkt dat hardwerkende mensen, die inderdaad meer dan 38 uur per week werken, weleens de dupe van Arizona zouden kunnen zijn. Waarom? Omdat een aantal zaken die tot nu toe onbelast zijn gebleven nu weleens zouden kunnen worden belast. Ik denk aan de tankkaarten.",
+      "De MR vertelde ooit dat er meer bedrijfswagens rondrijden in Antwerpen dan in heel Wallonië samen. Dat is de realiteit. Misschien is dat ook zo in West-Vlaanderen. Dat weet ik niet. Ik kom met de trein. De realiteit is dat als men morgen die tankkaarten belast en waarschijnlijk binnenkort ook de laadkaarten belast, mensen die hard werken daar de dupe van zullen zijn. Ze zullen netto minder overhouden op het einde van de maand.",
+      "Ik lees ook dat door de plannen van de arizonapartijen mensen die een individuele bonus krijgen in de vorm van een warrant of opties, vele tienduizenden mensen in ons land, weleens een hogere belastingfactuur zouden kunnen krijgen door de heffing van een extra sociale bijdrage van 13,07 %. Mensen die hard werken zijn dus gewaarschuwd voor de aankomende coalitie.",
+      "De mensen die echt gewaarschuwd moeten worden, zijn de zelfstandigen. Vandaag staat Danny Van Assche, de directeur van UNIZO, in de krant De Tijd met een waarschuwing, waarin hij letterlijk zegt: \"De aanvallen op de zelfstandigen moeten stoppen.\" Inderdaad, volgens de teksten die lekken uit de arizonabesprekingen is men bezig met een goed getimede aanval op zelfstandigen. Het begon allemaal met een studie, een gekleurde studie, van professor Decoster en consorten, uitgebracht door De Standaard op een vrijdagochtend voor een zogenaamd beslissend conclaaf van de arizonacoalitie. Collega Merckx heeft er al naar verwezen. De heer Decoster zegt dat de ongelijkheid in ons land veel groter is dan we denken, want sommige mensen houden reserves bij in vennootschappen, maar die worden niet meegeteld. Sorry, maar dat is economische onzin, want reserves in vennootschappen zijn geen inkomsten van mensen, wel een vergoeding voor het risico dat mensen aangaan.",
+      "Die regelrechte aanval op management­vennootschappen en zelfstandigen heeft nog een rare bijsmaak gekregen toen een nieuwe definitie werd uitgevonden voor ondernemers. Het Vlaams Parlement heeft een ondernemer geherdefinieerd. Misschien wordt dat het woord van het jaar van 2025. De beschrijving gaat uit van collega's van Vooruit. Ik citeer wat zij verstaan onder een ondernemer.",
+      "ʺ Een ondernemer is een persoon die zich een minimumloon uitkeert terwijl hij aan zijn zwembad zit. ʺ Dat is de definitie van een ondernemer volgens collega’s van Vooruit. Ik denk dat mevrouw Gennez dat zo heeft gezegd.",
+      "Collega’s, dat klinkt misschien goed in de oren van Vooruit, maar het probleem is dat het ook gevolg krijgt in wat Arizona doet. Er komt immers een regelrechte aanval op managementvennoot­schappen. Eén, de minimumbezoldiging zal stijgen. Twee, de voordelen alle aard zullen aan werkelijke waarde worden belast. Drie, het systeem van wat technisch VVPRbis heet, de roerende voorheffing van 15 %, zal worden verdubbeld naar 30 %. Het gevolg is duidelijk. Zelfstandige mensen, hardwerkende mensen, kaderpersoneelsleden, zullen fors meer belastingen betalen. Als klap op de vuurpijl komt daar nog eens een nieuwe belasting bij.",
+      "Stel u voor, collega De Sutter, in uw streek, een hardwerkende bakker, een hardwerkende slager die ’s morgens vroeg opstaat en ’s avonds laat gaat slapen. U gaat daar langs, u kent hem, u kent haar. Heel de familie zit in de zaak. Men bouwt die op, men werkt 45 jaar lang, 50 jaar lang. Men is geen dag ziek, men heeft nooit gedopt . Men staat er als zelfstandige. Men betaalt een heel leven lang belastingen, men betaalt sociale bijdragen als werkgever voor de werknemers, men betaalt vennootschapsbelasting, men betaalt onroerende voorheffing, men betaalt accijnzen, men betaalt taksen op beursverrichtingen, men betaalt taksen op langetermijnsparen, men betaalt btw, men betaalt successie, men betaalt registratierechten, men betaalt zelfs de vennootschapsbijdrage van 387 euro. Op het einde van die carrière vindt die bakker of die slager dat het tijd is om de zaak te verkopen. ʺ Ik heb heel mijn leven belastingen betaald, honderdduizenden euro’s belastingen betaald, nu ga ik de zaak overdragen, verkopen. ʺ Wat gebeurt er dan? Het enige fiscale voordeel dat ons land nog had ten opzichte van alle buurlanden wordt als een kip met de gouden eieren geslacht.",
+      "Ik geef toe dat de heer Magnette, hier aanwezig in de zaal, 25 jaar lang heeft geprobeerd om er een meerwaardebelasting door te krijgen. Keer op keer. Misschien geen 25 jaar, maar toch lang. Via mevrouw Onkelinx, de heer Di Rupo, Paul Magnette, Pierre-Yves Dermagne … Keer op keer kwam op tafel: wij willen een meerwaardebelasting. Keer op keer – en dat moet Paul Magnette toegeven – heeft Open Vld gezegd dat die er niet zou komen. Dat was niet gemakkelijk. Wat gaat de aankomende regering nu doen? De regering zonder de PS, zonder Paul Magnette – hij heeft nog steeds niet de ambitie om in de regering te stappen – zal die meerwaardebelasting goedkeuren!"
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "02.21",
+     "name": "Axel Ronse",
+     "party": "N-VA",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de voorzitter, het is misschien een ongebruikelijke vraag, maar ik stel voor dat er een DNA-onderzoek wordt uitgevoerd op de spreker vooraan, want ik kan echt niet geloven dat die spreker dezelfde man is als vicepremier Van Quickenborne, die Vivaldi mee in de steigers heeft gezet, die ondernemers jarenlang met de glimlach heeft platbelast, die nagelaten heeft om onze arbeidsmarkt te hervormen, die nagelaten heeft om stappen te zetten om langdurig zieken meer aan het werk te krijgen, die put na put mee heeft gecreëerd. Ik kan niet geloven dat de man die daar staat Vincent Van Quickenborne is. Dat is hij niet. Mijnheer de voorzitter, ik denk echt dat er een DNA-onderzoek moet komen. Bovendien, deze man heeft bijzondere kwaliteiten. Hij citeert hier uit een regeerakkoord dat er nog niet is, dat nog in opmaak is.",
+      "Collega's, we luisteren hier nu al twintig minuten naar een man die zichzelf verloochend heeft, die volgens mij niet de man is die hij zegt te zijn en die citeert uit een regeerakkoord dat hij niet kan kennen, dat ik alleszins niet ken. Kunnen we het debat over het regeerakkoord, als dat er komt, voeren wanneer het gevoerd moet worden in plaats van hier naar die kwalijke fabeltjes te moeten blijven luisteren?"
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Mijnheer Van Quickenborne, bent u bereid een DNA-test te ondergaan?"
+    },
+    {
+     "type": "speech",
+     "id": "02.22",
+     "name": "Vincent Van Quickenborne (Open Vld)",
+     "party": null,
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de voorzitter, ik ben bereid tot alles, dat weet u. Dat is geen probleem. Als men een DNA-test wil doen, ik heb daar geen enkel probleem mee.",
+      "Mijnheer Ronse, u moet de dingen echter wel zeggen zoals ze zijn. Ten eerste, de teksten die ons bereiken, zijn teksten die geschreven worden door Arizona. Ten tweede, u kunt niet om het volgende heen: collega Francken zei op televisie dat zo'n meerwaardebelasting immoreel en onethisch zou zijn. Hij zei dat met heel veel bravoure. Ik verwachtte dat hij dan zou zeggen dat die er niet kan komen, maar in plaats daarvan zei hij het toch te zullen doen.",
+      "Eigenlijk komt er dus een soort onethische en immorele maatregel, alleen omdat – dat klopt, mijnheer Ronse – de N-VA aan het handje loopt van Vooruit. Ze doet dat ook in Vlaanderen en ik moet de collega's van Vooruit daarvoor feliciteren. Vooruit wil namelijk een aantal trofeeën, zoals de heer Rousseau er altijd wil. Hij wil altijd drie trofeeën. Er mag, ten eerste, niet geraakt worden aan de gezondheidszorg. Alle inspanningen van de N-VA en MR ten spijt zal dat dus niet gebeuren. Ten tweede moet de meerwaardebelasting er komen, want \"de rijken zullen het gelag betalen\". Zeg ik het juist, mijnheer Vandenbroucke? De derde trofee moet nog worden gevonden. Dat zijn de drie trofeeën die ze willen en die in dat regeerakkoord zullen moeten zitten.",
+      "Ik geef toe, mijnheer Ronse, dat het pijnlijk is voor u en de N-VA dat als die meerwaardebelasting er komt heel veel ondernemers heel boos zullen zijn. U mag over mij zeggen wat u wilt, maar u zult mij nooit kunnen ontnemen dat wij die belasting 25 jaar lang hebben tegengehouden. We zullen dat ook blijven doen.",
+      "Daar is ook een reden voor. Die reden heet niet Mark Coucke of de Coucketaks. Hij zei in augustus dat het met een belasting hier en een belasting daar de verkeerde richting uitgaat. Die reden is Odoo, dat nieuwe bedrijf in Wallonië, dat honderden miljoenen euro's heeft opgehaald, veel respect afdwingt in Wallonië en toont dat het nieuwe Wallonië er staat. Wij willen dat niet kapotmaken met dat soort taksen. Dat is namelijk de ziekte van ons land: als iemand succes heeft en zijn kop boven het maaiveld uitsteekt, moet die kop eraf, allemaal omwille van de gelijkheid die er altijd moet zijn."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "02.23",
+     "name": "Éric Thiébaut",
+     "party": "PS",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Ne débattons-nous pas sur les douzièmes provisoires? Là, on est en train de parler d'un potentiel accord de l'Arizona. De toute façon, il n'est pas encore sous le sapin. Nous l'attendons depuis six mois. Visiblement, cela sera peut-être pour le mois de janvier, peut-être de février ou peut-être pour la Saint-Valentin. Nous sommes patients.",
+      "J'entends bien que vous voulez que les socialistes flamands ne soient plus socialistes. En clair, c'est cela. Donc vous voulez que les gens qui ont voté pour eux, qui sont quand même des socialistes, des gens de gauche, voient leurs élus voter pour des mesures de droite. C'est ça, la logique politique dans ce pays? Tant qu'on y est!",
+      "Je vous poserai une petite question, monsieur Van Quickenborne. Vous avez parlé de 100 euros d'intérêts concernant le taux des carnets d'épargne. Savez-vous combien il faut sur un compte d'épargne aujourd'hui, dans nos banques classiques, pour avoir 100 euros d'intérêts par an? Le savez-vous? Vous avancez de nombreux chiffres, donc je me renseigne. Aujourd'hui, il faut 50 000 euros placés pour avoir 100 euros par an. Ce n'est pas terrible. Mais savez-vous que parmi les gens qui travaillent, il n'y en a pas beaucoup qui ont 50 000 euros sur un compte d'épargne? Ou alors, vous ne vivez pas dans le même monde que moi.",
+      "Nous avons compris que, de toute façon, il ne fallait absolument pas que les gens qui ont les épaules plus solides et qui ont plus de moyens contribuent plus. Surtout pas. Vous avez visiblement été élus pour défendre les plus riches de la société. Nous avons compris. Je pense que ce n'est pas le débat d'aujourd'hui, mais nous aurons certainement ce débat après. Allez-vous passer une heure à nous développer toutes vos théories qui n'ont rien à voir avec le débat du jour? Je sais bien, c'est la démocratie. Mais franchement, je trouve que ce n'est vraiment pas le moment. Votre façon de faire aujourd'hui n'est pas correcte."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Ik vermoed, collega Van Quickenborne, dat dit allemaal mag worden afgetrokken van uw spreektijd wanneer er een arizonaregering komt? We hebben die bespreking hier immers al grotendeels gevoerd. Ik kijk naar de klok. Is uw betoog bijna afgelopen?"
+    },
+    {
+     "type": "speech",
+     "id": "02.24",
+     "name": "Vincent Van Quickenborne (Open Vld)",
+     "party": null,
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Ik wil nog kort reageren op de uitspraak van de PS-collega.",
+      "Het is fijn te zien dat er opnieuw een socialistische familie bestaat in het halfrond. Het is ook fijn om de uitleg van de PS te horen over waar Vooruit voor staat, maar men is wel weer met de karikatuur Vlaanderen geëindigt: dat zijn rijke mensen en jullie zijn de sukkelaars.",
+      "Het is tijd, collega's, dat u de rug recht. Zorg dat er een nieuw Wallonië komt, het Wallonië dat men in het verleden niet mogelijk kon maken en waarvoor de collega's van de MR en van Les Engagés hopelijk wel het verschil zullen maken.",
+      "Mijnheer de voorzitter, ik rond mijn betoog af. (Applaus)",
+      "U kunt applaudisseren zoveel u wilt. Wat me wel is opgevallen, is dat als hier iemand geen teksten voorleest, er wel geluisterd wordt. Misschien moet vaker gebeuren in het Parlement wat zovele collega's al doen, namelijk discussies en reacties uitlokken, in plaats van hier voorgekauwde tekstjes voor te lezen waarbij iedereen vanachter zijn computer spreekt. Elk van u is nu aan het luisteren. Dat is wat nodig is."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "02.25",
+     "name": "Dieter Vanbesien",
+     "party": "Ecolo-Groen",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer Van Quickenborne, misschien zou het toch beter zijn een tekst op voorhand voor te bereiden. Dan kunt u misschien over het onderwerp waarover we het vandaag hebben discussiëren. (Applaus)"
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "02.26",
+     "name": "Axel Ronse",
+     "party": "N-VA",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer Van Quickenborne, ik heb het ook niet zo voor voorlezen. Dus ik vind het fantastisch dat u niet voorleest, maar dat u uw betoog spontaan brengt. De reden waarom iedereen luistert, is echter omdat iedereen stomverbaasd is over de totaal andere persoon die hier staat dan degene die hier gedurende jaren andere zaken heeft gepredikt. Er is niemand die zo snel een nieuwe gedaante kan aannemen als u en dat wekt inderdaad onze collectieve aandacht."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "02.27",
+     "name": "Vincent Van Quickenborne (Open Vld)",
+     "party": null,
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "U zult eraan mogen wennen, mijnheer Ronse.",
+      "Collega's, het is niet de eerste keer dat we in een periode van lopende zaken zijn. Dat is al meermaals voorgekomen, maar wat deze keer wel opvallend is, is dat het Parlement geen vrijheid van handelen meer heeft. Er is immers een nieuw cordon in het Parlement. Dat is het arizonacordon. Dat zegt dat er niets mag, zal en kan gebeuren zolang de arizonapartijen het er niet over eens zijn. In de feiten bestuurt de arizonacoalitie vandaag dus het land, maar tegelijkertijd doet ze niets. Het is geen malgoverno, maar een nongoverno , want de parlementsleden wordt het recht ontnomen om gelijk welk initiatief te nemen, laat staan iets goed te keuren. Dat is niet alleen zo in de ethische sfeer, wat een belangrijke sfeer is, maar ook in de economische sfeer.",
+      "Het probleem is dat mensen daar intussen de dupe van dreigen te worden. Mevrouw Reuter is er nu niet, maar zij stelt straks wel een vraag aan minister Dermagne over de problemen inzake de studentenarbeid. Het aantal uren dat studenten mogen werken, zal immers, als er niets verandert, terugvallen van 600 naar 475 uur. Dat gaat over honderdduizenden studenten die zich de vraag stellen of ze volgend jaar nog een studentenjob zullen kunnen doen en hoeveel ze nog zullen mogen werken, omdat de arizonapartijen er niet uit geraken, mijnheer Bertels. Omdat men dat niet goedgekeurd wil krijgen.",
+      "Ook andere mensen en bedrijven dreigen daar de dupe van te worden. Kijk naar wat collega Coenegrachts in het Parlement doet. Iedereen zegt dat de industrie door zeer zwaar weer gaat. De chemie zit op de laagste benuttingscapaciteit sinds 1981, mijnheer Ronse. Alle alarmbellen gaan af. Men waarschuwt voor de steeds hoger oplopende energiefactuur. Volgend jaar dreigt daar 150 miljoen euro bij te komen voor de 25 belang­rijkste bedrijven in de chemie en de industrie, waar honderdduizenden mensen tewerkgesteld zijn.",
+      "Collega Coenegrachts heeft een voorstel van resolutie en zelfs een amendement ingediend om op budgetneutrale wijze die 150 miljoen euro te voorzien. De wettekst is klaar."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Collega’s Ravyts en Merckx wensen u te onderbreken. U lijkt een nieuwe schwung te nemen in uw exposé, wat ik u absoluut niet wil verbieden, maar …"
+    },
+    {
+     "type": "speech",
+     "id": "02.28",
+     "name": "Vincent Van Quickenborne (Open Vld)",
+     "party": null,
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Het is toch relevant? Het gaat over de werking van het Parlement."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Ik wou zeggen dat als dat zo is, ik u graag opnieuw het woord geef na de pauze om uw discours voor te zetten. U hebt nog drie minuten na de replieken en reacties."
+    },
+    {
+     "type": "speech",
+     "id": "02.29",
+     "name": "Kurt Ravyts",
+     "party": "VB",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer Van Quickenborne, ik deel uiteraard uw analyse over de elektro-intensieve bedrijven, maar de analyse van de energienorm werd in 2023 al gemaakt. Collega Vanbesien, u vermeldde ook de noodzakelijke kortingen voor de transmissienettarieven. Er is dus eigenlijk anderhalf jaar tijd verloren gegaan. Ik zie collega Wollants bevestigend knikken. Wij wonen de commissie voor Energie frequent bij en ik meen dat wij die materie toch een klein beetje beheersen. Oud-collega Leysen probeerde in de herfst van vorig jaar aan die kar te duwen bij collega Van Quickenborne, maar het kwam er niet van. Nu probeert collega Coenegrachts op bijna amechtige wijze met een voorstel van resolutie de zaak verder in beweging te krijgen, maar die zaak bestaat al een tijdje in de vivaldiregering. Ik wilde u daar even aan herinneren."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "02.30",
+     "name": "Sofie Merckx",
+     "party": "PVDA-PTB",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer Van Quickenborne, ik wil even inpikken op het feit dat u zegt dat de energiefactuur voor bedrijven heel hoog is. Dat is inderdaad een van de problemen waardoor we in ons land voor een mogelijke industriële crisis staan. Misschien moet u eens in eigen boezem kijken. Hoe komt het dat het land in deze situatie verkeert? Sinds 1999, al 12 regeringen lang, zit Open Vld ononderbroken in de federale regering. Wie heeft de energiemarkt geliberaliseerd? U hebt dat gedaan. U hebt gezegd dat we dat moesten doen. Het zou allemaal veel beter worden door de liberalisering van de energiemarkt, maar wat zien we vandaag? Dat de energieprijzen niet alleen voor de gezinnen, maar ook voor de bedrijven veel te hoog zijn. Misschien moet u dus eens in eigen boezem kijken, mijnheer Van Quickenborne."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "02.31",
+     "name": "Steven Vandeput",
+     "party": "N-VA",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer Van Quickenborne, ik kan verder doorgaan op de voorstellen die u hebt ingediend. Wat u probeert te amenderen en via resoluties aan de man probeert te brengen, is opnieuw het achternahollen van een gebrek binnen uw vivaldiregering die u zelf in de steigers hebt gezet.",
+      "U neemt beslissingen en u neemt wetten aan. U hebt er vooral voor gezorgd dat de inkomsten omhoog gingen, alhoewel het Rekenhof het daar ook niet helemaal mee eens is, maar dat is een andere discussie. Maar vooral, u hebt uitgaven voorzien via wetgeving enzovoort, maar daarvoor niet de nodige budgetten voorzien. Nu werpt u alle klederen van u af, wordt u terug maagd, komt u naar het Parlement en zegt u dat we dit probleem budgetneutraal zullen oplossen door 150 miljoen van hier te nemen en naar daar te schuiven, zonder aan te geven hoe die 150 miljoen in eerste instantie op die ene plaats is terechtgekomen en wat daarvoor voorzien was. Mijnheer Van Quickenborne, u moet toch een beetje ernstig blijven, zeker als u nog deel uitmaakt van de ontslagnemende vivaldiregering. U probeert nieuw beleid te voeren, maar u vindt daarvoor geen steun. Niet alleen wij hebben dat niet gesteund. Dat voorstel werd ter stemming voorgelegd in de commissie, maar de indienende partij was de enige die akkoord kon gaan met dat amendement.",
+      "Alstublieft, mag ik toch om een klein beetje intellectuele correctheid vragen? U staat als welbespraakt man vooraan en gooit een aantal klederen van het verleden af. Ik ga niet zover te zeggen dat het om uw DNA gaat."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Mijnheer Vandeput, ik moet in herinnering brengen dat uw interruptie tot twee minuten beperkt is."
+    },
+    {
+     "type": "speech",
+     "id": "02.32",
+     "name": "Steven Vandeput",
+     "party": "N-VA",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer Van Quickenborne, om een lang verhaal kort te maken, u haalt telkens opnieuw voorbeelden aan, u spreekt halve waarheden uit en verbergt die met de nodige bravoure. U moet echter eerlijk erkennen dat u met uw voorstel alleen stond. Wat u voorstelde, was niet budgetneutraal en diende voor budgetneutraliteit geen oplossing aan."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Mijnheer Van Quickenborne, ik geef u de mogelijkheid om te reageren op de vragen. Daarna hebt u nog drie minuten spreektijd over."
+    },
+    {
+     "type": "speech",
+     "id": "02.33",
+     "name": "Vincent Van Quickenborne (Open Vld)",
+     "party": null,
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer Vandeput, de energienorm is goedgekeurd, dus de wettelijke basis is voorhanden. Wat ik voorstel kunnen we doen en mijn voorstel is wel degelijk budgetneutraal. In de commissie bleek al dat u het verkeerd gelezen had.",
+      "Mevrouw Merckx, u zegt dat een en ander het gevolg is van de energieliberalisering. Het feit dat de taksen allemaal oplopen, heeft echter niets te maken met de energiemarkt. Gelukkig kunnen mensen vrij kiezen tussen energiebedrijven, prijzen vergelijken en overstappen naar een andere leverancier, net zoals in de telecomsector. De reden waarom de energiefactuur met 120 euro verhoogt, is te wijten aan Vlaanderen. Dat schandaal hebben we in het Vlaams Parlement al aangekaart. Het gaat om een verhoging door heffingen, niet omdat de energieproducenten plots meer vragen. U moet de zaken juist formuleren. De verhoging is niet te wijten aan duurdere energie­productie, wel aan hogere taksen en heffingen.",
+      "Mijnheer de voorzitter, ik sluit af binnen de toegekende drie minuten spreektijd.",
+      "Collega's, Gaston Eyskens heeft ooit verteld dat wetten in de ministerraad binnenkwamen als een paard en buitengingen als een kameel. Die uitspraak is me altijd bijgebleven. Ik heb de indruk dat hoe langer de arizonaformatie duurt, het raspaard dat op 10 juni op de arizonaweide stond meer en meer aan het verworden is tot een kameel. Als het nog lang duurt, wordt het een muilezel. Die muilezel zal niet meer herkenbaar zijn, het is in ieder geval niet meer datgene waarvoor mensen gestemd hebben. De Vlamingen en Walen hebben centrum en rechts gestemd op 9 juni. Dat is duidelijk, daar kan niemand om heen. Ik heb maar één oproep: geef hun dat beleid, geef hun dat raspaard, niet een muilezel."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Ik dank de heer Van Quickenborne, niet alleen voor zijn tussenkomst, maar ook voor de ambiance die hij in het debat heeft gebracht."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Merk op dat ik ook de heer Van Quickenborne niet heb onderbroken, hoewel hij redelijk vrijpostig is omgesprongen met het onderwerp van de agenda. Wanneer mevrouw de staatssecretaris na de pauze – en de vragenronde – zal reageren op de tussenkomsten die betrekking hadden op de voorlopige twaalfden, dan vermoed ik dat dat een redelijk beperkte tussenkomst zal zijn, maar dat zal straks moeten blijken."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De vergadering wordt gesloten. Volgende vergadering donderdag 19 januari 2024 om 14.15 uur."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "La séance est levée. Prochaine séance le jeudi 19 décembre 2024 à 14 h 15."
+    },
+    {
+     "type": "note",
+     "lang": "nl",
+     "text": "De vergadering wordt gesloten om 12.10 uur."
+    },
+    {
+     "type": "note",
+     "lang": "fr",
+     "text": "La séance est levée à 12 h 10."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Dit verslag heeft geen bijlage."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Ce compte rendu n'a pas d'annexe."
+    }
+   ]
+  }
+ ],
+ "named_votes": {}
+}

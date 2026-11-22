@@ -1,0 +1,433 @@
+{
+ "doc": "1360",
+ "docs": [
+  "1360"
+ ],
+ "legislature": 56,
+ "title": {
+  "nl": "Voorstel van resolutie inzake het ondersteunen van een ambitieus EU-India vrijhandelsakkoord ter versterking van het Belgische ondernemerschap (1360/1-5)",
+  "fr": "Proposition de résolution visant à soutenir un accord de libre-échange ambitieux entre l'Union européenne et l'Inde en vue de renforcer l'entrepreneuriat belge (1360/1-5)",
+  "subtitles": {
+   "nl": [],
+   "fr": []
+  }
+ },
+ "sessions": [
+  {
+   "session": 150,
+   "date": "2026-11-19",
+   "part": "afternoon",
+   "url": "https://www.dekamer.be/doc/PCRI/html/56/ip150x.html"
+  },
+  {
+   "session": 151,
+   "date": "2026-11-19",
+   "part": "evening",
+   "url": "https://www.dekamer.be/doc/PCRI/html/56/ip151x.html"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Katrijn van Riet",
+   "party": "N-VA",
+   "role": null,
+   "refs": [
+    "150/17.01"
+   ]
+  },
+  {
+   "name": "Ellen Samyn",
+   "party": "VB",
+   "role": null,
+   "refs": [
+    "150/17.02"
+   ]
+  },
+  {
+   "name": "Charlotte Deborsu",
+   "party": "MR",
+   "role": null,
+   "refs": [
+    "150/17.03"
+   ]
+  },
+  {
+   "name": "Christophe Lacroix",
+   "party": "PS",
+   "role": null,
+   "refs": [
+    "150/17.04"
+   ]
+  },
+  {
+   "name": "Luc Frank",
+   "party": "Les Engagés",
+   "role": null,
+   "refs": [
+    "150/17.05"
+   ]
+  },
+  {
+   "name": "Annick Lambrecht",
+   "party": "Vooruit",
+   "role": null,
+   "refs": [
+    "150/17.06"
+   ]
+  },
+  {
+   "name": "Els Van Hoof",
+   "party": "cd&v",
+   "role": null,
+   "refs": [
+    "150/17.07"
+   ]
+  },
+  {
+   "name": "Rajae Maouane",
+   "party": "Ecolo-Groen",
+   "role": null,
+   "refs": [
+    "150/17.08"
+   ]
+  },
+  {
+   "name": "Sandro Di Nunzio",
+   "party": "Anders.",
+   "role": null,
+   "refs": [
+    "150/17.09",
+    "150/17.10",
+    "150/17.11"
+   ]
+  }
+ ],
+ "votes": [
+  {
+   "ref": "151/vote 5",
+   "session": 151,
+   "date": "2026-11-19",
+   "subject": null,
+   "item_title": "Voorstel van resolutie inzake het ondersteunen van een ambitieus EU-India vrijhandelsakkoord ter versterking van het Belgische ondernemerschap (1360/5)",
+   "result": {
+    "nl": "Bijgevolg neemt de Kamer het voorstel van resolutie aan. Het zal ter kennis van de regering worden gebracht.",
+    "fr": "En conséquence, la Chambre adopte la proposition de résolution. Il en sera donné connaissance au gouvernement."
+   },
+   "yes": 83,
+   "no": 47,
+   "abstain": 0,
+   "total": 130,
+   "reused": false,
+   "docs": [
+    "1360"
+   ],
+   "by_party": {
+    "Anders.": {
+     "stance": "voor",
+     "yes": 6,
+     "no": 0,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "voor",
+     "yes": 1,
+     "no": 0,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 7,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "voor",
+     "yes": 14,
+     "no": 0,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "voor",
+     "yes": 18,
+     "no": 0,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "voor",
+     "yes": 23,
+     "no": 0,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 16,
+     "abstain": 0
+    },
+    "PVDA-PTB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 13,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "voor",
+     "yes": 11,
+     "no": 0,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "voor",
+     "yes": 10,
+     "no": 0,
+     "abstain": 0
+    }
+   },
+   "kind": "whole",
+   "final": true
+  }
+ ],
+ "summary": {
+  "plain_title": "De Kamer vraagt steun voor een handelsakkoord tussen de EU en India",
+  "problem": "Volgens de indieners verandert de wereldhandel snel. Er zijn handelsoorlogen, meer protectionisme en meer onzekerheid voor bedrijven. België en Europa zijn afhankelijk van een klein aantal grote handelspartners. Belgische bedrijven die naar India willen uitvoeren, botsen op hoge invoerrechten, ingewikkelde procedures en andere handelsbelemmeringen.",
+  "proposal": [
+   "De Kamer vraagt de regering om binnen de Europese instellingen constructief mee te werken aan de behandeling, ondertekening en uitvoering van het handelsakkoord tussen de EU en India.",
+   "België neemt pas een standpunt in binnen de EU nadat de impactstudies klaar zijn (onder meer die van de FOD Economie) en nadat er overleg is geweest met de gewesten.",
+   "De regering brengt regelmatig verslag uit aan het Parlement.",
+   "Kmo's krijgen duidelijke informatie en begeleiding over de nieuwe tarieven en oorsprongsregels. De overheid treedt op als andere belemmeringen dan invoerrechten de toegang tot de Indiase markt toch beperken.",
+   "De federale overheid en de deelstaten brengen in kaart waar de kansen voor bedrijven liggen. Beroepsorganisaties krijgen steun om elkaars beroepskwalificaties te erkennen, bijvoorbeeld in ICT, engineering en accountancy."
+  ],
+  "positions": [
+   {
+    "actor": "Anders.",
+    "summary": "Anders. diende de tekst in en steunt hem. De partij vindt het wel jammer dat de meerderheid de tekst minder ambitieus heeft gemaakt. Zo staat er niet meer in dat de regering het akkoord actief moet verdedigen en de deelstaten moet aansporen om het te steunen.",
+    "refs": [
+     "150/17.09",
+     "150/17.11"
+    ]
+   },
+   {
+    "actor": "N-VA",
+    "summary": "N-VA steunt het akkoord. Het opent nieuwe markten, bespaart bedrijven invoerrechten en maakt Europa minder afhankelijk van andere landen. De partij vraagt dat kmo's begeleiding krijgen om de kansen te benutten.",
+    "refs": [
+     "150/17.01"
+    ]
+   },
+   {
+    "actor": "VB",
+    "summary": "Vlaams Belang is niet tegen handel met India, maar steunt de resolutie niet. De partij vreest oneerlijke concurrentie, banenverlies in onder meer de textielsector, Europese klimaatsteun aan India en meer arbeidsmigratie. De extra impactstudies en de controle door het Parlement noemt ze wel verbeteringen.",
+    "refs": [
+     "150/17.02"
+    ]
+   },
+   {
+    "actor": "MR",
+    "summary": "MR steunt de resolutie. Het akkoord biedt groei en banen in sectoren zoals chemie, farma en diamant, en maakt Europa minder afhankelijk van China en de Verenigde Staten. Volgens MR moeten normen en mensenrechten wel gerespecteerd worden.",
+    "refs": [
+     "150/17.03"
+    ]
+   },
+   {
+    "actor": "PS",
+    "summary": "PS wil betere banden met India, maar steunt de resolutie niet. Volgens de partij zijn de afspraken over sociale rechten, milieu en klimaat niet afdwingbaar, en ze verzet zich tegen speciale arbitragerechtbanken tussen investeerders en staten.",
+    "refs": [
+     "150/17.04"
+    ]
+   },
+   {
+    "actor": "Les Engagés",
+    "summary": "Les Engagés steunt de resolutie zoals de meerderheid ze heeft aangepast. Volledige steun voor het akkoord hangt wel af van een positieve impactstudie, met aandacht voor gevoelige sectoren zoals landbouw en voor arbeidsnormen en grondrechten.",
+    "refs": [
+     "150/17.05"
+    ]
+   },
+   {
+    "actor": "Vooruit",
+    "summary": "Vooruit steunt de tekst omdat België meer verschillende handelspartners nodig heeft. De partij vindt dat afspraken over arbeidsrechten en klimaat afdwingbaar moeten zijn, en is tevreden dat de tekst ook sociale en ecologische ambitie toont.",
+    "refs": [
+     "150/17.06"
+    ]
+   },
+   {
+    "actor": "cd&v",
+    "summary": "cd&v steunt het akkoord en de aangepaste resolutie, onder voorwaarden. Gevoelige landbouwproducten blijven buiten het akkoord, en ingevoerde producten moeten aan dezelfde normen voldoen als Europese producten.",
+    "refs": [
+     "150/17.07"
+    ]
+   },
+   {
+    "actor": "Ecolo-Groen",
+    "summary": "Ecolo-Groen is niet tegen handel met India, maar steunt de tekst niet. De partij wijst op niet-afdwingbare sociale en milieuafspraken, het risico op oneerlijke concurrentie, de nauwe banden van India met Rusland en een gebrek aan samenhang met het klimaatbeleid.",
+    "refs": [
+     "150/17.08"
+    ]
+   }
+  ],
+  "arguments_for": [
+   {
+    "point": "Het akkoord opent nieuwe markten en schaft invoerrechten af of verlaagt ze. Volgens de voorstanders besparen Europese bedrijven zo ongeveer 4 miljard euro per jaar, kan de Europese uitvoer naar India verdubbelen en kunnen kmo's meer kansen krijgen.",
+    "actors": [
+     "N-VA",
+     "MR",
+     "Anders.",
+     "cd&v"
+    ],
+    "refs": [
+     "150/17.01",
+     "150/17.03",
+     "150/17.09",
+     "150/17.07"
+    ],
+    "quote": "Dankzij deze overeenkomst zullen de tarieven op bijna 97 % van de huidige EU-goederenexport naar India worden afgeschaft of verlaagd.",
+    "quote_ref": "150/17.01"
+   },
+   {
+    "point": "Met meer verschillende handelspartners wordt België minder afhankelijk van landen zoals China en de Verenigde Staten. Dat maakt de economie sterker en Europa meer onafhankelijk.",
+    "actors": [
+     "N-VA",
+     "MR",
+     "Vooruit",
+     "Anders."
+    ],
+    "refs": [
+     "150/17.01",
+     "150/17.03",
+     "150/17.06",
+     "150/17.09"
+    ],
+    "quote": "Als open, door export gedreven economie waar een op de drie jobs gelinkt is aan buitenlandse handel, moet België inzetten op diversificatie en op meer dan een paar partners.",
+    "quote_ref": "150/17.06"
+   },
+   {
+    "point": "Het akkoord heeft ook een geopolitieke kant. Europa en India kunnen samen een internationale orde verdedigen die op regels steunt, en zo een tegengewicht vormen tegen de grootmachten.",
+    "actors": [
+     "Les Engagés",
+     "Anders.",
+     "N-VA"
+    ],
+    "refs": [
+     "150/17.05",
+     "150/17.09",
+     "150/17.01"
+    ],
+    "quote": "Ces deux puissances veulent être à la table et non au menu.",
+    "quote_ref": "150/17.05"
+   },
+   {
+    "point": "België zou tot de Europese landen behoren die het meest voordeel halen uit het akkoord, onder meer in de chemie, de farmasector en de diamantsector.",
+    "actors": [
+     "MR"
+    ],
+    "refs": [
+     "150/17.03"
+    ],
+    "quote": "la Belgique fait partie des pays européens qui devraient le plus bénéficier de cet accord, notamment dans les secteurs de la chimie, du pharma, du diamant",
+    "quote_ref": "150/17.03"
+   },
+   {
+    "point": "In het akkoord en de aangepaste tekst zitten volgens de voorstanders genoeg waarborgen: gevoelige landbouwproducten vallen erbuiten, ingevoerde producten moeten aan dezelfde normen voldoen, er komt eerst een impactstudie en het Parlement houdt toezicht.",
+    "actors": [
+     "cd&v",
+     "Les Engagés",
+     "Anders.",
+     "Vooruit"
+    ],
+    "refs": [
+     "150/17.07",
+     "150/17.05",
+     "150/17.09",
+     "150/17.06"
+    ],
+    "quote": "In tegenstelling tot het Mercosur-akkoord raakt het handelsakkoord met India niet aan de gevoelige landbouwproducten.",
+    "quote_ref": "150/17.07"
+   }
+  ],
+  "arguments_against": [
+   {
+    "point": "Bedrijven hier moeten aan strenge Europese regels voldoen, maar zouden moeten concurreren met producten die goedkoper en onder minder strenge sociale en milieuregels worden gemaakt. Dat kan banen kosten, bijvoorbeeld in de textielsector.",
+    "actors": [
+     "VB",
+     "Ecolo-Groen"
+    ],
+    "refs": [
+     "150/17.02",
+     "150/17.08"
+    ],
+    "quote": "India kent in heel wat sectoren veel lagere arbeids- en productiekosten en andere sociale en milieunormen.",
+    "quote_ref": "150/17.02"
+   },
+   {
+    "point": "De afspraken over klimaat, arbeidsrechten en gelijkheid tussen mannen en vrouwen kunnen niet worden afgedwongen, omdat er geen sancties zijn. De handelsafspraken kunnen wel worden afgedwongen.",
+    "actors": [
+     "PS",
+     "Ecolo-Groen"
+    ],
+    "refs": [
+     "150/17.04",
+     "150/17.08"
+    ],
+    "quote": "Autrement dit, ce sont des promesses mais sans conséquences.",
+    "quote_ref": "150/17.04"
+   },
+   {
+    "point": "Via speciale arbitragerechtbanken zouden multinationals een staat kunnen aanklagen als een wet hun winst vermindert. Volgens de tegenstanders gaat dat in tegen de democratie.",
+    "actors": [
+     "PS"
+    ],
+    "refs": [
+     "150/17.04"
+    ],
+    "quote": "La multinationale peut attaquer l'État; l'État, lui, ne peut pas attaquer la multinationale.",
+    "quote_ref": "150/17.04"
+   },
+   {
+    "point": "Het is onduidelijk wie echt voordeel haalt uit het akkoord. Over de economische gevolgen zijn de meningen verdeeld, en een groot deel van de Indiase bevolking heeft weinig koopkracht.",
+    "actors": [
+     "PS",
+     "VB"
+    ],
+    "refs": [
+     "150/17.04",
+     "150/17.02"
+    ],
+    "quote": "Qui en profitera vraiment? Quels secteurs? Quels travailleurs en payeront le prix?",
+    "quote_ref": "150/17.04"
+   },
+   {
+    "point": "India heeft nauwe banden met Rusland en koopt er veel olie. Een groot handelsakkoord met India past volgens de tegenstanders niet bij de Europese steun aan Oekraïne.",
+    "actors": [
+     "Ecolo-Groen"
+    ],
+    "refs": [
+     "150/17.08"
+    ],
+    "quote": "plus d'un tiers des importations de pétrole brut de l'Inde provenaient de Russie.",
+    "quote_ref": "150/17.08"
+   },
+   {
+    "point": "Het akkoord en de bredere samenwerking met India kunnen leiden tot meer arbeidsmigratie. Daarnaast is er kritiek op de 500 miljoen euro Europese klimaatsteun voor de Indiase industrie.",
+    "actors": [
+     "VB"
+    ],
+    "refs": [
+     "150/17.02"
+    ],
+    "quote": "Een handelsakkoord mag geen vrijgeleide worden voor een verdere versoepeling van arbeidsmigratie.",
+    "quote_ref": "150/17.02"
+   }
+  ]
+ },
+ "checks": [],
+ "meta": {
+  "generator": "claude-cli",
+  "prompt_version": "1",
+  "generated_at": "2026-11-22T21:57:00+00:00"
+ },
+ "repairs": []
+}

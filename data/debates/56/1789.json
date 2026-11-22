@@ -1,0 +1,746 @@
+{
+ "doc": "1789",
+ "docs": [
+  "1789",
+  "1847"
+ ],
+ "legislature": 56,
+ "title": {
+  "nl": "Wetsontwerp tot uitvoering van een versterkt terug naar werk-beleid in geval van arbeidsongeschiktheid (II) (1789/1-6)",
+  "fr": "Projet de loi exécutant une politique renforcée de retour au travail en cas d'incapacité de travail (II) (1789/1-6)",
+  "subtitles": {
+   "nl": [
+    "Wetsontwerp tot wijziging van de wet van 19 december 2025 tot uitvoering van een versterkt terug naar werkbeleid in geval van arbeidsongeschiktheid wat betreft de versterkte solidariteitsbijdrage (1847/1-5)"
+   ],
+   "fr": [
+    "Projet de loi modifiant la loi du 19 décembre 2025 exécutant une politique renforcée de retour au travail en cas d'incapacité de travail en ce qui concerne la cotisation de solidarité renforcée (1847/1-5)"
+   ]
+  }
+ },
+ "sessions": [
+  {
+   "session": 151,
+   "date": "2026-11-19",
+   "part": "evening",
+   "url": "https://www.dekamer.be/doc/PCRI/html/56/ip151x.html"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Frank Vandenbroucke",
+   "party": null,
+   "role": "government",
+   "refs": [
+    "151/02.01",
+    "151/02.02",
+    "151/02.18",
+    "151/02.20",
+    "151/02.33"
+   ]
+  },
+  {
+   "name": "Eva Demesmaeker",
+   "party": "N-VA",
+   "role": null,
+   "refs": [
+    "151/02.03",
+    "151/02.12"
+   ]
+  },
+  {
+   "name": "Ellen Samyn",
+   "party": "VB",
+   "role": null,
+   "refs": [
+    "151/02.04"
+   ]
+  },
+  {
+   "name": "Florence Reuter",
+   "party": "MR",
+   "role": null,
+   "refs": [
+    "151/02.05"
+   ]
+  },
+  {
+   "name": "Caroline Désir",
+   "party": "PS",
+   "role": null,
+   "refs": [
+    "151/02.06",
+    "151/02.35"
+   ]
+  },
+  {
+   "name": "Robin Tonniau",
+   "party": "PVDA-PTB",
+   "role": null,
+   "refs": [
+    "151/02.07",
+    "151/02.36"
+   ]
+  },
+  {
+   "name": "Isabelle Hansez",
+   "party": "Les Engagés",
+   "role": null,
+   "refs": [
+    "151/02.09"
+   ]
+  },
+  {
+   "name": "Anja Vanrobaeys",
+   "party": "Vooruit",
+   "role": null,
+   "refs": [
+    "151/02.10",
+    "151/02.14"
+   ]
+  },
+  {
+   "name": "Nahima Lanjri",
+   "party": "cd&v",
+   "role": null,
+   "refs": [
+    "151/02.16"
+   ]
+  },
+  {
+   "name": "Sarah Schlitz",
+   "party": "Ecolo-Groen",
+   "role": null,
+   "refs": [
+    "151/02.17",
+    "151/02.19",
+    "151/02.21"
+   ]
+  },
+  {
+   "name": "Irina De Knop",
+   "party": "Anders.",
+   "role": null,
+   "refs": [
+    "151/02.22",
+    "151/02.23",
+    "151/02.24",
+    "151/02.25",
+    "151/02.26",
+    "151/02.28",
+    "151/02.30"
+   ]
+  },
+  {
+   "name": "Axel Ronse",
+   "party": "N-VA",
+   "role": null,
+   "refs": [
+    "151/02.27",
+    "151/02.29"
+   ]
+  },
+  {
+   "name": "Natalie Eggermont",
+   "party": "PVDA-PTB",
+   "role": null,
+   "refs": [
+    "151/02.31",
+    "151/02.32"
+   ]
+  }
+ ],
+ "votes": [
+  {
+   "ref": "151/vote 10",
+   "session": 151,
+   "date": "2026-11-19",
+   "subject": null,
+   "item_title": "Wetsontwerp tot uitvoering van een versterkt terug-naar-werkbeleid in geval van arbeidsongeschiktheid (II) (nieuw opschrift) (1789/6)",
+   "result": {
+    "nl": "Bijgevolg neemt de Kamer het wetsontwerp aan. Het zal aan de Koning ter bekrachtiging worden voorgelegd.",
+    "fr": "En conséquence, la Chambre adopte le projet de loi. Il sera soumis à la sanction royale."
+   },
+   "yes": 76,
+   "no": 41,
+   "abstain": 13,
+   "total": 130,
+   "reused": false,
+   "docs": [
+    "1789"
+   ],
+   "by_party": {
+    "Anders.": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 6,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 7,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "voor",
+     "yes": 14,
+     "no": 0,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "voor",
+     "yes": 18,
+     "no": 0,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "voor",
+     "yes": 23,
+     "no": 0,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 16,
+     "abstain": 0
+    },
+    "PVDA-PTB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 13
+    },
+    "Vooruit": {
+     "stance": "voor",
+     "yes": 11,
+     "no": 0,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "voor",
+     "yes": 10,
+     "no": 0,
+     "abstain": 0
+    }
+   },
+   "kind": "whole",
+   "final": true
+  },
+  {
+   "ref": "151/vote 11",
+   "session": 151,
+   "date": "2026-11-19",
+   "subject": "Stemming over amendement nr. 2 van Ellen Samyn cs op artikel 4. (1847/5)",
+   "item_title": "Aangehouden amendement en artikel van het wetsontwerp tot wijziging van de wet van 19 december 2025 tot uitvoering van een versterkt terug-naar-werkbeleid in geval van arbeidsongeschiktheid wat betreft de versterkte solidariteitsbijdrage (nieuw opschrift) (1847/1-5)",
+   "result": {
+    "nl": "Bijgevolg is het amendement verworpen en is artikel 4 aangenomen.",
+    "fr": "En conséquence, l'amendement est rejeté et l'article 4 est adopté."
+   },
+   "yes": 13,
+   "no": 116,
+   "abstain": 1,
+   "total": 130,
+   "reused": false,
+   "docs": [
+    "1847"
+   ],
+   "by_party": {
+    "Anders.": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 6,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 7,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 14,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 18,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 23,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 16,
+     "abstain": 0
+    },
+    "PVDA-PTB": {
+     "stance": "verdeeld",
+     "yes": 0,
+     "no": 10,
+     "abstain": 1
+    },
+    "VB": {
+     "stance": "voor",
+     "yes": 13,
+     "no": 0,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 10,
+     "abstain": 0
+    }
+   },
+   "kind": "amendment",
+   "final": false
+  },
+  {
+   "ref": "151/vote 12",
+   "session": 151,
+   "date": "2026-11-19",
+   "subject": null,
+   "item_title": "Geheel van het wetsontwerp tot wijziging van de wet van 19 december 2025 tot uitvoering van een versterkt terug-naar-werkbeleid in geval van arbeidsongeschiktheid wat betreft de versterkte solidariteitsbijdrage (nieuw opschrift) (1847/4)",
+   "result": {
+    "nl": "Bijgevolg neemt de Kamer het wetsontwerp aan. Het zal aan de Koning ter bekrachtiging worden voorgelegd.",
+    "fr": "En conséquence, la Chambre adopte le projet de loi. Il sera soumis à la sanction royale."
+   },
+   "yes": 76,
+   "no": 6,
+   "abstain": 48,
+   "total": 130,
+   "reused": false,
+   "docs": [
+    "1847"
+   ],
+   "by_party": {
+    "Anders.": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 6,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 1
+    },
+    "Ecolo-Groen": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 7
+    },
+    "Les Engagés": {
+     "stance": "voor",
+     "yes": 14,
+     "no": 0,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "voor",
+     "yes": 18,
+     "no": 0,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "voor",
+     "yes": 23,
+     "no": 0,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 16
+    },
+    "PVDA-PTB": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 11
+    },
+    "VB": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 13
+    },
+    "Vooruit": {
+     "stance": "voor",
+     "yes": 11,
+     "no": 0,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "voor",
+     "yes": 10,
+     "no": 0,
+     "abstain": 0
+    }
+   },
+   "kind": "whole",
+   "final": true
+  }
+ ],
+ "summary": {
+  "plain_title": "Strengere opvolging van langdurig zieken en een grotere bijdrage van werkgevers",
+  "problem": "Volgens de regering zijn er in België heel veel langdurig zieken. Volgens sprekers gaat het om ongeveer 500.000 tot 600.000 mensen, meer dan in veel andere landen. Veel van hen werden jarenlang niet opgevolgd. Ze waren alleen 'een papieren dossier' en werden soms erkend tot aan hun pensioen, ook als ze nog (aangepast) werk konden doen. De regering wil dat er meer mensen terugkeren naar werk. Werk kan volgens haar helpen bij het herstel. Ook moeten de uitgaven voor uitkeringen dalen.",
+  "proposal": [
+   "Wie langer dan een jaar ziek is (invaliditeit), heeft minstens elk jaar een nieuw attest van de behandelende arts nodig. Zonder attest is er geen uitkering meer. Ongeveer 218.000 langdurig zieken worden opnieuw opgeroepen. Erkenning kan voor maximaal vier jaar, niet langer.",
+   "Een attest voor een uitkering mag in principe alleen komen van een huisarts die toegang heeft tot het globaal medisch dossier (GMD) van de patiënt. Bij bepaalde aandoeningen moet na zes weken ook een specialist geraadpleegd worden. Artsen die bewust onterechte attesten schrijven, kunnen een boete krijgen van 3.500 euro per attest.",
+   "Ziekenfondsen krijgen tegen 2028 ongeveer 17 miljoen euro per jaar extra voor meer personeel om zieken op te volgen.",
+   "Een werkgever die iemand aanwerft die uit invaliditeit komt, krijgt een premie van 3.000 euro. Vouchers uit het Terug-naar-werkfonds kunnen al vanaf de zevende maand ziekte gebruikt worden en worden geïndexeerd.",
+   "Bedrijven met minstens 50 werknemers betalen voortaan ook in de vierde en vijfde maand ziekte een solidariteitsbijdrage van 30% van de uitkering. Dat geld gaat via een korting op de sociale bijdragen terug naar de werkgevers (bonus-malus)."
+  ],
+  "positions": [
+   {
+    "actor": "Regering",
+    "summary": "Minister Vandenbroucke wil dat langdurig zieken geen papieren dossiers meer zijn. Volgens hem is terugkeer naar werk een gedeelde verantwoordelijkheid van artsen, ziekenfondsen, werkgevers en bemiddelingsdiensten. Werkgevers wil hij per bedrijf verantwoordelijk maken. Boetes gelden volgens hem alleen voor attesten die bewust onterecht zijn, niet voor een verschil in medische inschatting.",
+    "refs": [
+     "151/02.01",
+     "151/02.02",
+     "151/02.18",
+     "151/02.20",
+     "151/02.33"
+    ]
+   },
+   {
+    "actor": "N-VA",
+    "summary": "N-VA keurt de teksten goed, omdat de 218.000 langdurig zieken die lang niet opgevolgd werden, nu opnieuw bekeken worden. De partij twijfelt aan het Terug-naar-werkfonds en vindt dat de beoordeling niet bij de ziekenfondsen hoort. De bonus-malus voor werkgevers vindt ze beter dan het vroegere systeem.",
+    "refs": [
+     "151/02.03",
+     "151/02.12",
+     "151/02.27",
+     "151/02.29"
+    ]
+   },
+   {
+    "actor": "VB",
+    "summary": "Vlaams Belang vindt de frequentere controles en de hogere premie positief. Volgens de partij is er te weinig preventie, zijn er te weinig cijfers over de resultaten en hoort de controle niet bij de ziekenfondsen. De bijdrage voor werkgevers houdt volgens haar geen rekening met verschillen tussen sectoren. Ze onthoudt zich bij beide teksten.",
+    "refs": [
+     "151/02.04"
+    ]
+   },
+   {
+    "actor": "MR",
+    "summary": "MR steunt beide teksten, omdat langdurig zieken beter begeleid worden en werkgevers mee verantwoordelijk worden. De partij twijfelt wel of de ziekenfondsen klaar zijn voor deze nieuwe aanpak.",
+    "refs": [
+     "151/02.05"
+    ]
+   },
+   {
+    "actor": "PS",
+    "summary": "PS steunt betere begeleiding van zieken, maar niet met sancties. De partij is tegen de eerste tekst, onder meer door de GMD-regel, de last voor kwetsbare zieken en onduidelijke koninklijke besluiten. Bij de tweede tekst onthoudt ze zich: werkgevers moeten meer verantwoordelijkheid dragen, maar het geld gaat terug naar bedrijven en eerdere maatregelen werden nog niet geëvalueerd.",
+    "refs": [
+     "151/02.06",
+     "151/02.35"
+    ]
+   },
+   {
+    "actor": "PVDA-PTB",
+    "summary": "PVDA-PTB noemt de eerste tekst een besparing op zieken die de oorzaken, zoals zwaar werk en langer werken, niet aanpakt. De partij vreest dat de boetes voor artsen medische beslissingen beïnvloeden. Bij de bonus-malus onthoudt ze zich, omdat bedrijven uit heel verschillende sectoren met elkaar vergeleken worden.",
+    "refs": [
+     "151/02.07",
+     "151/02.31",
+     "151/02.32",
+     "151/02.36"
+    ]
+   },
+   {
+    "actor": "Les Engagés",
+    "summary": "Les Engagés steunt beide teksten met als lijn 'ni abandon ni suspicion' (niemand loslaten, niemand verdenken). Regelmatig contact en aangepast werk zijn volgens de partij goed voor zieken, en werkgevers hebben de middelen om terugkeer mogelijk te maken.",
+    "refs": [
+     "151/02.09"
+    ]
+   },
+   {
+    "actor": "Vooruit",
+    "summary": "Vooruit steunt de teksten, omdat zieken zo opgevolgd en begeleid worden en kansen krijgen op (aangepast) werk. De partij verdedigt de rol van de ziekenfondsen en vindt een bonus-malus voor werkgevers normaal.",
+    "refs": [
+     "151/02.10",
+     "151/02.14"
+    ]
+   },
+   {
+    "actor": "cd&v",
+    "summary": "cd&v keurt beide teksten goed, onder meer omdat 'shoppen' bij artsen niet meer kan en de controle strenger wordt. De partij vraagt wel dat het Terug-naar-werkfonds beter werkt, dat de bonus-malus per sector bekeken wordt en dat de maatregelen snel geëvalueerd worden.",
+    "refs": [
+     "151/02.16"
+    ]
+   },
+   {
+    "actor": "Ecolo-Groen",
+    "summary": "Ecolo-Groen vindt dat de tekst draait om jacht op valse attesten en niet om preventie of werkomstandigheden. De partij geeft kritiek van huisartsen op de GMD-regel door. Ze steunt het idee om werkgevers verantwoordelijk te maken, maar heeft bedenkingen bij de manier waarop de bonus-malus werkt.",
+    "refs": [
+     "151/02.17",
+     "151/02.19",
+     "151/02.21"
+    ]
+   },
+   {
+    "actor": "Anders.",
+    "summary": "Anders. vindt de hogere premie en de aanpak van frauduleuze attesten goed. De partij is wel tegen beide teksten: ze wil een onafhankelijke medische beoordeling in plaats van de huisarts en de ziekenfondsen. De solidariteitsbijdrage noemt ze een belasting op werkgevers, zonder voorafgaande evaluatie.",
+    "refs": [
+     "151/02.22",
+     "151/02.23",
+     "151/02.28",
+     "151/02.30"
+    ]
+   }
+  ],
+  "arguments_for": [
+   {
+    "point": "Langdurig zieken werden jarenlang niet opgevolgd. Regelmatig contact en een herevaluatie zorgen ervoor dat niemand vergeten wordt of te snel wordt afgeschreven.",
+    "actors": [
+     "Regering",
+     "N-VA",
+     "Les Engagés",
+     "cd&v",
+     "MR",
+     "Vooruit"
+    ],
+    "refs": [
+     "151/02.02",
+     "151/02.03",
+     "151/02.09",
+     "151/02.16",
+     "151/02.05",
+     "151/02.10"
+    ],
+    "quote": "le vrai danger pour une personne en incapacité de travail de longue durée, ce n'est pas qu'on la recontacte, c'est qu'on l'oublie!",
+    "quote_ref": "151/02.09"
+   },
+   {
+    "point": "Terugkeer naar (aangepast, ander of minder) werk kan helpen bij het herstel en geeft mensen sociaal contact en waardering.",
+    "actors": [
+     "Regering",
+     "Vooruit",
+     "Les Engagés"
+    ],
+    "refs": [
+     "151/02.02",
+     "151/02.10",
+     "151/02.09"
+    ],
+    "quote": "De weg terug naar werk vinden, eventueel aangepast werk, ander werk of minder werk, is voor heel veel mensen een onderdeel van hun herstel na een ziekte.",
+    "quote_ref": "151/02.02"
+   },
+   {
+    "point": "Als alleen de eigen huisarts met toegang tot het GMD een attest kan schrijven, kan men niet meer 'shoppen' bij artsen. Boetes voor bewust onterechte attesten beschermen de mensen die echt ziek zijn.",
+    "actors": [
+     "cd&v",
+     "Les Engagés",
+     "Regering",
+     "Anders."
+    ],
+    "refs": [
+     "151/02.16",
+     "151/02.09",
+     "151/02.33",
+     "151/02.22"
+    ],
+    "quote": "lutter contre la fraude, ce n'est pas soupçonner les malades, c'est les protéger.",
+    "quote_ref": "151/02.09"
+   },
+   {
+    "point": "De hogere premie van 3.000 euro en de vroegere toegang tot het Terug-naar-werkfonds maken het voor werkgevers aantrekkelijker om langdurig zieken (opnieuw) aan te werven.",
+    "actors": [
+     "MR",
+     "cd&v",
+     "VB",
+     "Anders.",
+     "Les Engagés"
+    ],
+    "refs": [
+     "151/02.05",
+     "151/02.16",
+     "151/02.04",
+     "151/02.22",
+     "151/02.09"
+    ],
+    "quote": "la prime accordée aux employeurs qui favorisent une reprise adaptée passera à 3 000 euros. Cela, c'est positif.",
+    "quote_ref": "151/02.05"
+   },
+   {
+    "point": "Werkgevers organiseren het werk en kunnen een werkpost aanpassen. Het is daarom terecht dat zij een deel van de kosten dragen. De bonus-malus beloont bedrijven die goed inspanningen doen. Het geld gaat terug naar de werkgevers en kleinere bedrijven zijn vrijgesteld.",
+    "actors": [
+     "Les Engagés",
+     "MR",
+     "Vooruit",
+     "N-VA",
+     "Regering",
+     "cd&v"
+    ],
+    "refs": [
+     "151/02.09",
+     "151/02.05",
+     "151/02.10",
+     "151/02.27",
+     "151/02.33",
+     "151/02.16"
+    ],
+    "quote": "Ce texte ne vise pas le malade, il vise celui qui a les leviers pour l'aider à revenir.",
+    "quote_ref": "151/02.09"
+   },
+   {
+    "point": "De sociale zekerheid moet betaalbaar blijven. Volgens het Monitoringcomité kunnen de maatregelen het aantal mensen in invaliditeit sterk doen dalen en 2,6 miljard euro besparen.",
+    "actors": [
+     "Regering",
+     "Les Engagés"
+    ],
+    "refs": [
+     "151/02.02",
+     "151/02.09",
+     "151/02.33"
+    ],
+    "quote": "Notre sécurité sociale ne restera solidaire que si elle reste juste et finançable.",
+    "quote_ref": "151/02.09"
+   }
+  ],
+  "arguments_against": [
+   {
+    "point": "De regering pakt de gevolgen aan, maar niet de oorzaken, zoals zwaar werk, langer werken, nachtwerk en te weinig preventie. Langdurig zieken worden vooral gezien als een post waarop bespaard kan worden.",
+    "actors": [
+     "PVDA-PTB",
+     "VB",
+     "Ecolo-Groen",
+     "PS"
+    ],
+    "refs": [
+     "151/02.07",
+     "151/02.04",
+     "151/02.17",
+     "151/02.06"
+    ],
+    "quote": "Wat doet deze regering? Ze pakt de gevolgen aan, maar laat de oorzaken ongemoeid.",
+    "quote_ref": "151/02.07"
+   },
+   {
+    "point": "De verplichting om elk jaar een attest te halen bij een huisarts met toegang tot het GMD is moeilijk voor kwetsbare zieken, voor mensen zonder vaste huisarts en in gebieden met weinig artsen. Ze geeft ook veel extra administratie voor artsen.",
+    "actors": [
+     "PS",
+     "Ecolo-Groen",
+     "Anders."
+    ],
+    "refs": [
+     "151/02.06",
+     "151/02.17",
+     "151/02.22"
+    ],
+    "quote": "Notre sécurité sociale doit protéger les personnes quand elles sont vulnérables, pas leur demander, il nous semble, d'être administrativement irréprochable au moment précis où elles vont le plus mal.",
+    "quote_ref": "151/02.06"
+   },
+   {
+    "point": "In de wettekst staat niet duidelijk dat alleen bewezen fraude bestraft wordt. Artsen kunnen daardoor uit angst voor hoge boetes minder vaak een attest schrijven.",
+    "actors": [
+     "PVDA-PTB",
+     "Anders.",
+     "Ecolo-Groen"
+    ],
+    "refs": [
+     "151/02.32",
+     "151/02.22",
+     "151/02.17"
+    ],
+    "quote": "Laten we eerlijk zijn, als een arts het risico loopt een boete van 28.000 euro te krijgen, zal dat onvermijdelijk doorwegen op de medische beslissingen.",
+    "quote_ref": "151/02.32"
+   },
+   {
+    "point": "De ziekenfondsen zijn tegelijk rechter en partij en hadden in het verleden weinig resultaten. Toch krijgen ze extra geld, zonder duidelijke afspraken over resultaten. Deze partijen willen een onafhankelijke beoordeling.",
+    "actors": [
+     "VB",
+     "Anders.",
+     "MR",
+     "N-VA"
+    ],
+    "refs": [
+     "151/02.04",
+     "151/02.22",
+     "151/02.05",
+     "151/02.03"
+    ],
+    "quote": "om de controle weg te halen bij de ziekenfondsen en om ze momenteel, bij gebrek aan een beter alternatief, onafhankelijk te centraliseren binnen het RIZIV.",
+    "quote_ref": "151/02.04"
+   },
+   {
+    "point": "De bonus-malus houdt geen rekening met verschillen tussen sectoren. Bedrijven met zwaar werk, zoals de bouw, ziekenhuizen of de schoonmaak, betalen dan meer, ook als ze veel aan preventie doen. Er is ook een risico dat werkgevers minder snel zieke of kwetsbare mensen aanwerven.",
+    "actors": [
+     "cd&v",
+     "VB",
+     "PVDA-PTB",
+     "Ecolo-Groen",
+     "Anders."
+    ],
+    "refs": [
+     "151/02.16",
+     "151/02.04",
+     "151/02.07",
+     "151/02.21",
+     "151/02.22"
+    ],
+    "quote": "Een bouwbedrijf kan dan nog zo hard zijn best doen en de beste leerling van alle bouwbedrijven zijn, toch zal het de bonus niet krijgen.",
+    "quote_ref": "151/02.16"
+   },
+   {
+    "point": "De solidariteitsbijdrage wordt uitgebreid voordat de bestaande regeling geëvalueerd is. Het advies van de sociale partners (NAR) wordt niet gevolgd. Het geld gaat ook niet naar de sociale zekerheid of naar preventie.",
+    "actors": [
+     "PS",
+     "VB",
+     "Anders.",
+     "Ecolo-Groen"
+    ],
+    "refs": [
+     "151/02.06",
+     "151/02.04",
+     "151/02.30",
+     "151/02.21"
+    ],
+    "quote": "vous tranchez sur les modalités avant même d'avoir procédé à l'évaluation des mesures antérieures.",
+    "quote_ref": "151/02.06"
+   }
+  ]
+ },
+ "checks": [],
+ "meta": {
+  "generator": "claude-cli",
+  "prompt_version": "1",
+  "generated_at": "2026-11-22T21:53:35+00:00"
+ },
+ "repairs": []
+}

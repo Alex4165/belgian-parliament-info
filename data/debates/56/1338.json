@@ -1,0 +1,462 @@
+{
+ "doc": "1338",
+ "docs": [
+  "1338"
+ ],
+ "legislature": 56,
+ "title": {
+  "nl": "Wetsvoorstel tot flexibilisering van de periode van rouwverlof in geval van geplande euthanasie (1338/1-9)",
+  "fr": "Proposition de loi visant à flexibiliser la période du congé de deuil en cas d’euthanasie programmée (1338/1-9)",
+  "subtitles": {
+   "nl": [],
+   "fr": []
+  }
+ },
+ "sessions": [
+  {
+   "session": 143,
+   "date": "2026-10-08",
+   "part": "afternoon",
+   "url": "https://www.dekamer.be/doc/PCRI/html/56/ip143x.html"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Florence Reuter",
+   "party": "MR",
+   "role": null,
+   "refs": [
+    "143/13.01"
+   ]
+  },
+  {
+   "name": "Axel Ronse",
+   "party": "N-VA",
+   "role": null,
+   "refs": [
+    "143/13.02"
+   ]
+  },
+  {
+   "name": "Caroline Désir",
+   "party": "PS",
+   "role": null,
+   "refs": [
+    "143/13.03"
+   ]
+  },
+  {
+   "name": "Robin Tonniau",
+   "party": "PVDA-PTB",
+   "role": null,
+   "refs": [
+    "143/13.04"
+   ]
+  },
+  {
+   "name": "Anne Pirson",
+   "party": "Les Engagés",
+   "role": null,
+   "refs": [
+    "143/13.05"
+   ]
+  },
+  {
+   "name": "Funda Oru",
+   "party": "Vooruit",
+   "role": null,
+   "refs": [
+    "143/13.06"
+   ]
+  },
+  {
+   "name": "Els Van Hoof",
+   "party": "cd&v",
+   "role": null,
+   "refs": [
+    "143/13.07"
+   ]
+  }
+ ],
+ "votes": [
+  {
+   "ref": "143/vote 4",
+   "session": 143,
+   "date": "2026-10-08",
+   "subject": "Stemming over amendement nr. 20 van Caroline Désir op artikel 2. (1338/9)",
+   "item_title": "Aangehouden amendement en artikel van het wetsvoorstel tot flexibilisering van de periode van rouwverlof in geval van geplande euthanasie en van de periode van palliatief verlof (nieuw opschrift) (1338/1-9)",
+   "result": {
+    "nl": "Bijgevolg is het amendement verworpen en is artikel 2 aangenomen.",
+    "fr": "En conséquence, l'amendement est rejeté et l'article 2 est adopté."
+   },
+   "yes": 55,
+   "no": 75,
+   "abstain": 5,
+   "total": 135,
+   "reused": false,
+   "docs": [
+    "1338"
+   ],
+   "by_party": {
+    "Anders.": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 7,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "voor",
+     "yes": 1,
+     "no": 0,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "verdeeld",
+     "yes": 8,
+     "no": 0,
+     "abstain": 1
+    },
+    "Les Engagés": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 13,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "verdeeld",
+     "yes": 3,
+     "no": 11,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 22,
+     "abstain": 0
+    },
+    "Onafhankelijk": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "verdeeld",
+     "yes": 11,
+     "no": 0,
+     "abstain": 4
+    },
+    "PVDA-PTB": {
+     "stance": "voor",
+     "yes": 14,
+     "no": 0,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "voor",
+     "yes": 18,
+     "no": 0,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 12,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 9,
+     "abstain": 0
+    }
+   },
+   "kind": "amendment",
+   "final": false
+  },
+  {
+   "ref": "143/vote 5",
+   "session": 143,
+   "date": "2026-10-08",
+   "subject": null,
+   "item_title": "Geheel van het wetsvoorstel tot flexibilisering van de periode van rouwverlof in geval van geplande euthanasie en van de periode van palliatief verlof (nieuw opschrift) (1338/6)",
+   "result": {
+    "nl": "Bijgevolg neemt de Kamer het wetsvoorstel aan. Het zal als wetsontwerp aan de Koning ter bekrachtiging worden voorgelegd. (1338/10)",
+    "fr": "En conséquence, la Chambre adopte la proposition de loi. Elle sera soumise en tant que projet de loi à la sanction royale. (1338/10)"
+   },
+   "yes": 134,
+   "no": 0,
+   "abstain": 1,
+   "total": 135,
+   "reused": false,
+   "docs": [
+    "1338"
+   ],
+   "by_party": {
+    "Anders.": {
+     "stance": "voor",
+     "yes": 7,
+     "no": 0,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "voor",
+     "yes": 1,
+     "no": 0,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "voor",
+     "yes": 9,
+     "no": 0,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "voor",
+     "yes": 13,
+     "no": 0,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "voor",
+     "yes": 14,
+     "no": 0,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "voor",
+     "yes": 22,
+     "no": 0,
+     "abstain": 0
+    },
+    "Onafhankelijk": {
+     "stance": "voor",
+     "yes": 1,
+     "no": 0,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "verdeeld",
+     "yes": 14,
+     "no": 0,
+     "abstain": 1
+    },
+    "PVDA-PTB": {
+     "stance": "voor",
+     "yes": 14,
+     "no": 0,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "voor",
+     "yes": 18,
+     "no": 0,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "voor",
+     "yes": 12,
+     "no": 0,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "voor",
+     "yes": 9,
+     "no": 0,
+     "abstain": 0
+    }
+   },
+   "kind": "whole",
+   "final": true
+  }
+ ],
+ "summary": {
+  "plain_title": "Rouwverlof al opnemen vóór een geplande euthanasie, en palliatief verlof per week",
+  "problem": "Wie een naaste verliest, mag nu pas rouwverlof opnemen vanaf het overlijden. Bij een geplande euthanasie ligt de datum al vast, en families willen de dagen ervoor bij hun naaste zijn. Daarvoor moeten ze nu vaak jaarlijks verlof opnemen, en dat lukt niet altijd. Ook palliatief verlof is moeilijk op te nemen, omdat het nu per maand moet. Daardoor gebruiken weinig mensen het.",
+  "proposal": [
+   "Bij een geplande euthanasie mag het rouwverlof al ingaan zodra de datum van de euthanasie vastligt.",
+   "Er komen geen extra verlofdagen bij: het bestaande rouwverlof wordt alleen soepeler te gebruiken.",
+   "Het attest met de datum van de euthanasie mag anoniem gemaakt worden, om de privacy te beschermen.",
+   "Palliatief verlof (verlof om te zorgen voor iemand in de laatste levensfase) kan voortaan per week worden opgenomen, in plaats van per maand."
+  ],
+  "positions": [
+   {
+    "actor": "MR",
+    "summary": "Diende het voorstel in. Het rouwverlof wordt soepeler zonder extra verlofdagen, omdat de begroting krap is. Families kiezen zelf wanneer ze hun naaste bijstaan.",
+    "refs": [
+     "143/13.01"
+    ]
+   },
+   {
+    "actor": "N-VA",
+    "summary": "Steunt het voorstel en feliciteert de indiener. Het laat zien dat het parlement iets kan veranderen zonder extra kosten.",
+    "refs": [
+     "143/13.02"
+    ]
+   },
+   {
+    "actor": "PS",
+    "summary": "Steunt het voorstel als een stap vooruit voor het recht om waardig te sterven. Wil wel een extra rouwdag voor broers en zussen die niet onder hetzelfde dak wonen en voor ouders van een kind in kortdurende pleegzorg. Daarvoor diende de partij een amendement in.",
+    "refs": [
+     "143/13.03"
+    ]
+   },
+   {
+    "actor": "PVDA-PTB",
+    "summary": "Vindt het goed dat mensen niet meer moeten kiezen tussen aanwezig zijn bij de euthanasie of bij de begrafenis. Vraagt steun voor het amendement van de PS voor broers en zussen.",
+    "refs": [
+     "143/13.04"
+    ]
+   },
+   {
+    "actor": "Les Engagés",
+    "summary": "Steunt het voorstel. Zorg rond het levenseinde betekent voor de partij ook steun aan de naasten.",
+    "refs": [
+     "143/13.05"
+    ]
+   },
+   {
+    "actor": "Vooruit",
+    "summary": "Steunt het voorstel en bracht samen met cd&v het deel over palliatief verlof per week in. Wil dat palliatief verlof later ook langer kan duren voor wie het deeltijds opneemt.",
+    "refs": [
+     "143/13.06"
+    ]
+   },
+   {
+    "actor": "cd&v",
+    "summary": "Is blij dat palliatief verlof per week kan, omdat het nu weinig wordt gebruikt. Ziet dit als een eerste stap: wie deeltijds palliatief verlof neemt, zou het over een langere periode moeten kunnen spreiden.",
+    "refs": [
+     "143/13.07"
+    ]
+   }
+  ],
+  "arguments_for": [
+   {
+    "point": "Families willen de dagen vóór een geplande euthanasie bij hun naaste zijn. Dat kan nu niet met rouwverlof, want dat begint pas bij het overlijden.",
+    "actors": [
+     "MR",
+     "Vooruit",
+     "Les Engagés"
+    ],
+    "refs": [
+     "143/13.01",
+     "143/13.05",
+     "143/13.06"
+    ],
+    "quote": "Or le cadre légal ne le permet pas, et c'est précisément ce que nous voulons changer.",
+    "quote_ref": "143/13.01"
+   },
+   {
+    "point": "Nu moeten naasten jaarlijks verlof nemen of kiezen tussen aanwezig zijn bij de euthanasie of bij de begrafenis. Het voorstel geeft hun meer vrijheid.",
+    "actors": [
+     "PS",
+     "PVDA-PTB"
+    ],
+    "refs": [
+     "143/13.03",
+     "143/13.04"
+    ],
+    "quote": "jusqu'à présent, quand une personne fait le choix de l'euthanasie, celles et ceux qui souhaitent être à ses côtés doivent prendre des congés annuels",
+    "quote_ref": "143/13.03"
+   },
+   {
+    "point": "De regeling kost niets extra: er komen geen nieuwe verlofdagen bij, alleen een soepeler gebruik van het bestaande verlof.",
+    "actors": [
+     "MR",
+     "N-VA"
+    ],
+    "refs": [
+     "143/13.01",
+     "143/13.02"
+    ],
+    "quote": "Dit toont aan dat men als parlementslid ook het verschil kan maken in dossiers zonder dat die een financiële meerkost met zich meebrengen.",
+    "quote_ref": "143/13.02"
+   },
+   {
+    "point": "Palliatief verlof wordt weinig gebruikt, omdat het nu per maand moet. Per week opnemen past beter bij een ziekte die vaak wisselend verloopt, en families kunnen de zorg onder elkaar verdelen.",
+    "actors": [
+     "cd&v",
+     "Vooruit",
+     "MR"
+    ],
+    "refs": [
+     "143/13.07",
+     "143/13.06",
+     "143/13.01"
+    ],
+    "quote": "In 2025 hebben maar 326 personen palliatief verlof opgenomen",
+    "quote_ref": "143/13.07"
+   },
+   {
+    "point": "De tekst beschermt de privacy, omdat het attest met de datum anoniem kan worden gemaakt. De Nationale Arbeidsraad gaf er unaniem advies over.",
+    "actors": [
+     "MR"
+    ],
+    "refs": [
+     "143/13.01"
+    ],
+    "quote": "le certificat annonçant la date de l'euthanasie pourra être anonymisé",
+    "quote_ref": "143/13.01"
+   },
+   {
+    "point": "Waardig sterven betekent ook dat de persoon tot het laatste moment omringd kan zijn door naasten, en dat die naasten steun krijgen.",
+    "actors": [
+     "PS",
+     "Les Engagés"
+    ],
+    "refs": [
+     "143/13.03",
+     "143/13.05"
+    ],
+    "quote": "Pour LesEngagés, accompagner la fin de vie suppose évidemment aussi le soutien aux proches.",
+    "quote_ref": "143/13.05"
+   }
+  ],
+  "arguments_against": [
+   {
+    "point": "Het voorstel vergeet broers en zussen die niet onder hetzelfde dak wonen en ouders van een kind in kortdurende pleegzorg. Zij hebben maar één dag rouwverlof en moeten kiezen tussen de euthanasie en de begrafenis.",
+    "actors": [
+     "PS",
+     "PVDA-PTB"
+    ],
+    "refs": [
+     "143/13.03",
+     "143/13.04"
+    ],
+    "quote": "celle-ci laisse de côté les personnes qui perdent un frère ou une sœur qui ne vivent pas sous le même toit",
+    "quote_ref": "143/13.03"
+   },
+   {
+    "point": "De meerderheid steunde het amendement voor broers en zussen niet, hoewel de Nationale Arbeidsraad op dit verschil in behandeling had gewezen.",
+    "actors": [
+     "PVDA-PTB"
+    ],
+    "refs": [
+     "143/13.04"
+    ],
+    "quote": "Ik vind het wel jammer dat de meerderheid dat niet mogelijk maakt voor broers en zussen, want zij hebben recht op één dag rouwverlof.",
+    "quote_ref": "143/13.04"
+   },
+   {
+    "point": "Het palliatief verlof gaat nog niet ver genoeg. Wie het deeltijds opneemt, zou het over een langere periode moeten kunnen spreiden, zodat geldzorgen mensen niet tegenhouden.",
+    "actors": [
+     "cd&v",
+     "Vooruit"
+    ],
+    "refs": [
+     "143/13.07",
+     "143/13.06"
+    ],
+    "quote": "Wie ervoor kiest om halftijds te werken, zou dat verlof over zes maanden moeten kunnen spreiden, wat vandaag niet het geval is.",
+    "quote_ref": "143/13.07"
+   }
+  ]
+ },
+ "checks": [],
+ "meta": {
+  "generator": "claude-cli",
+  "prompt_version": "1",
+  "generated_at": "2026-11-22T21:56:38+00:00"
+ },
+ "repairs": []
+}

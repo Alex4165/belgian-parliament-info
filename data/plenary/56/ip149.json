@@ -10,13 +10,10 @@
  },
  "items": [
   {
-   "number": "02",
-   "section": {
-    "nl": "Mondelinge vragen",
-    "fr": "Questions orales"
-   },
+   "number": "01",
+   "section": null,
    "title": {
-    "nl": null,
+    "nl": "Agenda",
     "fr": "Questions jointes de"
    },
    "subtitles": {
@@ -31,7 +28,38 @@
     ]
    },
    "docs": [],
-   "events": []
+   "events": [
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Overeenkomstig het advies van de Conferentie van voorzitters van 10 november 2026 hebt u een gewijzigde agenda voor de vergadering van vandaag ontvangen."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Conformément à l’avis de la Conférence des présidents du 10 novembre 2026, vous avez reçu un ordre du jour modifié pour la séance d'aujourd'hui."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Zijn er dienaangaande opmerkingen? (Nee)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Y a-t-il une observation à ce sujet? (Non)"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Bijgevolg is de agenda aangenomen."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "En conséquence, l'ordre du jour est adopté."
+    }
+   ]
   },
   {
    "number": "02",
@@ -425,8 +453,8 @@
     {
      "type": "speech",
      "id": "03.08",
-     "name": "Jean-Marie Dedecker (ONAFH)",
-     "party": null,
+     "name": "Jean-Marie Dedecker",
+     "party": "Onafhankelijk",
      "role": null,
      "lang": "nl",
      "paragraphs": [
@@ -569,8 +597,8 @@
     {
      "type": "speech",
      "id": "03.18",
-     "name": "Jean-Marie Dedecker (ONAFH)",
-     "party": null,
+     "name": "Jean-Marie Dedecker",
+     "party": "Onafhankelijk",
      "role": null,
      "lang": "nl",
      "paragraphs": [
@@ -2385,8 +2413,8 @@
     {
      "type": "speech",
      "id": "16.03",
-     "name": "Jean-Marie Dedecker (ONAFH)",
-     "party": null,
+     "name": "Jean-Marie Dedecker",
+     "party": "Onafhankelijk",
      "role": null,
      "lang": "nl",
      "paragraphs": [
@@ -2417,8 +2445,8 @@
     {
      "type": "speech",
      "id": "16.05",
-     "name": "Jean-Marie Dedecker (ONAFH)",
-     "party": null,
+     "name": "Jean-Marie Dedecker",
+     "party": "Onafhankelijk",
      "role": null,
      "lang": "nl",
      "paragraphs": [
@@ -2440,8 +2468,8 @@
     {
      "type": "speech",
      "id": "16.07",
-     "name": "Jean-Marie Dedecker (ONAFH)",
-     "party": null,
+     "name": "Jean-Marie Dedecker",
+     "party": "Onafhankelijk",
      "role": null,
      "lang": "nl",
      "paragraphs": [

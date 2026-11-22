@@ -1,0 +1,1377 @@
+{
+ "doc": "1538",
+ "docs": [
+  "1538"
+ ],
+ "legislature": 56,
+ "title": {
+  "nl": "Wetsontwerp tot invoering van een beperkingspercentage in de pensioenregeling van de werknemers (1538/1-8)",
+  "fr": "Projet de loi portant l'introduction d'un pourcentage de limitation dans le régime de pension des travailleurs salariés (1538/1-8)",
+  "subtitles": {
+   "nl": [],
+   "fr": []
+  }
+ },
+ "sessions": [
+  {
+   "session": 136,
+   "date": "2026-07-15",
+   "part": null,
+   "url": "https://www.dekamer.be/doc/PCRI/html/56/ip136x.html"
+  },
+  {
+   "session": 137,
+   "date": "2026-07-15",
+   "part": "afternoon",
+   "url": "https://www.dekamer.be/doc/PCRI/html/56/ip137x.html"
+  },
+  {
+   "session": 139,
+   "date": "2026-07-16",
+   "part": "afternoon",
+   "url": "https://www.dekamer.be/doc/PCRI/html/56/ip139x.html"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Axel Ronse",
+   "party": "N-VA",
+   "role": null,
+   "refs": [
+    "136/04.01"
+   ]
+  },
+  {
+   "name": "Ellen Samyn",
+   "party": "VB",
+   "role": null,
+   "refs": [
+    "136/04.02",
+    "137/01.02"
+   ]
+  },
+  {
+   "name": "Benoît Piedboeuf",
+   "party": "MR",
+   "role": null,
+   "refs": [
+    "136/04.03",
+    "136/04.06",
+    "136/04.08",
+    "136/04.10",
+    "136/04.24"
+   ]
+  },
+  {
+   "name": "Sarah Schlitz",
+   "party": "Ecolo-Groen",
+   "role": null,
+   "refs": [
+    "136/04.04",
+    "136/04.05",
+    "136/04.17",
+    "136/04.25",
+    "136/04.34"
+   ]
+  },
+  {
+   "name": "Caroline Désir",
+   "party": "PS",
+   "role": null,
+   "refs": [
+    "136/04.07",
+    "136/04.09",
+    "136/04.11",
+    "137/01.03"
+   ]
+  },
+  {
+   "name": "Nadia Moscufo",
+   "party": "PVDA-PTB",
+   "role": null,
+   "refs": [
+    "136/04.12",
+    "136/04.13",
+    "136/04.15",
+    "136/04.20",
+    "137/01.04"
+   ]
+  },
+  {
+   "name": "Jan Jambon",
+   "party": null,
+   "role": "government",
+   "refs": [
+    "136/04.14",
+    "137/01.01",
+    "137/01.10",
+    "137/01.12"
+   ]
+  },
+  {
+   "name": "Isabelle Hansez",
+   "party": "Les Engagés",
+   "role": null,
+   "refs": [
+    "136/04.16",
+    "136/04.21",
+    "136/04.23",
+    "136/04.28",
+    "137/01.05"
+   ]
+  },
+  {
+   "name": "Pierre-Yves Dermagne",
+   "party": "PS",
+   "role": null,
+   "refs": [
+    "136/04.18",
+    "136/04.22",
+    "136/04.26",
+    "137/01.09",
+    "137/01.11",
+    "137/01.14"
+   ]
+  },
+  {
+   "name": "François De Smet",
+   "party": "DéFI",
+   "role": null,
+   "refs": [
+    "136/04.19",
+    "136/04.27",
+    "136/04.36"
+   ]
+  },
+  {
+   "name": "Anja Vanrobaeys",
+   "party": "Vooruit",
+   "role": null,
+   "refs": [
+    "136/04.29",
+    "136/04.31",
+    "137/01.06"
+   ]
+  },
+  {
+   "name": "Meyrem Almaci",
+   "party": "Ecolo-Groen",
+   "role": null,
+   "refs": [
+    "136/04.30",
+    "136/04.32"
+   ]
+  },
+  {
+   "name": "Nahima Lanjri",
+   "party": "cd&v",
+   "role": null,
+   "refs": [
+    "136/04.33",
+    "137/01.07"
+   ]
+  },
+  {
+   "name": "Alexia Bertrand",
+   "party": "Anders.",
+   "role": null,
+   "refs": [
+    "136/04.35",
+    "137/01.08"
+   ]
+  },
+  {
+   "name": "Dieter Vanbesien",
+   "party": "Ecolo-Groen",
+   "role": null,
+   "refs": [
+    "136/04.37"
+   ]
+  },
+  {
+   "name": "Aurore Tourneur",
+   "party": "Les Engagés",
+   "role": null,
+   "refs": [
+    "137/01.13"
+   ]
+  }
+ ],
+ "votes": [
+  {
+   "ref": "139/vote 7",
+   "session": 139,
+   "date": "2026-07-16",
+   "subject": "Stemming over amendement nr. 3 van Caroline Désir cs op artikel 4. (1538/8)",
+   "item_title": "Aangehouden amendementen en artikel van het wetsontwerp tot invoering van een beperkingspercentage in de pensioenregeling van de werknemers (1538/1-8)",
+   "result": {
+    "nl": "Bijgevolg is het amendement verworpen.",
+    "fr": "En conséquence, l'amendement est rejeté."
+   },
+   "yes": 35,
+   "no": 101,
+   "abstain": 1,
+   "total": 137,
+   "reused": false,
+   "docs": [
+    "1538"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "verdeeld",
+     "yes": 1,
+     "no": 5,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "voor",
+     "yes": 1,
+     "no": 0,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "voor",
+     "yes": 7,
+     "no": 0,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 14,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 16,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 23,
+     "abstain": 0
+    },
+    "ONAFH": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "verdeeld",
+     "yes": 13,
+     "no": 0,
+     "abstain": 1
+    },
+    "PVDA-PTB": {
+     "stance": "voor",
+     "yes": 13,
+     "no": 0,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 20,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 10,
+     "abstain": 0
+    }
+   },
+   "kind": "amendment",
+   "final": false
+  },
+  {
+   "ref": "139/vote 8",
+   "session": 139,
+   "date": "2026-07-16",
+   "subject": "Stemming over amendement nr. 4 van François De Smet op artikel 4. (1538/8)",
+   "item_title": "Aangehouden amendementen en artikel van het wetsontwerp tot invoering van een beperkingspercentage in de pensioenregeling van de werknemers (1538/1-8)",
+   "result": {
+    "nl": "Bijgevolg is het amendement verworpen.",
+    "fr": "En conséquence, l'amendement est rejeté."
+   },
+   "yes": 34,
+   "no": 101,
+   "abstain": 1,
+   "total": 136,
+   "reused": false,
+   "docs": [
+    "1538"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 5,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "voor",
+     "yes": 1,
+     "no": 0,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "voor",
+     "yes": 7,
+     "no": 0,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 14,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 16,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 22,
+     "abstain": 0
+    },
+    "ONAFH": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "verdeeld",
+     "yes": 13,
+     "no": 0,
+     "abstain": 1
+    },
+    "PVDA-PTB": {
+     "stance": "voor",
+     "yes": 13,
+     "no": 0,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 20,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    }
+   },
+   "kind": "amendment",
+   "final": false
+  },
+  {
+   "ref": "139/vote 9",
+   "session": 139,
+   "date": "2026-07-16",
+   "subject": "Stemming over amendement nr. 6 van Nadia Moscufo cs op artikel 4. (1538/8)",
+   "item_title": "Aangehouden amendementen en artikel van het wetsontwerp tot invoering van een beperkingspercentage in de pensioenregeling van de werknemers (1538/1-8)",
+   "result": {
+    "nl": "Bijgevolg is het amendement verworpen.",
+    "fr": "En conséquence, l'amendement est rejeté."
+   },
+   "yes": 35,
+   "no": 102,
+   "abstain": 1,
+   "total": 138,
+   "reused": false,
+   "docs": [
+    "1538"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 6,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "voor",
+     "yes": 1,
+     "no": 0,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "voor",
+     "yes": 7,
+     "no": 0,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 14,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 16,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "verdeeld",
+     "yes": 1,
+     "no": 22,
+     "abstain": 0
+    },
+    "ONAFH": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "verdeeld",
+     "yes": 13,
+     "no": 0,
+     "abstain": 1
+    },
+    "PVDA-PTB": {
+     "stance": "voor",
+     "yes": 13,
+     "no": 0,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 20,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    }
+   },
+   "kind": "amendment",
+   "final": false
+  },
+  {
+   "ref": "139/vote 10",
+   "session": 139,
+   "date": "2026-07-16",
+   "subject": "Stemming over amendement nr. 8 van Sarah Schlitz cs op artikel 4. (1538/8)",
+   "item_title": "Aangehouden amendementen en artikel van het wetsontwerp tot invoering van een beperkingspercentage in de pensioenregeling van de werknemers (1538/1-8)",
+   "result": {
+    "nl": "Bijgevolg is het amendement verworpen.",
+    "fr": "En conséquence, l'amendement est rejeté."
+   },
+   "yes": 34,
+   "no": 103,
+   "abstain": 1,
+   "total": 138,
+   "reused": false,
+   "docs": [
+    "1538"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 6,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "voor",
+     "yes": 1,
+     "no": 0,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "voor",
+     "yes": 7,
+     "no": 0,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 14,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 16,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 23,
+     "abstain": 0
+    },
+    "ONAFH": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "verdeeld",
+     "yes": 13,
+     "no": 0,
+     "abstain": 1
+    },
+    "PVDA-PTB": {
+     "stance": "voor",
+     "yes": 13,
+     "no": 0,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 20,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    }
+   },
+   "kind": "amendment",
+   "final": false
+  },
+  {
+   "ref": "139/vote 7",
+   "session": 139,
+   "date": "2026-07-16",
+   "subject": "Stemming over amendement nr. 5 van Caroline Désir cs op artikel 4. (1538/8)",
+   "item_title": "Aangehouden amendementen en artikel van het wetsontwerp tot invoering van een beperkingspercentage in de pensioenregeling van de werknemers (1538/1-8)",
+   "result": {
+    "nl": "Bijgevolg is het amendement verworpen.",
+    "fr": "En conséquence, l'amendement est rejeté."
+   },
+   "yes": 35,
+   "no": 101,
+   "abstain": 1,
+   "total": 137,
+   "reused": true,
+   "docs": [
+    "1538"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "verdeeld",
+     "yes": 1,
+     "no": 5,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "voor",
+     "yes": 1,
+     "no": 0,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "voor",
+     "yes": 7,
+     "no": 0,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 14,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 16,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 23,
+     "abstain": 0
+    },
+    "ONAFH": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "verdeeld",
+     "yes": 13,
+     "no": 0,
+     "abstain": 1
+    },
+    "PVDA-PTB": {
+     "stance": "voor",
+     "yes": 13,
+     "no": 0,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 20,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 10,
+     "abstain": 0
+    }
+   },
+   "kind": "amendment",
+   "final": false
+  },
+  {
+   "ref": "139/vote 11",
+   "session": 139,
+   "date": "2026-07-16",
+   "subject": "Stemming over amendement nr. 9 van Sarah Schlitz cs op artikel 4. (1538/8)",
+   "item_title": "Aangehouden amendementen en artikel van het wetsontwerp tot invoering van een beperkingspercentage in de pensioenregeling van de werknemers (1538/1-8)",
+   "result": {
+    "nl": "Bijgevolg is het amendement verworpen.",
+    "fr": "En conséquence, l'amendement est rejeté."
+   },
+   "yes": 34,
+   "no": 83,
+   "abstain": 21,
+   "total": 138,
+   "reused": false,
+   "docs": [
+    "1538"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 6,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "voor",
+     "yes": 1,
+     "no": 0,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "voor",
+     "yes": 7,
+     "no": 0,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 14,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 16,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 23,
+     "abstain": 0
+    },
+    "ONAFH": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "verdeeld",
+     "yes": 13,
+     "no": 0,
+     "abstain": 1
+    },
+    "PVDA-PTB": {
+     "stance": "voor",
+     "yes": 13,
+     "no": 0,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 20
+    },
+    "Vooruit": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    }
+   },
+   "kind": "amendment",
+   "final": false
+  },
+  {
+   "ref": "139/vote 12",
+   "session": 139,
+   "date": "2026-07-16",
+   "subject": "Stemming over amendement nr. 7 van Sarah Schlitz cs op artikel 4. (1538/8)",
+   "item_title": "Aangehouden amendementen en artikel van het wetsontwerp tot invoering van een beperkingspercentage in de pensioenregeling van de werknemers (1538/1-8)",
+   "result": {
+    "nl": "Bijgevolg is het amendement verworpen en is artikel 4 aangenomen.",
+    "fr": "En conséquence, l'amendement est rejeté et l'article 4 est adopté."
+   },
+   "yes": 53,
+   "no": 79,
+   "abstain": 1,
+   "total": 133,
+   "reused": false,
+   "docs": [
+    "1538"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 6,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "voor",
+     "yes": 1,
+     "no": 0,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "voor",
+     "yes": 7,
+     "no": 0,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 14,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 15,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 22,
+     "abstain": 0
+    },
+    "ONAFH": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "verdeeld",
+     "yes": 12,
+     "no": 0,
+     "abstain": 1
+    },
+    "PVDA-PTB": {
+     "stance": "voor",
+     "yes": 13,
+     "no": 0,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "voor",
+     "yes": 20,
+     "no": 0,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 9,
+     "abstain": 0
+    }
+   },
+   "kind": "amendment",
+   "final": false
+  },
+  {
+   "ref": "139/vote 13",
+   "session": 139,
+   "date": "2026-07-16",
+   "subject": null,
+   "item_title": "Geheel van het wetsontwerp tot invoering van een beperkingspercentage in de pensioenregeling van de werknemers (1538/7)",
+   "result": {
+    "nl": "Bijgevolg neemt de Kamer het wetsontwerp aan. Het zal aan de Koning ter bekrachtiging worden voorgelegd. (1538/9)",
+    "fr": "En conséquence, la Chambre adopte le projet de loi. Il sera soumis à la sanction royale. (1538/9)"
+   },
+   "yes": 83,
+   "no": 35,
+   "abstain": 20,
+   "total": 138,
+   "reused": false,
+   "docs": [
+    "1538"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "voor",
+     "yes": 1,
+     "no": 0,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "voor",
+     "yes": 6,
+     "no": 0,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 7,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "voor",
+     "yes": 14,
+     "no": 0,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "voor",
+     "yes": 16,
+     "no": 0,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "voor",
+     "yes": 23,
+     "no": 0,
+     "abstain": 0
+    },
+    "ONAFH": {
+     "stance": "voor",
+     "yes": 1,
+     "no": 0,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 14,
+     "abstain": 0
+    },
+    "PVDA-PTB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 13,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 20
+    },
+    "Vooruit": {
+     "stance": "voor",
+     "yes": 11,
+     "no": 0,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "voor",
+     "yes": 11,
+     "no": 0,
+     "abstain": 0
+    }
+   },
+   "kind": "whole",
+   "final": true
+  }
+ ],
+ "summary": {
+  "plain_title": "Minder pensioenrechten voor lange periodes van werkloosheid, brugpensioen (SWT) en landingsbanen",
+  "problem": "Volgens de regering is ongeveer een derde van de pensioenrechten van werknemers opgebouwd in periodes waarin niet gewerkt werd (de 'gelijkgestelde periodes'). Daardoor krijgt iemand die zijn hele loopbaan aan een laag loon heeft gewerkt, soms evenveel of minder pensioen dan iemand die kort gewerkt heeft en daarna heel lang werkloos was. De regering vindt dat oneerlijk. Ze wil de band tussen gewerkte periodes en het pensioen sterker maken. Ze wil ook het pensioenstelsel betaalbaar houden nu de bevolking ouder wordt.",
+  "proposal": [
+   "Periodes van langdurige werkloosheid, SWT (brugpensioen) en niet-gewerkte dagen in een landingsbaan tellen nog maar mee tot een maximumdeel van de loopbaan (het 'beperkingspercentage'). Wat daarboven gaat, telt niet meer mee voor het pensioen.",
+   "Het maximum is 40 % voor wie geboren is tussen 1961 en 1964. Het daalt elk jaar met 5 procentpunten, tot 20 % voor wie geboren is vanaf 1968. Dat komt neer op ongeveer 8 à 9 jaar.",
+   "De regel geldt alleen voor pensioenen die voor het eerst ingaan vanaf 1 juli 2027. Mensen die al met pensioen zijn, houden hun pensioen zoals het is.",
+   "Ziekte, invaliditeit, moederschapsrust, tijdelijke werkloosheid en zorgverloven blijven volledig meetellen. Er zijn ook uitzonderingen voor havenarbeiders, vissers, onvrijwillig deeltijdse werknemers met een uitkering en erkende kunstwerkers (voor kunstwerkers alleen voor periodes vanaf 2014).",
+   "De beperking geldt niet voor wie recht heeft op het gewaarborgd minimumpensioen. De inkomensgarantie voor ouderen (IGO) blijft bestaan."
+  ],
+  "positions": [
+   {
+    "actor": "N-VA",
+    "summary": "N-VA steunt het ontwerp volledig. Volgens de partij moet een pensioen gekoppeld zijn aan gewerkte periodes. Een grens van 20 % vindt ze nog altijd ruim.",
+    "refs": [
+     "136/04.01"
+    ]
+   },
+   {
+    "actor": "VB",
+    "summary": "Vlaams Belang is het eens met het principe dat werken meer pensioen moet opleveren. De partij verzet zich wel tegen de terugwerkende kracht en de gevolgen voor landingsbanen. Ze zou werken liever belonen via belastingen en onthield zich bij de stemming.",
+    "refs": [
+     "136/04.02",
+     "137/01.02"
+    ]
+   },
+   {
+    "actor": "MR",
+    "summary": "MR steunt het ontwerp, omdat het werk beloont en sociaal gerechtvaardigde periodes beschermt. Over de kunstwerkers vraagt de partij een grondige analyse, maar ze stemt niet voor het amendement daarover.",
+    "refs": [
+     "136/04.03",
+     "136/04.06",
+     "136/04.08",
+     "136/04.10",
+     "136/04.24"
+    ]
+   },
+   {
+    "actor": "Ecolo-Groen",
+    "summary": "Ecolo-Groen is tegen. De partij vindt dat het ontwerp met terugwerkende kracht mensen treft, vooral kunstwerkers van vóór 2014, mantelzorgers, vrouwen en mensen in een landingsbaan. Ze diende amendementen in en vroeg om de hervorming te pauzeren.",
+    "refs": [
+     "136/04.04",
+     "136/04.05",
+     "136/04.17",
+     "136/04.25",
+     "136/04.30",
+     "136/04.32",
+     "136/04.34",
+     "136/04.37"
+    ]
+   },
+   {
+    "actor": "PS",
+    "summary": "PS is tegen. De partij noemt de grens van 2014 voor kunstwerkers willekeurig en discriminerend. Ze wijst ook op de gevolgen voor mantelzorgers en voor tijdskrediet aan het einde van de loopbaan, en diende amendementen in.",
+    "refs": [
+     "136/04.07",
+     "136/04.09",
+     "136/04.11",
+     "136/04.18",
+     "136/04.26",
+     "137/01.03",
+     "137/01.09",
+     "137/01.11",
+     "137/01.14"
+    ]
+   },
+   {
+    "actor": "PVDA-PTB",
+    "summary": "PVDA-PTB is tegen. Volgens de partij treft het ontwerp kunstwerkers, mantelzorgers en mensen met zware beroepen, en zijn de pensioenen wel betaalbaar. Ze stapt naar het Grondwettelijk Hof.",
+    "refs": [
+     "136/04.12",
+     "136/04.13",
+     "136/04.15",
+     "136/04.20",
+     "137/01.04"
+    ]
+   },
+   {
+    "actor": "Les Engagés",
+    "summary": "Les Engagés steunen het ontwerp, omdat het volgens hen solidariteit en bijdragen in evenwicht brengt en stap voor stap ingaat. Voor de kunstwerkers van vóór 2014 willen ze een oplossing vóór de inwerkingtreding, maar ze stemmen niet voor de amendementen.",
+    "refs": [
+     "136/04.16",
+     "136/04.21",
+     "136/04.23",
+     "136/04.28",
+     "137/01.05",
+     "137/01.13"
+    ]
+   },
+   {
+    "actor": "Vooruit",
+    "summary": "Vooruit steunt het ontwerp. De partij wijst op de sociale correcties waarvoor ze gestreden heeft: ziekte, zorg, onvrijwillig deeltijds werk en het minimumpensioen zijn beschermd. Ze had graag ook de landingsbanen vrijgesteld en wacht op het overleg met de kunstsector.",
+    "refs": [
+     "136/04.29",
+     "136/04.31",
+     "137/01.06"
+    ]
+   },
+   {
+    "actor": "cd&v",
+    "summary": "cd&v steunt het ontwerp als een rechtvaardige hervorming. Volgens de partij gelijkt de regeling op wat al geldt voor ambtenaren, en blijven zieken en zorgperiodes beschermd.",
+    "refs": [
+     "136/04.33",
+     "137/01.07"
+    ]
+   },
+   {
+    "actor": "Anders.",
+    "summary": "Anders. steunt het ontwerp als oppositiepartij, omdat werken moet lonen. De partij vindt de uitzondering voor het minimumpensioen te ruim en het systeem te ingewikkeld.",
+    "refs": [
+     "136/04.35",
+     "137/01.08"
+    ]
+   },
+   {
+    "actor": "DéFI",
+    "summary": "DéFI stemt tegen. De partij vindt het ontwerp onrechtvaardig voor kunstwerkers van vóór 2014, voor informele mantelzorgers en voor vrouwen, terwijl het maar weinig geld oplevert. DéFI stelde voor om 1991 als grensdatum te nemen.",
+    "refs": [
+     "136/04.19",
+     "136/04.27",
+     "136/04.36"
+    ]
+   },
+   {
+    "actor": "Regering",
+    "summary": "Minister Jambon zegt dat het ontwerp de band tussen werk en pensioen sterker maakt en zieken, zorgverlof en het minimumpensioen beschermt. Over de kunstwerkers van vóór 2014 zegt hij overleg toe vóór 1 juli 2027, op basis van een afspraak tussen de vijf regeringspartijen.",
+    "refs": [
+     "136/04.14",
+     "137/01.01",
+     "137/01.10",
+     "137/01.12"
+    ]
+   }
+  ],
+  "arguments_for": [
+   {
+    "point": "Wie werkt en bijdraagt, moet meer pensioenrechten opbouwen dan wie niet werkt. Nu kunnen heel verschillende loopbanen tot ongeveer hetzelfde pensioen leiden.",
+    "actors": [
+     "N-VA",
+     "MR",
+     "Les Engagés",
+     "cd&v",
+     "Anders.",
+     "Regering"
+    ],
+    "refs": [
+     "136/04.01",
+     "136/04.03",
+     "136/04.16",
+     "136/04.33",
+     "136/04.35",
+     "137/01.01"
+    ],
+    "quote": "Travailler, cotiser, participer au marché du travail doit ouvrir davantage de droits que l'inactivité.",
+    "quote_ref": "136/04.03"
+   },
+   {
+    "point": "Periodes die sociaal gerechtvaardigd zijn, blijven volledig meetellen. Het gaat om ziekte, invaliditeit, moederschap, tijdelijke werkloosheid, zorgverlof en onvrijwillig deeltijds werk.",
+    "actors": [
+     "Vooruit",
+     "cd&v",
+     "Les Engagés",
+     "MR",
+     "N-VA",
+     "Regering"
+    ],
+    "refs": [
+     "136/04.29",
+     "136/04.33",
+     "136/04.16",
+     "136/04.03",
+     "136/04.01",
+     "137/01.01"
+    ],
+    "quote": "Ik ben dan ook opgelucht dat de periodes van ziekte, tijdelijke werkloosheid en zorgverlof niet beperkt worden en nog steeds volledig gelijkgesteld worden voor de berekening van het pensioen.",
+    "quote_ref": "136/04.29"
+   },
+   {
+    "point": "Het minimumpensioen is beschermd. Daardoor stijgt het armoederisico volgens het Federaal Planbureau nauwelijks.",
+    "actors": [
+     "Vooruit",
+     "MR",
+     "Les Engagés",
+     "Anders.",
+     "Regering"
+    ],
+    "refs": [
+     "136/04.29",
+     "136/04.03",
+     "136/04.28",
+     "136/04.35",
+     "137/01.01"
+    ],
+    "quote": "De impact op het armoederisico is onbestaande tot verwaarloosbaar klein.",
+    "quote_ref": "136/04.35"
+   },
+   {
+    "point": "De regeling gaat geleidelijk in en laat nog veel ruimte: eerst 16 tot 18 jaar, later 8 à 9 jaar. Volgens de simulaties van de regering geldt de grens van 40 % maar voor 3,5 % van de nieuwe gepensioneerden.",
+    "actors": [
+     "Regering",
+     "Les Engagés",
+     "cd&v",
+     "N-VA"
+    ],
+    "refs": [
+     "137/01.01",
+     "136/04.16",
+     "136/04.33",
+     "136/04.01"
+    ],
+    "quote": "Zelfs bij het uiteindelijke percentage van 20 % blijft het nog steeds mogelijk om 8 à 9 jaar van dergelijke periodes in voltijdsequivalenten volledig mee te nemen.",
+    "quote_ref": "137/01.01"
+   },
+   {
+    "point": "De maatregel trekt de regels voor werknemers gelijk met wat al lang geldt voor ambtenaren.",
+    "actors": [
+     "cd&v"
+    ],
+    "refs": [
+     "136/04.33"
+    ],
+    "quote": "De maatregel die we nu invoeren voor werknemers bestond al sinds jaar en dag voor ambtenaren.",
+    "quote_ref": "136/04.33"
+   },
+   {
+    "point": "Omdat de bevolking ouder wordt, is een hervorming nodig om het pensioenstelsel ook voor de volgende generaties betaalbaar te houden.",
+    "actors": [
+     "Les Engagés",
+     "N-VA",
+     "Anders.",
+     "Regering"
+    ],
+    "refs": [
+     "136/04.16",
+     "136/04.28",
+     "136/04.01",
+     "136/04.35",
+     "137/01.01"
+    ],
+    "quote": "La véritable menace pour notre modèle social, ce n'est pas la réforme, c'est l'immobilisme.",
+    "quote_ref": "136/04.28"
+   }
+  ],
+  "arguments_against": [
+   {
+    "point": "De maatregel werkt met terugwerkende kracht. Mensen worden getroffen voor keuzes die ze vroeger maakten binnen de regels van toen, en ze kunnen hun loopbaan niet meer aanpassen. Volgens tegenstanders wijst ook de Raad van State op het risico dat het gewettigd vertrouwen wordt geschonden.",
+    "actors": [
+     "VB",
+     "Ecolo-Groen",
+     "PS",
+     "PVDA-PTB",
+     "DéFI"
+    ],
+    "refs": [
+     "136/04.02",
+     "136/04.25",
+     "136/04.34",
+     "136/04.37",
+     "136/04.18",
+     "136/04.15",
+     "136/04.36"
+    ],
+    "quote": "Wat heeft het achteraf bestraffen van mensen nog te maken met het versterken van de band tussen werken en pensioen?",
+    "quote_ref": "136/04.02"
+   },
+   {
+    "point": "Voor kunstwerkers gelden de uitzonderingen pas vanaf 2014, terwijl ze voor havenarbeiders en vissers voor de hele loopbaan gelden. Volgens tegenstanders is dat discriminatie en bestaan de gegevens bij de RVA al sinds 1991.",
+    "actors": [
+     "PS",
+     "Ecolo-Groen",
+     "DéFI",
+     "PVDA-PTB"
+    ],
+    "refs": [
+     "136/04.07",
+     "136/04.04",
+     "136/04.34",
+     "136/04.27",
+     "136/04.36",
+     "136/04.15"
+    ],
+    "quote": "Ces données existent donc, parce que le régime existait. Donc j'insiste, les données existent. Ce qui manque, c'est la volonté politique.",
+    "quote_ref": "136/04.27"
+   },
+   {
+    "point": "Informele mantelzorgers, vaak vrouwen, die werkloos waren om voor een naaste te zorgen, verliezen een deel van hun pensioen. Ook een later statuut voor mantelzorgers lost dat niet meer op.",
+    "actors": [
+     "PS",
+     "PVDA-PTB",
+     "Ecolo-Groen",
+     "DéFI",
+     "VB"
+    ],
+    "refs": [
+     "136/04.11",
+     "136/04.15",
+     "136/04.34",
+     "136/04.36",
+     "136/04.02"
+    ],
+    "quote": "il s'agit à nouveau d'une double peine: des situations qui sont déjà extrêmement difficiles à vivre seront suivies d'une pension amputée, parfois drastiquement.",
+    "quote_ref": "136/04.11"
+   },
+   {
+    "point": "Ook landingsbanen, SWT en tijdskrediet aan het einde van de loopbaan tellen mee voor de grens. Volgens tegenstanders gaat dat in tegen het doel om mensen langer te laten werken. Ze wijzen er ook op dat het unanieme advies van de sociale partners niet gevolgd wordt, en dat mensen met zware beroepen het hardst getroffen worden.",
+    "actors": [
+     "Ecolo-Groen",
+     "VB",
+     "PS",
+     "PVDA-PTB"
+    ],
+    "refs": [
+     "136/04.37",
+     "136/04.34",
+     "136/04.02",
+     "136/04.11",
+     "136/04.15",
+     "137/01.04"
+    ],
+    "quote": "Nu wilt u met dit wetsontwerp precies de maatregel ondergraven die deze twee doelstellingen helpt te bereiken. Wie begrijpt dat nog?",
+    "quote_ref": "136/04.37"
+   },
+   {
+    "point": "Volgens tegenstanders treft de maatregel vooral de laagste pensioenen en vrouwen, wordt de ongelijkheid groter en stijgt de armoede, zeker als je naar de hele pensioenhervorming kijkt.",
+    "actors": [
+     "Ecolo-Groen",
+     "DéFI",
+     "PVDA-PTB",
+     "PS",
+     "VB"
+    ],
+    "refs": [
+     "136/04.37",
+     "136/04.36",
+     "136/04.15",
+     "136/04.07",
+     "136/04.02"
+    ],
+    "quote": "Procentueel zijn de grootste verliezers degenen met de laagste pensioenen.",
+    "quote_ref": "136/04.37"
+   },
+   {
+    "point": "Volgens tegenstanders gaat het vooral om besparen, terwijl de opbrengst klein is (volgens het Rekenhof 7 miljoen euro). Ze vinden dat werken beter beloond kan worden, bijvoorbeeld via belastingen, in plaats van niet-werken te bestraffen.",
+    "actors": [
+     "VB",
+     "DéFI",
+     "Ecolo-Groen",
+     "PVDA-PTB"
+    ],
+    "refs": [
+     "136/04.02",
+     "136/04.36",
+     "136/04.30",
+     "136/04.15"
+    ],
+    "quote": "Een mooie begroting afleveren, is blijkbaar belangrijker geworden dan een rechtvaardige hervorming.",
+    "quote_ref": "136/04.02"
+   }
+  ]
+ },
+ "checks": [],
+ "meta": {
+  "generator": "claude-cli",
+  "prompt_version": "1",
+  "generated_at": "2026-11-22T21:54:45+00:00"
+ },
+ "repairs": []
+}

@@ -1,0 +1,1109 @@
+{
+ "source": {
+  "type": "plenary",
+  "legislature": 56,
+  "session": 136,
+  "url": "https://www.dekamer.be/doc/PCRI/html/56/ip136x.html",
+  "date": "2026-07-15",
+  "part": null,
+  "provisional": false
+ },
+ "items": [
+  {
+   "number": "01",
+   "section": null,
+   "title": {
+    "nl": "Minuut stilte ter nagedachtenis van de slachtoffers van de klimaatcrisis",
+    "fr": "Minute de silence en mémoire des victimes de la crise climatique"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Le président (devant l'assemblée debout): Avant d’entamer les débats, puis-je vous demander de vous lever afin d’honorer la mémoire des victimes des inondations du 15 juillet 2021?"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Vandaag exact vijf jaar geleden werden verschillende Europese landen getroffen door verwoestende overstromingen als gevolg van uitzonderlijke en aanhoudende regenval. Wat begon als een meteorologisch fenomeen, mondde uit in een menselijke tragedie. Talloze mensen verdronken, huizen werden meegesleurd, infrastructuur werd vernield. Overlevenden verloren hun hele hebben en houden."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "En Europe, plus de 200 personnes ont perdu la vie, dont la grande majorité en Allemagne. Dans notre pays, le bilan humain s’est élevé à 41 décès dans la vallée de la Vesdre. Il s’agit à ce jour de la catastrophe naturelle la plus meurtrière de l’histoire de la Belgique."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Je vois dans cet hémicycle plusieurs personnes qui sont également actives au niveau local dans certaines des communes les plus touchées. Cette journée restera particulièrement gravée dans leur mémoire."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "We denken vandaag in de eerste plaats aan de slachtoffers en hun nabestaanden, voor wie het verdriet er vandaag nog evengoed is. Het verlies van een dierbare blijft altijd aanwezig."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Nous rendons également hommage aujourd’hui à toutes celles et tous ceux qui se sont mobilisés à l’époque. Aux services de secours qui ont sauvé des vies dans des conditions extrêmement difficiles. Aux militaires, aux pompiers, aux policiers, aux équipes médicales, aux riverains et aux bénévoles qui n’ont pas hésité à se retrousser les manches. Leur courage et leur solidarité ont constitué une lueur d’espoir au milieu du désarroi."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Dames en heren, sinds 2023 is 15 juli de Europese herdenkingsdag voor de klimaatslachtoffers. In die zin werd ook in dit Parlement in 2024 een resolutie aangenomen. Laten we, los van deze dag, geen groot ideologisch debat over het eigen grote gelijk houden, maar op een serene manier proberen om common ground te vinden tussen alle mensen van goede wil om maatregelen te nemen om dergelijke rampen te vermijden, wat misschien niet kan, of minstens de ampleur ervan te kunnen verzachten."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De slachtoffers die we vandaag herdenken, verdienen dat we lessen trekken uit wat is gebeurd, dat we met ernst en sereniteit blijven werken aan een betere wereld, een leefbare wereld, en een samenleving die beter voorbereid is op wat ons kan overkomen."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Puis-je vous inviter à observer une minute de silence à la mémoire des victimes?"
+    },
+    {
+     "type": "note",
+     "lang": "nl",
+     "text": "De Kamer neemt een minuut stilte in acht."
+    },
+    {
+     "type": "note",
+     "lang": "fr",
+     "text": "La Chambre observe une minute de silence."
+    }
+   ]
+  },
+  {
+   "number": "02",
+   "section": null,
+   "title": {
+    "nl": "Agenda",
+    "fr": "Ordre du jour"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Overeenkomstig het advies van de Conferentie van voorzitters van 14 juli 2026 hebt u een gewijzigde agenda voor de vergaderingen van vandaag en morgen ontvangen."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Conformément à l’avis de la Conférence des présidents du 14 juillet 2026, vous avez reçu un ordre du jour modifié pour les séances d'aujourd'hui et de demain."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Zijn er dienaangaande opmerkingen? (Nee)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Y a-t-il une observation à ce sujet? (Non)"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Bijgevolg is de agenda aangenomen."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "En conséquence, l'ordre du jour est adopté."
+    }
+   ]
+  },
+  {
+   "number": "03",
+   "section": {
+    "nl": "Wetsontwerpen en voorstellen",
+    "fr": "Projets de loi et propositions"
+   },
+   "title": {
+    "nl": "Wetsontwerp tot omzetting van Richtlijn (EU) 2024/1619 van het Europees Parlement en de Raad van 31 mei 2024 tot wijziging van Richtlijn 2013/36/EU wat betreft toezichtsbevoegdheden, sancties, bijkantoren uit derde landen en ecologische, sociale en governancerisico's, Richtlijn (EU) 2023/2864 van het Europees Parlement en de Raad van 13 december 2023 tot wijziging van bepaalde richtlijnen wat betreft de oprichting en het functioneren van het Europees centraal toegangspunt, Richtlijn (EU) 2024/2994 van het Europees Parlement en de Raad van 27 november 2024 tot wijziging van de Richtlijnen 2009/65/EG, 2013/36/EU en (EU) 2019/2034 wat betreft de behandeling van het concentratierisico dat voortvloeit uit blootstellingen aan centrale tegenpartijen en het risico van tegenpartijen bij centraal geclearde derivatentransacties, en houdende diverse bepalingen (1489/1-6)",
+    "fr": "Projet de loi visant à assurer la transposition de la directive (UE) 2024/1619 du Parlement européen et du Conseil du 31 mai 2024 modifiant la directive 2013/36/UE en ce qui concerne les pouvoirs de surveillance, les sanctions, les succursales de pays tiers et les risques environnementaux, sociaux et de gouvernance, la directive (UE) 2023/2864 du Parlement européen et du Conseil du 13 décembre 2023 modifiant certaines directives en ce qui concerne l'établissement et le fonctionnement du point d'accès unique européen, la directive (UE) 2024/2994 du Parlement européen et du Conseil du 27 novembre 2024 modifiant les directives 2009/65/CE, 2013/36/UE et (UE) 2019/2034 en ce qui concerne le traitement du risque de concentration découlant d'expositions sur des contreparties centrales et du risque de contrepartie des transactions sur instruments dérivés faisant l'objet d'une compensation centrale, et portant dispositions diverses (1489/1-6)"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [
+    "1489"
+   ],
+   "events": [
+    {
+     "type": "heading",
+     "level": 3,
+     "nl": "Algemene bespreking",
+     "fr": "Discussion générale"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De algemene bespreking is geopend."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "La discussion générale est ouverte."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De rapporteurs, de heren Niels Tas en Dieter Vanbesien, verwijzen naar het schriftelijk verslag."
+    },
+    {
+     "type": "speech",
+     "id": "03.01",
+     "name": "Lode Vereeck",
+     "party": "VB",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Collega's, dit wetsontwerp zet een aantal Europese richtlijnen en verordeningen om die betrekking hebben op de financiële sector. Zoals wel vaker het geval is in de Europese Unie, zijn de redenen en motieven die aan die richtlijnen ten grondslag liggen, begrijpelijk en, eerlijk gezegd, zelfs lovenswaardig. Wie kan immers gekant zijn tegen beter prudentieel toezicht, meer transparantie of een grotere strategische Europese autonomie? Uiteraard is niemand daartegen gekant, dus ook het Vlaams Belang niet.",
+      "De manier waarop ze in de praktijk worden omgezet, doet echter de wenkbrauwen fronsen. De gekozen aanpak is slecht tot niet onderbouwd en de gevolgen zijn helemaal niet bestudeerd. Er zijn voordelen, maar er zijn ook nadelen.",
+      "Ten eerste, wat de nieuwe bankenrichtlijn betreft, die de implementatie vormt van de Bazel III-akkoorden, blijft tot op vandaag de vraag onbeantwoord hoe de ESG-verplichtingen en ESG-risico's gekwantificeerd, meer bepaald gemonetariseerd en dus in geld uitgedrukt worden. ESG staat voor Environmental, Social and Governance, voor de duurzaamheid en de ethische impact van bedrijven dus en, in dit geval, van banken.",
+      "Ik formuleer de vraag anders. Hoeveel kapitaalbuffers moeten banken aanleggen om de ESG-risico's zoals de klimaatverandering, op te vangen? We krijgen daarop geen antwoord. De financiële toezichthouder zal dat bank per bank bepalen. Dat leidt tot een ad-hocbeleid en, wat mij betreft, tot grote onzekerheid, want de banken weten a priori niet hoeveel bankreserves ze moeten aanleggen. Als er nu iets is dat de financiële sector kan missen als kiespijn, dan is het wel onzekerheid.",
+      "Zodra de kapitaalbuffers worden aangelegd om de ESG-risico's op te vangen – de Europese impactanalyse voorspelt een stijging met 6,4 % tot 8,6 % van de minimumkapitaalvereisten voor grote banken –, rijst de vraag natuurlijk wat het effect zal zijn op de kredietverlening. Die middelen komen immers terecht in de reserves voor de minimumkapitaalvereisten en kunnen dus niet meer worden gebruikt om leningen te financieren, in het bijzonder aan kmo's. Ze kunnen niet een tweede keer worden uitgeleend. Daarover krijgen we geen informatie, behoudens de sussende opmerking dat het allemaal wel zal meevallen. We weten het echter niet. Noch de Europese Commissie, noch de regering-De Wever heeft de impact berekend.",
+      "Ten tweede is er de richtlijn voor de oprichting van het ESAP. Dat is een Europees platform waarop financiële en niet-financiële informatie van ondernemingen voor alle belanghebbenden beschikbaar wordt gesteld. Dat kunnen investeerders, kredietinstellingen, maar ook onderzoekers zijn. Op zich is dat een goed idee. Belgische ondernemingen rapporteren vandaag al een heleboel gegevens aan de FSMA, aan de Nationale Bank van België, met name aan de Balanscentrale, en ook aan Europese databanken. De kwaliteit van de data die zowel vanuit België als vanuit de andere Europese landen aan die Europese databank zullen worden aangeleverd, is echter niet gegarandeerd. Wat is men daar dan mee als externe gebruiker van die databank?",
+      "Verder zal iemand de kosten van de nieuwe ESMA-databank moeten dragen. Zijn dat de rapporterende bedrijven of de diensten die de gegevens verzamelen? We weten het niet. In ieder geval heeft de FSMA of de Nationale Bank van België, meer bepaald de Balanscentrale, niet in een budget voor die nieuwe taak voorzien.",
+      "Ten derde, de Europese Commissie wil voor de afhandeling van derivaten, dus onder andere opties, futures en CFD's, de marktconcentratie, en dus ook de overmatige afhankelijkheid bij centrale tegenpartijen, dus de tussenpartijen tussen koper en verkoper, buiten de Europese Unie tegengaan. Dan hebben we het eigenlijk over Britse CCP's. Ik begrijp dat concentratie bij een aantal bedrijven, in dit geval Britse tegenpartijen, een strategisch, systemisch en zelfs een prudentieel risico vormt, maar die concentratie is er natuurlijk niet zomaar gekomen. Het feit dat de oligopolies zich in Groot-Brittannië bevinden, heeft een reden. Door die concentratie is er op die markt een hogere liquiditeit, een hogere nettingefficiëntie en lagere collateralvereisten.",
+      "Aangezien men die markt wil verschuiven van Groot-Brittannië naar het Europese continent, meer bepaald de Europese Unie, luidt de vraag wat het risico is van een hogere concentratie van Europese centrale tegenpartijen. Als die verschuiving plaatsvindt, zouden er ook een aantal oligopolisten op de Europese markt kunnen ontstaan. Beschikken die Europese, dus niet-Britse, centrale tegenpartijen eigenlijk wel over voldoende liquiditeit? Wat is de impact van de spreiding van die clearingactiviteiten over meerdere centrale tegenpartijen, dus afhandelpartijen, op het vlak van nettingvoordelen – verlies –, en clearingkosten, collateralvereisten en operationele kosten, die hoger uitvallen? Zoals steeds, collega's, weten we het niet. De Europese Unie en de regering-De Wever varen hierin blind.",
+      "Ik concludeer dus dat, ondanks de goede bedoelingen, het voorliggende wetgevend werk dat natuurlijk uit Europa komt, maar dat we hier implementeren, brolwerk is. Het is opnieuw weinig onderbouwd, net zoals dat met betrekking tot de flexi-jobs, waarbij ook een maatregel werd genomen die vervolgens meteen werd aangepast, of nog het werk met betrekking tot de centenindex, waarbij men nadat daartoe beslist was, meteen heronderhandelt. Aan de meerwaardebelasting zijn, zoals voorspeld, ook al een aantal zaken aangepast omdat ze evenmin deugt. De btw-hervorming werd nadat ze beslist werd, ook onmiddellijk aangepast en de vorige week goedgekeurde hervorming van de personenbelasting zal waarschijnlijk ook opnieuw worden aangepast in het kader van de begrotingsanalyse.",
+      "Omdat het voorliggende wetsontwerp opnieuw wetgevend brolwerk is, zal het Vlaams Belang het niet goedkeuren."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "03.02",
+     "name": "Jan Jambon",
+     "party": null,
+     "role": "government",
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer Vereeck, de vragen die u gesteld hebt, zijn allemaal al behandeld in de commissie voor Financiën en daar door mij beantwoord.",
+      "Het wetsontwerp zorgt voor een getrouwe omzetting van de CRD6 in verband met de ESG-risico’s en de expliciete opname in de bankwet berust op het feit dat de materialisatie van ESG-risico’s gevolgen kan hebben voor de solvabiliteit van een bank en de financiële risico’s die uit dat ESG-risico voortvloeien. De factoren dienen daarom te worden geïdentificeerd, gemeten en behandeld, en deze omzetting van de richtlijn voorziet erin dat de kredietinstellingen de ESG-risico’s moeten opnemen in hun beleid voor het prospectieve beheer van de eigen vermogensvereisten en de liquiditeit. De toezichthouders oefenen daar controle op uit. Het is niet aan mij om te zeggen hoe dat in een specifiek geval wordt vertaald in concrete kapitaalvereisten want dat is de taak van de toezichthouder.",
+      "Wat de impact op de kmo’s betreft, voorziet de omzetting van deze richtlijn erin dat de risico’s niet dubbel mogen worden geteld. De bedoeling van de CRD6 is dat er adequaat rekening gehouden wordt met de risico’s, terwijl de specifieke kapitaalregels voornamelijk geregeld worden in de verordening, niet in de richtlijn. In die zin valt de vraag buiten het kader van het huidige dossier.",
+      "Het ESAP wordt centraal aangestuurd vanuit Europa en de Belgische wetgever heeft geen manoeuvreerruimte bij de implementatie daarvan. Het ESAP voert in beginsel geen nieuwe rapporteringsverplichting in. Bedrijven zullen nu geen verschil merken. De doorstroming van rapportering wordt voor bestaande verplichtingen verzorgd door de toezichthouders.",
+      "Uw vragen over het beheer van de concentratierisico’s ten aanzien van CCP’s uit derde landen hebben betrekking op de wijzigingen van de EMIR-verordening, die rechtstreeks van toepassing zijn en al van kracht zijn. Ze staan dus los van de louter punctuele en eerder technische wijzigingen die met dit wetsontwerp worden doorgevoerd in de toezichtwetten.",
+      "Ik vraag de Kamer dus om dit wetsontwerp goed te keuren."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "03.03",
+     "name": "Lode Vereeck",
+     "party": "VB",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de voorzitter, collega's, we hebben allemaal het antwoord van de minister gehoord. Ik heb gisteren het verslag bovendien nog eens grondig nagelezen en zijn antwoorden zijn naast de kwestie. Wat ontbreekt, is inderdaad een algoritme van De Roover, een impactanalyse. Er wordt ons gevraagd een soort blanco cheque te ondertekenen. We kunnen niet om onze verplichtingen betreffende het ESAP heen, maar dat is ook mijn punt helemaal niet. Ik heb zelfs gezegd dat een Europees platform volgens mij een redelijk voorstel is, maar wat zal dat kosten?",
+      "Ofwel moeten de FSMA en de Nationale Bank van België de gegevens aanleveren in het ESAP-format, wat softwareaanpassingen en dus kosten met zich mee zal brengen, ofwel zullen de rapporterende diensten dat zelf moeten doen. U hebt geen idee van de kostprijs. Dat het systeem er moet komen omdat het een Europese verplichting is, staat buiten kijf. Mijn vraag is alleen of er rekening wordt gehouden met de kosten die daarmee gepaard gaan.",
+      "Er zullen bijkomende kapitaalbuffers worden opgelegd. Volgens de Europese Commissie zullen de bijkomende minimumkapitaalvereisten voor grote banken ongeveer tussen 6,8 % en 8,4 % bedragen. Dat kan moeilijk anders dan een impact hebben op de kredietverlening. Opnieuw wordt echter geen enkele moeite gedaan om daar een richtlijn te geven. Mijnheer de minister, ik dank u voor uw antwoorden, maar ze doen niet ter zake."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Vraagt nog iemand het woord? (Nee)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Quelqu'un demande-t-il encore la parole? (Non)"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De algemene bespreking is gesloten."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "La discussion générale est close."
+    },
+    {
+     "type": "heading",
+     "level": 3,
+     "nl": "Bespreking van de artikelen",
+     "fr": "Discussion des articles"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "We vatten de bespreking van de artikelen aan. De door de commissie aangenomen tekst geldt als basis voor de bespreking. (Rgt 85, 4) (1489/6)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Nous passons à la discussion des articles. Le texte adopté par la commission sert de base à la discussion. (Rgt 85, 4) (1489/6)"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Het wetsontwerp telt 358 artikelen."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Le projet de loi compte 358 articles."
+    },
+    {
+     "type": "note",
+     "lang": "nl",
+     "text": "Er werden geen amendementen ingediend."
+    },
+    {
+     "type": "note",
+     "lang": "fr",
+     "text": "Aucun amendement n’a été déposé:"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De artikelen 1 tot 358 worden artikel per artikel aangenomen."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Les articles 1 à 358 sont adoptés article par article."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De bespreking van de artikelen is gesloten. De stemming over het geheel zal later plaatsvinden."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "La discussion des articles est close. Le vote sur l'ensemble aura lieu ultérieurement."
+    }
+   ]
+  },
+  {
+   "number": "04",
+   "section": {
+    "nl": "Wetsontwerpen en voorstellen",
+    "fr": "Projets de loi et propositions"
+   },
+   "title": {
+    "nl": "Wetsontwerp tot invoering van een beperkingspercentage in de pensioenregeling van de werknemers (1538/1-8)",
+    "fr": "Projet de loi portant l'introduction d'un pourcentage de limitation dans le régime de pension des travailleurs salariés (1538/1-8)"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [
+    "1538"
+   ],
+   "events": [
+    {
+     "type": "heading",
+     "level": 3,
+     "nl": "Algemene bespreking",
+     "fr": "Discussion générale"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De algemene bespreking is geopend."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "La discussion générale est ouverte."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De rapporteurs, de heer Dieter Vanbesien en de dames Ellen Samyn en Nathalie Muylle, verwijzen naar het schriftelijk verslag."
+    },
+    {
+     "type": "speech",
+     "id": "04.01",
+     "name": "Axel Ronse",
+     "party": "N-VA",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Ik zal het beknopt houden, want het wetsontwerp is uitgebreid en goed besproken in de commissie voor Sociale Zaken. Ik herhaal graag nog een keer dat ik minister Jan Jambon de beste minister vind die we ooit hebben gehad. Ik kan niet genoeg benadrukken dat de pensioenhervorming een van de moedigste maatregelen is die ooit zijn genomen. De budgettaire opbrengst zal tijdens de huidige legislatuur zeer beperkt zijn, maar in de volgende legislaturen zullen veel politici van alle mogelijke kleuren toegeven dat minister Jambon er in de legislatuur 2024–2030 gelukkig voor heeft gezorgd dat er voldoende moed was om ons mooie repartitiepensioensysteem betaalbaar te houden.",
+      "Ik denk dat elke mens met gezond verstand – helaas zijn er ook anderen – het volmondig met ons eens zal zijn als we zeggen dat een pensioen een-op-een gelinkt moet zijn aan gewerkte periodes. Voor wat hoort wat, zo simpel is het. Een tweede principe is dat de samenleving solidair moet kunnen zijn als iemand pech heeft. Dat zijn allemaal principes die zeer mooi in het wetsontwerp worden weerspiegeld. Periodes van invaliditeit, bepaalde verlofregelingen en tijdelijke werkloosheid worden allemaal gelijkgesteld in de pensioenberekening. Dat zit dus eigenlijk goed. Ik heb in de commissie voor Sociale Zaken daarover ook wat quatsch gehoord van een aantal fracties. Zij deden alsof die periodes niet werden gelijkgesteld voor de berekening van het pensioen. Dat is wel het geval. Er is één achilleshiel, namelijk de kunstwerkers. De periodes waarin zij een uitkering ontvangen, worden ook gelijkgesteld. Pas sinds 2014 bestaat er een geobjectiveerd systeem om te bepalen wie kunstenaar is en wie niet. U kent mijn persoonlijke voorbehoud daarbij. Ik vind dat ook quatsch, maar goed. Voor de periode daarvoor is het niet zo duidelijk. De minister heeft in de commissie heel duidelijk gezegd dat men dat zal monitoren en dat men dat met een groot hart zal bekijken, zoals men dat van ons gewend is. Ook daar is goed ingespeeld op die bezorgdheid.",
+      "Dan hebben we het beperkingspercentage: eerst 40 % en als men na 1968 geboren is een beperkingspercentage van 20 %. Dank u, Kjell, om te bevestigen dat dat juist is. Dat is een beperkingspercentage van 20 %. Dat is nog altijd veel. Dat is een vijfde van uw carrière. Het gaat dan niet over de gelijkgestelde periodes, maar over een vijfde van uw carrière waarin u werkloos kunt zijn geweest en toch nog pensioen kunt opbouwen. Ik daag collega's uit om landen op te sommen waar het systeem genereuzer is dan in deze hervorming. Misschien komt u uit bij Noord-Korea of Venezuela, maar andere democratieën zijn volgens mij minder genereus dan deze.",
+      "Onze fractie zal dit wetsontwerp met zeer veel overtuiging goedkeuren en wij zijn zeer dankbaar dat wij de moedigste minister aller tijden in onze rangen hebben."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.02",
+     "name": "Ellen Samyn",
+     "party": "VB",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Collega's, mijnheer de minister, vandaag bespreken we opnieuw een onderdeel van uw pensioenhervorming. Ditmaal gaat het over het beperkingspercentage voor de gelijkgestelde periodes, meer bepaald werkloosheid, brugpensioen, SWT en landingsbanen.",
+      "Laat me beginnen met een positief punt. Aanvankelijk bestond de vrees – ja, mijnheer Ronse, de vrees – dat ook ziekte onder dit beperkingspercentage zou vallen. Dat is uiteindelijk niet gebeurd. Mocht dat wel het geval zijn geweest, dan hadden we dit wetsontwerp resoluut verworpen. Toch blijft voor onze fractie één fundamenteel bezwaar overeind, namelijk de retroactieve werking van deze hervorming.",
+      "Mijnheer de minister, het hoofddoel van de regering met deze hervorming is de band tussen effectief gewerkte periodes en het pensioen te versterken. Dat hebt u meermaals gesteld, zowel in dit wetsontwerp als tijdens de besprekingen in de commissie. Dat is een principe dat ook het Vlaams Belang ondersteunt. Wij zijn ook voorstander van een beperking van de werkloosheidsuitkeringen in de tijd. Daarbij hebben we wel altijd gepleit voor een aantal sociale correcties. Deze regering heeft die uiteindelijk laattijdig moeten invoeren, omdat er simpelweg ook te veel kritiek op kwam, overigens ook uit eigen hoek.",
+      "Zoals bij het eerste deel van uw pensioenhervorming zit voor ons ook hier het fundamentele probleem in de retroactieve toepassing van de maatregelen. Wat heeft het achteraf bestraffen van mensen nog te maken met het versterken van de band tussen werken en pensioen?",
+      "Laat me duidelijk zijn, mijnheer de minister, ook het Vlaams Belang vindt niet dat mensen jarenlang in een verkeerd sociaal statuut moeten blijven of dat misbruik van sociale systemen en middelen aanvaardbaar is. Daarover gaat de discussie vandaag echter niet.",
+      "De mensen over wie we vandaag spreken, maakten gebruik van een systeem dat opeenvolgende regeringen zelf gecreëerd, jarenlang behouden en gedoogd hebben. Daarom voelt het bijzonder wrang aan dat diezelfde mensen vandaag retroactief worden afgestraft voor keuzes die destijds volledig binnen het wettelijke kader pasten. Nagenoeg alle partijen die de hervorming vandaag steunen, maakten bovendien ooit deel uit van de regeringen die dat systeem jarenlang in stand hielden.",
+      "Hoe moet iemand vandaag nog zijn loopbaan herstellen wanneer die al grotendeels achter hem ligt? Iemand die bijvoorbeeld twintig jaar werkloos is geweest, en we weten dat zulke gevallen bestaan, kan zijn loopbaan vandaag niet meer bijsturen. Zelfs wanneer die persoon morgen opnieuw en hopelijk werk vindt, zal hij of zij het pensioen nog nauwelijks kunnen rechttrekken.",
+      "Daarnaast blijkt ook uit recente cijfers dat slechts een op de tien langdurig werklozen die opnieuw werk vindt ook duurzaam aan het werk blijft. Ik zie bovendien weinig of geen maatregelen van deze regering om het aantal reguliere jobs effectief te verhogen. Over de flexi-jobs wordt vandaag zelfs uitgebreid gesproken, maar over duurzame tewerkstelling blijft het opvallend stil.",
+      "Wat deze regering wel doet, is mensen die jarenlang werkloos waren meteen de boodschap geven dat zij niet al te veel meer moeten verwachten van hun pensioen. U zegt wel dat u de band tussen werken en pensioen wilt versterken, maar ik zie niet hoe deze maatregel daartoe zal bijdragen. Waarom zou iemand die langdurig werkloos was, vandaag nog de stap naar de arbeidsmarkt zetten, als hij of zij weet dat het pensioen nog nauwelijks kan worden rechtgetrokken?",
+      "Tijdens de bespreking van de beperking van de werkloosheid in de tijd stelde deze regering dat een aanzienlijk aantal mensen in een ander sociaal statuut thuishoorde, zoals de ziekte-uitkering en het leefloon. Intussen zien we echter een grotere instroom in de ziekte-uitkering dan oorspronkelijk werd verwacht, maar tegelijk wil deze regering langdurig zieken opnieuw activeren. Denkt u dat dit voor deze groep nog een stimulans zal zijn om opnieuw aan het werk te gaan, wanneer ze tegelijk te horen krijgen dat hun pensioen nauwelijks nog kan worden rechtgezet? Verwacht u werkelijk dat dit de arbeidsbereidheid zal verhogen? Volgens ons was het veel logischer geweest om deze maatregel uitsluitend in de toekomst toe te passen. Dan hadden de mensen ten minste nog de kans gehad om hun loopbaan bij te sturen en bijkomende pensioenrechten op te bouwen.",
+      "Precies daar komen we bij de kern van het probleem, want een hervorming die alleen in de toekomst werkt, levert op korte termijn minder besparingen op en daarom kiest deze regering voor een retroactieve aanpak. Een mooie begroting afleveren, is blijkbaar belangrijker geworden dan een rechtvaardige hervorming. Deze regering noemt zichzelf sociaal, maar kijkt in de eerste plaats naar de cijfers. Als de maatregelen uitsluitend in de toekomst zouden hebben gewerkt, was de besparing op korte termijn misschien kleiner geweest, maar dan had u de mensen wel nog een reële kans gegeven om hun pensioenopbouw te verbeteren. U stelde tijdens de commissievergadering trouwens dat u het niet logisch vindt dat iemand die jarenlang werkloos geweest is uiteindelijk bijna een even hoog pensioen kan ontvangen als iemand die zijn hele loopbaan heeft gewerkt tegen een minimumloon.",
+      "Uiteraard delen wij dat uitgangspunt. De vraag is echter hoe u dat verschil creëert. Moet de persoon die jarenlang werkloos was minder pensioen krijgen, of moet de persoon die jarenlang heeft gewerkt tegen een minimumloon net meer pensioen overhouden? Uw antwoord is een besparing. Ons antwoord zou zijn arbeid sterker te belonen.",
+      "U had daar trouwens de mogelijkheid toe. Vorige week heeft de Kamer de hervorming van de personenbelasting goedgekeurd. Waarom heeft de regering-De Wever die hervorming niet aangegrepen om het nettopensioen van mensen met een volledige loopbaan tegen een minimumloon te verhogen? Op die manier had u het verschil tussen werken en niet werken kunnen maken en vergroten zonder mensen retroactief te treffen.",
+      "Mijnheer de minister, een vraag waarop ik in de commissie volgens mij geen antwoord heb gekregen, betreft het mogelijke draaideureffect binnen de werkloosheidsuitkering. Uw regering beperkt de werkloosheidsuitkering in de tijd tot maximaal twee jaar, maar nadien is het uiteraard opnieuw mogelijk om na een periode van tewerkstelling opnieuw in de werkloosheid terecht te komen. Is het voorliggende wetsontwerp dan wel nog noodzakelijk, of gaat het in hoofdzaak om een uitdovende regeling die vooral personen treft die vandaag al jarenlang werkloos zijn? Vreest u een dergelijk draaideureffect?",
+      "Tot slot heb ik nog een vraag over mantelzorgers. U bevestigde dat mantelzorgverlof gelijkgesteld blijft en dus niet onder het beperkingspercentage valt. Dat is uiteraard positief, maar dat was eigenlijk niet de vraag die ik in de commissie stelde, want er zijn ook mensen die werkloos zijn en tegelijk een mantelzorguitkering ontvangen. Wordt op die groep het beperkingspercentage al dan niet toegepast?",
+      "Ik kom tot een volgend probleem, namelijk de IGO, de inkomensgarantie voor ouderen. U stelde tijdens de commissiebesprekingen dat de IGO geen open poort is en dat de regering werk zal maken van een strengere toegang tot het systeem. U weet dat onze partij die mening deelt, al gaan wij nog een stap verder. Ik stel, ten eerste, vast dat wij daar vandaag nog altijd bijzonder weinig van hebben gezien. Voorlopig blijft het vooral bij aankondigingen. Daarnaast vraag ik mij af hoe u die verstrenging juridisch wilt onderbouwen. Gelijkaardige verstrengingen werden in het verleden helaas vernietigd door het Grondwettelijk Hof. Ik stel u dan ook de vraag waarom de bepaling deze keer wel zal standhouden.",
+      "Wij hopen dat de verstrenging er wel degelijk komt. Als ze er uiteindelijk niet komt, blijft het voor personen die door het beperkingspercentage worden getroffen immers nog steeds mogelijk om op pensioengerechtigde leeftijd op de IGO terug te vallen. Ook hier mis ik opnieuw de incentive om te werken.",
+      "U stelt daarnaast dat dit deel van de hervorming het minimumpensioen ongemoeid laat. Op zich klopt dat. Het is ook goed dat dit specifieke wetsontwerp het minimumpensioen niet rechtstreeks aantast. Dat is echter slechts een deel van het verhaal, want in het eerste deel van uw pensioenhervorming hebt u beslist dat de pensioenmalus ook van toepassing is op het minimumpensioen wanneer niet is voldaan aan de werkvoorwaarden voor vervroegd pensioen. U hebt tijdens de commissie zelf bevestigd dat eerst het beperkingspercentage wordt toegepast en pas daarna de pensioenmalus. Dat betekent dus dat het wel degelijk mogelijk is dat iemand uiteindelijk minder ontvangt dan het minimumpensioen. Niet dit wetsontwerp alleen, maar uw volledige pensioenhervorming kan daartoe leiden.",
+      "Precies daar zit volgens ons een fundamenteel probleem. Uw pensioenhervorming is opgesplitst in verschillende wetsontwerpen. Daardoor kunt u bij elk afzonderlijk wetsontwerp zeggen dat de impact beperkt is. U kunt zeggen dat dit wetsontwerp het minimumpensioen ongemoeid laat. U kunt zeggen dat dit wetsontwerp geen impact heeft op het armoederisico. Strikt genomen hebt u daarin zelfs gelijk.",
+      "De bevolking ondergaat echter niet één wetsontwerp, maar een volledige pensioenhervorming. Wanneer we naar het rapport van het Federaal Planbureau kijken, klopt het inderdaad dat de impact van dit afzonderlijke wetsontwerp op het armoederisico beperkt is. Wanneer we de volledige hervorming bekijken, ontstaat echter een heel ander beeld.",
+      "Ook de Studiecommissie voor de Vergrijzing stelt zich expliciet de vraag of deze hervorming sociaal houdbaar blijft, gelet op de daling van de levensstandaard van gepensioneerden op lange termijn. Hoe reageert u op die analyse? Blijft u volhouden dat uw hervorming in haar totaliteit geen impact zal hebben op het armoederisico?",
+      "Mijnheer de minister, ik kom terug op de IGO. U stelde dat dit wetsontwerp op zich geen bijkomende budgettaire impact zal hebben op de IGO. Dat geloof ik graag. Opnieuw rijst echter de vraag wat de impact van de volledige hervorming zal zijn. U weet dat de uitgaven voor de IGO de voorbije jaren verdubbeld zijn. De aangekondigde verstrenging is er nog altijd niet. Welke impact verwacht u op de toekomstige uitgaven voor de inkomensgarantie voor ouderen? Zijn die uitgaven op lange termijn nog houdbaar?",
+      "Tot slot wil ik nog ingaan op de manier waarop deze pensioenhervorming opgebouwd is. De kritiek op die aanpak komt niet alleen vanuit de oppositie of de bevolking. Ook de Raad van State maakt er uitdrukkelijk opmerkingen over. Op verschillende plaatsen stelt de Raad van State dat men zich niet kan uitspreken over de sociale impact van een afzonderlijk wetsontwerp, omdat die alleen kan worden beoordeeld in het licht van de volledige pensioenhervorming. Volgens ons ondermijnt dat de rechtszekerheid. Vakbonden en andere organisaties hebben bovendien aangekondigd dat ze naar het Grondwettelijk Hof stappen. Vele burgers passen vandaag hun gedrag aan om aan de nieuwe voorwaarden te voldoen, maar wat als het Grondwettelijk Hof later beslist dat delen van of de hele hervorming ongrondwettelijk zijn? Welke rechtszekerheid biedt u die mensen vandaag?",
+      "Bovendien blijkt dat nagenoeg bij elk onderdeel van uw hervorming de oorspronkelijke besparingen telkens moeten worden afgezwakt – gelukkig maar – onder druk van de oppositie, de bevolking en zelfs uw eigen coalitiepartners cd&v en Vooruit. Dat roept toch ernstige vragen op over de proportionaliteit en de kwaliteit van de oorspronkelijke voorstellen. Ik blijf me dan ook afvragen wanneer de aangekondigde andere onderdelen van uw pensioenhervorming eindelijk aan het Parlement zullen worden voorgelegd.",
+      "Ik richt me toch even tot de collega’s van Vooruit. U maakte een breekpunt van de vrijstelling van de beperkingspercentages voor landingsbanen. Vandaag blijkt dat landingsbanen gewoon meetellen en dat die mensen worden afgestraft omdat ze in een landingsbaan gestapt zijn. Ik stel vast dat dit breekpunt uiteindelijk bijzonder rekbaar gebleken is. U kunt op de sociale media wel blijven benadrukken welke strijd u binnen de regering voert, maar finaal keurt u deze maatregel gewoon goed.",
+      "Nu we het toch over landingsbanen hebben, wil ik ook het aspect ‘werkbaar werk’ aanhalen. Wij zijn nooit grote voorstanders geweest van landingsbanen of SWT’s. Het waren voor ons altijd eerder tijdelijke oplossingen dan structurele hervormingen. Als u echter landingsbanen en SWT’s laat meetellen voor de beperkingspercentages, dan kunnen werknemers die ervan gebruikmaken zich tijdens de rest van hun loopbaan nauwelijks nog een tegenslag permitteren. Wie nadien langdurig werkloos wordt, zal uiteindelijk ook pensioen verliezen.",
+      "Welke structurele oplossing heeft de regering hiervoor? Liggen er nog wetsontwerpen op tafel om werkbaar werk verder uit te bouwen? Komen er bijkomende maatregelen om de werkgevers daarbij te steunen? Voor vele werknemers die dicht tegen hun pensioen staan, zeker in fysiek zware beroepen, zijn aangepaste arbeidsomstandigheden noodzakelijk. Tegelijkertijd geven heel wat werkgevers aan dat ze dergelijke aangepaste functies niet kunnen aanbieden. Dit verklaart ook waarom het SWT jarenlang voor vele werknemers een natuurlijke uitstroom vormde. Welke maatregelen neemt deze regering om ervoor te zorgen dat werknemers effectief langer aan het werk kunnen blijven, in plaats van dit achteraf te bestraffen?",
+      "Ik wil in dit verband nog één specifieke situatie aanhalen, mijnheer de minister, die van werknemers met een tienmaandencontract, wat vaak voorkomt in het onderwijs. We hebben elkaar daarover al gesproken tijdens de bespreking van uw beleidsnota. Zij zijn jaarlijks tijdens de zomervakantie werkloos. Over een loopbaan van 45 jaar betekent dat ongeveer 90 maanden of ruim 7,5 jaar werkloosheid. Wanneer het beperkingspercentage op 20 % wordt vastgelegd, blijft voor die werknemers bijzonder weinig marge over voor eventuele andere periodes van werkloosheid. Voorziet u, of deze regering, eventueel in overleg met de deelstaten, in maatregelen om ook voor deze groep een oplossing uit te werken?",
+      "Ik rond af, mijnheer de minister. Wij zijn, net zoals u dit beweert te zijn, voorstander van een sterkere band tussen werken en pensioenen en van een groter verschil tussen werken en niet-werken. Volgens ons kiest deze regering daarvoor echter de verkeerde weg. In plaats van mensen die gewerkt hebben, sterker te belonen, kiest u ervoor mensen die onvoldoende hebben gewerkt zwaarder te bestraffen. Dat levert inderdaad een besparing op, maar het betekent nog niet dat iemand die zijn hele loopbaan heeft gewerkt tegen een minimumloon, daar ook daadwerkelijk beter van wordt.",
+      "Daar zit volgens ons het fundamentele verschil. Wij hadden ervoor gekozen mensen die jarenlang hebben bijgedragen sterker te belonen, bijvoorbeeld via de fiscaliteit, in plaats van mensen retroactief te bestraffen voor keuzes die ze maakten binnen een systeem dat de overheid zelf jarenlang heeft georganiseerd. Bovendien had een hervorming die uitsluitend naar de toekomst werkte, mensen nog de kans gegeven hun loopbaan bij te sturen en aanvullende pensioenrechten op te bouwen. Die kans neemt u vandaag weg. Daarom geloven wij niet dat deze hervorming de arbeidsbereidheid zal versterken. Wij vrezen integendeel dat ze vooral een begrotingsbesparing zal opleveren.",
+      "Mocht uiteindelijk ook deze hervorming door het Grondwettelijk Hof worden teruggefloten, dan dreigt de hervormingstrein waarnaar uw regering zo graag verwijst, ernstig te ontsporen. U zult begrijpen, mijnheer de minister, dat wij uw ontwerp niet zullen steunen."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.03",
+     "name": "Benoît Piedboeuf",
+     "party": "MR",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le président, le projet de loi que nous examinons aujourd'hui se situe dans la continuité de tout le travail qui a été mené ces derniers mois en matière de réforme des pensions, avec un objectif fondamental ici qui est celui de valoriser le travail et d'établir un lien entre le travail effectif et la constitution des droits à la pension. Travailler, cotiser, participer au marché du travail doit ouvrir davantage de droits que l'inactivité.",
+      "Cette réforme n'est pourtant pas aveugle parce qu'elle protège explicitement des périodes socialement justifiées: le chômage temporaire, la maternité, les congés de soins restent ainsi intégralement pris en compte. Il en va de même pour la maladie et l'invalidité. Quand on voit l'importance que cela représente, à peu près 42 % des périodes assimilées, il faudra en rediscuter avec le ministre Vandenbroucke quand il viendra présenter son projet de retour au travail.",
+      "Le mécanisme introduit est clair et progressif. Il restera possible de comptabiliser plusieurs années de périodes assimilées, de 16 à 18 ans au début de la période transitoire et de 8 à 9 ans par la suite. La limitation ne s'applique pas aux bénéficiaires de pension minimum garantie. Cela signifie que les personnes les plus vulnérables restent pleinement protégées. Il y a donc un équilibre qui tend à mieux récompenser le travail, tout en préservant les protections essentielles de notre modèle social. C'est un choix de justice, de responsabilité et de cohérence.",
+      "Nous avons beaucoup débattu de certaines périodes de chômage qui restent protégées. C'est le cas pour les dockers et les pêcheurs, dont les carrières sont hachées. De nombreux débats ont également eu lieu ou se poursuivent concernant le statut des artistes. Chacun d'entre nous possède, bien évidemment, une sensibilité propre à l'égard du monde artistique. Néanmoins, il faut quand même voir la réalité du monde dans lequel on vit: nombre de nos centres d'intérêt actuels viennent justement des artistes qui ont existé par le passé. Qu'il s'agisse de peinture ou de musique, plusieurs activités auxquelles nous nous adonnons ainsi que les plaisirs de la vie viennent des artistes du passé.",
+      "Cela dit, aujourd'hui également, il y a des artistes. Certains n'ont pas toujours exercé sous le statut de salarié. Certains d'entre eux en effet ont pu préparer, travailler à leur art en n'étant pas sous contrat de travail, alternant ainsi avec des périodes de chômage.",
+      "Monsieur le ministre, vous avez rappelé que l'ONEM ne dispose effectivement pas de données antérieures à l'année 2014. Cela rend toute évaluation complexe, bien qu'avaient été prises des dispositions visant le gel de la dégressivité du chômage pour les artistes depuis 1992. Il est dès lors nécessaire d'être attentif à ce qui va arriver à certains d'entre eux. Confirmez-vous que vous vous livrerez à une analyse précise de la situation? Nous y resterons attentifs. Nous en avons déjà beaucoup discuté. Certaines choses sont claires, d'autres le sont un peu moins.",
+      "On parle du statut des artistes depuis des années, et il faudra un jour leur accorder un statut particulier, parce que ce sont des personnes particulières, qui méritent un intérêt. En tout cas, nous sommes nombreux à le penser. Cela étant dit, monsieur le ministre, nous allons bien entendu soutenir cet excellent travail que vous avez mené."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.04",
+     "name": "Sarah Schlitz",
+     "party": "Ecolo-Groen",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Merci à M. Piedboeuf pour son intervention. Nous connaissons sa sensibilité au secteur des arts. Je le remercie donc d'avoir prononcé les mots que nous venons d'entendre. C'est déjà une première étape rassurante pour ce secteur qui, en effet, bénéficie de droits pour les périodes durant lesquelles il a créé. Il est nécessaire de pouvoir reconnaître que ces périodes étaient bel et bien du travail et, selon le langage du gouvernement, des \"périodes socialement justifiées\".",
+      "D'autre part, et je suis heureuse d'entendre M. Piedboeuf le dire ici, il est possible d'identifier ces périodes. En conséquence, il est absurde de décider arbitrairement de s'en tenir à la date de 2014, alors qu'il est possible de remonter jusqu'à 1991-1992, en fonction de l'entrée en vigueur. C'est une absolue nécessité.",
+      "Ensuite, au-delà de la symbolique, il est question des conditions matérielles pour survivre et vieillir dans notre société. Il est inconcevable qu'un parlement décide aujourd'hui de jeter dans la précarité des centaines de milliers de personnes pour des questions en apparence d'ordre budgétaire, mais qui sont aussi notoirement, pour certains groupes de la majorité, idéologiques. Parce que les artistes dérangent, parce que les artistes éveillent les consciences, parce que les artistes tirent la sonnette d'alarme sur certains enjeux de société que certains n'ont pas envie de voir, n'ont pas envie d'entendre, les artistes font régulièrement l'objet d'attaques de la part de certains partis de droite. Il faut pouvoir lire entre les lignes de ce projet de loi.",
+      "Nous avons déposé un amendement qui permet, dès aujourd'hui, de supprimer cette injustice. J'entends une volonté d'avancer par la suite via une évaluation. Je pense que nous ne devons pas voter ce texte, mais faire en sorte que le gouvernement l'adapte et revienne ensuite devant le Parlement. Il n'y a aucune raison d'avancer maintenant avec un texte qui est d'ores et déjà visiblement obsolète selon la majorité."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Le président : Madame Schlitz, vous interviendrez plus tard sur ce sujet. Vous posiez une question à M. Piedboeuf."
+    },
+    {
+     "type": "speech",
+     "id": "04.05",
+     "name": "Sarah Schlitz",
+     "party": "Ecolo-Groen",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur Piedboeuf, allez-vous soutenir notre amendement permettant de corriger l'erreur contenue dans le texte et donc de protéger la pension des artistes et des travailleurs des arts en général?"
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.06",
+     "name": "Benoît Piedboeuf",
+     "party": "MR",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Je remercie Mme Schlitz pour sa question. Je suis en effet fort impliqué dans le secteur des artistes depuis des années et dans de nombreux autres domaines. Dans quelques jours, ma commune accueillera son 42 e festival de jazz. Je suis en contact avec des artistes dont certains sont en personne physique, d'autres en ASBL, d'autres en société et d'autres sous contrat SMART. Rien que pour gérer un stage, il est extrêmement compliqué d'y voir clair et de conclure des contrats sur mesure pour chacun en fonction de son statut. C'est pour cette raison que je demandais à M. le ministre d'y être attentif, parce qu'on ne peut pas dire d'une manière générale que les artistes soient pénalisés. Il faut examiner au cas par cas. Ceux qui sont en personne physique, pas sous contrat, et qui ont connu des périodes de chômage méritent une attention particulière. Je demande à M. le ministre d'examiner cela en tenant compte de la complexité du sujet. Donc, je ne vais pas voter votre amendement parce que j'ai l'impression qu'il faut examiner cette question à la loupe et ne pas prendre de mesure générale."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.07",
+     "name": "Caroline Désir",
+     "party": "PS",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le ministre, je ne vais pas revenir en détail sur l'ensemble de votre projet de loi qui va, comme on l'a beaucoup dénoncé, réduire les revenus d'un grand nombre de retraités et, en particulier, des femmes. Je vais plutôt me concentrer sur certaines injustices qui me paraissent flagrantes et, tout d'abord, celle que vous êtes en train d'instaurer à l'égard des travailleurs et des travailleuses des arts et au sujet de laquelle des membres de votre majorité, et même la ministre de la Culture de la Fédération Wallonie-Bruxelles Élisabeth Degryse, se sont dits également préoccupés.",
+      "Vous affirmez dans l'exposé des motifs vouloir tenir compte des métiers dont l'organisation du travail est très spécifique et donne droit, \"dans la réglementation chômage, à un régime particulier, avec un traitement différent de celui des autres chômeurs complets.\" Vous incluez, du reste, dans cette catégorie les travailleurs portuaires, les pêcheurs, les dockers, etc.",
+      "Mais dans les faits, vous ne vous référez pas simplement au régime particulier. Pour les travailleurs et les travailleuses des arts, vous limitez cette reconnaissance, de façon arbitraire selon nous, aux périodes postérieures à 2014. Pourquoi 2014? Sur quels critères objectifs repose cette limitation? En réalité, nous n'en voyons aucun. Contrairement à ce que vous avez affirmé en commission à deux reprises, les mécanismes de reconnaissance de l'intermittence dans le secteur artistique n'ont pas commencé en 2014. Dès 1963, l'arrêté royal relatif au chômage permettait déjà de tenir compte des réalités spécifiques des travailleurs engagés dans des contrats de courte durée. Dès 1992, l'article 116 de l'arrêté royal chômage a consacré la non-dégressivité des allocations pour les travailleurs des arts, avec des critères bien spécifiques appliqués par l’ONEM.",
+      "Autrement dit, dès bien avant 2014, le législateur reconnaissait déjà que ces carrières ne sont pas, à proprement parler, des carrières normales. Vous avez la possibilité juridique de vous référer à des articles de loi, tout comme l’ONEM a la possibilité d'identifier convenablement ces périodes.",
+      "Avec votre mesure totalement restrictive, vous allez en fait priver du calcul de la pension toute une partie de la carrière et ainsi effacer purement et simplement des années de travail intermittent. Concrètement, cela signifie que des artistes qui ont exercé parfois pendant des décennies pourraient voir une part considérable de leur carrière – et on parle parfois de près de la moitié – disparaître du calcul de leur pension.",
+      "Pour nous, c'est injuste, c'est brutal et c'est totalement inacceptable. Les organisations syndicales et les fédérations représentatives des travailleurs et des travailleuses des arts sont mobilisées. Elles vous ont alerté à ce sujet. Elles ont lancé une pétition. Elles vous ont rencontré pour vous faire part de leur incompréhension face à cette nouvelle injustice, au sein d'une réforme qui est déjà elle-même profondément injuste.",
+      "Non seulement c'est injuste, mais c'est aussi juridiquement problématique. D'après le secteur, et je ne peux en cela que les rejoindre, votre dispositif crée une double discrimination et une violation manifeste des articles 10 et 11 de la Constitution.",
+      "D'abord, il crée une discrimination entre générations. Les travailleurs qui ont commencé avant 2014 seront pénalisés par rapport à ceux qui entrent aujourd'hui dans le secteur.",
+      "Ensuite, il crée une autre discrimination entre les travailleurs confrontés à une même réalité d'intermittence subie. Les dockers et les pêcheurs bénéficient d'une exception complète, tandis que les travailleurs des arts en sont partiellement exclus. Il n'y a en fait, monsieur le ministre, aucun argument objectif qui peut soutenir une telle différence de traitement.",
+      "C’est pour ça que nous avons redéposé notre amendement, qui est assez simple. Il vise à supprimer cette limite arbitraire de 2014 afin de garantir une prise en compte cohérente de l'ensemble des périodes concernées.",
+      "Je voudrais m'adresser ici à mes collègues membres des Engagés. Il est encore temps, chers collègues, de faire le bon choix et d'adopter cette modification.",
+      "Je voudrais répondre aussi à M. Piedboeuf, qui nous a dit qu'il était attentif à la situation des artistes. Je le crois bien volontiers. Mais être attentif, cela ne va pas suffire, monsieur Piedboeuf. Certains vont être très discriminés, tout de suite, dès maintenant. Nous devons leur envoyer un signal positif, visant à les soutenir réellement. C’est pour cela, monsieur Piedboeuf, que je vous enjoins également de soutenir cet amendement, tout comme les membres de votre groupe.",
+      "En effet, comme vous l'avez tous entendu, le secteur ne restera pas silencieux. Il est mobilisé et, si vous persistez, ce texte sera attaqué devant les juridictions compétentes, avec des arguments solides. Vous avez donc encore la possibilité de corriger le tir avant les votes. Assumerez-vous de plonger des milliers de travailleurs et travailleuses des arts dans la précarité à la fin de leur carrière ou garantirez-vous le respect de leurs droits et de leur dignité?"
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Président: Florence Reuter, vice-présidente."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Voorzitter: Florence Reuter, ondervoorzitster."
+    },
+    {
+     "type": "speech",
+     "id": "04.08",
+     "name": "Benoît Piedboeuf",
+     "party": "MR",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Le texte que nous allons voter entrera en application en 2027. Il nous reste quelques mois pour voir s'il y a des choses à corriger."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.09",
+     "name": "Caroline Désir",
+     "party": "PS",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur Piedboeuf, un tiens vaut mieux que deux tu l'auras. Je ne vois pas pourquoi on devrait voter aujourd'hui une réforme qui crée une discrimination, pour ensuite la corriger avant son entrée en vigueur. Cela n'a aucun sens. La discrimination est établie. Comme je le disais, elle va plonger des travailleurs et des travailleuses des arts dans la précarité alors qu'ils ont servi notre pays en produisant sur le plan culturel. Cette réforme leur envoie un signal extrêmement négatif. Nous vous proposons donc de corriger cette \"erreur d'appréciation\" – appelons-la comme ça – dès aujourd'hui."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.10",
+     "name": "Benoît Piedboeuf",
+     "party": "MR",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "On ne peut pas dire des généralités par rapport à cette question. Il est probable que peu d'artistes sont concernés. La situation doit être analysée. Comme je l'ai dit, les artistes ont toutes sortes de statuts: ASBL, société, contrat de travail, personne physique, etc. Nous devons examiner quelles sont les personnes concernées et je pense qu'il n'y en a pas tant que cela."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.11",
+     "name": "Caroline Désir",
+     "party": "PS",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur Piedboeuf, il est évident que la situation des artistes est complexe. Nous sommes tous d'accord sur le fait qu'ils ont des statuts différents, etc. C'est bien là l'un des problèmes. Néanmoins, ils sont nombreux à dénoncer les conséquences de cette réforme, et peu nombreux à connaître leur situation et à pouvoir l'anticiper. Et quand bien même ils ne seraient que quelques milliers, monsieur Piedboeuf, je pense qu'il est nécessaire de les protéger dès aujourd'hui.",
+      "Je pense que je ne vous convaincrai pas aujourd'hui. Mais je crois qu'être attentif à la situation n'est pas suffisant.",
+      "Je vais à présent aborder le deuxième point qui nous préoccupe. Monsieur le ministre, il est en effet nécessaire d'évoquer la situation des aidants proches, qui ne sont pas épargnés avec votre nouvelle étape de remise en cause des pensions.",
+      "Alors même que nous avons passé des heures à débattre de la situation des aidants proches exclus du chômage, vous vous apprêtez aujourd'hui à les refrapper de plein fouet avec votre limitation des périodes assimilées. En leur imposant un plafond pour celles-ci, vous supprimez des années de soins aux autres, de prise en charge d'enfants, de personnes âgées ou handicapées.",
+      "À toutes ces personnes – souvent des femmes – qui ont dû interrompre ou réduire leur activité professionnelle pendant de longues années pour s'occuper d'un enfant lourdement handicapé ou d'un proche en perte d'autonomie, vous dites encore une fois que ces années de soins et de présence, parfois aussi de renoncement, ne compteront plus pour leur pension. Des personnes qui ont parfois consacré 10 ou15 ans de leur vie à s'occuper d'un proche vont voir une grande partie de ces années purement et simplement ignorées dans le calcul de leur pension.",
+      "Monsieur le ministre, il s'agit à nouveau d'une double peine: des situations qui sont déjà extrêmement difficiles à vivre seront suivies d'une pension amputée, parfois drastiquement. À nouveau, il n'y a aucune période transitoire: les choix d'il y a des années vont entraîner des conséquences lourdes sur les années de pension à venir, sans aucune possibilité de recommencer sa vie à zéro.",
+      "Même si un véritable statut d'aidant-proche devait voir le jour demain – même si ce que nous avons lu dans la presse ne le laisse pas vraiment penser – le mal sera déjà fait. Ce sera déjà trop tard. Aujourd'hui, votre réforme à rallonge est toujours plus violente et plus discriminante. Pour nous, il est incompréhensible que des partis qui se disent préoccupés adoptent aujourd'hui un tel projet.",
+      "Enfin, je voudrais évoquer un avis tout récent, unanime, des partenaires sociaux, qui vous demandent d'immuniser les périodes de crédit-temps de fin de carrière dans votre limitation des périodes assimilées. Les partenaires sociaux constatent en effet que dans votre note de politique générale de janvier 2026, il était explicitement prévu une exception pour les crédits-temps de fin de carrière lorsque l'activité est maintenue jusqu'à l'âge légal de la pension.",
+      "Or, même si votre projet de loi maintient l'assimilation, ces périodes continuent cependant d'être comptabilisées dans le pourcentage de limitation des assimilations, ce qui va concrètement réduire les droits à la pension. Le Conseil National du Travail (CNT) l'a clairement souligné: l'interprétation retenue ne correspond ni à l'esprit de la note de politique générale ni à l'accord des partenaires sociaux. Il demande donc d'adapter le projet de loi. C’est pourquoi nous avons déposé en urgence un nouvel amendement en ce sens, afin d’exclure ces périodes de fin de carrière de la limitation des périodes assimilées.",
+      "Je vous remercie de votre attention."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.12",
+     "name": "Nadia Moscufo",
+     "party": "PVDA-PTB",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Madame la présidente, je voudrais avant tout adresser tout mon soutien aux centaines de travailleurs des arts qui sont rassemblés à côté d'ici, place de la Liberté, pour défendre leurs droits et dénoncer votre politique antisociale et anti-travailleurs. Si nous ouvrions les fenêtres de ce Parlement, nous pourrions peut-être même les entendre.",
+      "Ma camarade Amandine Pavet est sur place et m'a transmis le témoignage d'une participante qui prendra la parole. Si cela n'intéresse pas le MR, pas de souci! Cette dernière remarque ne vous visait pas, monsieur Piedboeuf, même si vous faites aussi partie du MR."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "La présidente : Veuillez poursuivre, madame Moscufo."
+    },
+    {
+     "type": "speech",
+     "id": "04.13",
+     "name": "Nadia Moscufo",
+     "party": "PVDA-PTB",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Voici le témoignage recueilli par Amandine Pavet: \"Salut Nadia, je suis Sophie, du secteur culturel. Je suis née en 1969. J'ai effectué toute ma carrière comme comédienne, autrice et metteuse en scène dans le théâtre pour l'enfance et la jeunesse en Belgique francophone. À cause de cette réforme, je vais perdre 19 années de ma carrière. D'après les informations transmises par mon syndicat, je perdrai l'équivalent de 9 années de carrière. Voilà ce que je peux dire, et je ne sais pas quoi ajouter de plus. Je pense que cela suffit comme témoignage pour rendre compte de la vie des artistes. Nous sommes ici nombreux ce matin du secteur jeune public et du cirque à être présents. Ce sont des gens qui sont de ma génération, voire un peu plus âgés. Nous serons très nombreux et très nombreuses à être touchés par cette réforme. Merci beaucoup pour ton soutien et ton aide.\" À toutes les Sophie, je voudrais vraiment transmettre tout le soutien de mon groupe, le PTB, pour leur résistance.",
+      "Ils et elles ont bien raison de se battre. Je vais peut-être réexpliquer qui sont ces travailleurs des arts. Monsieur le ministre, quand vous arrivez ici avec un projet de loi, vous avez eu beaucoup de travail avant, vous, vos collaborateurs, etc. Tout le travail qui est accompli en amont est rémunéré; au contraire d'un artiste qui, pendant toute la période de production pour arriver à son produit fini, travaille, mais n'est pas rémunéré. C'est la raison pour laquelle il recevait une indemnité via notre sécurité sociale. Donc, quand vous dites que vous voulez attaquer les travailleurs des arts, en fait, vous ne valorisez pas le travail, parce que vous leur enlevez une partie de leurs rentrées pendant les périodes où ils travaillaient. Pire encore, vous le faites de manière rétroactive et vous ne voulez pas tenir compte des périodes antérieures à 2024."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.14",
+     "name": "Jan Jambon",
+     "party": null,
+     "role": "government",
+     "lang": "nl",
+     "paragraphs": [
+      "De macht van de manifestanten reikt blijkbaar tot aan de micro hier.",
+      "Madame Moscufo, je tiens à préciser la période. On débute avec le statut des travailleurs et des travailleuses des arts de 2014, et non de 2024."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.15",
+     "name": "Nadia Moscufo",
+     "party": "PVDA-PTB",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Je vous remercie, monsieur le ministre. Avec mon grand âge, il m'arrive souvent de commettre des erreurs en sautant dix ans sans même m'en rendre compte. Vous avez donc tout à fait raison.",
+      "C'est d'autant plus grave, car vous les attaquez de manière rétroactive, en refusant de tenir compte de leurs périodes assimilées antérieures à 2014. Nous avons déposé un amendement, à l'instar d'autres groupes ici, visant simplement à supprimer la limitation des périodes assimilées pour tous ces travailleurs des arts qui ont exercé des activités.",
+      "Les travailleurs des arts ne sont évidemment pas les seuls que vous attaquez. Vous frappez également de plein fouet les aidants proches. Vous plafonnez les périodes assimilées de toutes ces personnes, souvent des femmes, qui ont soit pallié les manquements de la société soit fait le choix de consacrer une partie de leur vie aux soins d'un proche, qu'il s'agisse d'un parent ou d'un enfant. C'est tout simplement scandaleux. Pourtant, chaque parti de l'Arizona avait affirmé, de manière très bienveillante, son souci pour les aidants proches. Or, en réalité, vous n'avez rien fait.",
+      "Au-delà des travailleurs des arts et des aidants proches, c'est toute la classe travailleuse que vous attaquez. C'est votre projet depuis que vous êtes au gouvernement. Pour faire passer la pilule, vous avez inventé un narratif: \"valoriser\" le travail et octroyer des pensions basées sur le travail. Monsieur le ministre, savez-vous qu'aujourd'hui, les pensions sont déjà basées sur le travail? Votre autre narratif consiste à dire que la situation est insoutenable et que nous ne pouvons plus payer les pensions. Or, à part l'Allemagne, nous avons les pensions les plus basses d'Europe. En France, en Allemagne, en Autriche et en Italie, on dépense déjà aujourd'hui le même montant pour les pensions que celui que nous allons consacrer à ces mêmes pensions d'ici 2070.",
+      "Impayables? Pas du tout. Vous faites un choix politique, et vous le faites consciemment parce que vous avez besoin d'argent pour votre autre projet: acheter des armes et militariser la société. Pour ce faire, il y a toujours de l'argent! Mieux, vous êtes prêt à vous endetter pour vous inscrire dans ce projet de société. Les travailleurs n'ont rien à y gagner. Vous avez augmenté le budget que vous voulez consacrer aux dépenses militaires. Or, avec ce que vous voudriez y dépenser en dix ans, on pourrait payer les pensions pour les 30 années à venir.",
+      "Il n'y a pas d'argent, mais le gouvernement Michel, déjà, avait octroyé des cadeaux énormes aux grandes entreprises de ce pays, avec des diminutions de cotisations sociales, à savoir notre salaire indirect, sans conditions. Ces multinationales n'ont ni créé de l'emploi ni financé notre sécurité sociale. Où est notre argent, monsieur le ministre? Le PTB n'est pas le seul à le dénoncer, même la Banque nationale et le Conseil central de l’Économie estiment que ces diminutions de cotisations patronales sont allées directement dans la poche des actionnaires.",
+      "Vous avez face à vous une grande résistance. La première, c'est celle des travailleurs qui se mobilisent depuis des mois et des mois. Le Conseil d'État, lui aussi, est très critique dans son avis, selon lequel votre projet va à l'encontre du principe de la confiance légitime, que vous violez. À cet égard, aucune de vos justifications ne tient la route.",
+      "Avec ce projet, vous voulez couper dans les périodes assimilées, les périodes de chômage, les périodes de prépension – autrement dit, le Régime de Chômage avec Complément d'entreprise (RCC) – et les jours non prestés dans les emplois de fin de carrière. Vous voulez limiter l'assimilation de toutes ces périodes à 20 %, avec une période transitoire que je n'expliquerai pas ici puisque nous avons déjà eu l'occasion d'en parler en commission.",
+      "Vous avez dit, lors du débat en commission, qu'il n'y aurait pas de limitation pour les gens qui auront une pension minimum. Avant tout, j'ai envie de dire qu'il ne manquerait plus que cela. Vous oubliez toutefois d'ajouter que cette absence de limitation est liée à la condition que la ou les personnes concernées aient droit à la pension minimum.",
+      "Tout le monde n'aura donc pas d'office une pension minimum. Quand je vous ai demandé si vous étiez conscient du fait que vos mesures entraîneraient plus de pauvreté, vous avez évoqué le seuil minimum de pauvreté. J'ai alors dû vous réexpliquer, monsieur le ministre, qu'il est aussi possible de vivre dans une certaine pauvreté quand on gagne plus que le salaire minimum. Celui-ci n'est qu'une barre objective, mais on peut aujourd'hui gagner plus que le salaire minimum et ne pas pouvoir se soigner, ne pas pouvoir faire des choix corrects pour ses enfants, ne pas pouvoir les mettre à un stage pendant les périodes de non-scolarité, etc. Il semble toutefois que vous ayez du mal à comprendre ces difficultés. Ou peut-être les comprenez-vous très bien, mais vous tenez néanmoins à votre projet.",
+      "J'évoquais l'exemple d'Anne. Anne a travaillé et a eu six fois un an de chômage dans toute sa carrière. Elle a ensuite travaillé 11 ans à mi-temps, en fin de carrière. Elle a donc eu dix fois une demi-année, soit cinq ans de période assimilée. Elle a quarante-cinq ans de carrière. Avec votre projet, elle perdra 4,4 % de sa pension. Son pouvoir d'achat sera dès lors fortement limité.",
+      "Le Bureau du Plan le confirme également du reste: avec votre mesure, ce sont les pensions les plus basses qui seront touchées, et tous ces travailleurs dont la carrière n'a pas été comme un long fleuve tranquille mais a connu des hauts et des bas, qui bien souvent n'étaient pas liés à un choix personnel, mais à la conjoncture économique. Je pense notamment aux années 1980, où il y a eu une grosse période plus difficile, avec plus de chômage, surtout pour les jeunes. Ces jeunes qui ont dû subir cette période de chômage dans les années 1980, ce sont eux que vous allez pénaliser aujourd'hui.",
+      "Vous pénalisez quelque part les prépensions et les régimes de fin de carrière. Mais en fait, vous touchez ainsi de plein fouet les travailleurs qui ont un métier pénible. Certains au gouvernement avaient promis qu'on allait s'occuper des métiers pénibles; mais au lieu de s'occuper des métiers pénibles, on les pénalise encore plus.",
+      "Il faut quand même appeler un chat au chat. Qui sont les travailleurs qui prennent leur prépension et qui demandent des régimes de fin de carrière? Ce sont ceux qui ont des travaux plus lourds. Plus lourds ne veut pas nécessairement dire physiques. Cela peut aussi être la surcharge mentale.",
+      "Si je prends un ouvrier du bâtiment, monsieur le ministre, qui a eu pas mal de périodes de chômage… Je salue d'ailleurs ces ouvriers du bâtiment, qui doivent continuer à travailler avec cette canicule. Il n'y a pas suffisamment d'inspections pour aller voir sur place comment cela se passe. Ils ont entendu leurs représentants leur dire \"Buvez beaucoup, profitez du soleil et tout ira bien\". Ces gens qui travaillent aujourd'hui dans la canicule, c'est ceux-là que vous allez pénaliser.",
+      "Nous avons eu des retours du terrain de gens qui travaillent en sidérurgie, dans des endroits où il fait parfois 40 ou 42 degrés. Ils travaillent avec des chaussures de sécurité, des combinaisons de protection et des casques, en pleine canicule. On leur propose parfois de faire des pauses supplémentaires, quand il y a une organisation syndicale qui l’impose un peu. Je n'ose imaginer comment cela se passe là où il n'y a pas de représentant syndical.",
+      "Ce sont donc ces ouvriers du bâtiment, ces sidérurgistes que vous allez pénaliser en premier lieu.",
+      "Votre projet de loi, je l'ai déjà dit tout à l'heure, porte atteinte au principe de confiance et de légitimité parce qu'il veut l'imposer de manière rétroactive.",
+      "Vous savez d'ailleurs que nous avons saisi la Cour constitutionnelle à ce sujet. Nous avons déjà beaucoup de soutien des citoyens, qui nous soutiennent dans notre démarche.",
+      "Vous aurez évidemment compris qu'avec tout cela, non seulement nous n'allons pas soutenir votre projet, mais nous avons également déposé un amendement spécifique pour les travailleurs des arts. Et surtout, nous allons continuer à taper sur le clou malgré l'adoption de cette loi. Pour nous, une loi est certes faite pour être respectée mais, lorsqu'elle est inhumaine, nous avons le droit et le devoir, en tant que classe travailleuse, de la supprimer et de la renvoyer à la poubelle.",
+      "Comptez sur nous, nous continuerons à soutenir le mouvement social et à faire entrer ici la lutte des travailleurs, afin de vous mettre face à vos contradictions."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Voorzitter: Peter De Roover, voorzitter."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Président: Peter De Roover, président."
+    },
+    {
+     "type": "speech",
+     "id": "04.16",
+     "name": "Isabelle Hansez",
+     "party": "Les Engagés",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Chers collègues, quelques jours à peine après l'adoption de la réforme des pensions, nous sommes appelés à examiner le premier projet de loi qui en assure la mise en œuvre concrète. Je crois que c'est un moment important. Au-delà des grands principes qui ont animé nos débats ces dernières semaines, en commission comme en séance plénière, ce texte traduit en dispositions législatives une orientation que notre majorité assume pleinement: adapter progressivement notre système de pensions afin qu'il reste à la fois juste, protecteur et durable.",
+      "Lorsque nous parlons des pensions, nous parlons d'abord de femmes et d'hommes qui, après une vie de travail, aspirent légitimement à une retraite digne. Mais nous parlons aussi d'un pilier essentiel de notre sécurité sociale, du premier poste de dépenses de notre État et d'un contrat de solidarité entre les générations. Or ce contrat n'est pas figé. Il doit pouvoir évoluer lorsque les réalités démographiques, économiques et sociales changent. Et force est de constater que ces réalités ont profondément évolué ces dernières décennies. Nous vivons plus longtemps, et c'est plutôt positif. C'est une excellente nouvelle. L'allongement de l'espérance de vie est le fruit des progrès médicaux, de meilleures conditions de vie et d'une protection sociale solide. Mais cette évolution signifie aussi que nous passons davantage d'années à la retraite. Dans le même temps, le rapport entre le nombre de personnes en activité et le nombre de pensionnés diminue progressivement sous l'effet du vieillissement de la population.",
+      "Cette évolution exerce une pression croissante sur le financement de notre système de pensions et nous oblige à réfléchir à la manière d'en assurer la pérennité. C'est un constat largement partagé par les institutions nationales et internationales qui analysent l'évolution de nos finances publiques et de notre système de protection sociale.",
+      "Chers collègues, je ne reviendrai pas sur la réforme des pensions en elle-même. Nos débats, il y a quelques semaines, ont déjà été très riches. Néanmoins, face à cette réalité, force est de constater que deux attitudes sont possibles.",
+      "La première consiste à ne rien faire, à considérer que le système peut demeurer inchangé malgré les transformations démographiques que connaît notre pays, à reporter les décisions, parfois par facilité, parfois par crainte de l'impopularité. Mais chacun sait qu'en matière de pensions, l'inaction n'est jamais neutre. Reporter les adaptations aujourd'hui, c'est prendre le risque d'imposer demain des ajustements beaucoup plus brutaux aux générations futures.",
+      "La seconde attitude consiste à regarder cette réalité en face et à adapter progressivement notre système afin de préserver ce qui fait sa force: la solidarité, la confiance dans le système et sa soutenabilité financière. C'est cette seconde voie que notre majorité a choisie, dans le respect des engagements pris dans l'accord de gouvernement et des objectifs de soutenabilité qui s'imposent à notre pays.",
+      "Le projet qui nous est présenté aujourd'hui poursuit un objectif relativement simple dans son principe, même si sa mise en œuvre est naturellement plus technique. L'idée est de renforcer le lien entre les périodes effectivement travaillées et la constitution des droits à la pension.",
+      "Pendant des décennies, notre système a reconnu un nombre important de périodes assimilées. Cette logique répondait à des objectifs de solidarité parfaitement légitimes. Elle traduisait la volonté de ne pas pénaliser les personnes confrontées à des événements ou à des accidents de la vie qui les empêchaient temporairement de travailler.",
+      "Cette philosophie demeure pleinement au cœur de notre sécurité sociale, et ce projet de loi ne la remet nullement en cause. Je veux insister particulièrement sur ce point, car il est essentiel pour comprendre le texte qui nous est soumis aujourd'hui. Contrairement à ce que certains laissent parfois entendre, cette réforme ne remet pas en question les périodes assimilées liées à la maladie, à l'invalidité, à la maternité ou aux différents congés de soins. Ces périodes continueront à être intégralement prises en compte pour le calcul de la pension.",
+      "Notre majorité a explicitement choisi de maintenir cette protection parce qu'elle considère à juste titre qu'il s'agit de situations socialement justifiées, qui doivent continuer à ouvrir des droits complets à la pension. Les travailleurs confrontés à un problème de santé, les parents qui interrompent leur carrière pour accueillir un enfant ou encore les personnes qui prennent soin d'un proche dépendant ne sont donc pas visés par cette réforme. Les congés pour soins continuent d'être assimilés.",
+      "Le projet se concentre sur un nombre limité de périodes assimilées, principalement certaines périodes de chômage, le régime de chômage avec complément d'entreprise et les dispositifs de fin de carrière. Il ne s'agit pas de supprimer ces assimilations, mais d'en limiter progressivement la prise en compte lorsqu'elles représentent une part très importante d'une carrière. Cette nuance est fondamentale: le texte ne remet pas en cause le principe de l'assimilation; Il en adapte l'ampleur dans certaines situations précises afin de renforcer le caractère contributif d'un système de pension.",
+      "À nos yeux, cette évolution est légitime. Notre sécurité sociale repose sur deux principes, qui ne s'opposent pas, mais qui se complètent: la solidarité et la contribution. La solidarité justifie que certaines périodes d'inactivité continuent d'ouvrir des droits à la pension, et la contribution justifie que le travail effectivement presté conserve une place centrale dans la constitution de ces droits. C'est précisément cet équilibre que recherche ce projet de loi.",
+      "Beaucoup de citoyens comprennent difficilement que des parcours professionnels très différents puissent parfois conduire à des droits relativement proches. Sans remettre en cause la solidarité, il est légitime de reconnaître davantage les périodes qui sont effectivement travaillées. Cette évolution continue à renforcer le sentiment d'équité au sein de notre système de pension, sans renoncer à ses droits fondamentaux.",
+      "Nous nous trouvons face à une réforme qui n'oppose pas solidarité et responsabilité, puisqu'elle cherche au contraire à les concilier. Elle maintient les mécanismes de protection lorsque ceux-ci répondent à une nécessité sociale incontestable, tout en réaffirmant progressivement que le travail effectif constitue le socle principal de l'ouverture des droits à la pension.",
+      "Si cette réforme est équilibrée, c'est aussi parce qu'elle est progressive. Je pense que cet élément doit être souligné en raison des commentaires donnant l'impression que notre majorité aurait décidé de modifier brutalement les règles du jeu. Ce n'est tout simplement pas le cas. Le choix formé aujourd'hui est celui d'une adaptation graduelle, prévisible et ciblée. Une réforme des pensions ne peut jamais s'improviser. Les citoyens doivent connaître les règles qui leur sont applicables suffisamment tôt pour pouvoir organiser leur parcours professionnel.",
+      "C'est pour cette raison que le gouvernement a choisi une mise en œuvre progressive fondée sur l'âge de départ à la retraite. Le projet prévoit ainsi que le pourcentage maximal des périodes assimilées concernées sera fixé à 40 % pour les personnes qui sont nées entre 1961 et 1964 et qui sont donc très proches de la retraite. Ce pourcentage diminuera ensuite progressivement par palier de 5 points jusqu'à atteindre 20 % pour les personnes nées à partir de 1968 et pour lesquelles il reste encore 5 à 9 ans de carrière. Ce choix n'est pas arbitraire, puisqu'il traduit la volonté de tenir compte des attentes légitimes des personnes qui approchent aujourd'hui de l'âge de la retraite, tout en offrant aux travailleurs plus éloignés de la pension un cadre plus clair et prévisible. Chacun sait ainsi plusieurs années à l'avance quelles seront les règles applicables à sa carrière.",
+      "Le législateur a aussi choisi une solution mesurée. Le projet prévoit que seront retirés en priorité les jours assimilés qui produisent le rendement de pension le plus faible. Autrement dit, il ne s'agit pas d'effacer indistinctement les années de carrière, mais de limiter autant que possible l'impact concret de la réforme sur le montant de la pension. Ce choix illustre bien la philosophie générale du texte: adapter le système sans créer d'effets disproportionnés.",
+      "Cette même recherche d'équilibre se retrouve dans de nombreuses exceptions prévues par le projet de loi dont nous avons déjà discuté aujourd'hui. Le texte tient compte des réalités de certaines professions ou situations particulières, comme le chômage temporaire, les travailleurs portuaires, les pêcheurs reconnus ou encore les travailleurs des arts.",
+      "Là encore, notre majorité a privilégié une approche nuancée plutôt qu'une règle uniforme. J'entends bien les inquiétudes légitimes qui sont exprimées aujourd'hui concernant les travailleurs des arts. Je voudrais être claire: personne au sein des Engagés ne balaie cette problématique d'un revers de la main. Nous n'avons pas attendu ce débat pour nous intéresser aux travailleurs des arts. Nous avons toujours défendu la reconnaissance des spécificités de leur carrière, aussi bien en commission qu'en séance plénière, parce que la culture est une richesse pour notre pays et que les carrières artistiques ne sont pas des carrières comme les autres. C'est précisément pour cette raison que nous suivons ce dossier depuis plusieurs semaines, tant au niveau fédéral qu'au niveau de nos entités fédérées.",
+      "Notre ministre président de la Fédération Wallonie-Bruxelles, Élisabeth Degryse, l'a d'ailleurs rappelé publiquement avec beaucoup de clarté. La question des carrières artistiques antérieures à 2014 mérite une réponse, et nous serons particulièrement vigilants sur ce point. Cette préoccupation est aujourd'hui pleinement identifiée au sein du gouvernement fédéral. Des discussions sont en cours. Une notification gouvernementale acte la recherche d'une solution avant l'entrée en vigueur de la réforme et avant que ses premiers effets ne se produisent en 2027."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Mevrouw Hansez, soms worden er vragen gesteld over iets wat later gezegd wordt, zoals bij debatten als die over de regeringsverklaring waarbij er soms ruimte is voor ononderbroken betogen, maar nu is het tijd om mevrouw Schlitz en de heer Dermagne het woord te geven."
+    },
+    {
+     "type": "speech",
+     "id": "04.17",
+     "name": "Sarah Schlitz",
+     "party": "Ecolo-Groen",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Madame Hansez, je suis très déçue de ce que j'entends ce matin. Les membres de votre parti – vous avez cité Mme Degryse, mais on entend aussi M. Coppieters – s'expriment avec pugnacité pour soutenir les artistes, en affirmant à quel point vous serez attentifs et ferez tout pour protéger leur pension, mais je constate qu'en réalité vous ne venez avec rien. Vous ne venez avec rien d'autre que des promesses en l'air et des belles paroles. Vous êtes en train de nous dire, et je n'en reviens pas, que vous allez voter ce texte et que vous reviendrez peut-être par la suite avec une évaluation.",
+      "C'est toujours la même chose avec Les Engagés: vous laissez passer les mesures antisociales, la casse sociale ainsi que tous les projets du MR et de la N-VA qui se frottent les mains. Vous êtes là et vous dites: \"Oh, mais on ira chercher des compensations plus tard\". Vous avez déjà procédé de la sorte pour les aidants proches, et il n'y a toujours rien sur la table. Comment voulez-vous que la population vous fasse confiance?",
+      "Aujourd'hui, madame Hansez, il y a la possibilité de voter des amendements pour protéger les artistes et les travailleurs des arts, afin de faire en sorte que leurs périodes de travail effectif soient reconnues. Par ailleurs, vous nous parlez de responsabilité. Est-il bien responsable de changer les règles en cours de route, alors que vous savez très bien qu'il est impossible pour ces personnes de revenir en arrière? Comment pouvez-vous nous dire ici, droit dans les yeux, que cette réforme est juste et nécessaire, alors que tout ce que vous faites, c'est surfer sur la haine envers les demandeurs d'emploi que vous attisez vous-mêmes? Vous le savez très bien, et c'est cela qui est électoraliste. Par contre, ce qui est impopulaire dans ce pays, c'est de défendre les malades de longue durée, les chômeurs et les travailleurs. Vous le savez fort bien.",
+      "Aujourd'hui, vous allez chercher l'argent chez ceux qui n'en ont pas. Vous appauvrissez des pensionnés et jetez des personnes dans la misère pour équilibrer, soi-disant, un budget, alors que vous connaissez parfaitement les vraies réformes à mettre en place. Alors, ne nous dites pas aujourd'hui que cette mesure est juste et nécessaire, car c'est inaudible!",
+      "Madame Hansez, voterez-vous, oui ou non, notre amendement?"
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.18",
+     "name": "Pierre-Yves Dermagne",
+     "party": "PS",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Madame Hansez, vous avez dit à plusieurs reprises \"notre majorité\" en défendant les projets de loi déposés par le ministre Jambon en matière de pensions, avec toutes les conséquences que l'on connaît pour les travailleuses et les travailleurs de ce pays, pour les pensionnés, celles et ceux qui le sont déjà ou qui le seront dans quelques semaines, dans quelques mois ou encore dans quelques années, et pour lesquels vous changez les règles en cours de route. Pour eux, il n’y aura aucune possibilité de s’adapter, alors même que le ministre Jambon avait appelé les femmes de ce pays à le faire il y a quelques mois.",
+      "Sous la précédente législature, j'ai eu l'honneur et la fierté de me battre, avec certains collègues, pour réformer fondamentalement le statut d'artiste, devenu le statut des travailleurs et travailleuses des arts. Nous avons notamment élargi l'ensemble des bénéficiaires en y incluant les techniciennes et techniciens, en faisant en sorte que toute une série de disciplines soient désormais reconnues comme artistiques et culturelles, qui ouvrent le droit au bénéfice du statut.",
+      "Nous avions une idée en tête, celle de considérer que les artistes de ce pays, les travailleuses et les travailleurs des arts, sont des travailleurs à part entière, malgré les spécificités de leur profession, à savoir l'intermittence, le travail invisibilisé, le morcellement des prestations ainsi que toute une série de tâches et de prestations qui, jusqu'à récemment, n'étaient pas indemnisées et qui le sont désormais grâce à l'évolution du statut.",
+      "Nous avons déjà dû faire obstacle à toute une série de mesures, directes ou indirectes, qui s'attaquaient à ce statut et, par conséquent, aux conditions de travail et de rémunération des travailleuses et des travailleurs des arts. Nous avons dû intervenir à plusieurs reprises – comme nous l'avons fait dans le dossier des aidants proches – pour que vous ouvriez les yeux et que vous preniez conscience des conséquences de ce que vous étiez en train de voter.",
+      "Aujourd'hui, nous sommes à nouveau dans la même situation. Je viens d'ailleurs de quitter la mobilisation des artistes et de leurs représentantes et représentants, place de la Liberté. On m'y a demandé ce que Les Engagés allaient faire après les déclarations dans la presse de la ministre-présidente et, par ailleurs, ministre de la Culture de la Fédération Wallonie-Bruxelles, qui s'est dit très préoccupée par les conséquences des textes que votre majorité défend.",
+      "Ces acteurs du monde culturel m'ont demandé ce que Les Engagés allaient faire. Je leur ai répondu que la situation était simple: toute une série d'amendements sont sur la table et répondent précisément aux inquiétudes et aux préoccupations exprimées par la ministre-présidente et ministre de la Culture de la Fédération Wallonie-Bruxelles.",
+      "Madame Hansez, le problème est donc très simple à résoudre car il n'y a pas de solution à aller chercher ailleurs ni de nouvelle solution à construire: elles existent déjà. Mme Désir a rappelé il y a quelques instants que nous avons à nouveau déposé une série d'amendements afin que les conséquences négatives des réformes de votre majorité en matière de pension pour les travailleurs des arts soient supprimées.",
+      "Il est possible de faire en sorte que les actes que vous posez ne soient pas préjudiciables pour celles et ceux qui manifestent en ce moment pour défendre leur situation actuelle, mais aussi leur avenir, pour l'avenir de la profession et du secteur culturel dans notre pays.",
+      "Madame Hansez, qu'allez-vous faire demain, lors des votes? Allez-vous voter en faveur de cette solution qui éviterait que vos décisions et celles de votre majorité ne soient préjudiciables à ces travailleurs à part entière, mais particuliers vu leur métier et leur secteur d'activité, que sont les travailleuses et les travailleurs des arts.",
+      "Vous avez appelé à la responsabilité, je vous appelle à la cohérence. La cohérence entre les paroles et les actes, entre les déclarations de certains de vos représentantes et représentants et les actes que vous allez être amenés à poser au sein de cette Assemblée. J'en appelle, comme les artistes qui manifestent ce matin, à la cohérence des Engagés entre leurs prises de position et leurs actes."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.19",
+     "name": "François De Smet",
+     "party": "DéFI",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Madame Hansez, c'est le cœur du débat. Votre majorité et le gouvernement nous disent qu'il n'y a pas moyen d'intégrer les périodes précédant 2014 et l'adoption du statut, et nous sommes un certain nombre à penser que c'est tout à fait possible, car l'ONEM a les informations. On a les codes qui permettraient, entre 1991 et 2014, d'intégrer les artistes et donc de mettre fin à cette discrimination qu'établit ce texte entre les artistes, les marins-pêcheurs et les dockers.",
+      "Quand je vous entends, ainsi que le MR, dire qu'il faudra plus tard être attentif et qu'il faudra évaluer, je ne suis pas dupe. Pour tous les gens qui manifestent et les artistes qui sont inquiets, c'est effectivement difficilement supportable. Dire qu'on va évaluer, faire en sorte de corriger les choses après avoir voté en faveur de cette discrimination, c'est le langage de la défaite. C'est le langage de partis qui ont décidé d'abandonner les artistes en rase campagne.",
+      "Pour une fois, n'avez-vous pas envie d'assumer, plutôt que d'être perpétuellement le parti des balises, des évaluations, des carabiniers d'Offenbach? Vous pourriez assumer et dire que vous avez perdu, que vous savez que les évaluations promises n'arriveront jamais. Ou bien êtes-vous condamnés à être l'éternel service après-vente des attaques contre les artistes?"
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.20",
+     "name": "Nadia Moscufo",
+     "party": "PVDA-PTB",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Madame Hansez, contrairement à mes collègues, je ne vais pas vous demander comment vous allez voter, parce que je sais ce qu'il en sera. Oui, comme toujours depuis que vous êtes ici, vous allez voter pour. Je ne sais pas comment vous le vivez personnellement, mais je vous le dis chaque fois: la question n'est pas personnelle; elle est très politique. On vous demande d'être cohérente. Moi, je vous le dis, je pense que vous êtes cohérente et je vais tenter de vous expliquer pourquoi. Ce n'est que mon avis.",
+      "Vous êtes cohérente parce que, comme groupe, vous ne remettez pas fondamentalement en question les choix politiques à arrêter dans la Belgique d'aujourd'hui. Je parle du choix politique fondamental qui consiste à déterminer qui va payer cette crise, qui va payer le choix de la militarisation. Sur cette question, vous êtes en étroit accord avec tous les autres partis de votre majorité. Ce que vous essayez de faire, et vous en tirerez le bilan, c'est d'ajouter quelques miettes à gauche et à droite, mais vous vous faites toujours bouffer. Et c'est bien normal de la part de vos partenaires, parce qu'ils sont convaincus de leur ligne. Eux vont un pas plus loin que vous et ne veulent pas de ces petits morceaux.",
+      "Monsieur le président, ce n'est donc pas la question que j'allais poser à Mme Hansez, mais j'en ai quand même quelques unes à lui adresser.",
+      "Comment expliquez-vous que, comme cela a aussi été dit par mes trois collègues, on ne commence jamais par analyser la situation concrète avant de prendre des décisions qui, fondamentalement, vont de toute façon à l'encontre des intérêts des personnes que l'on attaque? Comment l'expliquez-vous? Si ce n'est pas votre avis personnel et que vous n'avez peut-être pas réussi à imposer cette position au sein de votre groupe et auprès des différents partis, comment justifier le raisonnement suivant: \" Nous allons d'abord élaborer la loi, puis nous verrons ensuite comment arrondir les angles \" ? Voilà ma première question.",
+      "Deuxième question. Tout à l'heure, M. Piedboeuf a dit qu'il voulait rester attentif à la question des travailleurs des arts. Il a fait référence à une activité qui va se dérouler dans sa région – je ne sais plus exactement laquelle, certainement quelque chose de très chouette – et il a précisé qu'il ne fallait pas de mesures générales, mais des mesures ciblées, parce que l'attaque menée contre les travailleurs des arts ne touche pas tout le monde, mais seulement quelques personnes. Savez-vous combien de Sophie – puisque j'ai donné l'exemple de Sophie tout à l’heure – seront touchées par cette mesure?",
+      "Enfin, j'ai une autre question. Tout à l'heure, j'ai dit au ministre que, lorsque l'Arizona présente ici un projet de loi, celui-ci est le résultat de tout un travail en amont, pour lequel toute les contributeurs ont été payés. Pour les artistes, la situation est différente: tout le travail accompli avant le \"produit fini\" n'a pas été rémunéré, mais a été compensé par un revenu de notre sécurité sociale. Considérez-vous que le revenu – je n'ose pas parler de \"bon revenu\", car il ne s'agit en réalité que d'un montant de survie – reçu par les travailleurs des arts est une compensation à un travail concret? La question se pose d'autant plus que, lorsque vous proposez collectivement un projet de loi, il s'agit très souvent d'un projet qui va à l'encontre de la classe travailleuse et de la démocratie. C'est tout le contraire des travailleurs des arts, qui jouent un rôle crucial dans la défense de notre démocratie et de la culture pour tous.",
+      "Je voudrais enfin évoquer les aidants proches. Madame Hansez, je dois dire que c'est vraiment scandaleux – je ne trouve pas d'autre mot. En tant que groupe, vous avez prononcé toutes sortes de déclarations au sujet de ces femmes qui gardent leur enfant handicapé ou leur parent qui n'est plus autonome, mais vous les attaquez maintenant de plein fouet. Vous continuez à affirmer que vous allez trouver une solution, mais chaque nouvelle proposition de loi les impliquant est une véritable attaque en règles. Comment croyez-vous vous en sortir de la sorte?"
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.21",
+     "name": "Isabelle Hansez",
+     "party": "Les Engagés",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Il y avait beaucoup de questions. Je reviens à la question principale: voterons-nous le texte, ou pas? Oui, nous voterons le texte. Mais, comme je l'ai déjà précisé tout à l'heure, il est clair que cela ne veut pas dire que nous devions abandonner une réforme à la première difficulté.",
+      "L'exception, c'était de considérer les travailleurs des arts à partir de la législation 2014. Nous entendons bien les préoccupations. Je pense que les travailleurs des arts méritent mieux que des effets de tribune ou des communications parfois réductrices sur les réseaux sociaux. Il est vrai que c'est un secteur que..."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.22",
+     "name": "Pierre-Yves Dermagne",
+     "party": "PS",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "(…)"
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.23",
+     "name": "Isabelle Hansez",
+     "party": "Les Engagés",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Je suis bien consciente que les travailleurs des arts ont des spécificités, comme vous l'avez précisé, monsieur Dermagne. Nous avons justement longtemps travaillé sur les conditions de travail et le principe de flexicurité avec les artistes, notamment inscrits chez Smart, voici quelques années. Je pense que je connais bien ce dossier.",
+      "Il est certain que nous devons trouver une solution. Vous dites que c'est simple, qu’il y a des amendements, mais nous sommes aussi dans un contexte budgétaire compliqué. Je pense qu'il faut vraiment que le gouvernement travaille aujourd'hui à une solution. Nous avons déjà souligné à plusieurs reprises qu'il fallait vérifier comment cibler les prestations depuis 1991. Les administrations disent que c'est difficile. Nous sommes réceptifs. Nous pouvons écouter le terrain et les préoccupations. En tout cas, je considère qu'il faut que le gouvernement trouve une solution.",
+      "Les Engagés n'ont clairement de leçon à recevoir de personne lorsqu’il s'agit de défendre à la fois la soutenabilité de notre sécurité sociale et la prise en compte de situations particulières et spécifiques qui méritent d'être corrigées. C’est cela, gouverner avec responsabilité."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.24",
+     "name": "Benoît Piedboeuf",
+     "party": "MR",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Chère collègue, vous avez décrit quel est le problème, sans le préciser tout à fait. L'ONEM nous dit qu'avant 2014, il ne dispose pas des mesures. Il est étonnant qu'une administration puisse dire qu'elle ne dispose pas des mesures antérieures à 2014. C’est le problème technique qu'il faut régler; parce qu'avant 2014, s'il n'y a pas de données, peut-être les artistes doivent-ils pouvoir apporter la preuve contraire.",
+      "Il va falloir régler ce problème technique, et ce n'est pas avec un amendement que nous allons le régler."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.25",
+     "name": "Sarah Schlitz",
+     "party": "Ecolo-Groen",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Je remercie le collègue Piedboeuf d'apporter des éléments concrets au débat. Je pense qu'il est intéressant de voir où en est la réflexion. Néanmoins, dans ce cas, il faut mettre cette réforme sur pause. On ne peut pas adopter ce texte aujourd'hui en promettant de le corriger par la suite. Ce n'est pas ainsi que l'on gouverne.",
+      "Il faut suspendre cette réforme, entreprendre les démarches nécessaires pour s'assurer que les situations concernées seront effectivement immunisées, puis reprendre vos travaux.",
+      "Par ailleurs, la rétroactivité n'est pas acceptable. C'est un coup de couteau porté au contrat entre les citoyens et l'État. On ne peut pas dire à des personnes qu'elles pourront faire valoir certaines années en fin de carrière lorsqu'elles réduisent leur activité, puis revenir sur cet engagement. Ce n'est pas normal. On ne peut pas gouverner de cette manière.",
+      "Je pense que vous devez tout simplement revoir votre copie. Comme le collègue Piedboeuf l'a rappelé tout à l'heure, il n'y a pas le feu: la réforme n'entrera en vigueur qu'en 2027 et vous disposez encore de six mois pour apporter les corrections nécessaires."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.26",
+     "name": "Pierre-Yves Dermagne",
+     "party": "PS",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Madame Hansez, j'ai de plus en plus l'impression que Les Engagés deviennent le parti \"Tipp-Ex\" de cette majorité, en essayant de corriger les conséquences de décisions et d'actes que vous posez quand on vous ouvre les yeux, avec la société civile, les syndicats, les représentants des aidants proches ou avec les travailleurs et les travailleuses des arts.",
+      "Quand on fait de la politique, quand on vote des textes, quand on soutient ou défend des réformes, on veille à en connaître toutes les conséquences à l'avance. D'abord en tant qu'hommes et femmes politiques, afin de mesurer la portée des décisions que l'on prend et des textes que l'on vote, mais surtout pour les personnes concernées.",
+      "C'est d'autant plus vrai lorsqu'il est question de travail et de pension de retraite. En effet, de nombreux travailleurs et travailleuses ne pourront pas adapter leur comportement, faute de temps ou parce qu'ils ne seront tout simplement plus en mesure de le faire.",
+      "J'en appelle vraiment à cette majorité, et particulièrement à vous, madame Hansez, ainsi qu'aux Engagés. Ne votez pas ce texte ou votez notre amendement qui fera en sorte qu'il n'y ait pas de conséquences directes pour les travailleurs et les travailleuses des arts, qui bénéficient du statut depuis avant 2014.",
+      "Enfin, je remarque qu'avec cette majorité, c'est deux poids deux mesures. Quand il s'agissait de décider d'un double saut d'index partiel, et que les partenaires sociaux, syndicats, patronat et secrétariats sociaux ont dit que cela allait être un bordel sans non, que cela allait être inapplicable, que c'était impossible de pouvoir opérer ce double saut d'index partiel tel que vous l'avez décidé, vous avez dit que ce n'était pas grave, que c'était facile et que vous alliez y arriver et trouver des solutions. Force est de constater que vous êtes en train de trouver des solutions pour aller chercher l'argent dans la poche d'un travailleur ou d'un pensionné sur deux.",
+      "Nous vous demandons de trouver une solution, ou en tout cas de ne pas causer un problème. La solution est claire, il s'agit de voter les amendements qui seront sur la table demain et d'enfin être cohérent avec les positions que vous prenez publiquement. Ces positions sont des effets de manches et des prises de parole via des tribunes ou par presse interposée. C'est sur la base des actes que vous poserez ici que nous jugerons votre cohérence et le soutien – ou son absence – que vous accorderez aux travailleuses et aux travailleurs des arts."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.27",
+     "name": "François De Smet",
+     "party": "DéFI",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Je conteste vraiment fermement l'argument technique que la majorité nous oppose depuis le début, selon lequel il serait impossible d'identifier les prestations artistiques entre 1991 et 2014. Au fond, comme dirait M. Piedboeuf, c'est parce que l'ONEM ne serait pas capable de nous délivrer ces codes que cette discrimination dans le projet de loi existe. Comment expliquer alors que le secteur a fait l'exercice, identifie le codage par lequel l'ONEM identifie depuis 1991 les jours d'indemnisation propres aux artistes? Ce n'est pas compliqué, c'est dans l'arrêté royal du 25 novembre 1991. C'est la neutralisation de la dégressivité. C'est l'ancienne règle du cachet.",
+      "Ces données existent donc, parce que le régime existait. Donc j'insiste, les données existent. Ce qui manque, c'est la volonté politique. N'allez pas vous cacher derrière un argument technique pour masquer le fait qu'il n'y a pas de volonté politique de s'occuper des artistes dans la période entre 1991 et 2014. S'il vous plaît, au moins, assumez-le."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Le président : Chers collègues, nous avons un débat intéressant concernant les artistes."
+    },
+    {
+     "type": "speech",
+     "id": "04.28",
+     "name": "Isabelle Hansez",
+     "party": "Les Engagés",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Pour terminer sur les spécificités, les situations particulières, comme d'autres l'ont souligné, très clairement, dans ces secteurs, les périodes d'inactivité font partie du fonctionnement normal de l'activité professionnelle et répondent à des réalités très particulières. M. De Smet dit qu'on peut assez facilement les identifier. Je pense qu'il faudra analyser la situation.",
+      "Ce texte prévoit une exception pour certaines périodes de mise au travail des chômeurs, ainsi que pour les travailleurs à temps partiel qui bénéficient du maintien de leurs droits. Il faut donc reconnaître que ces exceptions démontrent que notre majorité n'a pas retenu une approche uniforme – elle est sûrement améliorable en fonction de certaines situations – mais qu'elle a, au contraire, cherché à tenir compte de la diversité des situations professionnelles. Une bonne réforme n'est pas une réforme qui traite indistinctement toutes les situations; c'est une réforme qui distingue les différentes réalités. Nous l'entendons aussi.",
+      "Le texte comporte aussi – parce qu'il n'y a pas que de mauvaises choses – d'importants correctifs sociaux. Il faut quand même retenir que les bénéficiaires de la pension minimum garantie ne sont pas concernés par cette limitation et que le filet de sécurité constitué par la GRAPA est intégralement maintenu.",
+      "Évidemment, comme toute réforme des pensions, elle suscite des interrogations. Certains y verront une remise en cause des droits acquis, d'autres considèreront qu'elle ne va pas suffisamment loin. Pour notre part, nous pensons qu'il faut éviter ces deux caricatures.",
+      "Je rappelle que cette réforme doit être comprise dans son ensemble. Elle s'inscrit dans une réforme plus globale des pensions, mais également, d'autres l'ont rappelé, dans une politique qui vise à renforcer le taux d'emploi, à favoriser des carrières plus longues lorsque cela est possible, à instaurer de la gestion des âges pour faciliter les conditions de travail de fin de carrière, et donc améliorer les conditions permettant à chacun de rester durablement actif. Je reste persuadée qu'une action sur le marché de l'emploi, les conditions de travail, l'accompagnement et la durabilité de la carrière est tout aussi primordiale.",
+      "Les politiques de pension, d'emploi, de prévention sur les lieux de travail doivent vraiment être pensées de manière très cohérente. Nous en sommes persuadés. C'est cette cohérence, en tout cas, qui nous permettra de répondre durablement aux défis du vieillissement de la population. Tel est bien l'esprit de la réforme: elle ne remet pas en cause notre modèle social, mais cherche à lui permettre de continuer à remplir sa mission dans les décennies à venir. Je me répète car c'est important: elle affirme qu'il est légitime de maintenir une protection pleine et entière pour les périodes de maladie et d'invalidité, de maternité ou de soins. Elle affirme également qu'il est légitime de reconnaître davantage les périodes effectivement travaillées dans la constitution des droits à la pension. Beaucoup de citoyens partagent aussi cet avis-là.",
+      "Ces deux principes ne sont pas contradictoires, mais complémentaires. Ils traduisent notre volonté de préserver un équilibre entre solidarité et responsabilité, entre protection sociale et valorisation des années de travail, entre les droits des pensionnés d'aujourd'hui et ceux des générations qui prendront leur retraite demain.",
+      "La véritable menace pour notre modèle social, ce n'est pas la réforme, c'est l'immobilisme. Nous devons avancer, car un modèle social qu'on refuse d'adapter finit toujours par s'affaiblir. Nous formons aujourd'hui un autre choix, c'est celui de préserver notre sécurité sociale en lui offrant les moyens de durer C'est au nom de cette conviction que nous, Les Engagés, soutiendrons ce projet de loi."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.29",
+     "name": "Anja Vanrobaeys",
+     "party": "Vooruit",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de voorzitter, collega’s, mijnheer de minister, zoals ik al eens verteld heb, organiseer ik regelmatig pensioenavonden. In september start ik die weer op. Als ik dan aan de mensen in de zaal vraag of ze vinden dat wie meer werkt, recht heeft op een beter pensioen, steekt iedereen zijn hand omhoog. Als ik vervolgens vraag of ze vinden dat iemand die langdurig ziek geweest is door kanker, of een bouwvakker die maandenlang tijdelijk werkloos is door vrieskou – of actueler, door een hittegolf – of iemand die voor een ziek kind, zieke partner of ouder zorgt, daarvoor gestraft moet worden in het pensioen, dan is het antwoord negatief, want ze vinden dat die periodes evenzeer moeten meetellen.",
+      "Dat is de oefening die voorligt, daar gaat het wetsontwerp vandaag over. Uiteraard moet werken lonen, maar met Vooruit hebben we gestreden voor een aantal cruciale sociale correcties. Ik ben dan ook opgelucht dat de periodes van ziekte, tijdelijke werkloosheid en zorgverlof niet beperkt worden en nog steeds volledig gelijkgesteld worden voor de berekening van het pensioen.",
+      "Dat zijn niet de enige correcties. Met Vooruit hebben we gestreden voor een aantal sociale correcties die echt wel het verschil maken. Een belangrijke correctie waarop ik wil ingaan en waarover ik nog niet heb horen spreken, geldt voor de onvrijwillig deeltijdse werknemers. Het gaat om de periodes waarin werknemers, vooral vrouwen, onvrijwillig deeltijds werken met behoud van een uitkering. We beschermen hen door ook die periodes volledig mee te tellen voor het pensioen. Dat gaat over tienduizenden kassiersters, huishoudhulpen en zorgpersoneel, mensen die jarenlang deeltijds hebben gewerkt, niet omdat dat hun eigen keuze was, maar omdat het hun werkgever goed uitkwam om hen flexibel te kunnen inzetten, nu eens ’s morgens, dan weer ’s avonds, soms verspreid over verschillende winkels of over verschillende woonzorgcentra van de koepel. Mensen die zich hun hele leven flexibel hebben opgesteld, moeten volgens ons beschermd worden. Die periodes van werkloosheid moeten dan ook gelijkgesteld blijven.",
+      "Nog een belangrijk punt, dat wel al verschillende keren is aangehaald, is dat het minimumpensioen beschermd blijft. Met de vorige regering hebben we het minimumpensioen verhoogd. Daardoor is het armoederisico bij gepensioneerden bijna gehalveerd. België doet het daarmee stukken beter dan onze buurlanden. We beschermen die mensen, opnieuw vooral vrouwen, door geen beperking van de gelijkgestelde periodes toe te passen wanneer mensen recht hebben op een minimumpensioen. Dat is toch een blijvende versterking.",
+      "Bovendien zetten we daarmee ook iets recht wat we met Vivaldi hebben gedaan. Voor het minimumpensioen werd ziekte via een heel ingewikkelde berekening geneutraliseerd. Voortaan wordt ziekte, met deze hervorming, voor de berekening van het minimumpensioen volledig gelijkgesteld. Dat lijkt ons ook logisch. Het minimumpensioen is bedoeld voor mensen met onderbroken loopbanen, die werkloosheid afwisselen, soms met precaire contracten, maar ook voor mensen die al eens ziek uitvallen. Ik ben het volledig eens met wat men in die zaal opmerkt, namelijk dat wie ziek wordt en uitvalt, daarvoor niet mag worden gestraft.",
+      "Dat betekent niet dat we op sommige punten niet graag verder waren gegaan. Dat steek ik niet onder stoelen of banken, we hebben daarover al gecommuniceerd. We hadden heel graag gezien dat de landingsbanen gelijkgesteld zouden worden. We hebben daarin een moeilijke keuze moeten maken. Ik heb in de commissie uitgelegd dat de sociale partners twee zaken hadden gevraagd, namelijk de gelijkstelling van de landingsbanen en de gelijkstelling voor onvrijwillig deeltijds werkenden met een werkloosheidsuitkering. Dat is een moeilijke keuze, maar we vonden dat we op die manier, ook omdat er geen cap is en er nog altijd een gelijkstelling geldt gedurende 16 jaar, of op termijn 8 à 9 jaar, de landingsbanen toch nog altijd gelijkstellen. Er is ook dat hogere fictieve loon, via het koninklijk besluit, waarop de landingsbanen worden gelijkgesteld wanneer men tot aan de wettelijke pensioenleeftijd doorwerkt. We vonden dat we op die manier een grotere groep mensen beschermden.",
+      "Mijnheer de minister, de sociale partners hebben vanmorgen, vanuit de Nationale Arbeidsraad, een unanieme brief geschreven. Zowel de vakbonden als de werkgevers erkennen daarin dat uw koninklijk besluit waarmee de landingsbanen aan een hoger fictief loon worden gelijkgesteld, een goede stap is en aan hun sociaal akkoord beantwoordt. Toch vinden zij dat die regeling in dit wetsontwerp moet worden doorgetrokken. Die brief dateert van vanmorgen. Mijn vraag aan u, mijnheer de minister, is dan ook wat uw antwoord daarop is. Hoe zult u reageren op die brief van de sociale partners?",
+      "Tot slot, er is hier vanmorgen al veel gezegd. Het hele debat ging bijna uitsluitend over de kunstenaars. Ze voeren inderdaad actie buiten op het Vrijheidsplein. Daarover wil ik twee dingen zeggen.",
+      "Wij hebben met Vooruit, en zeker met onze minister, altijd gevochten voor een goede bescherming van kunstenaars. Het kunstwerkattest en het kunstwerkstatuut zijn geen privileges, maar een erkenning van een andere arbeidsrealiteit.",
+      "Ik heb dat destijds, tijdens de coronaperiode, al uitgelegd in de discussies over de kunstenaars. Een keukenbouwer die een offerte maakt, plannen uitwerkt en in zijn atelier de keukenkastjes op maat zaagt, wordt voor al dat voorbereidende werk betaald. Een kunstenaar wordt voor dat voorbereidend werk vaak niet betaald. Dat betreur ik. Ik vind ook dat op het vlak van de statuten nog het een en ander mag veranderen. Men kan niet alle onrechtvaardigheden op de arbeidsmarkt via de pensioenen opvangen. Daarom is het belangrijk dat ook aan een beter statuut wordt gewerkt.",
+      "Het is echter zo dat kunstwerkers voor hun voorbereidend werk vaak helemaal niet worden betaald en alleen voor de dag van hun prestatie worden vergoed, en onvoldoende worden betaald. Dat voorbereidend werk wordt zeker niet altijd meegerekend.",
+      "Ik vind dat in het debat van vandaag de indruk wordt gewekt dat er in dit wetsontwerp niets gebeurt voor de kunstwerkers. Dat is een verkeerd beeld. Tijdens de pensioenonderhandelingen is er heel hard gevochten om de pensioenen van de kunstwerkers te beschermen. De volledige periode waarin iemand onder het kunstwerkstatuut met werkloosheid valt, wordt gelijkgesteld. Daarop wordt geen beperking toegepast via de cap. Die periode telt bovendien, als men het in zijn geheel bekijkt, ook mee voor de malus. Dat vind ik ook een belangrijke verbetering. Bovendien geldt voor hen nog altijd een soepelere regeling voor de berekening van het minimumpensioen. Ook die regeling blijft behouden. Daar heeft Vooruit heel hard voor gestreden. Dat zijn zeer belangrijke garanties. Ik heb die elementen vandaag in het debat echt niet horen terugkomen. Het zijn nochtans heel belangrijke garanties voor de kunstsector en de cultuursector, die toch gekenmerkt worden door vaak precaire contracten.",
+      "Dat neemt niet weg dat er inderdaad een aantal bezorgdheden zijn. We nemen die bezorgdheden van de kunstsector ernstig. Mijnheer de minister, ik had begrepen dat er binnen de regering is overeengekomen om nog overleg te plegen, om verder te onderzoeken of elke kunstwerker effectief voldoende wordt afgedekt door de uitzonderingen die we al hebben voorzien en of er desgevallend vóór de inwerkingtreding van die maatregel moet worden bijgestuurd. Die beslissing is nog maar vrij recent genomen en daarover is heel wat debat gevoerd. Mijn vraag aan u is dan ook hoe u de situatie concreet ziet. Wanneer zult u dat overleg met de sector opstarten? Op welke manier zal dat worden beoordeeld? Welke parameters worden daarvoor naar voren geschoven? Wat is de timing en het verloop van die procedure?"
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.30",
+     "name": "Meyrem Almaci",
+     "party": "Ecolo-Groen",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mevrouw Vanrobaeys, ik waardeer u enorm en ik weet dat u iemand bent met een hart voor de sociale zaak en voor vakbondsmensen. Toch moet ik hierop reageren. In het begin hebt u verwezen naar de maatregelen rond deeltijds werkende vrouwen en ook hier verwijst u naar het feit dat het niet allemaal kommer en kwel is en dat u toch een aantal zaken uit de brand hebt kunnen slepen. Zowel in de stad Antwerpen als in de Vlaamse regering en ook hier op federaal niveau gaat wat cultuur betreft het spreekwoord ‘Alles van waarde is weerloos’ zeker op. Alles wat artistiek is, is opgejaagd wild onder de arizonaregeringen, of het nu in de stad Antwerpen, in Vlaanderen of hier federaal is. Ik zeg dat opnieuw met de grootste waardering voor u als persoon en voor de strijd die u voert.",
+      "Alle maatregelen die de regering heeft genomen om te remediëren, of het nu gaat over deeltijds werkende vrouwen of over mensen in de kunstensector, zijn gemorrel in de marge. De harde realiteit is dat alles van vóór 1 maart 2014 niet langer volledig wordt meegeteld. Dat moeten u als socialist en ik als groene met een sociaal hart die al heel haar leven ook een sociale strijd voert, toch zien als een fundamenteel en pijnlijk probleem. Het is een probleem waarvoor mensen bereid zijn naar het Grondwettelijk Hof te stappen. De Raad van State zegt dat het risico van discriminatie en derhalve van vernietiging door het Grondwettelijk Hof dermate groot is dat u die maatregelen niet mag nemen. Dat is de kritiek van de Raad van State. Bij elke rechtgeaarde socialist moeten dan toch de alarmbellen afgaan. Dan kunt u toch niet zeggen dat het glas halfvol is en dat er hier en daar nog wel wat positieve zaken zijn gebeurd. Dit is een verschrikkelijke hervorming voor deeltijds werkende vrouwen en voor kunstwerkers.",
+      "De kritiek van de Raad van State is vernietigend: de hervorming is onvoldoende objectief gemotiveerd en het risico op discriminatie voor die groep, die onevenredig hard wordt getroffen, is immens. Volgens het Rekenhof levert ze een marginale financiële winst op en daarvoor creëert u vandaag een vertrouwensbreuk en gooit u het sociaal contract overboord, met de steun van de Vlaamse socialisten. U kiest voor een marginaal financiële winst voor de schatkist, een gigantische sociale impact voor die doelgroepen. Ze is niets meer of niets minder dan broodroof, die boven op de verschrikkelijke hervormingen komt die al werden doorgevoerd. Ik zal het maar niet hebben over de manier waarop de musea herschikt zijn en over het feit dat de stad Antwerpen geen Museum voor Hedendaagse Kunst meer heeft. Dat is ideologisch gedreven broodroof. De N-VA krijgt wat ze wil.",
+      "De sector zal daarvoor naar het Grondwettelijk Hof trekken. Ik was net op de manifestatie aanwezig en deelnemers signaleren mij dat ze, terwijl ze op een zucht van hun pensioen staan, geen flauw idee hebben hoeveel de jaren vóór 2014 nog zullen meetellen voor hun pensioen. Hoe is dat verdedigbaar? Zwijg er dan liever over. Volg het voorbeeld van de collega's van Les Engagés: zij geven toe dat ze voor zullen stemmen, maar niet van harte.",
+      "Wat mij het meeste pijn doet en dat bijna elke week, of het nu gaat over Gaza, over het klimaat, over volksgezondheid zoals vorige week of over deeltijds werkende vrouwen en mensen met een kunstwerkstatuut en die, as we speak , op het Vrijheidsplein staan, is dat hier elke week drie partijen de N-VA, en deze keer ook de MR, smeken om iets niet te doen, om een regeling aan te passen, maar dat die gewoon doordoet en zelfs het fake news verspreidt dat dat helemaal geen grote impact heeft en dat het allemaal wel meevalt.",
+      "Collega Vanbesien zal het er straks ook over hebben, maar ik heb daarnet uw socialemediacampagne gezien, waarin u stelt dat vrouwen erop vooruit zullen gaan dankzij het minimumpensioen. Dat was voor mij het dieptepunt. Weet u van welke regering dat de verdienste is? Van de vivaldiregering. Uw minister bevoegd voor armoedebestrijding zal onder de maatregelen van de regering-De Wever net bij de doelgroepen in de sectoren waar we het nu over hebben, de armoede zien toenemen. Dat is de harde realiteit van wat u straks zult goedkeuren.",
+      "Met alle liefde en met mijn grootste respect, ik kan niet begrijpen hoe een socialistische partij dat kan verdedigen, na al die marginale aanpassingen. Het is een verschrikkelijke keuze. Zo’n tekst zou hier vandaag niet moeten voorliggen. Een pauze was het minste geweest. U gaat liever met u allen recht op de muur af van het Grondwettelijk Hof waar de betrokkenen tegen u zullen procederen, omdat u broodroof pleegt bij kwetsbare doelgroepen in kwetsbare sectoren. Uw beleid creëert niet alleen een dorre woestijn voor vrouwen, het gooit ook alles van cultuur gewoonweg in de vuilnisbak. Verschrikkelijk vind ik dat."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Mijnheer Vanbesien, vergeet dat u niet in herhaling mag vallen."
+    },
+    {
+     "type": "speech",
+     "id": "04.31",
+     "name": "Anja Vanrobaeys",
+     "party": "Vooruit",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mevrouw Almaci, u beweert dat wij smeekbedes tot de N-VA richten. Ik heb nochtans de verscheidene verwezenlijkingen opgesomd die wij met Vooruit hebben bereikt. Zonder Vooruit zou er wel een beperking zijn geweest voor alle vrouwen, alle kassiersters en alle zorgpersoneelsleden die jarenlang deeltijds hebben gewerkt en zich hun hele leven flexibel hebben opgesteld. Zij deden dat niet omdat dat hun keuze was maar omdat dat werd opgelegd door hun werkgever. Wij hebben die uitzondering binnengehaald.",
+      "Ik geef u nog een uitzondering. Op het minimumpensioen geldt geen beperking van de gelijkgestelde periodes. Het stelsel van het minimumpensioen telt een meerderheid aan vrouwen. Zij worden beschermd door die heel belangrijke maatregel.",
+      "Wat de kunstwerkers betreft, Vooruit heeft hen altijd verdedigd. Wij hebben ter zake verkregen dat de periode die afgedekt is door het kunstwerkattest niet onder de beperking valt.",
+      "Voor de periode vóór 2014 stelt de administratie zelf dat dat technisch niet mogelijk is. Omdat wij altijd blijven strijden tot de laatste snik, hebben we gisteren nog verkregen dat men in overleg met de administratie en de sector nagaat wat de impact van de regeling is en dat, als die er inderdaad is, de regeling wordt bijgestuurd.",
+      "Dit is het verschil tussen Groen en Vooruit: in deze inderdaad moeilijke tijden nemen wij wel onze verantwoordelijkheid en doordat wij dat doen, slagen wij erin net die groepen te beschermen die de bescherming van de sociale zekerheid hard nodig hebben."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Mevrouw Almaci, u mag nog reageren."
+    },
+    {
+     "type": "speech",
+     "id": "04.32",
+     "name": "Meyrem Almaci",
+     "party": "Ecolo-Groen",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "\"Wij hopen op beter\", luidt de boodschap van Vooruit, maar dat zijn vijgen na Pasen.",
+      "Mijn boodschap is heel duidelijk. Zonder Vooruit kan de voorliggende wetgeving niet worden goedgekeurd. Straks zal blijken of uw woorden al dan niet zwaar wegen."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.33",
+     "name": "Nahima Lanjri",
+     "party": "cd&v",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de minister, collega's, het versterken van de band tussen werken en pensioen is van alle tijden, van alle regeringen en van elke pensioenhervorming, ook van de pensioenhervormingen die de vorige regeringen, met Groen en de PS, hebben doorgevoerd. De ambitie is altijd geweest die band te versterken.",
+      "Dat is ook logisch en niet meer dan rechtvaardig. Wie werkt, moet een groter pensioen overhouden dan wie niet werkt. Dat wil echter niet zeggen dat geen enkele niet-gewerkte periode zou mogen meetellen. Cd&v is altijd pleitbezorger geweest van rechtvaardigheid.",
+      "Rechtvaardigheid houdt niet alleen in dat we ervoor moeten zorgen dat de band tussen werken en pensioen wordt versterkt, maar ook dat een aantal periodes waarin niet wordt gewerkt, maar die wij maatschappelijk belangrijk vinden, wel worden gevaloriseerd voor het pensioen. Dan gaat het onder meer over periodes van zorg en over mensen die ziek zijn geweest, die daar niets aan kunnen doen en van wie cd&v altijd heeft gezegd dat zij daarvoor niet mogen worden afgestraft in hun pensioen.",
+      "Laat mij even terugkomen op de hervormingen van de vorige legislaturen. Een aantal partijen die nu op scherp staan en deze hervormingen bekritiseren, hebben toen ook al een aantal aanpassingen doorgevoerd. Ook in de vorige legislaturen is gesleuteld aan de waarde van een aantal gelijkgestelde periodes. Er werd bekeken wat de waarde is van de niet-gewerkte periodes die toch meetellen voor het pensioen.",
+      "Voor sommige periodes werd beslist dat ze altijd zouden meetellen op basis van een fictief verdiend loon. Dat gaat onder meer over ziekte- en zorgverloven. Andere periodes tellen daarentegen mee als een beperkt fictief loon. Er gold dus enigszins een beperking. De periode telde dus wel mee voor het jaar, maar voor de hoogte van het pensioenbedrag was de waardering beperkt. Het is ook logischer dat voor mensen die zorg verlenen of ziek zijn, die periodes zwaarder doorwegen dan voor mensen die bijvoorbeeld werkloos zijn. Al was het niet zo dat geen enkele periode van werkloosheid of het stelsel van werkloosheid met bedrijfstoeslag (SWT) werd meegeteld. Dat was toen ook al niet het geval.",
+      "Deze regering kiest er nu voor om een stap verder te zetten. Vroeger werd gesleuteld aan de waarde van die periodes. Nu bekijken we het geheel over de volledige loopbaan. In principe gaan we uit van een volledige loopbaan van 45 jaar. Binnen die volledige loopbaan zal een gedeelte nog uit gelijkgestelde periodes kunnen bestaan en dus meetellen voor het pensioen. Deze regering heeft dus zeker niet beslist dat niets nog meetelt en dat wie eens pech heeft in het leven, veel minder pensioen krijgt. Dat is niet het geval.",
+      "Wat we doen, is eigenlijk een kwestie van rechtvaardigheid. Men vindt het blijkbaar heel logisch dat voor ambtenaren nu al slechts 20 % van hun carrière gelijkgesteld kan worden. De maatregel die we nu invoeren voor werknemers bestond al sinds jaar en dag voor ambtenaren. Wat we nu doen, is harmoniseren.",
+      "Iedereen pleit ervoor dat we de zaken meer op elkaar afstemmen. Wel, dat doen we nu. Die maatregel, die al sinds jaar en dag geldt voor ambtenaren, zal nu ook gelden voor de werknemers. Dit wil zeggen dat men van alle gewerkte jaren, in principe 45 jaren, nog altijd 20 % niet-gewerkte jaren kunnen meetellen. De niet-gewerkte jaren die niet meetellen, zijn dan die van werkloosheid, SWT of landingsbanen. Maar, voor alle duidelijkheid, dat betekent niet dat er niets nog meetelt.",
+      "Men kan nog altijd 9 jaar, dus 20 %, aan periodes hebben van werkloosheid, SWT en een landingsbaan. Het gaat in totaal om 9 jaar voor mensen die, zoals ik, 58 jaar of jonger zijn. Is men ouder, dan geldt een hoger percentage. Vandaag is dat tot 40 % voor de mensen die geboren zijn tussen 1961 en 1964 en voor oudere mensen uiteraard nog meer.",
+      "Verder geldt, 35 % voor wie geboren is in 1965, 30 % voor wie geboren is in 1966, en 25 % voor wie in 1967 geboren is. Vanaf het geboortejaar 1968 zal het 20 % zijn. Men kan dus nog 9 jaar laten meetellen aan periodes van werkloosheid, SWT en een landingsbaan.",
+      "We willen sowieso een rechtvaardige hervorming. Dat is iets waar cd&v voor gepleit heeft en waar we trots op zijn. Er zijn nu eenmaal periodes waarin men er niets aan kan doen dat men bijvoorbeeld werkloos is. Wij vinden dat men die periodes moet uitsluiten, boven op die 20 %. Dan gaat het bijvoorbeeld over periodes van werkloosheid waar men niets aan kon doen, denk maar aan technische werkloosheid. Voor mensen die in de bouw werken en die technisch werkloos zijn doordat het slecht weer is, zullen die periodes niet gevat zijn in die 20 %.",
+      "Hetzelfde geldt voor de kunstwerkers, voor wie we in de voorbije regeerperiode al veel hadden gedaan. Die groep wordt nog altijd beschermd. Voor werkloze kunstwerkers blijven ook periodes langer dan negen jaar meetellen. Hetzelfde geldt voor mensen die voltijds willen werken, maar onvrijwillig deeltijds werken en een deeltijdse werkloosheidsuitkering krijgen. Ook die mensen kunnen nog altijd meer dan negen jaar laten meetellen voor hun pensioen.",
+      "De allerbelangrijkste groep die beschermd blijft, zijn de zieken. Wie mij kent, weet dat ik altijd opkom voor rechtvaardigheid, net als mijn partij, cd&v. In de pensioenhervorming heb ik op het laatste moment een aantal zaken kunnen rechttrekken en uitzonderingen kunnen inbouwen om de hervorming rechtvaardiger te maken. Zo ben ik blij dat we er met de hele meerderheid achter staan dat mensen die ziek zijn niet dubbel gestraft worden doordat ook hun pensioen lager zou uitvallen. Mensen die langdurig ziek zijn en bijvoorbeeld door een kanker tien jaar lang niet kunnen werken, zullen daarvoor niet afgestraft worden in hun pensioen, want die periode wordt uitgezonderd voor de berekening van die 20 %.",
+      "Hetzelfde geldt voor periodes van zorg, iets waar cd&v als gezinspartij altijd voor gepleit heeft. Of het nu gaat om moederschapsrust, geboorteverlof voor vaders, verlof voor meeouders, mantelzorgverlof of palliatief verlof, al die verloven worden ook uitgezonderd. Die periodes blijven dus meetellen voor het pensioen. Zelfs als je pech hebt, een aantal jaar werkloos bent geweest, en een aantal jaar voor een landingsbaan kiest, kan dat nog steeds gedurende minstens negen jaar zonder die cap te bereiken, dus zonder effect op je pensioen.",
+      "We hebben met succes gevochten voor een rechtvaardige hervorming. Wij vinden dat er absoluut een sterke band mag zijn tussen de periodes waarin men heeft gewerkt en wat men opbouwt voor het pensioen. We vinden ook dat men voor een aantal situaties in uitzonderingen moet voorzien, denk maar aan ziekte, zorg, maar ook tijdelijke werkloosheid. Dat hebben we gedaan. Daarom zullen we die hervorming goedkeuren.",
+      "Er komen nog fases van de pensioenhervorming aan. We hopen daaraan te kunnen meewerken om ook die in de goede richting te sturen. Wij zullen dit alvast goedkeuren."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.34",
+     "name": "Sarah Schlitz",
+     "party": "Ecolo-Groen",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Chers collègues, avec ce texte, vous décidez de changer les règles de manière rétroactive pour, finalement, punir certains travailleurs ou travailleuses qui ont posé des choix pourtant encouragés ou du moins jugés légitimes à l'époque où ils les ont posés. Vous décidez donc de faire payer individuellement à des personnes qui, par ailleurs, ne peuvent absolument rien faire pour changer cette situation du passé, les conséquences structurelles d'une organisation de la société. Une société qui ne génère pas suffisamment d'emplois pour toutes et tous, qui répartit mal le temps de travail. Certains travaillant beaucoup, voire trop ou trop longtemps pour des salaires parfois trop bas, tandis que d'autres peinent à s'insérer sur le marché du travail. Une société dans laquelle les discriminations continuent d'être légion et pour lesquelles votre gouvernement ne fait strictement rien, malgré les nombreux appels des personnes du terrain, notamment en matière de discriminations fondées sur l'âge. Une société dans laquelle, à une certaine époque, on a encouragé les gens à lever le pied pour pouvoir aller jusqu'au bout de leur carrière et ne pas basculer entièrement sur l'assurance maladie. Avec votre réforme, vous allez faire peser toutes ces causes structurelles sur des individus qui vont perdre en pouvoir d'achat et en capacité à vieillir dignement dans notre société.",
+      "Votre propre texte reconnaît que toutes les périodes sans travail ne peuvent pas être mises dans le même sac. Vous nous dites que la maladie, l'invalidité, la maternité, les congés de soins et le chômage temporaire resteront pleinement protégés. J'ai envie de dire \"heureusement\", mais je sais aussi, d'après la tonalité de vos interventions, qu'en fait, certains y songeaient, ce qui est tout de même extrêmement inquiétant. Mais soit, le compromis trouvé est celui-là.",
+      "Ce compromis invisibilise toutefois une chose: comme on avait dit aux citoyens que ces situations seraient traitées de la même manière, certaines personnes qui parfois étaient malades ne se sont pas déclarées en maladie et sont restées sur l'assurance chômage – on le constate aujourd'hui avec l'exclusion du chômage. C'est là une difficulté qu'on observe aujourd'hui dans les chiffres relatifs à la réforme du chômage. Vous ne tenez absolument pas compte de cette réalité du terrain et vous ne permettez pas à ces personnes de pouvoir aussi bénéficier d'une amnistie ou d'une correction de leur parcours passé.",
+      "Cette distinction s'arrête là où commence votre plafonnement. Vous additionnez trois situations très différentes, dont aucune ne justifie de sanctionner les travailleurs et travailleuses au moment de la pension. Ces périodes devraient, selon nous, être protégées.",
+      "Premièrement, le chômage complet repose précisément sur le fait d'être privé de son emploi, donc d'avoir ouvert ses droits, accédé au chômage et ensuite d'avoir tenté de trouver un emploi et de ne pas être parvenu pendant une certaine période à décrocher un boulot. Toutes les preuves de recherche d'emploi, toutes les démarches ne serviront à rien: la sanction tombera, arrivera comme un couperet et se matérialisera par une perte d'argent sonnant et trébuchant.",
+      "Deuxièmement, le régime de chômage avec complément d'entreprise (RCC) est un dispositif dans lequel un employeur licencie un travailleur âgé, qui reçoit une allocation de chômage complétée par une indemnité d'entreprise jusqu'à l'âge de la pension. Ici encore, la sortie de l'emploi ne découle pas d'un simple choix individuel du travailleur, mais d'une action qui a été encouragée par l'État. Aujourd'hui c'est bien le travailleur seul qui en payera le prix.",
+      "Enfin, votre projet vise les jours non prestés dans le cadre d'un emploi de fin de carrière. C'est sans doute là que la contradiction est la plus évidente, car ces travailleurs ne quittent pas un emploi. Ils réduisent leurs prestations, souvent après une longue carrière, justement pour pouvoir continuer à travailler! Si cette possibilité n'avait pas existé, ces personnes auraient sans doute posé d'autres choix, comme celui de l'assurance maladie, et conservé leurs droits pleins et entiers à la pension. Manque de bol pour eux, ils ont joué le jeu tel qu'il était proposé, mais l'État change aujourd'hui les règles et va les sanctionner alors qu'ils ont justement travaillé davantage. Vous placez sous un même plafond des périodes qui sont suivies de non-emploi et un dispositif intelligent destiné à maintenir dans l'emploi. C'est totalement incohérent.",
+      "Ce sont principalement les carrières déjà fragilisées qui seront les plus exposées: les personnes qui ont connu plusieurs années de chômage, des interruptions répétées ou une carrière plus courte. Le risque est particulièrement élevé pour les travailleurs âgés de l'industrie, de la construction, des secteurs marqués par les restructurations ou les licenciements, comme on l'a vu dans celui de l'automobile, où les RCC et les sorties anticipées de l'emploi ont été plus fréquentes.",
+      "Il concerne aussi les travailleurs de nuit, ceux qui travaillent en équipe ou qui exercent un métier pénible et qui réduisent leur temps de travail en fin de carrière pour pouvoir tenir jusqu'à la retraite. Pris isolément, ces aménagements ne suffisent généralement pas à dépasser le plafond. Sur ce point nous sommes d’accord. Toutefois, s'ils s'ajoutent à des années antérieures de chômage ou de RCC, ils peuvent faire basculer une partie de la carrière au-delà du seuil et ainsi faire perdre des années de cotisation.",
+      "Vous nous dites qu'il s'agit d'un bon outil pour rallonger les carrières. Ce serait donc un instrument politique destiné à encourager les travailleurs à rester plus longtemps en activité. Si tel était réellement votre objectif, il faudrait permettre aux travailleurs âgés de rester dans l'emploi, quitte à réduire leurs prestations ou à leur accorder un complément de revenus, sans qu'ils soient pénalisés par la suite. J'entendais également, du côté des Engagés, qu'il fallait accompagner cette réforme de mesures relatives au bien-être au travail afin que les travailleurs et les travailleuses puissent travailler plus longtemps dans de bonnes conditions. Mais où sont ces mesures?",
+      "À nouveau, ce ne sont que des discours. Il n'y a rien sur la table pour améliorer les conditions de travail, pour que les travailleurs puissent, à un moment donné, avec l'âge ou à la suite d'une blessure ou d'une maladie, se réorienter tout en maintenant une présence dans l'entreprise. Tout cela repose uniquement sur le bon vouloir de certains employeurs qui souhaitent opérer des choix vertueux, mais qui ne sont, en réalité, pas encouragés par des incitants politiques. Bref, ces discours ne se matérialisent pas dans la réalité.",
+      "Nous parlons ici de personnes qui vont perdre une partie de leur pension, laquelle sera d'abord plafonnée à 40 % pour les personnes nées entre 1961 et 1964. Ce plafond diminuera ensuite progressivement pour atteindre 20 % pour les personnes nées à partir de 1968. Monsieur le ministre, les personnes nées en 1968 ont aujourd'hui 58 ans. Vous leur expliquez qu'il leur resterait neuf ans pour modifier leur carrière et s'adapter ainsi à des règles que vous changez en cours de route. De quelle marge de manœuvre disposent-elles réellement? À cet âge, se heurtent-elles déjà à de fortes discriminations sur le marché de l'emploi? Dès lors, quelles initiatives prenez-vous pour que ce choix ne relève pas uniquement d'une responsabilité individuelle, mais soit pris en charge collectivement? Eh bien, précisément, rien!",
+      "Prenons le cas d'une personne née en 1968, qui compte une carrière de 30 ans, dont dix années relevant des périodes visées par les sanctions. Le plafond est fixé à 20 % de 30 ans, soit six années. Par conséquent, quatre années ne seront plus valorisées dans le calcul de sa pension. Pour nous, c'est une injustice majeure.",
+      "Vous avancez trois justifications pour prendre cette prétendue mesure d'activation: renforcer le lien entre travail et pension, encourager l'activité et préserver la soutenabilité du système. Vous ajoutez que la mesure sera ciblée, qu'elle ne concernera que 9,7 % des nouvelles pensions lorsque le plafond de 20 % s'appliquera pleinement et que seules les journées assimilées les moins avantageuses seront écartées.",
+      "Même en retenant cette estimation, dont vous ne nous dites pas la provenance, il s'agit quand même d'un retraité ou d'une retraitée sur dix. Ce n'est pas anodin. C'est quand même un retraité sur dix qui va moins bien vieillir, qui va voir son pouvoir d'achat diminuer, alors que nous savons que les dépenses augmentent l'âge avançant. Pour nous, ce n'est pas un argument valable de dire que cela ne concernerait que 10 % des futurs retraités. D’autant plus que ce pourcentage ne dit rien du niveau de perte pour les personnes. Peut-être vont-elles perdre, en réalité, 50 % de leur pension. Ce sont des choses qu'il faudrait idéalement mesurer quand on prend ce genre de dispositions, qui vont toucher très concrètement une large partie de la population.",
+      "Ensuite, votre argument principal se heurte à une contradiction. Quels effets l'activation peut-elle produire en 2027 quand une mesure est appliquée à une période de chômage vécue entre 1998 et 2005? Eh bien, aucun. La personne ne peut plus éviter le licenciement qu'elle a subi, retrouver l'emploi qui a disparu, ni modifier la manière dont elle a organisé sa fin de carrière selon les règles qui existaient alors. Vous nous répondez que la mesure ne touche pas les pensions déjà versées et qu'elle est progressive selon l'année de naissance. C'est exact. C'est pourquoi nous ne prétendons pas qu'il s'agit automatiquement d'une rétroactivité illégale.",
+      "Cependant, la progressivité entre générations ne constitue pas un véritable régime transitoire pour les périodes antérieures. Pour une personne née en 1968, qui a aujourd'hui 58 ans, l'essentiel de sa carrière est déjà derrière elle. Le Conseil d'État a précisément demandé au gouvernement de mieux justifier la pertinence de cette mesure pour les personnes dont la carrière compte déjà de longues périodes assimilées et auxquelles il est quasiment devenu impossible de l'adapter. Il a également interrogé l'absence de régime transitoire au regard de la confiance légitime. Le gouvernement a répondu à ces remarques du Conseil d'État dans l'exposé des motifs, mais n'a pas modifié le mécanisme. Nous vous le reprochons. De plus, vous vous exposez à une annulation de cette partie de la loi.",
+      "Il y a deux catégories de personnes qui me préoccupent particulièrement dans le cadre de cette réforme.",
+      "Premièrement, il y a le cas des aidants proches. Je vous ai interrogé à plusieurs reprises en commission à ce sujet et, chaque fois, vous avez refusé de tenir compte de cette réalité. Permettez-moi de vous dire que la manière dont ces personnes vont être touchées est particulièrement injuste.",
+      "Pendant des décennies, et encore aujourd'hui, nous nous sommes accommodés du fait que des personnes exerçaient une mission d'aidant proche auprès d'un conjoint malade, d'un enfant en situation de handicap ou d'un parent lourdement dépendant. Nous savions tous que, pour la modique somme d'une allocation de chômage, ces personnes assumaient à la fois un rôle d'aide ménagère, d'infirmière et d'aide à domicile. Nous savions également que nos institutions ainsi que nos propres moyens et capacités ne permettaient pas de prendre en charge ces personnes au niveau de l'État.",
+      "Nous avons alors fermé les yeux et laissé faire. Cela s'accompagnait du versement d'un revenu ainsi que de la promesse d'un droit à la pension à un moment donné. Ces personnes n'ont pourtant pas eu le choix. Elles se sont retrouvées contraintes soit d'abandonner un emploi, soit de mettre un terme à leur recherche d'emploi en raison de la situation à laquelle elles étaient confrontées.",
+      "Aujourd'hui, vous leur dites que vous ne tiendrez pas compte de leur parcours, que vous ne chercherez pas de solution pour reconnaître la réalité qu'elles ont vécue. Pour certaines d'entre elles, les sanctions pourront être très lourdes. Par exemple, pour une mère qui a mis sa carrière entre parenthèses pendant 15 ans pour s'occuper d'un enfant en situation de handicap, la sanction sera considérable.",
+      "Pour nous, il est donc totalement anormal de ne serait-ce que tenter de mettre en place une forme d'amnistie pour ces personnes et de ne pas travailler à une correction permettant de reconnaître ces parcours de vie. C'est pourtant possible. Vous pourriez mettre en place une telle mesure.",
+      "D'ailleurs, nous attendons toujours la fameuse mesure visant à créer un statut d'aidant proche, qui avait été promise dans le cadre de la réforme du chômage. Nous ne voyons toujours rien venir et, manifestement, aucun accord n'existe encore au sein du gouvernement, malgré ce qui nous avait été annoncé à l'époque. Nous sommes donc face à un véritable problème.",
+      "Aujourd'hui, tout ce que le gouvernement a proposé à ces personnes, c'est de se déclarer entre le 1 er janvier et le 31 mars afin de percevoir – qu'elles soient isolées ou cohabitantes – un montant de 760 euros par mois. Comment voulez-vous que ces personnes s'en sortent? Vous aviez pourtant indiqué que vous alliez agir rapidement. À ce jour, il n'y a toujours rien sur la table.",
+      "Pour moi, cette réforme doit donc s'accompagner d'une correction de cette législation. C'est la raison pour laquelle nous avons déposé un amendement en ce sens. Nous souhaitons évidemment que vous le souteniez. Je ne me fais guère d'illusions quant à l'issue du vote, mais je pense que vous devez associer à la réflexion sur le statut d'aidant proche la question du plafonnement des périodes assimilées, sans quoi nous assisterons à un véritable carnage pour les aidants proches.",
+      "Un autre élément concerne la question de la neutralité de genre. Vous affirmez que cette mesure est neutre de ce point de vue. Pourtant, nous savons que les aidants proches sont, dans leur grande majorité, des femmes. Nous savons également que ce sont elles qui subissent le plus de discriminations sur le marché de l'emploi et qui ont, par ailleurs, souvent mis leur carrière de côté pour s'occuper de leur famille, de leur ménage, etc. Ce sont donc elles qui seront les plus durement touchées par cette réforme.",
+      "À cela, vous répondez que la GRAPA n'est pas concernée. Mais la GRAPA n'est pas une solution pour des personnes qui ont rendu des services à la société, précisément parce que l'État n'avait pas mis en place les solutions nécessaires. Lorsqu'il manque aujourd'hui des places en crèche ou en institution, lorsque l'on demande aux personnes de travailler toujours plus, de nuit, en flexi-job ou en effectuant des heures supplémentaires, qui s'occupe des enfants? Ils ne se gardent pas tout seuls. Il est indispensable que les personnes qui assument ces responsabilités soient reconnues pour le rôle sociétal qu'elles ont joué. Certes, il ne s'agissait pas d'un emploi salarié contractuel, mais il s'agissait d'une activité utile et nécessaire au fonctionnement de l'ensemble de la société. Ces personnes ne peuvent donc pas être sanctionnées dans le cadre de cette réforme.",
+      "Concernant les travailleuses et travailleurs des arts, vous avez toutes et tous suivi l'actualité. D'importantes mobilisations sont en cours parmi les artistes ainsi que les techniciens et techniciennes du secteur afin d'obtenir une reconnaissance et de ne pas subir le plafonnement des indemnités. Là encore, c'est une promesse qui est rompue, car nous savons que ces périodes ne sont pas des périodes d'inactivité.",
+      "Ce projet de loi crée une frontière artificielle à partir du 1 er avril 2014. Après cette date, leur intermittence est reconnue comme étant une caractéristique propre au métier. Avant la date, les mêmes périodes sont requalifiées en chômage ordinaire, soumis au plafonnement. Imaginez-vous que deux personnes ayant exercé exactement le même métier, dans les mêmes conditions et avec la même intermittence n'auront pas les mêmes droits. Il s'agit d'une faille de l'État, qui devrait justement tout mettre en œuvre pour garantir l'égalité de traitement entre ces deux profils.",
+      "Vous justifiez donc cette rupture en disant qu'il serait impossible d'identifier de manière suffisamment fiable les périodes antérieures à 2014. Cet argument ne tient pas. La spécificité du travail artistique était déjà reconnue bien avant 2014. Les dispositifs existaient dès les années 1960. Depuis 1992, l'article 116 de l'arrêté royal sur le chômage organisait déjà le gel de la dégressivité pour les artistes. L'ONEM avait déjà développé des pratiques et des codages qui permettaient d'identifier ces caractéristiques particulières. Il est donc déjà possible d'identifier ces personnes. Je pense que nous nous trouvons ici face à de la mauvaise volonté de votre part quant à l'intégration de ces personnes et de ces périodes dans le calcul.",
+      "Pour conclure, avant de présenter rapidement mes amendements, je pense qu'une fois de plus, nous abordons la question des pensions sous un prisme qui n'est pas le bon. On nous parle de soutenabilité budgétaire et de protection de la sécurité sociale. Laissez-moi vous dire que, dans le même temps, un ensemble de mesures que vous avez adoptées définancent structurellement la sécurité sociale. Prétendre vouloir la préserver tout en la vidant de sa substance, notamment via l'extension des flexi-jobs, cela ne tient pas. Comment pouvez-vous demander des efforts aux citoyens quand, parallèlement, vous coupez vous-mêmes dans des rentrées significatives pour préserver la sécurité sociale? À un moment donné, les citoyens se rendront compte de l'incohérence des politiques que vous mettez en œuvre.",
+      "Plus globalement, on n'entend jamais ce gouvernement s'exprimer sur sa vision de la façon dont la population doit pouvoir vieillir dignement dans notre société. Cela me pose un problème fondamental. Notre ministre des Pensions ne s'inquiète jamais de savoir si les pensionnés de ce pays disposent des ressources suffisantes pour vivre dignement, dans un pays riche comme la Belgique. Une énorme faiblesse de ce gouvernement, c'est de vouloir travailler de manière systématique sur des questions de budget en prétendant vouloir atteindre un équilibre budgétaire – par ailleurs contrecarré par les mesures idéologiques mises en place par le gouvernement –, sans jamais s'inquiéter des conséquences concrètes de ces mesures sur la population. Ce sujet n'intéresse manifestement pas l'ensemble des partis de ce gouvernement.",
+      "En revanche, certains d'entre eux se montrent très intéressés par la croissance, par le PIB et par la bonne santé économique. Dès lors, lorsque vous privez une partie de la population de son pouvoir d'achat, de ses ressources ou même du temps disponible pour passer de bons moments et donc dépenser cet argent, ne vous rendez-vous pas compte que vous ne faites que gripper la machine que vous prétendez vouloir sauver? Même sur ce plan-là, les calculs ne tiennent pas, et je ne comprends pas la logique dans laquelle ces partis s'inscrivent.",
+      "Monsieur le président, je termine en présentant mes trois amendements. Le premier est un amendement général que j'ai déjà défendu en commission et que je redépose aujourd'hui, et qui permet de supprimer purement et simplement la rétroactivité. Je pense qu'il serait particulièrement raisonnable de la part du gouvernement de rétablir la confiance entre l'État et les citoyens, en ne touchant pas à des droits acquis.",
+      "Le deuxième amendement permet de préserver les droits des travailleurs des arts et de considérer les périodes travaillées depuis 1992 comme des périodes de travail et non pas comme des périodes de chômage qui doivent être plafonnées.",
+      "Quant au troisième amendement, il permet de préserver les aidants proches et invite le gouvernement à adopter une mesure instaurant un véritable statut pour ces derniers, afin de faire reconnaître pleinement et entièrement leur utilité pour la société."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.35",
+     "name": "Alexia Bertrand",
+     "party": "Anders.",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de voorzitter, ik heb gehoord dat minister Jambon de moedigste minister ooit zou zijn. Dan zijn wij de moedigste oppositiefractie ooit, want de minister weet dat wij een verantwoordelijke houding aannemen.",
+      "Mijnheer de voorzitter, ik kondig nu al aan dat wij vandaag, net zoals in de commissie, onze steun zullen uitspreken voor dit wetsontwerp. Wij vinden dat logisch, omdat werken moet lonen. Het wetsontwerp gaat over gelijkgestelde periodes en in dit land zijn we daarin heel lang bijzonder genereus geweest.",
+      "De vorige regering is al begonnen met dat in te perken. Zij voerde de voorwaarde van 5.000 effectief gewerkte dagen in. Die gold trouwens ook voor het minimumpensioen. Wij betreuren dat er nu een uitzondering wordt gemaakt voor het minimumpensioen. Die uitzondering is er gekomen na een strijd van minister Vandenbroucke en werd pas tijdens de zomer van vorig jaar toegevoegd. Ze stond niet in het regeerakkoord.",
+      "Mensen met een minimumpensioen – u weet dat die minimumpensioenen ook dankzij ons fors zijn verhoogd – zitten vandaag ruim boven 1.500 euro netto. Zij worden op een andere manier behandeld dan mensen met een gewoon pensioen.",
+      "Ik heb goed geluisterd naar u, mevrouw Lanjri. Ik vond het een zeer interessant betoog. U zei dat de meeste mensen in het slechtste geval nog negen jaar werkloos mogen zijn of kunnen gebruikmaken van gelijkgestelde periodes, voor de cohorten geboren na 1968. Dat klopt, maar dat betekent ook dat de cohorten van vóór 1968 nog achttien jaar van die gelijkgestelde periodes kunnen genieten. Stel het u voor. Vinden wij dat normaal? Vóór uw aanpassing was dat zelfs nog veel meer. Daarom is de vorige regering opgetreden, ook voor de minimumpensioenen. Voor het eerst werd toen gezegd dat er effectief gewerkt moet zijn en dat een minimumaantal effectief gewerkte dagen vereist is. Dat waren die 5.000 dagen, ook voor het minimumpensioen.",
+      "Onze fractie vindt dat effectief gewerkte perioden zwaarder moeten wegen in de pensioenopbouw. Werken moet lonen. Dat moet de absolute hoeksteen zijn van ons pensioenstelsel. Amper zeven of acht jaar geleden kon men in dit land immers dertig jaar werkloos zijn geweest en recht hebben op hetzelfde pensioenbedrag als iemand die diezelfde periode had gewerkt. Dat was het fameuze verhaal van Virginie en Caroline, die hetzelfde pensioenbedrag kregen, terwijl een van de twee haar hele leven zelfstandig was geweest en hard had gewerkt en de andere tijdens diezelfde periode werkloos was geweest.",
+      "Mijnheer de minister, wij zullen dit ontwerp steunen, omdat we in de statistieken zien dat in dit land ongeveer een derde van de opgebouwde pensioenrechten bij werknemers gebaseerd is op niet-gewerkte, gelijkgestelde periodes. Dat betekent dat men pensioen opbouwt zonder te werken, maar dat is niet logisch voor de mensen die al die jaren hebben gewerkt. Het is een kwestie van rechtvaardigheid. Wij zijn niet de enigen die dat denken. Ook het Algemeen Beheerscomité voor het sociaal statuut der zelfstandigen heeft een positief advies uitgebracht over dit ontwerp. Dat werd vandaag nog niet vernoemd. We weten hoe hard zelfstandigen werken, net zoals heel veel werknemers trouwens, maar zij vinden dat normaal en steunen de filosofie achter dit ontwerp.",
+      "Er is wel een operationeel probleem met uw timing. De inwerkingtreding was oorspronkelijk voorzien op 1 januari 2027. In de voorliggende wettekst is de startdatum verschoven naar 1 juli 2027, een uitstel van zes maanden. Dat is een rechtstreekse toegeving aan de technische realiteit. Ik hoop dat het op die datum wel in orde zal zijn, mijnheer de minister.",
+      "We hebben de tegenstanders, die eerder te vinden zijn bij de linkse partijen, vandaag ook gehoord. Volgens hen stort de hervorming de meest kwetsbaren in de armoede. We moeten de feiten rationeel en objectief bekijken. Ik heb de PVDA in het debat in de commissie horen spreken over pensioendiefstal. Er vielen heel zware woorden over u, mijnheer de minister. Dat vonden we helemaal niet oké. Woorden betekenen iets. De definitie van diefstal strookt niet met een democratisch proces dat berust op een meerderheid en een stemming. Dat soort taalgebruik ondermijnt het democratische debat, zoals ik toen ook heb gezegd. De bewering dat de meest kwetsbaren in de armoede zouden belanden, klopt niet. Het Federaal Planbureau spreekt dat tegen. De impact op het armoederisico is onbestaande tot verwaarloosbaar klein. Dat valt te verklaren door het feit dat het gewaarborgd minimumpensioen volledig vrijgesteld blijft. Ik heb ook gezegd dat ik dat betreur en dat u naar mijn mening te ver bent gegaan.",
+      "Mevrouw Vanrobaeys heeft gezegd dat ziekte volledig wordt gelijkgesteld. Daar kunnen we ons in vinden, want men kiest er niet voor om ziek te zijn. Mevrouw Vanrobaeys, dat geldt wel op één voorwaarde, die vandaag echter niet is vervuld, met name dat de misbruiken met langdurige ziekte worden aangepakt. Dat gebeurt vandaag helemaal niet. Alle steekproeven van het RIZIV en alle studies bewijzen dat bijna de helft van de mensen in langdurige ziekte eigenlijk aan de slag kunnen. Dat is zeer erg, want we zien dat het aantal langdurig zieken blijft stijgen. We vinden het dus logisch dat die mensen worden gelijkgesteld, maar alleen als ze echt ziek zijn. Dat is vandaag niet het geval. Ik zie de heer Gatelier knikken. Hij kent dat probleem zeer goed. Het is tijd dat minister Vandenbroucke dat aanpakt.",
+      "Mijnheer de minister, ik rond af. Ik had beloofd mijn uiteenzetting kort te houden. Het voorliggende wetsontwerp hanteert een rechtvaardig basisprincipe. Er is echter heel veel systeemcomplexiteit. U maakt het systeem jammer genoeg niet eenvoudiger. Dat betreur ik.",
+      "Wij zullen het ontwerp steunen, maar ik heb wel vier bemerkingen bij de uitvoering, waarop ik nu inga.",
+      "Ten eerste, er moet operationele stabiliteit zijn. Het uitstel van de startdatum naar 1 juli 2027 moet operationeel echt volstaan voor de IT-diensten van de FPD en het RSVZ. De software voor gemengde loopbanen moet vanaf dag één werken. Dat zullen we zien op 1 juli 2027.",
+      "Ten tweede, over een realtime simulator heb ik het ook al gehad in het pensioendebat. De MyPension-tool moet op 1 juli 2027 zonder fouten klaarstaan. Dat is essentieel voor de burger en voor de transparantie. Mensen moeten weten hoe dicht zij bij hun individuele procentuele cap zitten. Dat is nog belangrijker met de voorliggende aanpassing in de pensioenhervorming. Alleen met digitale transparantie behoudt de wet haar activeringsdoel.",
+      "Ten derde, er zijn ook de inconsequente vrijstellingen. Wij hebben ons bij de artikelsgewijze stemming onthouden op de artikelen 7 en 8, omdat u het minimumpensioen volledig vrijstelt van het beperkingspercentage. Ik heb de discussie ook met mevrouw Lanjri gevoerd. Over 30 tot 50 jaar zal dat geen probleem meer zal zijn, omdat het een afbouw betreft en er, ook met de beperking van de werkloosheid in de tijd, minder mensen in het systeem zullen belanden. Wij blijven echter wel met een historische cohorte die wij nog 30 tot 40 jaar zullen meedragen. Door die uitzondering holt de regering het activeringspotentieel deels uit. Dat is jammer, want als er één conclusie is voor de begrotingswerkzaamheden, dan is het dat wij meer mensen moeten activeren. Dat is de enige manier om nog geld te vinden. Het gaat niet alleen over besparingen. We moeten besparen, maar we moeten ook de taart groter maken. We moeten zorgen voor groei en daartoe is het activeringsbeleid een essentieel instrument.",
+      "Ten slotte, voor de toekomstige vereenvoudiging zullen stappen moeten worden gezet om gehoor te geven aan de dringende oproep van de sociale partners. De toekennings- en berekeningsmodaliteiten van toekomstige pensioenmaatregelen moeten fundamenteel vereenvoudigd worden. Ze zijn vandaag veel te complex.",
+      "Ik heb nog een lange, zeer interessante discussie met mevrouw Lanjri over de minimumpensioenen gehad. Ik denk dat wij het pensioensysteem goed kennen, maar zelfs voor ons is het ongelooflijk complex om te weten wie waarop recht heeft, omdat men al die systemen met elkaar moet combineren: de beperking van de werkloosheid in de tijd, het minimumpensioen, de gelijkgestelde periodes, de cap en de verschillende berekeningen van de laatste pensioenhervorming.",
+      "U zegt dat er in de volgende rondes van de begrotingsmaatregelen niet meer aan de pensioenen zal worden geraakt. Dat begrijp ik, maar vanaf dag één van de volgende legislatuur zal er opnieuw iets moeten gebeuren. Dat is een heel moeilijke en belangrijke boodschap voor de bevolking. Ik hoor u dat niet voldoende zeggen. We kunnen de bevolking niet laten denken dat deze pensioenhervorming zal volstaan. De volgende minister van Pensioenen zal daar onmiddellijk opnieuw aan moeten beginnen. Ik denk dat die boodschap nog niet duidelijk is voor de bevolking, die de indruk heeft, terecht, dat ze een grote inspanning op het vlak van de pensioenen heeft geleverd. Jammer genoeg zal dat, als we naar de cijfers kijken, niet volstaan, beste collega's. Daarom wens ik de volgende minister van Pensioenen alvast heel veel succes.",
+      "Mijnheer de minister, we steunen dit, maar wel met onze vier niet onbelangrijke bemerkingen indachtig."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.36",
+     "name": "François De Smet",
+     "party": "DéFI",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le ministre, chers collègues, derrière le jargon faussement rassurant des pourcentages de limitation, nous sommes en présence d'un texte qui va traduire une réalité simple: des dizaines de milliers de nos concitoyens toucheront une pension plus basse, bien souvent non pas parce qu'ils n'ont pas travaillé, même si ce sera aussi le cas de certains d'entre eux bien sûr, mais parce que leur carrière ne ressemble pas au modèle que ce gouvernement a en tête. La raison en est aussi que ce gouvernement, une fois de plus, change les règles en cours de route. On connaît le scénario: le gouvernement présente la réforme comme une harmonisation des règles relatives aux périodes assimilées et comme une mesure de cohérence du système des pensions. Or il ne s'agit pas d'un simple ajustement technique, mais d'une réduction structurelle de droits acquis, avec un impact particulièrement important pour des carrières atypiques, dont celles des travailleurs des arts et des aidants proches.",
+      "Je rappelle d'abord brièvement ce que l'examen en commission a établi, en commençant par l'argument budgétaire. On nous parlait au départ de 48 millions d'économies annoncées en 2027. Ce sera, sauf erreur, 7 millions selon la Cour des comptes. Je veux évoquer aussi la fragilité juridique du dispositif. Le Conseil d'État, le Comité de gestion du Service fédéral des Pensions, les syndicats, tous ont mis en garde contre une régression qui enfreint l'obligation de standstill de l'article 23 de la Constitution.",
+      "Comme d'habitude, cette mesure frappe d'abord les femmes: 64 % des travailleurs à temps partiel avec maintien des droits dépasseront le plafond, et ce sont des femmes dans 94 % des cas. Ces chiffres proviennent du Service fédéral des Pensions.",
+      "Je veux surtout consacrer mon temps de parole à évoquer les deux catégories qui me paraissent les plus attaquées: les travailleuses et travailleurs des arts, d'une part, et les aidants proches, d'autre part. S'agissant des travailleurs des arts, sous la pression du secteur, le gouvernement a fini par concéder une exception pour trois professions à régime de travail atypique: les marins-pêcheurs, les dockers et les artistes. Toutefois, à la lecture du texte, pour les dockers et les marins-pêcheurs, l'exception vaut pour toute la carrière. En revanche, pour les artistes, et pour eux seuls, elle ne vaut qu'à partir du 1 er avril 2014. Tout ce qui précède retombera dans le régime plafonné. Trois professions intermittentes, deux traitements. Et c'est d'autant plus étrange et inexplicable que, s'agissant de l'activité réelle, les artistes sont réellement actifs durant leur période supposée d'inactivité. En effet, pendant leur période indemnisée, et ce n'est pas une critique, les dockers et les pêcheurs sont inactifs. C'est parfaitement légitime, puisque c'est la nature de leur métier.",
+      "Les artistes, eux, pendant ces mêmes périodes, ne se reposent pas; en général, ils travaillent, ils répètent, ils écrivent, ils créent, ils produisent. C'est, à ma connaissance, le seul groupe qui travaille pendant ces périodes assimilées et dont on réduit l'exception. À la lecture des articles 10 et 11 de la Constitution, je ne vois pas quels critères objectifs et raisonnables justifient cette différence de traitement. On le sait, monsieur le ministre, le secteur annonce un recours. La Cour constitutionnelle appréciera.",
+      "Nous connaissons votre argument technique, sur lequel il faut s'arrêter. Vous nous dites qu'avant 2014, l'ONEM ne serait pas capable de distinguer de manière fiable les périodes artistiques et le chômage ordinaire. Avant 2014, il n'existerait pas de base de données suffisamment fiable. Le véritable statut des travailleurs des arts n'existant juridiquement que depuis cette réforme, il serait donc impossible de reconnaître les périodes antérieures sans créer une rupture d'égalité.",
+      "J'aime bien ce genre d'affirmation parce qu'elle semble vérifiable, et le secteur des travailleurs des arts a voulu la vérifier. Ils ont identifié le codage par lequel l'ONEM distingue, depuis 1991, les jours d'indemnisation propres aux artistes: l'arrêté royal du 25 novembre 1991, la neutralisation de la dégressivité et l'ancienne règle du cachet. Donc, ces données existent. Un régime spécifique existait déjà depuis 1992 via l'article 116 de l'arrêté royal chômage. L'ONEM reconnaissait déjà de manière spécifique ces travailleurs. Le gouvernement choisit donc volontairement 2014 comme seuil, afin de limiter le coût de la mesure. Les données sont là. Ce qui est absent, en revanche, c'est la volonté politique d'en faire quelque chose.",
+      "Venir nous dire ce matin, comme l'ont fait le MR et Les Engagés, qu'il va falloir à l'avenir être attentifs et qu'il faudra évaluer, c'est le langage de la défaite. C'est le langage de ceux qui ont abandonné les artistes en rase campagne.",
+      "Nous nous demandons aussi pourquoi cette vérification objective, administrative, n'a pas pu être faite. Un rapport de l'ONEM ou du Service fédéral des Pensions pourrait nous dire qui a raison. Si ce codage existe – et tout indique qu'il existe –, alors l'argument central du gouvernement tombe et la date pivot de 2014 deviendra vraiment ce qu'elle semble être, un choix politique déguisé en contrainte technique.",
+      "Le ministre a aussi tenté de nous rassurer sur l'impact réel, en annonçant un impact maximum de 7 % pour la cohorte née en 1968, et un impact nul pour les plus âgés. Précisons et reconnaissons que la réforme ne change rien, évidemment, pour ceux qui sont déjà retraités, puisque c'est aussi une angoisse qui traverse ce secteur.",
+      "Le secteur a élaboré une contre-simulation. Un artiste né en 1968, sous statut depuis 1991, avec carrière complète de 45 ans, cela donne neuf années valorisables avant 2014, 22 années après et 31 années comptabilisées sur 45, donc 14 années effacées – soit un tiers de la pension.",
+      "Les travailleurs des arts deviennent souvent un symbole, et le cas des artistes est utilisé comme un exemple emblématique.",
+      "La question que l'on peut se poser est de savoir si ce gouvernement aime vraiment les artistes ou s'il a un problème avec eux. Pourquoi les artistes méritent-ils un traitement spécifique? Parce que leur carrière est précisément construite sur l'intermittence, des contrats très courts, des périodes de chômage indemnisé, qui font partie du fonctionnement normal du secteur.",
+      "Je renvoie une nouvelle fois, à ce sujet, à la carte blanche signée ce lundi par une quarantaine de fédérations francophones et néerlandophones, syndicats compris, et par des noms tels que Jean-Pierre Dardenne, Jaco Van Dormael, François Schuiten, Bernard Foccroulle, Caroline Lamarche, etc. Ce ne sont pas là des privilégiés qui défendent un régime de faveur. Le statut d'artiste est une construction de législation sociale patente, en exécution de résolutions du Parlement européen, notamment après la crise sanitaire.",
+      "J'ai une seule demande claire: que le gouvernement soutienne un amendement fixant la date-pivot à 1991, date à partir de laquelle le codage de l'ONEM permet d'identifier les périodes artistiques. C'est la correction minimale qui rétablira l'égalité avec les dockers et les marins-pêcheurs, et j'ai introduit un amendement en ce sens.",
+      "Encore un petit mot sur l'autre groupe que ce texte me paraît frapper dans l'ombre, à savoir les aidants proches. Le projet de loi préserve les congés thématiques des aidants proches, qui ne sont pas comptabilisés dans le plafonnement des périodes assimilées. Le projet épargne, dites-vous, les périodes de maladie, d'invalidité et de congé de soins. Et c'est vrai, celles et ceux qui ont pu prendre un congé d'aidant proche – 600 à 650 personnes par an depuis 2022, selon l'ONEM – ne sont pas visés. Tant mieux.",
+      "Mais ce congé est récent et il suppose de pouvoir se le permettre. Par contre, l'obtention de cette reconnaissance n'a aujourd'hui aucune incidence sur les aidants proches informels, à savoir ceux qui ont dû réduire fortement ou arrêter totalement leur travail et dépendre du chômage pour pouvoir venir en aide à leurs proches. On parle ici des aidants proches qui se trouvent dans les situations les plus difficiles, celles nécessitant une aide constante à un proche gravement dépendant, en particulier les parents d'enfants lourdement handicapés. Ce sont ces situations-là qui sont un réel problème. Combien sont-ils? Personne ne peut le dire, et c'est toute la question. Ils sont par définition invisibles. L'enquête Sciensano de 2025 évalue à plus de 13 % de la population les personnes qui produisent des soins informels à un proche et à environ 12 % celles qui y consacrent au moins 20 heures par semaine. C'est l'équivalent d'un mi-temps non rémunéré, qui ne figure sur aucune fiche de paie et qui n'ouvrira demain presque plus aucun droit à la pension.",
+      "Même si, dans le futur, on crée un statut d'aidant proche réellement solide permettant de répondre aux besoins des aidants proches dans les situations les plus difficiles – ce que j'espère –, la réforme étant rétroactive, cela pénaliserait tout de même les aidants proches informels qui obtiendraient un statut à partir de ce moment-là puisque, pour les années précédentes, leur statut rentrera dans le plafonnement. Ici encore, en effet, la mesure vaut pour le passé. Un parent qui est au chômage depuis 15 ans pour rester au chevet de son enfant handicapé perdra une large part de sa pension. Et même si un véritable statut d'aidant proche voyait le jour demain, il ne pourrait rien y changer. Les années déjà accomplies resteront plafonnées. La Ligue des familles résume la mécanique d’un mot en parlant de \"double peine\". Ces familles croulent aujourd'hui sous les difficultés. Demain, de l’aveu même de la directrice générale, elles n’auront quasi droit à rien.",
+      "Monsieur le président, je conclus.",
+      "Une pension, ce n’est pas une faveur; c’est le miroir d’une vie de travail, y compris du travail qu’on ne voit pas. Ce projet regarde le miroir et décide d’en rayer un tiers pour certains, sur la base d’un argument technique contesté, d’hypothèses à vérifier, d’une promesse reniée, pour sept millions d’euros d’économies.",
+      "Je voterai donc contre ce projet de loi, car je suis sûr qu’il est tout, sauf juste.",
+      "Je vous remercie, monsieur le président, chers collègues."
+     ]
+    },
+    {
+     "type": "speech",
+     "id": "04.37",
+     "name": "Dieter Vanbesien",
+     "party": "Ecolo-Groen",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Collega's, we buigen ons vandaag over het beperken van het aantal dagen dat iemand maximaal kan laten meetellen als gelijkgesteld met een gewone gewerkte dag. Het aantal gelijkgestelde dagen dat meetelt voor de pensioenopbouw wordt geplafonneerd.",
+      "De reden waarom de regering dat doet, kunnen we lezen in de memorie van toelichting bij het wetsontwerp. Er zijn zes doelstellingen: ten eerste de band tussen effectieve arbeidsprestaties en pensioenrechten versterken; ten tweede de activering van personen en de bevordering van de re-integratie op de arbeidsmarkt; ten derde vervroegde uittreding ontmoedigen; ten vierde volledige of langdurige inactiviteit ontmoedigen; ten vijfde de werkzaamheidsgraad van 50-plussers verhogen; ten zesde de financiële houdbaarheid van het pensioenstelsel op lange termijn garanderen.",
+      "Vandaag bestaat ongeveer een derde van de pensioenloopbaan van werknemers uit gelijkgestelde periodes. De gelijkgestelde periodes die met dit wetsontwerp in het vizier komen, zijn werkloosheid, SWT, brugpensioen en landingsbanen. Er wordt een plafond opgelegd van 40 %, dat over een periode van vijf jaar zal dalen tot 20 %.",
+      "Mijnheer de minister, we kunnen dit wetsontwerp uiteraard niet los zien van de pensioenhervorming die we hier een aantal maanden geleden hebben goedgekeurd, wat ik ook in de commissie heb gezegd en u hebt toegegeven. Eigenlijk maakt het wetsontwerp daar deel van uit. Het vormt één geheel, maar om een bepaalde reden is dit onderdeel in een afzonderlijk wetsontwerp terechtgekomen.",
+      "Ik kan deze maatregel niet bekijken los van de beslissing om een pensioenmalus in te voeren, een maatregel die heel vaak dezelfde mensen zal treffen als degenen die door dit plafond worden getroffen. Deze maatregel staat dus niet op zichzelf.",
+      "Mijnheer de minister, laat ons ook eens kijken naar het sociaal overleg. In de memorie van toelichting schrijft u het volgende: \"De invoering van deze maatregel heeft het voorwerp uitgemaakt van uitvoerig sociaal overleg. Naar aanleiding van dat sociaal overleg en van het bredere maatschappelijk debat over de pensioenhervorming werd voorzien in de nodige uitzonderingen, sociale correcties en overgangsmaatregelen. Deze zijn bedoeld om de bestaande rechten te garanderen en bepaalde kwetsbare groepen te ontzien.\"",
+      "Over deze maatregel, collega’s, is er opnieuw een unaniem advies van de NAR. Zowel de werkgevers als de werknemers vragen om de landingsbaan niet mee te nemen in deze regeling in het geval dat de werknemer voortwerkt tot de wettelijke pensioendatum. Toch beslist de regering om dit advies niet te volgen. Net als bij de centenindex wordt een unaniem advies van werknemers en werkgevers niet gevolgd.",
+      "Nochtans is dit advies zeer waardevol en zeer correct. Het gaat eigenlijk verder dan een advies, hier waren afspraken over gemaakt. Met deze maatregel schendt u die afspraken. Deze maatregel vormt een schending van het sociaal akkoord van juni 2025 inzake de eindeloopbaan. Dat sociaal akkoord van 2025 tussen de sociale partners bevatte een expliciet engagement: werknemers die gebruikmaken van landingsbanen en die effectief blijven werken tot hun wettelijke pensioenleeftijd zouden geen negatieve impact ondervinden voor hun pensioenopbouw. Dat is waarom de dagen gewerkt in een landingsbaan, voor zover de werknemer tot de wettelijke pensioenleeftijd heeft gewerkt, geneutraliseerd moeten worden voor het plafond, maar dat doet u niet. De vraag blijft waarom niet.",
+      "Laten we daar even dieper op ingaan. Wat is een landingsbaan? Een landingsbaan is een manier om een oudere werknemer langer aan het werk te houden. Ze gaat vervroegde uittreding tegen. Ze zorgt voor een verhoogde werkzaamheidsgraad bij 50-plussers.",
+      "Herinner u de zes doelstellingen van de regering voor dit wetsontwerp. Doelstelling 3: vervroegde uittreding uit de arbeidsmarkt ontmoedigen. Doelstelling 5: de werkzaamheidsgraad bij 50-plussers verhogen. Dat zijn twee doelstellingen die u zelf meegeeft voor dit wetsontwerp. Een landingsbaan is exact een maatregel die deze twee doelstellingen concreet maakt, die daar een positief effect op heeft. Nu wilt u met dit wetsontwerp precies de maatregel ondergraven die deze twee doelstellingen helpt te bereiken. Wie begrijpt dat nog?",
+      "Kortom, mijnheer de minister, kunt u straks nog eens duidelijk uitleggen waarom u het een goed idee vindt om landingsbanen mee te nemen in dit beperkingspercentage? Waarom is het ontmoedigen van landingsbanen een goede zaak om vervroegde uittreding tegen te gaan? Ik begrijp het niet.",
+      "In een artikel van VRT NWS lazen we het volgende: \"Regeringspartij Vooruit eist aanpassingen aan het wetsontwerp zoals de heer Jan Jambon het nu op tafel legt. Wie langer werkt met een landingsbaan, met de bedoeling om het net langer vol te houden, moet daarvoor beloond worden en niet gestraft.\" Dat is een citaat van mevrouw Vanrobaeys van Vooruit in dat artikel. Verder staat daar: \"Vooruit pleit ervoor dat de periode van een landingsbaan niet meetelt bij het berekenen van het percentage, dat nog maximaal 20 % mag bedragen. We laten die uitzondering niet los en leggen dat opnieuw op de regeringstafel.\"",
+      "Jammer genoeg, collega's, is dat waar het nu nog altijd ligt: op de regeringstafel. Het ligt in elk geval niet hier in het Parlement, tenzij mevrouw Vanrobaeys vandaag nog met een amendement komt. Daarvoor krijgt u in elk geval onze steun.",
+      "In datzelfde persartikel lazen we dat 3 op de 10 gepensioneerde werknemers boven die 20 % gelijkgestelde periodes zouden uitkomen en dus een lager pensioen zouden kunnen krijgen. Dat is 30 %.",
+      "Van die 30 % is drie vierde vrouw. Mijnheer de minister, daar gaan we weer. Mensen zullen echt beginnen te denken dat u iets tegen vrouwen hebt. Ik meen te weten dat het niet zo is, maar mensen beginnen dat te denken. We weten dat uw pensioenhervorming, die hier enkele weken geleden werd goedgekeurd, een serieuze discriminatie inhoudt van vrouwen. Nu blijkt dat die discriminatie met deze bijkomende maatregel nog extra wordt versterkt. Mijnheer de minister, ik zou u toch echt aanraden om binnenkort ook eens met een maatregel te komen die voordelig is voor vrouwen en die hen vooruithelpt.",
+      "Wat de cijfers over de impact in het algemeen betreft, lees ik in het advies van de Raad van State: \"Uit de toelichting verschaft aan de inspecteur van Financiën blijkt dat de stellers van het voorontwerp de concrete impact van de maatregel inschatten op gemiddeld 200 tot 220 euro bruto per persoon per maand.\" Dankzij het rapport van het Federaal Planbureau weten we dat vooral de laagste pensioenen nog lager zullen worden. Procentueel zijn de grootste verliezers degenen met de laagste pensioenen. Ik citeer opnieuw: \"Omdat de gepensioneerden met een hoger pensioen niet of nauwelijks door de maatregel worden geïmpacteerd, stijgt de ongelijkheid op basis van het pensioen.\"",
+      "Op kruissnelheid, wanneer het plafond gezakt is tot 20 %, is het effect uiteraard het grootst. Ik citeer opnieuw: \"In dat geval zien we een gemiddeld verlies van het brutopensioenbedrag met 1,2 % en een verlies van 10,1 % van het brutopensioenbedrag in het eerste deciel, evenals een stijging van de pensioenongelijkheid. De ginicoëfficiënt stijgt met 2,5 %.\"",
+      "Wat de impact op het vlak van gender betreft, gepensioneerde vrouwen verliezen meer dan mannen, waardoor de pensioenkloof groter wordt. De reden daarvoor is, mevrouw Bertrand, dat vrouwen vaker dan mannen geen toegang hebben tot het minimumpensioen waarnaar u verwees en dus vaker de vastgelegde grens zullen overschrijden.",
+      "Daarom vind ik het ook bijzonder vreemd – mevrouw Almaci heeft er daarnet al even naar verwezen – dat Vooruit deze week een onlinecampagne heeft opgestart. Ik citeer daaruit: \"Een nieuw rapport zegt het: vrouwen gaan erop vooruit dankzij het minimumpensioen. De gelijkheid tussen mannen en vrouwen stijgt en de armoede bij gepensioneerden daalt.\" Mevrouw Vanrobaeys, hoe haalt u het in uw hoofd om net nu zo'n campagne op te starten en een boodschap de wereld in te sturen die precies het tegenovergestelde is van de werkelijkheid? Wat een lef van Vooruit, het is schaamteloos.",
+      "In die campagne wordt ook verwezen naar een rapport van het Federaal Planbureau over de gevolgen van de pensioenhervorming van de vorige regering, waarvan de groenen deel uitmaakten. De hervorming van deze regering, zonder de groenen, haalt die resultaten opnieuw onderuit. Het Netwerk tegen Armoede heeft deze week nog gewaarschuwd dat de armoede onder gepensioneerden zal stijgen, zeker onder vrouwen. Ik heb het al eerder gezegd, die balans zullen we aan het einde van de legislatuur opmaken. Vandaag met zo'n socialemediacampagne naar buiten komen, is de mensen vierkant uitlachen. Het is beschamend.",
+      "Laten we het ook even hebben over het brugpensioen en het SWT. U weet, mijnheer de minister, dat dit statuut voor de betrokkenen nooit, of toch zelden, vrijwillig is. Het is altijd het gevolg van een faillissement of een grondige herstructurering van het bedrijf. Op dat moment worden er afspraken gemaakt, engagementen aangegaan en verwachtingen gecreëerd. Die verwachtingen worden vandaag opnieuw niet nagekomen.",
+      "Dat brengt ons bij een van de grote problemen die ook bij de pensioenhervorming van enkele weken geleden aan de orde waren. Er wordt met terugwerkende kracht gewerkt. Beloften en verwachtingen die in het verleden werden gecreëerd met landingsbanen en SWT, zorgen nu plots voor een nadeel en een vermindering van het pensioenbedrag. Dat gaat in tegen de gemaakte afspraken en de gewekte verwachtingen. Voor de eerste cohorte, voor wie een plafond van 40 % geldt, zou men nog kunnen zeggen dat het doenbaar is. Dat plafond daalt echter jaarlijks met 5 %. Dat gaat dus bijzonder snel. Dat kan niemand nog compenseren of goedmaken. U tast dus opnieuw verworven rechten aan, net zoals dat bij de vorige pensioenhervorming het geval was.",
+      "Ook de Raad van State is zeer kritisch over deze maatregel: \"De verantwoording biedt weinig inzicht over de concrete impact ervan op pensioenrechten van de betrokken rechthebbenden. Mede in het licht hiervan is het voor de afdeling Wetgeving niet mogelijk om die verantwoording op sluitende wijze op haar deugdelijkheid in het licht van artikel 23 van de Grondwet te beoordelen\" – dat gaat over het standstillprincipe – \"aangezien zij geen kennis heeft van alle feiten en elementen die in dat verband relevant kunnen zijn. Dat is des te meer zo aangezien, zoals hiervoor opgemerkt, ten aanzien van de betrokken rechthebbenden recent reeds andere maatregelen werden genomen die een impact hebben op hun recht op sociale zekerheid, met inbegrip van de regeling van de thans geviseerde gelijkgestelde perioden, zoals de beperking van de werkloosheidsuitkering in de tijd. De vraag rijst overigens of de maatregel ten aanzien van personen voor wie de loopbaan reeds gelijkgestelde perioden uit het verleden bevat, pertinent is in het licht van de doelstelling van de versterking van de band tussen het pensioen en de effectieve arbeidsprestaties.\"",
+      "Een beetje verder zegt de Raad van State: \"Hoewel het maximale percentage hoger is voor werknemers die dicht bij de wettelijke pensioenleeftijd staan, is het niet duidelijk in welk opzicht de maatregel geen afbreuk zou doen aan het gewettigd vertrouwen van, bij wijze van voorbeeld, een werknemer geboren in 1968 die gedurende aanzienlijke delen van zijn loopbaan werkloos is geweest en wiens pensioen voortaan berekend wordt met inbegrip van een maximaal percentage aan gelijkgestelde dagen. Hetzelfde geldt in geval van een overlevingspensioen of overgangsuitkering voor de langstlevende echtgenoot.\"",
+      "Deze kritiek sluit exact aan bij mijn eigen kritiek, namelijk dat het plafond veel te snel naar beneden gaat, waardoor afbreuk wordt gedaan aan het gewettigd vertrouwen van mensen die relatief dicht bij hun pensioen staan. Deze kritiek zal opnieuw gebruikt worden door organisaties om deze wet aan te vechten bij het Grondwettelijk Hof. Er staat dat Hof de komende weken en maanden veel werk te wachten.",
+      "Tot slot, collega's, zijn er uiteraard nog de oneerlijke effecten voor wie het kunstenaarsstatuut geniet en voor de mantelzorgers. Mevrouw Almaci heeft het er net al even over gehad, net als andere collega's. Ook mijn collega Sarah Schlitz is er uitgebreid op ingegaan. Zij heeft ook de amendementen toegelicht die we hebben ingediend om de onrechtvaardigheden weg te werken. Ik zal die niet herhalen, want ik mag van de voorzitter niet in herhaling vallen. U hebt de verantwoording allemaal gekregen. Ik raad u aan om die amendementen grondig te lezen en erover na te denken.",
+      "Collega's, tenzij onze amendementen alsnog worden aanvaard, zullen we dit wetsontwerp straks niet steunen."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Dank u wel, collega Vanbesien, ook voor uw correcte manier van debatteren."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "We lassen nu een pauze van tien minuten in. We hervatten rond 13.30 uur."
+    },
+    {
+     "type": "note",
+     "lang": "nl",
+     "text": "De vergadering wordt geschorst om 13.24 uur."
+    },
+    {
+     "type": "note",
+     "lang": "fr",
+     "text": "La séance est suspendue à 13 h 24."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "De bijlage is opgenomen in een aparte brochure met nummer CRIV 56 PLEN 136 bijlage."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "L'annexe est reprise dans une brochure séparée, portant le numéro CRIV 56 PLEN 136 annexe."
+    }
+   ]
+  }
+ ],
+ "named_votes": {}
+}

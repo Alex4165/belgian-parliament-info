@@ -1,0 +1,1111 @@
+{
+ "doc": "813",
+ "docs": [
+  "813",
+  "818",
+  "1590"
+ ],
+ "legislature": 56,
+ "title": {
+  "nl": "Wetsontwerp tot wijziging van de wet van 10 november 2006 betreffende de openingsuren in handel, ambacht en dienstverlening en van de wet van 24 juni 2013 betreffende de gemeentelijke administratieve sancties (1590/1-8)",
+  "fr": "Projet de loi modifiant la loi du 10 novembre 2006 relative aux heures d'ouverture dans le commerce, l'artisanat et les services et la loi du 24 juin 2013 relative aux sanctions administratives communales (1590/1-8)",
+  "subtitles": {
+   "nl": [
+    "Wetsvoorstel ter bevordering van vrije openingsuren en ter bestrijding van imagoverlagende zaken (813/1-3)",
+    "Wetsvoorstel tot wijziging van de wet van 10 november 2006 betreffende de openingsuren in handel, ambacht en dienstverlening wat de verruiming van de openingsuren betreft (818/1-4)"
+   ],
+   "fr": [
+    "Proposition de loi visant à promouvoir la flexibilité des heures d'ouverture et à lutter contre les commerces qui dévalorisent le paysage urbain (813/1-3)",
+    "Proposition de loi modifiant, en ce qui concerne l'extension des heures d'ouverture, la loi du 10 novembre 2006 relative aux heures d'ouverture dans le commerce, l'artisanat et les services (818/1-4)"
+   ]
+  }
+ },
+ "sessions": [
+  {
+   "session": 137,
+   "date": "2026-07-15",
+   "part": "afternoon",
+   "url": "https://www.dekamer.be/doc/PCRI/html/56/ip137x.html"
+  },
+  {
+   "session": 139,
+   "date": "2026-07-16",
+   "part": "afternoon",
+   "url": "https://www.dekamer.be/doc/PCRI/html/56/ip139x.html"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Charlotte Verkeyn",
+   "party": "N-VA",
+   "role": null,
+   "refs": [
+    "137/06.01",
+    "137/06.14"
+   ]
+  },
+  {
+   "name": "Anthony Dufrane",
+   "party": "MR",
+   "role": null,
+   "refs": [
+    "137/06.02"
+   ]
+  },
+  {
+   "name": "Sophie Thémont",
+   "party": "PS",
+   "role": null,
+   "refs": [
+    "137/06.03",
+    "137/06.27"
+   ]
+  },
+  {
+   "name": "Annik Van den Bosch",
+   "party": "PVDA-PTB",
+   "role": null,
+   "refs": [
+    "137/06.04",
+    "137/06.28",
+    "137/06.30"
+   ]
+  },
+  {
+   "name": "Sarah Schlitz",
+   "party": "Ecolo-Groen",
+   "role": null,
+   "refs": [
+    "137/06.05",
+    "137/06.07",
+    "137/06.11",
+    "137/06.13",
+    "137/06.19",
+    "137/06.23"
+   ]
+  },
+  {
+   "name": "Vincent Van Quickenborne",
+   "party": "Anders.",
+   "role": null,
+   "refs": [
+    "137/06.06",
+    "137/06.08",
+    "137/06.10",
+    "137/06.12",
+    "137/06.15",
+    "137/06.16",
+    "137/06.17",
+    "137/06.18",
+    "137/06.21",
+    "137/06.22",
+    "137/06.25",
+    "137/06.29",
+    "137/06.31"
+   ]
+  },
+  {
+   "name": "Patrick Prévot",
+   "party": "PS",
+   "role": null,
+   "refs": [
+    "137/06.09",
+    "137/06.20",
+    "137/06.24"
+   ]
+  },
+  {
+   "name": "Eléonore Simonet",
+   "party": null,
+   "role": "government",
+   "refs": [
+    "137/06.26"
+   ]
+  }
+ ],
+ "votes": [
+  {
+   "ref": "139/vote 21",
+   "session": 139,
+   "date": "2026-07-16",
+   "subject": "Stemming over amendement nr. 9 van Steven Coenegrachts cs op artikel 7. ( 1590/8)",
+   "item_title": "Aangehouden amendementen en artikelen van het wetsontwerp tot wijziging van de wet van 10 november 2006 betreffende de openingsuren in handel, ambacht en dienstverlening en van de wet van 24 juni 2013 betreffende de gemeentelijke administratieve sancties (1590/1-8)",
+   "result": {
+    "nl": "Bijgevolg is het amendement verworpen en is artikel 7 aangenomen.",
+    "fr": "En conséquence, l'amendement est rejeté et l'article 7 est adopté."
+   },
+   "yes": 7,
+   "no": 111,
+   "abstain": 21,
+   "total": 139,
+   "reused": false,
+   "docs": [
+    "1590"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "voor",
+     "yes": 7,
+     "no": 0,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 7,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 14,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 16,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 23,
+     "abstain": 0
+    },
+    "ONAFH": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "verdeeld",
+     "yes": 0,
+     "no": 13,
+     "abstain": 1
+    },
+    "PVDA-PTB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 13,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 20
+    },
+    "Vooruit": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    }
+   },
+   "kind": "amendment",
+   "final": false
+  },
+  {
+   "ref": "139/vote 21",
+   "session": 139,
+   "date": "2026-07-16",
+   "subject": "Stemming over amendement nr. 10 van Steven Coenegrachts cs op artikel 11. ( 1590/8)",
+   "item_title": "Aangehouden amendementen en artikelen van het wetsontwerp tot wijziging van de wet van 10 november 2006 betreffende de openingsuren in handel, ambacht en dienstverlening en van de wet van 24 juni 2013 betreffende de gemeentelijke administratieve sancties (1590/1-8)",
+   "result": {
+    "nl": "Bijgevolg is het amendement verworpen en is artikel 11 aangenomen.",
+    "fr": "En conséquence, l'amendement est rejeté et l'article 11 est adopté."
+   },
+   "yes": 7,
+   "no": 111,
+   "abstain": 21,
+   "total": 139,
+   "reused": true,
+   "docs": [
+    "1590"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "voor",
+     "yes": 7,
+     "no": 0,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 7,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 14,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 16,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 23,
+     "abstain": 0
+    },
+    "ONAFH": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "verdeeld",
+     "yes": 0,
+     "no": 13,
+     "abstain": 1
+    },
+    "PVDA-PTB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 13,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 20
+    },
+    "Vooruit": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    }
+   },
+   "kind": "amendment",
+   "final": false
+  },
+  {
+   "ref": "139/vote 21",
+   "session": 139,
+   "date": "2026-07-16",
+   "subject": "Stemming over amendement nr. 11 van Steven Coenegrachts cs op artikel 12. ( 1590/8)",
+   "item_title": "Aangehouden amendementen en artikelen van het wetsontwerp tot wijziging van de wet van 10 november 2006 betreffende de openingsuren in handel, ambacht en dienstverlening en van de wet van 24 juni 2013 betreffende de gemeentelijke administratieve sancties (1590/1-8)",
+   "result": {
+    "nl": "Bijgevolg is het amendement verworpen en is artikel 12 aangenomen.",
+    "fr": "En conséquence, l'amendement est rejeté et l'article 12 est adopté."
+   },
+   "yes": 7,
+   "no": 111,
+   "abstain": 21,
+   "total": 139,
+   "reused": true,
+   "docs": [
+    "1590"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "voor",
+     "yes": 7,
+     "no": 0,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 7,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 14,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 16,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 23,
+     "abstain": 0
+    },
+    "ONAFH": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "verdeeld",
+     "yes": 0,
+     "no": 13,
+     "abstain": 1
+    },
+    "PVDA-PTB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 13,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 20
+    },
+    "Vooruit": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    }
+   },
+   "kind": "amendment",
+   "final": false
+  },
+  {
+   "ref": "139/vote 21",
+   "session": 139,
+   "date": "2026-07-16",
+   "subject": "Stemming over amendement nr. 12 van Steven Coenegrachts cs op artikel 13. ( 1590/8)",
+   "item_title": "Aangehouden amendementen en artikelen van het wetsontwerp tot wijziging van de wet van 10 november 2006 betreffende de openingsuren in handel, ambacht en dienstverlening en van de wet van 24 juni 2013 betreffende de gemeentelijke administratieve sancties (1590/1-8)",
+   "result": {
+    "nl": "Bijgevolg is het amendement verworpen en is artikel 13 aangenomen.",
+    "fr": "En conséquence, l'amendement est rejeté et l'article 13 est adopté."
+   },
+   "yes": 7,
+   "no": 111,
+   "abstain": 21,
+   "total": 139,
+   "reused": true,
+   "docs": [
+    "1590"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "voor",
+     "yes": 7,
+     "no": 0,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 7,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 14,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 16,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 23,
+     "abstain": 0
+    },
+    "ONAFH": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "verdeeld",
+     "yes": 0,
+     "no": 13,
+     "abstain": 1
+    },
+    "PVDA-PTB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 13,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 20
+    },
+    "Vooruit": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    }
+   },
+   "kind": "amendment",
+   "final": false
+  },
+  {
+   "ref": "139/vote 22",
+   "session": 139,
+   "date": "2026-07-16",
+   "subject": "Stemming over amendement nr. 7 van Patrick Prévot cs op artikel 19. ( 1590/8)",
+   "item_title": "Aangehouden amendementen en artikelen van het wetsontwerp tot wijziging van de wet van 10 november 2006 betreffende de openingsuren in handel, ambacht en dienstverlening en van de wet van 24 juni 2013 betreffende de gemeentelijke administratieve sancties (1590/1-8)",
+   "result": {
+    "nl": "Bijgevolg is het amendement verworpen en is artikel 19 aangenomen.",
+    "fr": "En conséquence, l'amendement est rejeté et l'article 19 est adopté."
+   },
+   "yes": 34,
+   "no": 84,
+   "abstain": 21,
+   "total": 139,
+   "reused": false,
+   "docs": [
+    "1590"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 7,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "voor",
+     "yes": 1,
+     "no": 0,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "voor",
+     "yes": 7,
+     "no": 0,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 14,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 16,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 23,
+     "abstain": 0
+    },
+    "ONAFH": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "verdeeld",
+     "yes": 13,
+     "no": 0,
+     "abstain": 1
+    },
+    "PVDA-PTB": {
+     "stance": "voor",
+     "yes": 13,
+     "no": 0,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 20
+    },
+    "Vooruit": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    }
+   },
+   "kind": "amendment",
+   "final": false
+  },
+  {
+   "ref": "139/vote 22",
+   "session": 139,
+   "date": "2026-07-16",
+   "subject": "Stemming over amendement nr. 8 van Patrick Prévot cs tot invoeging van een artikel 20(n). ( 1590/8)",
+   "item_title": "Aangehouden amendementen en artikelen van het wetsontwerp tot wijziging van de wet van 10 november 2006 betreffende de openingsuren in handel, ambacht en dienstverlening en van de wet van 24 juni 2013 betreffende de gemeentelijke administratieve sancties (1590/1-8)",
+   "result": {
+    "nl": "Bijgevolg is het amendement verworpen.",
+    "fr": "En conséquence, l'amendement est rejeté."
+   },
+   "yes": 34,
+   "no": 84,
+   "abstain": 21,
+   "total": 139,
+   "reused": true,
+   "docs": [
+    "1590"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 7,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "voor",
+     "yes": 1,
+     "no": 0,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "voor",
+     "yes": 7,
+     "no": 0,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 14,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 16,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 23,
+     "abstain": 0
+    },
+    "ONAFH": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "verdeeld",
+     "yes": 13,
+     "no": 0,
+     "abstain": 1
+    },
+    "PVDA-PTB": {
+     "stance": "voor",
+     "yes": 13,
+     "no": 0,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 20
+    },
+    "Vooruit": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    }
+   },
+   "kind": "amendment",
+   "final": false
+  },
+  {
+   "ref": "139/vote 23",
+   "session": 139,
+   "date": "2026-07-16",
+   "subject": null,
+   "item_title": "Geheel van het wetsontwerp tot wijziging van de wet van 10 november 2006 betreffende de openingsuren in handel, ambacht en dienstverlening en van de wet van 24 juni 2013 betreffende de gemeentelijke administratieve sancties (1590/7)",
+   "result": {
+    "nl": "Bijgevolg neemt de Kamer het wetsontwerp aan. Het zal aan de Koning ter bekrachtiging worden voorgelegd. (1590/9)",
+    "fr": "En conséquence, la Chambre adopte le projet de loi. Il sera soumis à la sanction royale. (1590/9)"
+   },
+   "yes": 98,
+   "no": 31,
+   "abstain": 2,
+   "total": 131,
+   "reused": false,
+   "docs": [
+    "1590"
+   ],
+   "by_party": {
+    "?": {
+     "stance": "voor",
+     "yes": 1,
+     "no": 0,
+     "abstain": 0
+    },
+    "Anders.": {
+     "stance": "voor",
+     "yes": 7,
+     "no": 0,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 1
+    },
+    "Ecolo-Groen": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 7,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "voor",
+     "yes": 13,
+     "no": 0,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "voor",
+     "yes": 16,
+     "no": 0,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "voor",
+     "yes": 21,
+     "no": 0,
+     "abstain": 0
+    },
+    "ONAFH": {
+     "stance": "voor",
+     "yes": 1,
+     "no": 0,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "verdeeld",
+     "yes": 0,
+     "no": 13,
+     "abstain": 1
+    },
+    "PVDA-PTB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "voor",
+     "yes": 20,
+     "no": 0,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "voor",
+     "yes": 9,
+     "no": 0,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "voor",
+     "yes": 10,
+     "no": 0,
+     "abstain": 0
+    }
+   },
+   "kind": "whole",
+   "final": true
+  }
+ ],
+ "summary": {
+  "plain_title": "Winkels mogen langer open en hoeven geen vaste sluitingsdag meer te hebben",
+  "problem": "De wet op de openingsuren van winkels is bijna twintig jaar oud. Volgens de indieners past ze niet meer bij hoe mensen vandaag winkelen. Internetwinkels zijn altijd open, terwijl gewone winkels strenge regels moeten volgen over sluitingsuren en een verplichte sluitingsdag. Daarnaast doen sommige nachtwinkels zich voor als krantenwinkel, zodat ze dag en nacht open kunnen blijven.",
+  "proposal": [
+   "De verplichte wekelijkse sluitingsdag (rustdag) voor winkels verdwijnt.",
+   "Winkels mogen elke dag open blijven tot 21.00 uur. Vroeger was dat 20.00 uur, en 21.00 uur op vrijdag en de dag voor een feestdag. Het blijft een mogelijkheid, geen verplichting.",
+   "Er komen strengere regels voor krantenwinkels: het aantal kranten, de andere producten en de oppervlakte van de winkel tellen mee. Zo wil men valse krantenwinkels aanpakken.",
+   "Gemeenten krijgen meer mogelijkheden om regels te maken. Er komen ook dezelfde controles en straffen voor het hele land.",
+   "De wet maakt duidelijk dat diensten (zoals kapsalons) er op twee uitzonderingen na niet onder vallen. De Koning kan aparte regels maken voor sectoren met een verplichte wachtdienst, zoals in de gezondheidszorg."
+  ],
+  "positions": [
+   {
+    "actor": "N-VA",
+    "summary": "N-VA steunt de wet, omdat ondernemers zo meer vrijheid krijgen. De partij noemt het een eerste stap. Ze had zelf een voorstel ingediend om winkels tot 22.00 uur open te laten, en wil dat gemeenten overlast in alle sectoren kunnen aanpakken.",
+    "refs": [
+     "137/06.01",
+     "137/06.14"
+    ]
+   },
+   {
+    "actor": "MR",
+    "summary": "MR steunt de wet. Volgens de partij maakt ze de regels moderner, kunnen gewone winkels zo eerlijker concurreren met internetwinkels en pakt ze misbruik door valse krantenwinkels aan.",
+    "refs": [
+     "137/06.02"
+    ]
+   },
+   {
+    "actor": "PS",
+    "summary": "De PS-sprekers waren tegen. Volgens hen waren de organisaties van zelfstandigen tegen de wet, helpt ze vooral grote winkelketens en waren er geen hoorzittingen. Ze vroegen steun voor hun amendement om franchisenemers te beschermen. Bij de stemming was de PS-fractie verdeeld.",
+    "refs": [
+     "137/06.03",
+     "137/06.20",
+     "137/06.24",
+     "137/06.27"
+    ]
+   },
+   {
+    "actor": "PVDA-PTB",
+    "summary": "PVDA-PTB stemde tegen. De partij vindt dat de wet in de praktijk de werkomstandigheden en het loon van winkelpersoneel verandert. Ze verwacht ook dat kleine zelfstandigen onder druk komen te staan van grote ketens.",
+    "refs": [
+     "137/06.04",
+     "137/06.28"
+    ]
+   },
+   {
+    "actor": "Ecolo-Groen",
+    "summary": "Ecolo-Groen stemde tegen. De partij wijst erop dat de hele sector tegen is, dat kleine winkels hogere kosten krijgen zonder meer te verkopen en dat mensen minder momenten samen hebben. Ze wil liever internetplatformen regelen en stadscentra steunen.",
+    "refs": [
+     "137/06.05",
+     "137/06.13",
+     "137/06.19",
+     "137/06.23"
+    ]
+   },
+   {
+    "actor": "Anders.",
+    "summary": "Anders. wil volledige vrijheid in openingsuren en vindt de wet maar een heel klein stapje. De partij vindt het jammer dat de regels voor zondagswerk niet veranderen. Ze zou over haar stem beslissen na de antwoorden van de minister en stemde uiteindelijk voor.",
+    "refs": [
+     "137/06.06",
+     "137/06.10",
+     "137/06.12",
+     "137/06.15",
+     "137/06.17",
+     "137/06.18",
+     "137/06.22",
+     "137/06.25",
+     "137/06.29",
+     "137/06.31"
+    ]
+   },
+   {
+    "actor": "Regering",
+    "summary": "Minister Simonet zegt dat de wet een verplichting schrapt zonder een nieuwe op te leggen, en dat de regels voor werknemers niet veranderen. Ze laat onderzoeken of een verplichte opening van 7 dagen op 7 in contracten op de lijst van onrechtmatige bedingen moet komen.",
+    "refs": [
+     "137/06.26"
+    ]
+   }
+  ],
+  "arguments_for": [
+   {
+    "point": "Ondernemers moeten zelf kunnen kiezen wanneer ze open zijn. De wet schrapt een verplichting en legt geen nieuwe op.",
+    "actors": [
+     "N-VA",
+     "MR",
+     "Anders.",
+     "Regering"
+    ],
+    "refs": [
+     "137/06.01",
+     "137/06.02",
+     "137/06.06",
+     "137/06.26"
+    ],
+    "quote": "Il n'y a, ici, aucune obligation. Nous supprimons simplement une obligation, sans en créer une autre.",
+    "quote_ref": "137/06.26"
+   },
+   {
+    "point": "De wet is twintig jaar oud. Gewone winkels moeten beter kunnen concurreren met internetwinkels, die altijd open zijn.",
+    "actors": [
+     "MR",
+     "N-VA",
+     "Anders.",
+     "Regering"
+    ],
+    "refs": [
+     "137/06.01",
+     "137/06.02",
+     "137/06.06",
+     "137/06.26"
+    ],
+    "quote": "Alors que le commerce en ligne bénéficie d'une flexibilité quasiment totale, les commerces physiques, quant à eux, restent soumis à des contraintes rigides.",
+    "quote_ref": "137/06.02"
+   },
+   {
+    "point": "Ruimere openingsuren zorgen voor meer verkoop en banen. Mensen kopen meer in België in plaats van online of over de grens. De minister verwijst daarvoor naar internationale studies.",
+    "actors": [
+     "Regering",
+     "Anders."
+    ],
+    "refs": [
+     "137/06.25",
+     "137/06.26"
+    ],
+    "quote": "Wanneer men mensen de mogelijkheid geeft om op zondag in eigen land te winkelen en niet in Frankrijk, dan wordt er meer geconsumeerd in eigen land en niet in Frankrijk.",
+    "quote_ref": "137/06.25"
+   },
+   {
+    "point": "De wet pakt nachtwinkels aan die zich voordoen als krantenwinkel. Gemeenten krijgen ook meer middelen tegen overlast.",
+    "actors": [
+     "MR",
+     "N-VA"
+    ],
+    "refs": [
+     "137/06.01",
+     "137/06.02"
+    ],
+    "quote": "mettre fin aux abus observés dans certaines communes où des magasins de nuit se cachent derrière de faux magasins de journaux",
+    "quote_ref": "137/06.02"
+   },
+   {
+    "point": "De regels voor werknemers veranderen niet. Veel winkels zonder personeel hebben er meteen voordeel van, en winkels die op zondag opengaan, kunnen extra mensen aannemen.",
+    "actors": [
+     "Regering",
+     "N-VA"
+    ],
+    "refs": [
+     "137/06.14",
+     "137/06.26"
+    ],
+    "quote": "bijna 75 % van die winkels in de detailhandel werkt zonder personeel, dus die worden onmiddellijk geholpen door het voorstel.",
+    "quote_ref": "137/06.26"
+   },
+   {
+    "point": "Kleine winkels kunnen goed blijven bestaan door service en kwaliteit. Meer vrijheid zorgt voor meer verschillende soorten winkels naast elkaar.",
+    "actors": [
+     "Anders.",
+     "Regering"
+    ],
+    "refs": [
+     "137/06.22",
+     "137/06.25",
+     "137/06.26"
+    ],
+    "quote": "De ene winkel is open op zondag en de andere niet. Weet u wat het mooie is? Beide winkels kunnen perfect naast elkaar bestaan.",
+    "quote_ref": "137/06.25"
+   }
+  ],
+  "arguments_against": [
+   {
+    "point": "De organisaties van zelfstandigen (UNIZO, UCM, NSZ en de Hoge Raad) zijn tegen. Alleen Comeos, dat de grote ketens vertegenwoordigt, is voor. Er werden geen hoorzittingen gehouden.",
+    "actors": [
+     "PS",
+     "PVDA-PTB",
+     "Ecolo-Groen"
+    ],
+    "refs": [
+     "137/06.03",
+     "137/06.04",
+     "137/06.05",
+     "137/06.20",
+     "137/06.27"
+    ],
+    "quote": "cette réforme faisait l'unanimité, mais contre elle.",
+    "quote_ref": "137/06.03"
+   },
+   {
+    "point": "Grote ketens hebben er het meeste voordeel van. Als zij langer open zijn, moeten kleine winkels volgen om hun klanten niet te verliezen. De vrije keuze wordt zo in de praktijk een verplichting.",
+    "actors": [
+     "PS",
+     "PVDA-PTB",
+     "Ecolo-Groen"
+    ],
+    "refs": [
+     "137/06.03",
+     "137/06.04",
+     "137/06.05",
+     "137/06.23"
+    ],
+    "quote": "Wat juridisch een vrije keuze is, wordt economisch een verplichting.",
+    "quote_ref": "137/06.04"
+   },
+   {
+    "point": "Mensen hebben niet meer geld om uit te geven. Langer open zijn spreidt de aankopen alleen over meer uren, terwijl de kosten voor personeel en energie stijgen.",
+    "actors": [
+     "PS",
+     "PVDA-PTB",
+     "Ecolo-Groen"
+    ],
+    "refs": [
+     "137/06.03",
+     "137/06.04",
+     "137/06.13",
+     "137/06.24",
+     "137/06.27"
+    ],
+    "quote": "De plus, lorsqu'on a 100 euros en poche, on ne peut pas en dépenser 120.",
+    "quote_ref": "137/06.27"
+   },
+   {
+    "point": "Werknemers krijgen meer druk en minder toeslagen voor weekendwerk. Ook het gezinsleven en de momenten die mensen samen doorbrengen, komen onder druk.",
+    "actors": [
+     "PVDA-PTB",
+     "Ecolo-Groen",
+     "PS"
+    ],
+    "refs": [
+     "137/06.04",
+     "137/06.05",
+     "137/06.23",
+     "137/06.27",
+     "137/06.28"
+    ],
+    "quote": "Elke dag wordt nu een gewone werkdag. Er komt dus geen toeslag meer voor weekend- of zondagswerk.",
+    "quote_ref": "137/06.04"
+   },
+   {
+    "point": "Franchisenemers en winkels in winkelcentra kunnen via hun contract verplicht worden om 7 dagen op 7 open te zijn. Het amendement van de PS om dat te verbieden werd niet overgenomen.",
+    "actors": [
+     "PS",
+     "Ecolo-Groen"
+    ],
+    "refs": [
+     "137/06.03",
+     "137/06.20",
+     "137/06.23",
+     "137/06.24",
+     "137/06.27"
+    ],
+    "quote": "ce qui est présenté comme une simple faculté peut rapidement devenir pour eux une obligation imposée par contrat.",
+    "quote_ref": "137/06.20"
+   },
+   {
+    "point": "De wet pakt de echte problemen niet aan. Mensen winkelen over de grens omdat het daar goedkoper is, en kleine winkels hebben vooral last van energiekosten en internetplatformen.",
+    "actors": [
+     "PVDA-PTB",
+     "PS",
+     "Ecolo-Groen"
+    ],
+    "refs": [
+     "137/06.04",
+     "137/06.13",
+     "137/06.27",
+     "137/06.28"
+    ],
+    "quote": "Mensen gaan dus niet over de grens winkelen omdat de winkels daar langer open zijn, maar omdat het er goedkoper is.",
+    "quote_ref": "137/06.04"
+   }
+  ]
+ },
+ "checks": [],
+ "meta": {
+  "generator": "claude-cli",
+  "prompt_version": "1",
+  "generated_at": "2026-11-22T21:55:38+00:00"
+ },
+ "repairs": []
+}

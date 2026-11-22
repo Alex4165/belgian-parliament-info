@@ -1,0 +1,451 @@
+{
+ "doc": "1113",
+ "docs": [
+  "1113"
+ ],
+ "legislature": 56,
+ "title": {
+  "nl": "Voorstel van resolutie betreffende het gebruik van e-sports, videogames en livestreaming als innovatieve communicatie- en rekruteringsaanpak bij Defensie (1113/1-5)",
+  "fr": "Proposition de résolution concernant le recours aux e-sports, aux jeux vidéo et au streaming en direct comme approche innovante en matière de communication et de recrutement à la Défense (1113/1-5)",
+  "subtitles": {
+   "nl": [],
+   "fr": []
+  }
+ },
+ "sessions": [
+  {
+   "session": 147,
+   "date": "2026-11-05",
+   "part": "afternoon",
+   "url": "https://www.dekamer.be/doc/PCRI/html/56/ip147x.html"
+  },
+  {
+   "session": 148,
+   "date": "2026-11-05",
+   "part": "evening",
+   "url": "https://www.dekamer.be/doc/PCRI/html/56/ip148x.html"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Koen Metsu",
+   "party": "N-VA",
+   "role": null,
+   "refs": [
+    "147/11.01",
+    "147/11.07",
+    "147/11.08",
+    "147/11.09"
+   ]
+  },
+  {
+   "name": "Kristien Verbelen",
+   "party": "VB",
+   "role": null,
+   "refs": [
+    "147/11.02"
+   ]
+  },
+  {
+   "name": "Charlotte Deborsu",
+   "party": "MR",
+   "role": null,
+   "refs": [
+    "147/11.03"
+   ]
+  },
+  {
+   "name": "Kemal Bilmez",
+   "party": "PVDA-PTB",
+   "role": null,
+   "refs": [
+    "147/11.04",
+    "147/11.10"
+   ]
+  },
+  {
+   "name": "Stéphane Lasseaux",
+   "party": "Les Engagés",
+   "role": null,
+   "refs": [
+    "147/11.05"
+   ]
+  },
+  {
+   "name": "Axel Weydts",
+   "party": "Vooruit",
+   "role": null,
+   "refs": [
+    "147/11.06"
+   ]
+  },
+  {
+   "name": "Koen Van den Heuvel",
+   "party": "cd&v",
+   "role": null,
+   "refs": [
+    "147/11.11",
+    "147/11.17"
+   ]
+  },
+  {
+   "name": "Nabil Boukili",
+   "party": "PVDA-PTB",
+   "role": null,
+   "refs": [
+    "147/11.12",
+    "147/11.13",
+    "147/11.14",
+    "147/11.15",
+    "147/11.16"
+   ]
+  },
+  {
+   "name": "Staf Aerts",
+   "party": "Ecolo-Groen",
+   "role": null,
+   "refs": [
+    "147/11.18"
+   ]
+  }
+ ],
+ "votes": [
+  {
+   "ref": "148/vote 3",
+   "session": 148,
+   "date": "2026-11-05",
+   "subject": null,
+   "item_title": "Voorstel van resolutie betreffende het gebruik van e-sports, videogames en livestreaming als innovatieve communicatie- en rekruteringsaanpak bij Defensie (1113/5)",
+   "result": {
+    "nl": "Bijgevolg neemt de Kamer het voorstel van resolutie aan. Het zal ter kennis van de regering worden gebracht.",
+    "fr": "En conséquence, la Chambre adopte la proposition de résolution. Il en sera donné connaissance au gouvernement."
+   },
+   "yes": 94,
+   "no": 34,
+   "abstain": 0,
+   "total": 128,
+   "reused": false,
+   "docs": [
+    "1113"
+   ],
+   "by_party": {
+    "Anders.": {
+     "stance": "voor",
+     "yes": 6,
+     "no": 0,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 9,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "voor",
+     "yes": 13,
+     "no": 0,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "voor",
+     "yes": 18,
+     "no": 0,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "voor",
+     "yes": 23,
+     "no": 0,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 12,
+     "abstain": 0
+    },
+    "PVDA-PTB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 12,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "voor",
+     "yes": 12,
+     "no": 0,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "voor",
+     "yes": 11,
+     "no": 0,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "voor",
+     "yes": 11,
+     "no": 0,
+     "abstain": 0
+    }
+   },
+   "kind": "whole",
+   "final": true
+  }
+ ],
+ "summary": {
+  "plain_title": "Defensie wil jongeren aanspreken via games, e-sports en livestreams",
+  "problem": "Volgens de indieners verandert oorlogvoering snel: drones en digitale systemen worden steeds belangrijker. Defensie heeft daarom meer mensen nodig met digitale en technische vaardigheden. Met folders, infodagen en jobbeurzen bereikt Defensie niet alle jongeren. Volgens de indieners loopt België achter op landen die al via gaming rekruteren.",
+  "proposal": [
+   "De regering moet gamers zien als een aparte doelgroep voor rekrutering, naast de gewone manieren van werven.",
+   "Militairen die gamen kunnen op platformen zoals Twitch en YouTube verschijnen. Jongeren kunnen hun daar vragen stellen over het beroep.",
+   "Defensie gebruikt e-sporttoernooien en online evenementen ook om jongeren meer uit te leggen over veiligheid en defensie.",
+   "Er komen grenzen: alleen voor jongeren vanaf 16 jaar, geen misleidende of agressieve boodschappen, geen focus op kwetsbare groepen en een ethische gedragscode.",
+   "Er moet altijd een duidelijk verschil blijven tussen een spel en de echte job van militair."
+  ],
+  "positions": [
+   {
+    "actor": "cd&v",
+    "summary": "Diende het voorstel in. Gamers hebben volgens cd&v vaardigheden die een modern leger nodig heeft. Gaming kan helpen om te rekruteren en om meer steun voor defensie te krijgen, binnen strikte ethische grenzen.",
+    "refs": [
+     "147/11.17",
+     "147/11.11"
+    ]
+   },
+   {
+    "actor": "N-VA",
+    "summary": "Steunt het voorstel volledig, als aanvulling op het personeelsbeleid. Het mag niet te veel geld kosten, en kandidaten mogen geen vals beeld krijgen, want 'Defensie is geen spel'.",
+    "refs": [
+     "147/11.01",
+     "147/11.09"
+    ]
+   },
+   {
+    "actor": "VB",
+    "summary": "Steunt het voorstel als nuttige aanvulling op de gewone rekrutering. Volgens VB lost het de personeelsproblemen niet op: militairen opleiden en houden blijft even belangrijk.",
+    "refs": [
+     "147/11.02"
+    ]
+   },
+   {
+    "actor": "MR",
+    "summary": "Steunt het voorstel als extra kans om andere profielen te vinden voor een leger dat digitaler wordt. MR vraagt duidelijke regels voor cyberveiligheid en de bescherming van minderjarigen.",
+    "refs": [
+     "147/11.03"
+    ]
+   },
+   {
+    "actor": "Les Engagés",
+    "summary": "Steunt het voorstel. Gamers kunnen talent inbrengen. Wel moet er een ethische gedragscode komen, en de initiatieven mogen alleen gericht zijn op mensen ouder dan 16 jaar.",
+    "refs": [
+     "147/11.05"
+    ]
+   },
+   {
+    "actor": "Vooruit",
+    "summary": "Steunt het voorstel. Vooruit spreekt PVDA tegen: het gaat niet om een verplichting, en jongeren hebben wel interesse in Defensie.",
+    "refs": [
+     "147/11.06"
+    ]
+   },
+   {
+    "actor": "PVDA-PTB",
+    "summary": "Is tegen. Games zijn er om te ontspannen, niet voor reclame van het leger. Volgens PVDA-PTB willen jongeren goed onderwijs, openbaar vervoer en betaalbaar wonen, en geen oorlog.",
+    "refs": [
+     "147/11.04",
+     "147/11.10",
+     "147/11.12"
+    ]
+   },
+   {
+    "actor": "Ecolo-Groen",
+    "summary": "Is tegen, omdat het voorstel te ver gaat. De leeftijdsgrens is volgens Ecolo-Groen niet af te dwingen en botst met het Kinderrechtenverdrag. De partij wil dat Defensie de vrije tijd van jongeren met rust laat en het beroep aantrekkelijker maakt.",
+    "refs": [
+     "147/11.18"
+    ]
+   }
+  ],
+  "arguments_for": [
+   {
+    "point": "Oorlogvoering wordt digitaal, met drones en schermen. Gamers hebben vaardigheden die het leger nodig heeft, zoals snel beslissen, samenwerken en problemen oplossen.",
+    "actors": [
+     "cd&v",
+     "N-VA",
+     "VB",
+     "Les Engagés",
+     "MR"
+    ],
+    "refs": [
+     "147/11.17",
+     "147/11.01",
+     "147/11.02",
+     "147/11.05",
+     "147/11.03"
+    ],
+    "quote": "Gamers beschikken immers over vaardigheden zoals strategisch denken, de vaardigheid om in een team te werken, reactiesnelheid en een sterk probleemoplossend vermogen.",
+    "quote_ref": "147/11.17"
+   },
+   {
+    "point": "Via games en livestreams bereikt Defensie jongeren die ze via de gewone kanalen niet bereikt. Het blijft een aanvulling, geen vervanging.",
+    "actors": [
+     "MR",
+     "VB",
+     "N-VA",
+     "cd&v"
+    ],
+    "refs": [
+     "147/11.03",
+     "147/11.02",
+     "147/11.01",
+     "147/11.17"
+    ],
+    "quote": "les e-sports, les jeux vidéo et le streaming permettent de toucher des jeunes qui ne se seraient peut-être jamais intéressés à la Défense par les canaux traditionnels.",
+    "quote_ref": "147/11.03"
+   },
+   {
+    "point": "Andere landen, zoals de Verenigde Staten, Frankrijk, Nederland en het Verenigd Koninkrijk, rekruteren al met succes via gaming.",
+    "actors": [
+     "N-VA",
+     "MR",
+     "cd&v"
+    ],
+    "refs": [
+     "147/11.01",
+     "147/11.03",
+     "147/11.17"
+    ],
+    "quote": "De Verenigde Staten, Frankrijk en Nederland tonen aan dat di aanpak succesvol kan zijn voor de rekrutering en communicatie gericht op die doelgroep.",
+    "quote_ref": "147/11.01"
+   },
+   {
+    "point": "Het voorstel bevat duidelijke grenzen: een minimumleeftijd van 16 jaar, geen misleidende boodschappen, een ethische code en een duidelijk verschil tussen spel en werkelijkheid.",
+    "actors": [
+     "Les Engagés",
+     "cd&v",
+     "MR",
+     "N-VA",
+     "VB"
+    ],
+    "refs": [
+     "147/11.05",
+     "147/11.17",
+     "147/11.03",
+     "147/11.01",
+     "147/11.02"
+    ],
+    "quote": "le recrutement par le gaming doit être soumis à un code de conduite éthique et opérationnel.",
+    "quote_ref": "147/11.05"
+   },
+   {
+    "point": "Gaming en e-sports kunnen jongeren meer leren over veiligheid en over de rol van defensie. Zo groeit de steun voor defensie.",
+    "actors": [
+     "cd&v"
+    ],
+    "refs": [
+     "147/11.17"
+    ],
+    "quote": "De versterking van het draagvlak voor defensie begint bij kennis en begrip.",
+    "quote_ref": "147/11.17"
+   },
+   {
+    "point": "Niemand wordt verplicht. Er zijn al meer kandidaten dan plaatsen, wat volgens voorstanders toont dat jongeren interesse hebben in Defensie. Een land moet zich ook kunnen verdedigen.",
+    "actors": [
+     "Vooruit",
+     "N-VA"
+    ],
+    "refs": [
+     "147/11.06",
+     "147/11.09"
+    ],
+    "quote": "Dat is absoluut niet de bedoeling van het voorstel van resolutie, die helemaal niet zo ver reikt.",
+    "quote_ref": "147/11.06"
+   }
+  ],
+  "arguments_against": [
+   {
+    "point": "Games zijn er om te ontspannen met vrienden. Het leger moet de vrije tijd van jongeren en kinderen met rust laten.",
+    "actors": [
+     "PVDA-PTB",
+     "Ecolo-Groen"
+    ],
+    "refs": [
+     "147/11.04",
+     "147/11.18"
+    ],
+    "quote": "Blijf gewoon van de vrije tijd van de jongeren af. Laat hen kind zijn. Laat hen spelen. Laat hen gamen.",
+    "quote_ref": "147/11.18"
+   },
+   {
+    "point": "De leeftijdsgrens van 16 jaar is in de praktijk niet af te dwingen, dus ook jongere kinderen krijgen de boodschappen. Volgens tegenstanders botst het voorstel ook met het Kinderrechtenverdrag, dat rekrutering onder de 18 jaar verbiedt.",
+    "actors": [
+     "Ecolo-Groen"
+    ],
+    "refs": [
+     "147/11.18"
+    ],
+    "quote": "Mijn eerste vraag is hoe dat in de praktijk kan worden afgedwongen. Op geen enkele manier zal dat afdwingbaar zijn.",
+    "quote_ref": "147/11.18"
+   },
+   {
+    "point": "Het voorstel opent de deur voor de 'gamificatie' van defensie. Daardoor wordt de kloof tussen verwachting en werkelijkheid groter. Volgens Ecolo-Groen waarschuwen ook de vakbonden en de Jeugdraad hiervoor.",
+    "actors": [
+     "Ecolo-Groen"
+    ],
+    "refs": [
+     "147/11.18"
+    ],
+    "quote": "Deze resolutie zal de deur nog verder openzetten voor de introductie van de gamelogica.",
+    "quote_ref": "147/11.18"
+   },
+   {
+    "point": "Er zijn al genoeg kanalen om jongeren te bereiken. Het echte probleem is dat militairen vertrekken. Het geld kan beter naar een aantrekkelijker beroep gaan.",
+    "actors": [
+     "Ecolo-Groen"
+    ],
+    "refs": [
+     "147/11.18"
+    ],
+    "quote": "Het beroep moet vooral aantrekkelijker worden gemaakt, zodat de ervaren militairen die vandaag bij defensie werken, er blijven en niet vertrekken.",
+    "quote_ref": "147/11.18"
+   },
+   {
+    "point": "Volgens tegenstanders wil de tekst jongeren warm maken voor oorlog, terwijl zij dat niet willen. In de VS leiden zulke campagnes gamers via een cadeau-link naar de rekruteringssite.",
+    "actors": [
+     "PVDA-PTB"
+    ],
+    "refs": [
+     "147/11.04",
+     "147/11.10"
+    ],
+    "quote": "Videogames zijn echter gemaakt om zich te kunnen ontspannen en met zijn vrienden van een rustige tijd te genieten, niet om militaire rekruteringscampagnes te ontvangen.",
+    "quote_ref": "147/11.04"
+   },
+   {
+    "point": "Jongeren willen een toekomst met goed onderwijs, openbaar vervoer en betaalbare woningen. Volgens tegenstanders wordt daarop bespaard, terwijl er geld gaat naar rekrutering voor het leger.",
+    "actors": [
+     "PVDA-PTB"
+    ],
+    "refs": [
+     "147/11.04",
+     "147/11.10"
+    ],
+    "quote": "Ils veulent un avenir, un enseignement digne de ce nom, des enseignants devant la classe!",
+    "quote_ref": "147/11.04"
+   }
+  ]
+ },
+ "checks": [],
+ "meta": {
+  "generator": "claude-cli",
+  "prompt_version": "1",
+  "generated_at": "2026-11-22T21:56:19+00:00"
+ },
+ "repairs": []
+}

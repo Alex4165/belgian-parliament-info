@@ -1,0 +1,1765 @@
+{
+ "source": {
+  "type": "plenary",
+  "legislature": 56,
+  "session": 144,
+  "url": "https://www.dekamer.be/doc/PCRI/html/56/ip144x.html",
+  "date": "2026-10-13",
+  "part": "afternoon",
+  "provisional": false
+ },
+ "items": [
+  {
+   "number": "01",
+   "section": null,
+   "title": {
+    "nl": "Minuut stilte ter nagedachtenis van de overleden militair en de doodgeschoten agent",
+    "fr": "Minute de silence en mémoire du militaire décédé et du policier abattu"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Le président ( devant l’assemblée debout ): Chers collègues, avant de procéder à l'ouverture officielle de l'année parlementaire, il nous revient, hélas, d'honorer la mémoire de deux compatriotes."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter (voor de staande vergadering) : Geachte collega ' s, vooraleer we overgaan tot de officiële opening van het parlementaire jaar, hebben we de droeve plicht om twee landgenoten te gedenken."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Op 10 oktober jongstleden overleed een paracommando uit Diest na een val in een ravijn tijdens een oefening in de Pyreneeën nabij Pau. Hij laat een echtgenote en een dochter na."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Deze ochtend bereikte ons opnieuw afschuwelijk nieuws, deze keer vanuit Jette. Na een achtervolging op een gestolen wagen werd daar een agent op uiterst laffe wijze doodgeschoten. Eerste inspecteur Nordine El Talbi, officier van de gerechtelijke politie en lid van de anti-overvalbrigade, werd 41 jaar oud en zal niet ouder worden."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Geachte collega's, onze mannen en vrouwen in uniform zetten zich elke dag in ten dienste van de samenleving en de veiligheid van onze burgers, vaak met gevaar voor lijf en leden, zoals hier zo pijnlijk wordt geïllustreerd. Ik hoop en ik ben ervan overtuigd te mogen spreken namens u allen wanneer ik zeg dat wij hun daarvoor grote erkentelijkheid verschuldigd zijn en dat wij tot in het diepste van ons hart met hen meeleven."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Le 10 octobre dernier, un paracommando basé à Diest est décédé à la suite d'une chute dans un ravin lors d'un exercice militaire dans les Pyrénées, près de Pau. Il laisse derrière lui une épouse et une fille."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Ce matin, une autre terrible nouvelle nous est parvenue, cette fois en provenance de Jette. À l’issue d’une course-poursuite visant une voiture volée, un policier a été abattu de la manière la plus lâche qui soit. Le premier inspecteur Nordine El Talbi, officier de la police judiciaire et membre de la brigade anti-agression, avait 41 ans et ne dépassera jamais cet âge."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Chers collègues, nos hommes et nos femmes en uniforme s’engagent chaque jour au service de la société et de la sécurité de nos concitoyens, souvent au péril de leur vie, comme l’illustrent si douloureusement ces tragédies. J’espère pouvoir affirmer – et je suis convaincu de pouvoir parler au nom de vous toutes et tous – que nous leur sommes profondément reconnaissants et que nous compatissons du fond du cœur à leur douleur."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Au nom de cette Assemblée, je tiens à présenter mes plus sincères condoléances aux proches de ces deux hommes, ainsi qu'à leurs collègues de la police et de la Défense."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Je vous invite à observer une minute de silence."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Namens deze assemblee wil ik mijn oprechte medeleven betuigen aan de nabestaanden van deze twee mannen, evenals aan hun collega ' s bij de politie en bij Defensie."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Mag ik u verzoeken een minuut stilte in acht te nemen?"
+    },
+    {
+     "type": "note",
+     "lang": "nl",
+     "text": "De Kamer neemt een minuut stilte in acht."
+    },
+    {
+     "type": "note",
+     "lang": "fr",
+     "text": "La Chambre observe une minute de silence."
+    }
+   ]
+  },
+  {
+   "number": "02",
+   "section": null,
+   "title": {
+    "nl": "Opening van de gewone zitting 2026-2027",
+    "fr": "Ouverture de la session ordinaire 2026-2027"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Dames en heren, waarde collega's,"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Mesdames, messieurs, chers collègues,"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De Kamer komt heden van rechtswege bijeen op grond van artikel 44 van de Grondwet."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "La Chambre se réunit aujourd'hui de plein droit, en vertu de l'article 44 de la Constitution."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Ik verklaar de zitting 2026-2027 voor geopend."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Je déclare ouverte la session 2026-2027."
+    }
+   ]
+  },
+  {
+   "number": "03",
+   "section": null,
+   "title": {
+    "nl": "Benoeming van het Vast Bureau",
+    "fr": "Nomination du Bureau définitif"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Aan de orde is de benoeming van het Vast Bureau."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "L'ordre du jour appelle la nomination du Bureau définitif."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Samenstelling van het Bureau"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Composition du Bureau"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "1)Het Bureau bestaat uit:"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "- de voorzitter,"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "- de drie ondervoorzitters,"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "- en de Bureauleden."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "1)Le Bureau est composé comme suit:"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "- du président,"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "- de trois vice-présidents,"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "- et de membres du Bureau."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "2)Het Bureau wordt aangevuld met:"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "- de gewezen voorzitters, lid van de Kamer,"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "- de voorzitters van de politieke fracties,"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "- een toegevoegd lid per politieke fractie met minder dan twaalf leden die geen in nr. 1 bedoeld lid van het Bureau heeft."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "2)Le Bureau est complété par:"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "- les anciens présidents, membres de la Chambre,"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "- les présidents des groupes politiques,"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "- un membre associé par groupe politique qui compte moins de douze membres et qui n'a pas de membre du Bureau visé au n° 1."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Wijze van benoeming"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Procédure de nomination"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter wordt verkozen overeenkomstig artikel 157 van het Reglement."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Le président est nommé conformément à l'article 157 du Règlement."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De Kamer benoemt de ondervoorzitters en Bureauleden overeenkomstig artikel 158, nr. 1, eerste zin, op voorstel van de politieke fracties. Het voorzitterschap wordt meegerekend in de toewijzing van deze functies volgens de evenredige vertegenwoordiging van de politieke fracties. Bovendien worden zoveel leden benoemd als nodig is opdat elke politieke fractie met ten minste twaalf leden ten minste één lid van het Bureau telt."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Les vice-présidents et membres du Bureau sont nommés par la Chambre conformément à l'article 158, n° 1, première phrase, et sur proposition des groupes politiques, étant entendu que la présidence est prise en compte pour l'attribution de ces fonctions selon la règle de la représentation proportionnelle des groupes politiques et qu'il est procédé à autant de nominations qu'il est nécessaire pour que chaque groupe politique d'au moins douze membres compte au moins un membre au sein du Bureau."
+    },
+    {
+     "type": "heading",
+     "level": 3,
+     "nl": "Verkiezing van de voorzitter",
+     "fr": "Élection du président"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De enige verkiezing waartoe moet worden overgegaan is die van de voorzitter van de Kamer."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "La seule élection à laquelle il convient de procéder est celle du président de la Chambre."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Vraagt iemand het woord?"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Quelqu'un demande-t-il la parole?"
+    },
+    {
+     "type": "speech",
+     "id": "03.01",
+     "name": "Benoît Piedboeuf",
+     "party": "MR",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le président, au nom de mon groupe, mais aussi des collègues de la majorité, j’ai le plaisir de proposer la reconduction du président actuel."
+     ],
+     "translation": {
+      "lang": "nl",
+      "paragraphs": [
+       "Mijnheer de voorzitter, namens mijn fractie, maar ook namens de collega’s van de meerderheid, stel ik met genoegen voor het mandaat van de huidige voorzitter te verlengen."
+      ]
+     }
+    },
+    {
+     "type": "note",
+     "lang": "nl",
+     "text": "(Applaus)"
+    },
+    {
+     "type": "note",
+     "lang": "fr",
+     "text": "(Applaudissements)"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Uw applaus was misschien voorbarig, want ik moet mij wenden tot het halfrond om na te gaan of er andere voorstellen zijn. Ik hoop dat er geen andere kandidaten zijn, anders heb ik mijn strikje voor niets aangetrokken. Ik wist dat deze vergadering niet helemaal zou verlopen zoals normaal gezien het geval is op de tweede dinsdag van oktober, dus ik hoopte dat ik dat vestimentair een klein beetje kon compenseren. Ik hoop dat u daar ook begrip voor opbrengt."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Ik dank collega Piedboeuf voor zijn vriendelijke suggestie. Als er inderdaad maar één kandidaat is – de enige manier waarop ik verkiezingen kan winnen – dank ik u voor die inschikkelijkheid."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Le président : Vos applaudissements sont peut-être hâtifs, puisque je dois me tourner vers l’hémicycle afin de vérifier si d'autres candidats sont proposés. J’espère que ce n'est pas le cas, sinon j’aurais sorti mon nœud papillon pour rien. Je savais que cette séance ne se déroulerait pas tout à fait comme une séance habituelle du deuxième mardi d’octobre et j’espérais dès lors pouvoir compenser légèrement la situation par ma tenue vestimentaire. Je compte sur votre compréhension."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Je remercie mon collègue Piedboeuf pour son aimable suggestion. Si le candidat proposé est effectivement le seul – ce qui constitue la seule façon pour moi de remporter les élections –, je vous remercie pour votre indulgence à mon égard."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Aangezien er slechts één kandidaat wordt voorgedragen, wordt er geen stemming gehouden. Bijgevolg ben ik, Peter De Roover, verkozen tot voorzitter van de Kamer en handhaaf ik mijn plaats aan het bureau."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Étant donné qu'il n'y a qu'un seul candidat, il n'y a pas lieu à scrutin. En conséquence, moi, Peter De Roover, suis élu en qualité de président de la Chambre et je maintiens ma place au bureau."
+    },
+    {
+     "type": "note",
+     "lang": "nl",
+     "text": "(Applaus)"
+    },
+    {
+     "type": "note",
+     "lang": "fr",
+     "text": "(Applaudissements)"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Ik lees ook maar voor wat hier staat, collega's."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Ik dank u voor deze uiting van vertrouwen. We zitten in een Huis waar het niet evident is om neutraal te zijn."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Het zal u misschien verbazen na twee jaar, maar ik heb een politieke overtuiging. Het glazuur van mijn gebit neemt stelselmatig af, want ik moet voortdurend op mijn tanden bijten. Ik kan namelijk niet tussenkomen. Ik probeer dat dan ook niet te doen. In de mate waarin het menselijk mogelijk is – iedereen heeft immers zijn beperkingen, ik in het bijzonder – probeer ik een voorzitter te zijn van alle 150 van u. Ik hoop dat ik dat vertrouwen ook niet beschadig. Als dat wel het geval is, staat mijn deur open. Wijs mij dus gerust op mijn mankementen, maar overdrijf niet."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Je ne fais que lire la phrase que j'ai sous les yeux, chers collègues."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Je vous remercie pour cette marque de confiance. Nous siégeons dans une Assemblée où il n'est pas évident d'être neutre."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Cela vous surprendra peut-être après deux ans, mais j’ai mes propres convictions politiques. L’émail de ma dentition s’use progressivement à force de devoir serrer les dents. En effet, je ne suis pas autorisé à intervenir et je m'efforce donc de respecter cette règle. Dans la mesure où cela est humainement possible – chacun a ses limites, moi en particulier –, j’essaie d’être le président de chacun d’entre vous, tous les 150. J’espère ne pas trahir cette confiance. Si tel était le cas, ma porte reste ouverte. N’hésitez donc pas à me signaler mes lacunes, sans toutefois exagérer."
+    },
+    {
+     "type": "heading",
+     "level": 3,
+     "nl": "Benoeming van de ondervoorzitters en van de Bureauleden",
+     "fr": "Nomination des vice-présidents et des membres du Bureau"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Aan de orde is de benoeming van de drie ondervoorzitters en de Bureauleden."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Il y a lieu de nommer les trois vice-présidents et les membres du Bureau."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Het voorzitterschap wordt meegerekend in de toewijzing van deze functies en wij benoemen drie ondervoorzitters en zoveel leden als nodig opdat elke politieke fractie met ten minste twaalf leden ten minste een lid van het Bureau telt (art. 3, nr. 1, derde lid, Rgt)."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Étant entendu que la présidence est prise en compte pour l’attribution de ces fonctions, nous procédons à la nomination de trois vice-présidents et à autant de nominations qu’il est nécessaire pour que chaque groupe politique d’au moins douze membres compte au moins un membre au sein du Bureau (art. 3, n° 1, al. 3, Rgt)."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Bijgevolg benoemen we in de volgende volgorde: een lid van de VB-fractie, een lid van de MR-fractie, een lid van de PS-fractie, een lid van de PVDA-PTB-fractie, een lid van de Les Engagésfractie, een lid van de Vooruitfractie."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Par conséquent, nous procédons à la nomination dans l'ordre suivant: un membre du groupe VB, un membre du groupe MR, un membre du groupe PS, un membre du groupe PVDA-PTB, un membre du groupe Les Engagés, un membre du groupe Vooruit."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Ik geef het woord aan de voorzitters van de politieke fracties met ten minste twaalf leden."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Je donne la parole aux présidents des groupes politiques comptant au moins douze membres."
+    },
+    {
+     "type": "speech",
+     "id": "03.02",
+     "name": "Barbara Pas",
+     "party": "VB",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Met minstens evenveel genoegen als waarmee collega Piedboeuf u daarnet voorstelde, stel ik Wouter Vermeersch als eerste ondervoorzitter voor."
+     ],
+     "translation": {
+      "lang": "fr",
+      "paragraphs": [
+       "C'est avec au moins autant de plaisir que celui avec lequel M. Piedboeuf vient de vous proposer comme président, que je propose M. Wouter Vermeersch comme premier vice- président."
+      ]
+     }
+    },
+    {
+     "type": "speech",
+     "id": "03.03",
+     "name": "Benoît Piedboeuf",
+     "party": "MR",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le président, j'ai le plaisir de proposer ma collègue Florence Reuter comme vice-présidente."
+     ],
+     "translation": {
+      "lang": "nl",
+      "paragraphs": [
+       "Mijnheer de voorzitter, ik heb het genoegen mijn collega Florence Reuter voor te dragen als ondervoorzitter."
+      ]
+     }
+    },
+    {
+     "type": "speech",
+     "id": "03.04",
+     "name": "Pierre-Yves Dermagne",
+     "party": "PS",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le président, je propose la reconduction de notre excellent collègue Frédéric Daerden."
+     ],
+     "translation": {
+      "lang": "nl",
+      "paragraphs": [
+       "Mijnheer de voorzitter, ik stel voor het mandaat van onze uitstekende collega Frédéric Daerden te verlengen."
+      ]
+     }
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Ik verklaar de heren Wouter Vermeersch en Frédéric Daerden en mevrouw Florence Reuter verkozen als ondervoorzitters."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Je proclame MM. Wouter Vermeersch en Frédéric Daerden en Mme Florence Reuter élus en qualité de vice-présidents de la Chambre."
+    },
+    {
+     "type": "speech",
+     "id": "03.05",
+     "name": "Sofie Merckx",
+     "party": "PVDA-PTB",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le président, je propose la reconduction de mon excellent camarade Nabil Boukili."
+     ],
+     "translation": {
+      "lang": "nl",
+      "paragraphs": [
+       "Mijnheer de voorzitter, ik stel voor het mandaat van mijn uitstekende kameraad Nabil Boukili te verlengen."
+      ]
+     }
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Le président : Soyez le bienvenu, monsieur le \"camarade\"."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Welkom, mijnheer de \"kameraad\" …"
+    },
+    {
+     "type": "speech",
+     "id": "03.06",
+     "name": "Aurore Tourneur",
+     "party": "Les Engagés",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le président, je propose la reconduction de mon éminent collègue Benoît Lutgen."
+     ],
+     "translation": {
+      "lang": "nl",
+      "paragraphs": [
+       "Mijnheer de voorzitter, ik stel voor het mandaat van mijn eminente collega Benoît Lutgen te verlengen."
+      ]
+     }
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Le président : M. Lutgen est absent pour cause de maladie."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : De heer Lutgen is afwezig wegens ziekte."
+    },
+    {
+     "type": "speech",
+     "id": "03.07",
+     "name": "Oskar Seuntjens",
+     "party": "Vooruit",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Wij dragen met veel trots mijn collega Jan Bertels voor."
+     ],
+     "translation": {
+      "lang": "fr",
+      "paragraphs": [
+       "C'est avec beaucoup de fierté que nous proposons notre collègue Jan Bertels."
+      ]
+     }
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Ik verklaar de heren Nabil Boukili, Benoît Lutgen en Jan Bertels verkozen als leden van het Bureau van de Kamer."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Je proclame MM. Nabil Boukili, Benoît Lutgen et Jan Bertels élus en qualité de membres du Bureau de la Chambre."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Het Bureau wordt aangevuld met"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "- de voorzitters van de politieke fracties:"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "de heer Axel Ronse, voorzitter van de N-VA-fractie"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "mevrouw Barbara Pas, voorzitster van de Vlaams Belangfractie;"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "de heer Benoît Piedboeuf, voorzitter van de MR-fractie;"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "de heer Pierre-Yves Dermagne, voorzitter van de PS-fractie;"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "mevrouw Sofie Merckx, voorzitster van de PVDA-PTB-fractie;"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "mevrouw Aurore Tourneur, voorzitster van de Les Engagésfractie;"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "de heer Oskar Seuntjens, voorzitter van de Vooruitfractie;"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "mevrouw Nawal Farih, voorzitster van de cd&v-fractie;"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "de heer Matti Vandemaele, voorzitter van de Ecolo-Groenfractie;"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "mevrouw Alexia Bertrand, voorzitster van de Anders.-fractie."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "- een toegevoegd lid per politieke fractie met minder dan twaalf leden."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Le Bureau est complété par:"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "- Les présidents des groupes politiques:"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "M. Axel Ronse, président du groupe N-VA;"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Mme Barbara Pas, présidente du groupe Vlaams Belang;"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "M. Benoît Piedboeuf, président du groupe MR;"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "M. Pierre-Yves Dermagne, président du groupe PS;"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Mme Sofie Merckx, présidente du groupe PVDA-PTB;"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Mme Aurore Tourneur, présidente du groupe Les Engagés;"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "M. Oskar Seuntjens, président du groupe Vooruit;"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Mme Nawal Farih, présidente du groupe cd&v;"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "M. Matti Vandemaele, président du groupe Ecolo-Groen;"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Mme Alexia Bertrand, présidente du groupe Anders.;"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "- un membre associé par groupe politique qui compte moins de douze membres."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Ik geef het woord aan de voorzitters van de cd&v-, Ecolo-Groen- en Anders.-fractie, voor de aanwijzing van een toegevoegd lid."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Je donne la parole aux présidents des groupes cd&v, Ecolo-Groen et Anders. pour la désignation d'un membre associé."
+    },
+    {
+     "type": "speech",
+     "id": "03.08",
+     "name": "Nawal Farih",
+     "party": "cd&v",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Voor onze fractie zal Nathalie Muylle verder in het Bureau zetelen."
+     ],
+     "translation": {
+      "lang": "fr",
+      "paragraphs": [
+       "Nathalie Muylle continuera de siéger au Bureau pour notre groupe."
+      ]
+     }
+    },
+    {
+     "type": "speech",
+     "id": "03.09",
+     "name": "Matti Vandemaele",
+     "party": "Ecolo-Groen",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Voor de Ecolo-Groenfractie zal mijn fantastische collega Sarah Schlitz verder in het Bureau zetelen."
+     ],
+     "translation": {
+      "lang": "fr",
+      "paragraphs": [
+       "Ma formidable collègue, Sarah Schlitz, continuera de siéger au Bureau pour le groupe Ecolo-Groen."
+      ]
+     }
+    },
+    {
+     "type": "speech",
+     "id": "03.10",
+     "name": "Alexia Bertrand",
+     "party": "Anders.",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Wij dragen opnieuw Vincent Van Quickenborne voor, die vandaag verontschuldigd is wegens ziekte."
+     ],
+     "translation": {
+      "lang": "fr",
+      "paragraphs": [
+       "Nous proposons la reconduction de M. Vincent Van Quickenborne, qui est excusé aujourd’hui pour cause de maladie."
+      ]
+     }
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Ik verklaar de dames Nathalie Muylle en Sarah Schlitz en de heer Vincent Van Quickenborne verkozen als toegevoegd lid van het Bureau."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Je proclame Mmes Nathalie Muylle et Sarah Schlitz et M. Vincent Van Quickenborne élus membres associés du Bureau."
+    }
+   ]
+  },
+  {
+   "number": "04",
+   "section": null,
+   "title": {
+    "nl": "Wettig- en voltalligverklaring van de Kamer",
+    "fr": "Constitution de la Chambre"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De Kamer is voor wettig en voltallig verklaard. Daarvan zal worden kennisgegeven aan de Koning, aan de Senaat en aan de gemeenschaps- en gewestparlementen."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "La Chambre est constituée. Il en sera donné connaissance au Roi, au Sénat et aux parlements de communauté et de région."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Die Kammer ist zusammengestellt. Seine Majestät der König, der Senat sowie die Regional- und Gemeinschaftsparlamente werden hiervon in Kenntnis gesetzt."
+    }
+   ]
+  },
+  {
+   "number": "05",
+   "section": null,
+   "title": {
+    "nl": "Benoeming van de leden van de Bureaus van de commissies",
+    "fr": "Élection des membres des Bureaux des commissions"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Overeenkomstig artikel 19 van het Reglement van de Kamer zouden de commissies moeten vergaderen om hun Bureaus te benoemen."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Conformément à l'article 19 du Règlement de la Chambre, les commissions devraient se réunir afin de procéder à la nomination de leurs Bureaux."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Indien de Kamer het daarmee eens is, zouden we de procedure kunnen vereenvoudigen en de huidige leden van de Bureaus van de commissies als herkozen kunnen beschouwen."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Si la Chambre est d'accord, nous pourrions simplifier la procédure et considérer comme réélus les membres actuels des Bureaux des commissions."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Geen bezwaar? (Nee)"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Aldus zal geschieden."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Pas d'observation? (Non)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Il en sera ainsi."
+    }
+   ]
+  },
+  {
+   "number": "06",
+   "section": null,
+   "title": {
+    "nl": "Agenda",
+    "fr": "Ordre du jour"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Collega's, aangezien onze werkweek er anders uitziet dan wat we voordien hadden gedacht, stel ik u voor om met uw goeddunken een agendawijziging goed te keuren."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De regering heeft mij meegedeeld dat ze vandaag geen State of the Union aflegt. Er is een vraag van een aantal fracties om de eerste minister te vorderen. Dat betekent dat we, zoals ik gisteren met de verschillende collega's van de oppositie heb besproken, de Kamer de gelegenheid geven om zich daarover uit te spreken. Naar aanleiding van de mijns inziens terechte vraag van de oppositie krijgt elke fractie tien minuten spreektijd."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Chers collègues, le déroulé de notre semaine de travail étant différent de ce que nous avions prévu, je vous propose d’approuver, à votre discrétion, une modification de l’ordre du jour."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Le gouvernement m’a fait savoir qu’il ne prononcerait pas sa déclaration aujourd’hui. Plusieurs groupes ont réclamé la présence du premier ministre. Cela signifie que, comme j’en ai discuté hier avec les différents collègues de l’opposition, nous donnerons à la Chambre l’occasion de s’exprimer à ce sujet. En réponse à la demande de l’opposition, qui me semble justifiée, chaque groupe disposera de dix minutes de temps de parole."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "In mijn voorstel tot agendawijziging wordt de vergadering van morgen geschrapt. Dat betekent dat de commissievergaderingen die onder voorbehoud waren samengeroepen, werkelijk plaats kunnen vinden."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Ma proposition de modification de l’ordre du jour prévoit la suppression de la séance de demain. Par conséquent, les réunions de commission qui avaient été convoquées sous réserve pourront effectivement avoir lieu."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Komende donderdag hebben we dan, met uw goedvinden, een normale plenaire vergadering, met mondelinge vragen, twee wetsvoorstellen en een wetsontwerp, zoals ik u vanmorgen in een e-mail, die u hopelijk hebt ontvangen, heb gevraagd. Die zouden eigenlijk volgende week worden behandeld, maar de agenda van volgende week is al behoorlijk geladen. Op die manier kunnen we die enigszins ontlasten. Er staan ook inoverwegingnemingen en naam-stemmingen onder meer over een aantal moties op de agenda."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Jeudi prochain, si vous y consentez, nous tiendrons donc une séance plénière normale, comportant des questions orales, deux propositions de loi et un projet de loi, conformément à ma demande formulée ce matin dans un courriel que vous avez, je l’espère, reçu. Ces points devaient en réalité être examinés la semaine prochaine, mais l’ordre du jour de la semaine prochaine est déjà fort chargé. Ces modifications nous permettront de l’alléger quelque peu. L’ordre du jour comprend également des prises en considération et des votes nominatifs, notamment sur un certain nombre de motions."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Zijn er dienaangaande opmerkingen? (Nee)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Y a-t-il une observation à ce sujet? (Non)"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Bijgevolg is de gewijzigde agenda aangenomen."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "En conséquence, l'ordre du jour modifié est adopté."
+    },
+    {
+     "type": "heading",
+     "level": 3,
+     "nl": "Schriftelijke voorstellen tot vordering van een regeringslid",
+     "fr": "Propositions par écrit en vue de requérir la présence d'un membre du gouvernement"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Bij mail van 12 oktober 2026 heeft mevrouw Barbara Pas (VB) een schriftelijk voorstel ingediend om de aanwezigheid te vorderen van de eerste minister tijdens de plenaire vergadering van 13 oktober 2026. Het luidt als volgt."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "\"De Kamer,"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "- gelet op de bijzonder zorgwekkende toestand van de federale overheidsfinanciën en de hoogdringendheid van de begrotingswerkzaamheden;"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "- gelet op het uitblijven van een begrotingsakkoord en het daaruit voortvloeiende uitstel van de voor dinsdag 13 oktober 2026 aangekondigde federale beleidsverklaring;"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "- gelet op het grondwettelijke recht van de Kamer om de regering te controleren en de noodzaak om de volksvertegenwoordiging onverwijld en rechtstreeks te informeren over de financiële toestand van het land;"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "stelt, met toepassing van artikel 50 van het Kamerreglement, voor om de aanwezigheid te vorderen van de heer Bart De Wever, eerste minister, opdat hij op dinsdag 13 oktober 2026 in de plenaire vergadering verslag uitbrengt over de actuele toestand van de federale overheidsfinanciën, de stand van zaken van de begrotingsonderhandelingen, de redenen voor het uitblijven van een begrotingsakkoord en het verdere tijdschema voor de indiening van de begroting voor 2027."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De eerste minister wordt tevens verzocht de Kamer in de gelegenheid te stellen hierover een gedachtewisseling te houden.\""
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Par mail du 12 octobre 2026, Mme Barbara Pas (VB) a déposé une proposition formulée par écrit visant à requérir la présence du premier ministre lors de la séance plénière du 13 octobre 2026. Elle est libellée comme suit:"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "\" La Chambre,"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "- eu égard à la situation particulièrement préoccupante des finances publiques fédérales et à l'urgence des travaux budgétaires;"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "- eu égard à l'absence d'accord budgétaire et, par conséquent, au report de la déclaration de politique générale annoncée pour le mardi 13 octobre 2026;"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "- eu égard au droit constitutionnel de la Chambre de contrôler le gouvernement et à la nécessité d'informer les députés, directement et sans délai, de la situation financière du pays;"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "propose, en application de l'article 50 du Règlement de la Chambre, de requérir la présence de M. Bart De Wever, premier ministre, afin qu'il rende compte, le mardi 13 octobre 2026 en séance plénière, de la situation actuelle des finances publiques fédérales, de l'avancement des négociations budgétaires, des raisons de l'absence d'un accord budgétaire et de la suite du calendrier pour la présentation du budget pour 2027."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Il est également demandé au premier ministre de permettre à la Chambre d'organiser un échange de vues à ce sujet.\""
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Bij mail van 13 oktober 2026 heeft de heer Raoul Hedebouw (PVDA-PTB) een schriftelijk voorstel ingediend om de aanwezigheid te vorderen van de eerste minister tijdens de plenaire vergadering van 13 oktober 2026. Het luidt als volgt:"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "\"Overeenkomstig artikel 50 van het Reglement vordert de PVDA-PTB-fractie de aanwezigheid van de heer De Wever op de plenaire vergadering van dinsdag 13 oktober.\""
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Par mail du 13 octobre 2026, M. Raoul Hedebouw (PVDA-PTB) a déposé une proposition formulée par écrit visant à requérir la présence du premier ministre lors de la séance plénière du 13 octobre 2026. Elle est libellée comme suit:"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "\"Conformément à l'article 50 du Règlement de la Chambre, le groupe PVDA-PTB requiert la présence de M. De Wever en séance plénière de ce mardi 13 octobre 2026.\""
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Overeenkomstig artikel 48, nr. 1, 6°, van het Reglement kunnen de indiener van de voorstellen en één spreker per fractie hierover gedurende maximaal 5 minuten het woord voeren."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Conformément à l'article 48, n° 1, 6, du Règlement, l'auteur de la proposition et un orateur par groupe politique peuvent prendre la parole à ce sujet pendant cinq minutes au maximum."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "We moeten hoe dan ook een oordeel vellen over deze vraag, alvorens het debat te voeren. Ik stel voor te stemmen over de vraag van mevrouw Pas en de heer Hedebouw om de aanwezigheid van de eerste minister te vorderen. Naargelang de uitslag van de stemming zal uw tussenkomst enigszins herschikt worden."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Ik stel u voor om ons over deze vraag uit te spreken."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Je vous propose de nous prononcer sur cette demande."
+    },
+    {
+     "type": "note",
+     "lang": "nl",
+     "text": "Het voorstel wordt verworpen bij zitten en opstaan."
+    },
+    {
+     "type": "note",
+     "lang": "fr",
+     "text": "La proposition est rejetée par assis et levé."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Collega's, we zullen nu de fracties het woord verlenen om de huidige situatie te bespreken."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Het lijkt me gepast dat op de klassieke manier te doen, namelijk alternerend tussen de meerderheidsfracties en de oppositie in volgorde van grootte. De fracties zijn uiteraard niet verplicht om tussen te komen."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Mevrouw Pas, u krijgt als eerste het woord. Gelieve uw betoog tot 10 minuten te beperken, zoals gisteren werd overeengekomen."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Nous allons maintenant donner la parole aux groupes politiques afin qu’ils discutent de la situation actuelle."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Il me semble opportun de procéder selon la méthode classique, à savoir en alternant entre les groupes de la majorité et ceux de l’opposition, par ordre d’importance. Les groupes politiques ne sont bien sûr pas tenus d’intervenir."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Madame Pas, vous avez la parole en premier. Veuillez limiter votre intervention à 10 minutes, comme convenu hier."
+    },
+    {
+     "type": "speech",
+     "id": "06.01",
+     "name": "Barbara Pas",
+     "party": "VB",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Collega's, dit Huis kent veel tradities en gebruiken. Sommige tradities worden afgeschaft, maar er komen er ook nieuwe bij. Sinds het aantreden van de regering-De Wever hebben we het traditionele jaarlijkse uitstel van de State of the Union op de tweede dinsdag van oktober.",
+      "Een fraai schouwspel is dat niet. Ik heb hier al heel wat kibbelkabinetten zien passeren, maar na het trieste schouwspel van enkele weken geleden bij de Vlaamse regering moet De Wever gedacht hebben dat hij het nog slechter kon doen dan Diependaele. Met De Wever gaan we door nog diepere dalen. Collega's, wat een ramp. Ik denk dat niet alleen bij de wagen van Bart De Wever, maar bij iedere wagen spontaan het alarm afgaat bij het binnenrijden van de Wetstraat 16.",
+      "Bart De Wever zei dat dit land nog één saneringsronde aankan vooraleer er institutionele hervormingen moeten komen, maar diezelfde Bart De Wever is nu in de praktijk volop aan het bewijzen dat zelfs die ene saneringsronde niet meer lukt. Het lukt niet. Het is duidelijk dat dit land fundamentele hervormingen nodig heeft en dat er fiscale autonomie moet komen om orde op zaken te kunnen stellen, wat ook werd beloofd voor de verkiezingen. Voor De Wever moeten we minstens wachten op een volgende legislatuur voor een staatshervorming, maar als het van diezelfde De Wever afhangt, dan moeten de Vlamingen voor hogere belastingen blijkbaar geen dag langer wachten. Eigenlijk mogen we blij zijn dat er geen begrotingsakkoord was of is, want als we zien welke belastingverhogingen allemaal op tafel liggen, dan is het duidelijk dat men opnieuw in de zakken van de Vlamingen zit.",
+      "Collega's, de regering heeft van budgettair orde op zaken stellen haar inzet gemaakt. Het is als het ware de bestaansreden van deze regering. U herinnert zich de eerste beleidsverklaring van Bart De Wever hier, met show me the money .",
+      "De Wever heeft daar zowat alle verkiezingsbeloftes in de vuilnisbak gegooid of door de wc gespoeld, inclusief de communautaire. Dat uitgerekend die regering nog geen enkele begrotingsdeadline heeft gehaald, is dan ook bijzonder pijnlijk. Dat is een totale mislukking, een fiasco, een compleet debacle.",
+      "Ik weet ook wel dat het niet de eerste keer is dat een premier afgaat doordat hij een deadline voor zijn State of the Union niet haalt. Ook op dat vlak is de huidige regering zeker niet historisch. Verhofstadt, Di Rupo en Michel hebben als premier allemaal afgang en gezichtsverlies meegemaakt toen hun regering niet tijdig met een beleidsverklaring kwam. Zij kwamen echter wel binnen de week met een uitgestelde versie.",
+      "Dat is bij de huidige regering niet het geval. Vorig jaar is ze met een complete nieuwigheid begonnen, namelijk een noodbegroting met voorlopige twaalfden voor een regering met volle bevoegdheid. Dat is een unicum.",
+      "Als De Wever na een jaar, acht maanden en tien dagen premierschap voor één keer meent wat hij zegt wanneer hij verklaart dat hij ditmaal geen noodbegroting wil, dan heeft hij echt niet veel tijd meer om nog tot een begrotingsakkoord te komen. De begrotingsdiensten zeggen zelf dat ze twaalf weken nodig hebben om alle teksten en tabellen op te stellen en te verwerken. Twaalf weken zijn nodig voor de werkzaamheden van het Rekenhof om een advies op te stellen, voor een parlementair debat en voor de publicatie in het Belgisch Staatsblad . We mogen ook niet vergeten dat ook de Europese Commissie tijd nodig heeft.",
+      "We weten echter al hoe de wetgeving bij de regering verloopt, namelijk veel te laat teksten indienen om vervolgens de oppositie te verwijten om vertragingsmanoeuvres uit te voeren.",
+      "Mijnheer de voorzitter, ik geef u nu al mee dat we daar niet aan zullen meewerken als de regering nog maar eens te laat wetteksten indient om die snel door het Parlement te jagen. Wij willen ons werk wel goed en grondig doen.",
+      "De begrotingsdeadline is eigenlijk overmorgen, 15 oktober 2026. Dat is de deadline voor de Europese Commissie. Op die dag moet een ontwerp van begrotingsplan worden ingediend. Er is dus geen tijd meer voor een partijtje armworstelen, zoals collega Mahdi het gisteren nog heeft genoemd. Mijnheer Mahdi, het is trouwens logisch dat u als cd&v-voorzitter onmiddellijk aan dat krachtspel denkt, want bij dat spel moet men veel de ellebogen gebruiken en daar zijn cd&v’ers bijzonder goed in.",
+      "Collega’s, veel tijd voor gemarchandeer is er echter niet meer. Daar komt het immers op neer, gemarchandeer en bricolage. Daarbij mag iedere coalitiepartner een prijs of een trofeetje krijgen, maar men moet daar ook een prijs voor betalen.",
+      "Veel stinkende kamelen, maar geen visie. Bart De Wever slaagt er niet in een beleid vorm te geven. We zitten in een land met het grootste begrotingstekort van de eurozone, waar Vlamingen de schulden en het wanbeleid van Wallonië en Brussel moeten blijven bijpassen. Dit is een land waar vooral allochtoon krapuul ongestraft de ene vernieltocht na de andere kan houden in onze hoofdstad en elders en waar geweld tegen onze politiemensen schering en inslag is. De leiders houden zich ondertussen bezig met een koehandel over gouverneurspostjes en interne afrekeningen. Dat is een ware schande, collega’s.",
+      "Collega’s, voorspelbaar is iets totaal anders dan betrouwbaar. Bart De Wever is bijvoorbeeld heel voorspelbaar. Net zoals vorig jaar is hij veel te laat begonnen aan een moeilijke begrotingsoefening. Dat het moeilijk zou worden, wist iedereen. Frank Vandenbroucke heeft vorig jaar al gesproken over de moeilijkste begrotingsoefening ooit. De situatie is er niet echt beter op geworden. Dat de onderhandelingen op dezelfde knelpunten zouden vastlopen, was toch voorspelbaar? Het zijn dezelfde standpunten, dezelfde mensen en dezelfde laattijdige manier van werken als een jaar geleden. Nu zou het plots wel moeten lukken.",
+      "Blijkbaar dacht de meesterstrateeg dat wat extra schrik aanjagen met de doembeelden van de Nationale Bank plots verandering zou brengen. In plaats van oplossingen te zoeken, zoekt men blijkbaar liever naar zondebokken. De pers gaat daar ook gretig in mee. Dat is toch al te gemakkelijk als de standpunten al meer dan een jaar bekend zijn. Dat is geen leiderschap, dat is onkunde. Niemand anders dan de premier zelf, niemand minder dan die zogenaamde meesterstrateeg Bart De Wever, is verantwoordelijk voor het politieke debacle dat we vandaag meemaken.",
+      "Dat de premier ook dit jaar niet het respect heeft om naar het Parlement te komen, was helaas eveneens te voorspellen, collega’s. In tegenstelling tot het Vlaams Parlement, waar de minister-president op de dag waarop de septemberverklaring was gepland, wel naar het parlement ging om te verklaren waarom die septemberverklaring er nog niet was, stuurt de premier vandaag opnieuw zijn kat. Daarmee bedoel ik de spreekwoordelijke kat, niet de versie die u in die infantiele berichten op sociale media ziet verschijnen.",
+      "Dat getuigt niet van elementaire beleefdheid, collega's. Ik citeer Jan Jambon, op een tweede dinsdag in oktober, toen hij nog fractievoorzitter was in de toenmalige Kamer: \"Mijnheer de voorzitter, kunnen we deze openingszitting even schorsen tot de eerste minister aanwezig is? Dat hoort zo bij het begin van het parlementaire jaar.\"",
+      "Inderdaad, collega's, dat hoort zo. Mijnheer de voorzitter, de regering moet niet alleen tijdig haar werk doen, maar ook respect tonen voor het Parlement. Een officiële openingsvergadering van het Parlement is een gelegenheid voor de regering om respect te betuigen door aanwezig te zijn.",
+      "De eerste minister dient hier vandaag trouwens niet alleen uit beleefdheid aanwezig te zijn. Hij zou tekst en uitleg moeten geven over de reden waarom hij zijn eigen begrotingsdeadline alweer niet haalt. Ik vind niet dat de premier zich kan blijven verschuilen achter aanslepende onderhandelingen. Hij moet hier, in uw Huis, voorzitter, komen uitleggen waarom de regering opnieuw faalt. Bart De Wever heeft het mislukken van een begrotingsakkoord \"totaal crimineel\" genoemd. De enige aanvaardbare reden die ik kan bedenken waarom hij hier vandaag niet is, is dat hij zich bij de politie is gaan aangeven voor die totaal criminele feiten.",
+      "Ik vind het totaal crimineel dat er geen respect is, dat er geen akkoord is en dat er geen koerswijziging komt waar de kiezer om heeft gevraagd. Ik ben zeer benieuwd. De particratie speelt ten top. Jullie dekken hem allemaal in. Voor u, de voorzitter incluis, hoeft de minister geen respect te betuigen aan dit Huis. Hij hoeft vandaag zelfs niet aanwezig te zijn.",
+      "Ik hoop dat dit niet de toon zet voor de rest van het parlementaire jaar. Inhoudelijk kunt u alleszins op ons weerwerk blijven rekenen."
+     ],
+     "translation": {
+      "lang": "fr",
+      "paragraphs": [
+       "Chers collègues, cette Assemblée possède de nombreuses traditions et usages. Certains disparaissent, tandis que d’autres voient le jour. Depuis l’entrée en fonction du gouvernement De Wever, il est d'usage, chaque année, de reporter la déclaration de politique générale du deuxième mardi d’octobre.",
+       "Le spectacle auquel nous assistons n'est guère réjouissant. J’ai déjà vu défiler de nombreux gouvernements en désaccord, mais après le triste tableau qu'a offert le gouvernement flamand il y a quelques semaines, M. De Wever a dû se dire qu’il pouvait encore faire pire que M. Diependaele. Avec De Wever, nous touchons davantage encore le fond. Chers collègues, c'est une catastrophe! Je pense que toutes les voitures, et pas seulement celle de Bart De Wever, ont leur alarme qui se déclenche spontanément en entrant au 16, rue de la Loi.",
+       "Bart De Wever a déclaré que le pays pouvait encore supporter un cycle d’assainissements avant d'en arriver à des réformes institutionnelles, mais ce même Bart De Wever est en pleine démonstration pratique de son impossibilité à mettre en place même un seul cycle d'assainissements. C'est un échec. Il est clair que ce pays a besoin de réformes fondamentales et qu’il faut instaurer une autonomie fiscale pour le remettre sur les rails, ce qui avait d’ailleurs été promis avant les élections. Pour M. De Wever, la réforme de l’État devra attendre une prochaine législature, mais si cela ne tenait qu’à lui, les Flamands ne devraient apparemment pas attendre un jour de plus avant de voir leurs impôts augmenter. En réalité, il faut se réjouir qu'aucun accord budgétaire ne soit ou n'ait été conclu, parce qu'avec toutes les hausses d’impôts proposées, il est clair que l'État irait à nouveau se servir dans les poches des Flamands.",
+       "Chers collègues, le gouvernement s'était engagé à assainir les finances publiques. Il s'agit en quelque sorte de sa raison d’être. Souvenez-vous de la première déclaration de politique générale au Parlement de Bart De Wever, scandant le slogan \" show me the money \".",
+       "M. De Wever a jeté pratiquement toutes ses promesses électorales à la poubelle ou aux toilettes, y compris ses engagements d'ordre communautaire. Il est donc particulièrement douloureux de constater que c'est précisément ce gouvernement qui n'a encore respecté aucune échéance budgétaire. C’est un échec total, un fiasco, une débâcle complète.",
+       "Je n'ignore pas que ce n’est pas la première fois qu’un premier ministre fait piètre figure parce qu’il n’a pas respecté la date butoir pour sa déclaration de politique générale. Sur ce plan également, le gouvernement en fonction n’a certainement rien d’historique. Les premiers ministres, Verhofstadt, Di Rupo et Michel ont tous connu des revers et perdu la face lorsque leur gouvernement n’avait pas pu présenter à temps sa déclaration de politique générale. Ils en ont toutefois présenté une version différée dans la semaine qui a suivi.",
+       "Ce n’est pas le cas du gouvernement en fonction. L’année dernière, il a introduit une véritable nouveauté: un budget d’urgence basé sur des douzièmes provisoires pour un gouvernement de plein exercice. C’est un cas unique.",
+       "Si après un an, huit mois et dix jours à la tête du gouvernement, M. De Wever est sincère lorsqu’il déclare ne pas vouloir de budget d’urgence cette fois-ci, il ne lui reste vraiment plus beaucoup de temps pour parvenir à un accord budgétaire. Les services budgétaires indiquent eux-mêmes qu’il leur faut douze semaines pour rédiger et traiter l’ensemble des textes et des tableaux. Douze semaines sont nécessaires pour que la Cour des comptes mène à bien ses travaux en vue de rendre un avis, pour qu'un débat parlementaire ait lieu et pour que les textes soient publiés au Moniteur belge . N’oublions pas non plus que la Commission européenne a aussi besoin de temps.",
+       "Or, nous savons déjà comment se déroule le processus législatif au sein du gouvernement: il soumet les textes bien trop tard, pour ensuite reprocher à l’opposition de recourir à des manœuvres dilatoires.",
+       "Monsieur le président, je vous préviens dès à présent: si le gouvernement soumet une nouvelle fois des textes législatifs en retard dans le but de les faire adopter à la hâte par le Parlement, nous ne nous prêterons pas à ce jeu. Nous voulons réaliser notre travail correctement et de manière approfondie.",
+       "La date butoir pour le budget est en fait après-demain, le 15 octobre 2026. C’est la date limite pour la Commission européenne. Ce jour-là, un projet de budget doit être présenté. Nous n'avons donc plus le temps de nous livrer à une partie de bras de fer, pour reprendre les propos tenus hier par notre collègue, M. Mahdi. Monsieur Mahdi, il est d’ailleurs logique qu’en votre qualité de président du cd&v, vous pensiez immédiatement à ce jeu de pouvoir dans lequel il faut beaucoup jouer des coudes puisque les membres du cd&v sont particulièrement doués pour cela.",
+       "Chers collègues, il ne reste toutefois plus beaucoup de temps pour les marchandages. Car c’est bien de marchandages et de bricolages qu'il s'agit. Chaque partenaire de la coalition peut obtenir une récompense ou un petit trophée, mais il doit également en payer le prix.",
+       "Les \"chameaux qui puent\" sont légion, mais la vision est absente. Bart De Wever ne parvient pas à façonner une politique. Dans ce pays qui connaît le déficit budgétaire le plus important de la zone euro, les Flamands doivent continuer de payer pour les dettes et pour la mauvaise gestion de la Wallonie et de Bruxelles. Dans ce pays, une racaille principalement immigrée peut enchaîner les actes de vandalisme dans notre capitale et ailleurs en restant impunie. Dans ce pays, les violences contre nos policiers sont monnaie courante. Pendant ce temps, les dirigeants sont occupés à marchander des postes de gouverneur et à régler des comptes en interne. C'est un véritable scandale, chers collègues.",
+       "Chers collègues, la prévisibilité n'est pas synonyme de fiabilité. Par exemple, Bart De Wever est très prévisible. Comme l'année passée, il a démarré beaucoup trop tard un exercice budgétaire compliqué. Chacun savait que cet exercice serait difficile. L'année dernière, Frank Vandenbroucke avait déjà parlé de \"l'exercice budgétaire le plus difficile de l'histoire\". Or, la situation ne s'est pas vraiment améliorée. Ne pouvions-nous pas prévoir que les négociations buteraient sur les mêmes obstacles? Les positions, les personnes et la méthode de travail tardive sont les mêmes que l'année dernière. Et il faudrait s'attendre à ce que cela réussisse cette fois?",
+       "L'éminent stratège a apparemment cru qu'en semant davantage la peur au travers des projections catastrophistes de la Banque nationale, la situation changerait soudainement. Au lieu de chercher des solutions, d'aucuns préfèrent apparemment chercher des boucs émissaires. Les médias s'empressent d'ailleurs d'y participer. Rien n'est plus simple dès lors que les positions sont connues depuis plus d'un an. Ceci n'est pas du leadership, c'est de l'incompétence. Personne d'autre que le premier ministre, le prétendu fin stratège Bart De Wever, n'est responsable de la débâcle politique à laquelle nous assistons aujourd'hui.",
+       "Chers collègues, il était à prévoir que, cette année encore, le premier ministre ne ferait pas montre de respect en se présentant au Parlement. Le jour prévu pour la déclaration de septembre au Parlement flamand, le ministre-président flamand s'était rendu sur place pour expliquer les raisons de l'absence de déclaration. Le premier ministre, lui, a manifestement d'autres chats à fouetter aujourd'hui. Et je ne songe évidemment pas au chat qui apparaît dans les publications puériles qu'on voit apparaître sur les réseaux sociaux.",
+       "Cette attitude témoigne d’un manque de politesse élémentaire, chers collègues. Je cite les propos tenus par Jan Jambon un deuxième mardi d’octobre alors qu’il était encore chef de groupe à la Chambre: \"Monsieur le président, pouvons-nous suspendre brièvement cette séance de rentrée jusqu’à ce que le premier ministre soit présent? C’est la coutume en ce début d’année parlementaire.\"",
+       "En effet, chers collègues, il en va ainsi. Monsieur le président, le gouvernement doit non seulement accomplir son travail dans les délais, mais aussi faire preuve de respect envers le Parlement. Une séance de rentrée officielle du Parlement est l’occasion pour le gouvernement de manifester ce respect par sa présence.",
+       "Le premier ministre ne devrait d'ailleurs pas être présent dans cet hémicycle aujourd’hui uniquement par politesse. Il devrait s’expliquer sur les raisons pour lesquelles, une fois de plus, il ne respecte pas sa propre échéance budgétaire. Je ne pense pas que le premier ministre puisse continuer à se cacher derrière des négociations interminables. Il doit se présenter ici, devant votre Assemblée, monsieur le président, pour expliquer les raisons du nouvel échec de son gouvernement. M. Bart De Wever a qualifié l’absence d’accord budgétaire de \"tout à fait criminelle\". La seule raison acceptable que je puisse imaginer pour expliquer son absence au Parlement aujourd’hui, c’est qu’il soit allé se dénoncer à la police pour ces faits absolument criminels.",
+       "Il est selon moi tout à fait criminel qu’il n’y ait aucun respect, qu’il n’y ait pas d’accord et qu’il n’y ait pas de changement de cap, comme l’ont demandé les électeurs. Je suis extrêmement curieuse. La particratie est à son comble. Vous le couvrez tous. Le président et vous-mêmes estimez que le premier ministre n’a pas à témoigner de respect à cette Assemblée. Il n’a même pas besoin d’être présent aujourd’hui.",
+       "J’espère que ceci ne donnera pas le ton pour le reste de l’année parlementaire. Sur le fond, vous pouvez en tout cas continuer à compter sur notre travail d'opposition."
+      ]
+     }
+    },
+    {
+     "type": "speech",
+     "id": "06.02",
+     "name": "Pierre-Yves Dermagne",
+     "party": "PS",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le président, chers collègues, aujourd'hui, ce à quoi nous assistons, bien malgré nous, c'est à la fois l'échec de la méthode De Wever et l'échec de la politique de son gouvernement, de ce gouvernement Arizona.",
+      "Échec de la méthode De Wever d'abord, puisque le gouvernement nous impose à nouveau le remake – le mauvais remake –, du mauvais film qu'il nous a joué l'année dernière; puisque, à nouveau, cette année, pour la deuxième année consécutive, ce gouvernement de plein exercice est incapable de présenter un accord budgétaire dans les temps et sous la forme requise.",
+      "Et, qu'on ne s'y trompe pas; on ne parle pas ici de quelques heures de retard ou même de quelques jours de retard, mais d'une situation budgétaire dont on sait, dont vous savez, depuis mars dernier, qu'elle ne cesse de se détériorer. Depuis mars dernier, le comité de monitoring alertait sur un déficit de 40 milliards d'euros; 40 milliards d'euros alors que le précédent gouvernement, le gouvernement Vivaldi, avait terminé la législature avec 17 milliards de déficit et un déficit ramené à moins de 2,8 %, en deçà des fameux critères de Maastricht. Dix-sept milliards d'euros versus 40 milliards d'euros et donc, en moins de deux ans, l'Arizona, votre Arizona, a réussi à faire doubler le déficit.",
+      "Et, depuis mars, qu'avons-nous vu? Qu'avez-vous fait? La crise de l'énergie frappe les travailleurs, les ménages et les entreprises et... Rien! Le gouvernement assiste à la détérioration du pouvoir d'achat et de la capacité d'investissement des entreprises. Il assiste, sans aucune réaction, si ce n'est ça et là, des postures viriles, des menaces, des effets d'annonce, mais on le sait ici et on le sait dans la rue, des effets d'annonce n'ont jamais récompensé le travail. Cet été, des milliers de Belges sont littéralement morts de chaud, les Fagnes ont brûlé et qu'a fait ce gouvernement? Rien! Il est resté spectateur, les pieds dans sa piscine, une bière à la main!",
+      "Des dizaines et des dizaines de milliers de personnes sont dans la rue régulièrement pour défendre leur pouvoir d'achat, pour exiger des pensions dignes après des années de labeur, pour une réponse climatique à la hauteur des enjeux. La jeunesse se mobilise depuis quelques jours, les enseignants appellent à un sursaut pour sauver l'école.",
+      "Et que fait ce gouvernement? Que font ces gouvernements? Rien, si ce n'est discréditer les mouvements sociaux, discréditer la colère et la frustration qui s'expriment. Ils regardent le temps qui passe et ils sont incapables d'offrir une réponse à la hauteur des enjeux, d'offrir un meilleur avenir à notre jeunesse, d'offrir des perspectives d'emploi de qualité aux travailleurs et aux travailleuses, d'offrir une juste protection due aux plus fragiles.",
+      "Et puisque, manifestement, vous refusez d'écouter les revendications de la population, revendications qui se sont encore exprimées ces derniers jours, ayez au moins le courage de regarder les chiffres et les indicateurs. Ces chiffres et ces indicateurs qui ne mentent pas, et qui nous disent quoi? Ils nous disent qu'aujourd'hui, la Belgique est l'homme malade de l'Europe, que la Belgique sous l'Arizona est l'homme malade de l'Europe. Si, sous le précédent gouvernement, nous avons créé 300 000 emplois, sorti 400 000 personnes de la pauvreté en augmentant les salaires et les pensions minimales, aujourd'hui, que nous disent les chiffres? Que vous disent vos chiffres? Les faillites se multiplient, elles explosent même, la pauvreté repart à la hausse, on n'a jamais vu autant de bénéficiaires du revenu d'intégration. La création d'emplois et la croissance sont aux abonnés absents, elles sont au point mort.",
+      "Ça, mesdames et messieurs de la majorité, mesdames et messieurs les ministres, monsieur le premier ministre – si tant est que vous nous écoutiez et que vous nous regardiez de là où vous êtes –, ces chiffres-là, ce bilan-là, ce sont les vôtres. Ce sont les résultats de la politique et des politiques menées par votre gouvernement.",
+      "Alors, aujourd'hui, mesdames et messieurs les parlementaires, comme chaque second mardi d'octobre depuis plus d'un siècle maintenant, c'est la rentrée parlementaire avec – et ce n'est finalement pas une surprise – un absent de marque, un absent de taille, le premier ministre, votre premier ministre. Comme l'année passée, ce premier ministre, votre premier ministre, Bart De Wever, est aux abonnés absents.",
+      "L'homme qui, depuis des années, prêche la rigueur, qui, ici quasiment chaque semaine – pour autant qu'il vienne répondre aux questions des parlementaires – nous parle de responsabilité, de sens de l'État. Manifestement, il en parle pour les autres et pas pour lui ou pour son gouvernement puisque, depuis le début de la législature, ce gouvernement a choisi la facilité plutôt que la responsabilité: la facilité de boucler son premier budget avec des recettes bidon et des effets retour magiques; la facilité de répéter ad nauseam \"il n'y a pas d'alternative\"; la facilité d'aller systématiquement chercher l'argent dans la poche des travailleuses et des travailleurs, dans celle des pensionnés ou dans celle des malades; la facilité de refuser d'aller chercher l'argent là où il se trouve vraiment, chez les ultra-riches, auprès des multinationales et de leurs surprofits.",
+      "Et à la facilité, aujourd'hui, ils ajoutent la lâcheté: la lâcheté de ne pas être présents aujourd'hui; la lâcheté de ne pas assumer la responsabilité de leurs propres échecs, de leur propre méthode. Mesdames et messieurs les parlementaires de la majorité, j'en appelle à un sursaut de votre part. Quand allez-vous prendre conscience de la colère sourde qui transpire de la société? Quand allez-vous entendre enfin les attentes, les demandes, la colère aussi, qui s'expriment semaine après semaine dans la rue et à travers les mouvements sociaux ou à travers le monde associatif? Quand allez-vous exiger du respect de la part de votre premier ministre, pour qu'enfin il assume le bilan désastreux de sa politique et de sa méthode?",
+      "Monsieur le président, quand allons-nous enfin savoir quel est l'engagement de ce gouvernement, de votre gouvernement? Quand les Belges sauront-ils finalement à quelle sauce ce gouvernement, votre gouvernement va les manger? On ne peut pas se satisfaire de communiqués de presse, d'un message envoyé par une collaboratrice du premier ministre dimanche dans la soirée, nous disant simplement que le premier ministre ne sera pas en mesure de prononcer son discours sur l'état de l'union puisque les discussions budgétaires sont toujours en cours. Quasi un copier-coller du mail qui nous a été adressé il y a un an! Il est temps, mesdames et messieurs les parlementaires, monsieur le président, que ce gouvernement respecte le Parlement, que ce gouvernement entende et respecte enfin la population belge.",
+      "Je vous remercie."
+     ],
+     "translation": {
+      "lang": "nl",
+      "paragraphs": [
+       "Mijnheer de voorzitter, beste collega’s, waar we vandaag, tegen onze wil, getuige van zijn, is zowel het falen van de methode-De Wever als het falen van het beleid van zijn regering, van deze arizonaregering.",
+       "Ten eerste het falen van de methode-De Wever, omdat de regering ons wederom dwingt getuige te zijn van de remake – de slechte remake – van de slechte film waarop ze ons vorig jaar trakteerde, en omdat deze regering met volle bevoegdheden ook dit jaar, voor het tweede jaar op rij, niet in staat is om tijdig een begrotingsakkoord in de vereiste vorm voor te leggen.",
+       "En laat er geen misverstand over bestaan; we hebben het hier niet over een paar uur vertraging of zelfs maar een paar dagen vertraging, maar over een begrotingssituatie waarvan al sinds maart geweten is – en u weet dat ook – dat ze steeds verder ontspoort. Sinds maart waarschuwde het Monitoringcomité al voor een tekort van 40 miljard euro; 40 miljard euro, terwijl de vorige regering, de vivaldiregering, de legislatuur had afgesloten met een tekort van 17 miljard en een tekort dat was teruggebracht tot minder dan 2,8 %, dat wil zeggen een tekort dat onder de beruchte criteria van Maastricht lag. Zeventien miljard euro tegenover 40 miljard euro – het is dus de arizonaregering, uw arizonaregering, die er in minder dan twee jaar in geslaagd is het tekort te laten verdubbelen.",
+       "En wat hebben we sinds maart gezien? Wat hebt u gedaan? De energiecrisis treft werknemers, huishoudens en bedrijven en… Niets! De regering ziet toe hoe de koopkracht en het investeringsvermogen van bedrijven dalen. Ze ziet werkeloos toe, afgezien van hier en daar wat stoere praat, dreigementen en aankondigingspolitiek, maar wij weten het en de man in de straat weet het: aankondigingspolitiek heeft er nog nooit voor gezorgd dat werken beter beloond wordt. Deze zomer zijn duizenden Belgen letterlijk gestorven van de hitte, de Hoge Venen zijn afgebrand en wat heeft deze regering gedaan? Niets! Ze is blijven toezien, met de voeten in het zwembad en een biertje in de hand!",
+       "Vele tienduizenden mensen gaan geregeld de straat op om hun koopkracht te verdedigen, om een menswaardig pensioen te eisen na jaren van hard labeur, en om aan te dringen op een klimaatbeleid dat een antwoord kan bieden op de uitdagingen. De schoolgaande jeugd voert al enkele dagen actie en de leerkrachten roepen op tot daden om het onderwijs te redden.",
+       "Wat doet deze regering ondertussen? Wat doen deze regeringen? Niets, behalve de sociale bewegingen in diskrediet brengen en verdachtmakingen uiten over de woede en frustratie die op straat uitgedrukt wordt. Ze staan erbij en kijken ernaar, maar zijn niet in staat om een antwoord te bieden dat afgestemd is op de enorme uitdagingen, om voor onze jeugd een betere toekomst voor te bereiden, om de werknemers uitzicht te geven op kwaliteitsvolle banen, of om de meest kwetsbaren de gepaste bescherming te garanderen.",
+       "Aangezien u klaarblijkelijk weigert om uw oren te laten hangen naar de eisen van de bevolking, die de voorbije dagen overigens opnieuw geuit werden, zou u ten minste de moed moeten hebben om naar de cijfers en de indicatoren te kijken. Die liegen er niet om. Wat kunnen we eruit opmaken? Dat België vandaag de ' zieke man van Europa ' is, dat België onder het bewind van de arizonaregering de ' zieke man van Europa ' is. Wat leren de cijfers ons vandaag, in de wetenschap dat er onder de vorige regering 300.000 banen gecreëerd werden en 400.000 mensen uit de armoede gehaald werden dankzij een verhoging van de lonen en de minimumpensioenen? Wat kunt u uit uw cijfers leren? Het aantal faillissementen neemt toe, zelfs exponentieel, de armoede stijgt weer en er waren nog nooit zoveel leefloontrekkers. Er valt weinig te bespeuren van enige banencreatie of groei. Zowel het ene als het andere stagneert.",
+       "Dames en heren van de meerderheid, dames en heren ministers, mijnheer de eerste minister – voor zover u daar waar u zich momenteel bevindt naar ons luistert en naar ons kijkt –, dit zijn úw cijfers, dit is úw balans. Dit zijn de resultaten van het beleid en de maatregelen waarvoor úw regering verantwoordelijk is.",
+       "Dames en heren parlementsleden, zoals dat nu al meer dan een eeuw het geval is op de tweede dinsdag van oktober, wordt vandaag het parlementaire jaar geopend, met dit keer – en dat is al bij al geen verrassing – één opvallende afwezige, en niet de minste: de eerste minister, uw eerste minister. Net zoals vorig jaar schittert deze eerste minister, uw eerste minister, Bart De Wever, door zijn afwezigheid.",
+       "De man die al jarenlang een strikte begrotingsdiscipline predikt en ons hier bijna elke week – voor zover hij op de vragen van parlementsleden komt antwoorden – over verantwoordelijkheid en staatsmanschap spreekt, doet dat blijkbaar voor anderen, maar niet voor zichzelf of zijn regering… Sinds het begin van deze regeerperiode heeft deze regering immers gekozen voor de gemakkelijke weg in plaats van voor verantwoordelijkheid: het gemak waarmee ze haar eerste begroting rondkreeg met fictieve ontvangsten en wonderbaarlijke terugverdieneffecten; het gemak waarmee ze tot vervelens toe herhaalt dat er geen alternatief is; het gemak waarmee ze het geld systematisch gaat halen bij de werknemers, de gepensioneerden en de zieken; het gemak waarmee ze weigert het geld te halen waar het werkelijk zit, namelijk bij de superrijken, de multinationals en hun superwinsten.",
+       "Aan dat gemak voegt deze regering vandaag lafheid toe: de lafheid om hier vandaag niet aanwezig te zijn; de lafheid om geen verantwoordelijkheid te nemen voor haar eigen falen, voor haar eigen aanpak. Dames en heren parlementsleden van de meerderheid, word wakker en schiet in actie. Wanneer zult u zich bewust worden van de sluimerende woede die in de samenleving heerst? Wanneer zult u eindelijk luisteren naar de verwachtingen, de eisen, en ook de woede, die week na week op straat en via sociale bewegingen of het maatschappelijk middenveld worden geuit? Wanneer zult u respect eisen van uw eerste minister, opdat hij eindelijk de verantwoordelijkheid op zich neemt voor de rampzalige balans van zijn beleid en zijn aanpak?",
+       "Mijnheer de voorzitter, wanneer zullen we eindelijk te weten komen waar deze regering – uw regering – zich toe verbindt? Wanneer zullen de Belgen eindelijk weten wat deze regering – uw regering – voor hen in petto heeft? Men mag niet volstaan met perscommuniqués en een bericht dat zondagavond door een medewerkster van de eerste minister werd verstuurd, waarin ons eenvoudigweg wordt gezegd dat de eerste minister zijn State of the Union niet zal kunnen houden omdat de begrotingsgesprekken nog steeds aan de gang zijn. Het is vrijwel een copy-paste van de e-mail die we een jaar geleden ontvingen! Het wordt tijd, dames en heren parlementsleden, mijnheer de voorzitter, dat deze regering het Parlement respecteert en dat deze regering eindelijk naar de Belgische bevolking luistert en haar respecteert.",
+       "Ik dank u."
+      ]
+     }
+    },
+    {
+     "type": "speech",
+     "id": "06.03",
+     "name": "Raoul Hedebouw",
+     "party": "PVDA-PTB",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de voorzitter, beste collega’s, normaal gezien zou vandaag, zoals elke tweede dinsdag van oktober, eerste minister Bart De Wever zijn begrotingsakkoord komen voorstellen, maar hij is er niet. Hij heeft zelfs zijn kat niet gestuurd. Nobody is aanwezig. Laat ons een nuchtere analyse maken van de redenen waarom er geen akkoord is."
+     ],
+     "translation": {
+      "lang": "fr",
+      "paragraphs": [
+       "Monsieur le président, chers collègues, le premier ministre Bart De Wever aurait normalement dû présenter son accord budgétaire aujourd'hui, comme chaque deuxième mardi d'octobre, mais il est absent. Donc du côté du premier ministre, il n'y a pas un chat, pas même le sien. Analysons objectivement les raisons de l'absence d'un accord.",
+       "On n'échappera pas à l'analyse rationnelle, politique et rigoureuse pour comprendre l’absence d'accord aujourd'hui.",
+       "Alors que le premier ministre devrait normalement être présent ici avec un accord de gouvernement, avec un accord budgétaire, pourquoi est-il une nouvelle fois absent et pourquoi n'y a-t-il pas d'accord? On pourrait se contenter d'analyses superficielles sur les traits de caractère des négociateurs ou des présidents de partis, mais ce serait passer à côté de l'essentiel.",
+       "L'essentiel, c'est qu'aux côtés du premier ministre et des cinq vice-premiers ministres réunis autour de la table des négociations, un sixième joueur est bel et bien présent. Ce sixième acteur, c'est l'opinion publique en général et le mouvement social en particulier.",
+       "We kunnen niet om een rationele, politieke en grondige analyse heen om te begrijpen waarom er vandaag geen akkoord is.",
+       "Normaal gesproken zou de eerste minister hier aanwezig moeten zijn met een regeerakkoord en een begrotingsakkoord. Waarom stuurt hij opnieuw zijn kat en waarom is er geen akkoord? We zouden kunnen volstaan met oppervlakkige analyses van de karaktereigenschappen van de onderhandelaars of de partijvoorzitters, maar dan zouden we aan de kern van de zaak voorbijgaan.",
+       "De kern van de zaak is dat er naast de eerste minister en de vijf vice-eersteministers die om de onderhandelingstafel zitten, inderdaad een zesde speler aanwezig is. Die zesde speler is de publieke opinie in het algemeen en de sociale beweging in het bijzonder.",
+       "Het is evident, er is een zesde speler aanwezig bij de onderhandelingen. De publieke opinie en in het bijzonder de sociale strijd zijn aanwezig tijdens de onderhandelingen. Dat ziet men in de verschillende dossiers. Neem bijvoorbeeld de btw.",
+       "De toute évidence, un sixième acteur participe aux négociations. L'opinion publique, et en particulier la lutte sociale, sont présentes tout au long des négociations. On le constate dans les différents dossiers. Prenons la TVA, par exemple.",
+       "L'exemple de la TVA est très clair. Quelle est la pression qui s'exerce autour de la TVA? Évidemment qu'un lien existe entre la manifestation de 50 000 personnes vendredi passé dans les rues de Bruxelles pour réclamer un meilleur pouvoir d'achat, pour exiger qu'on ne touche pas à la TVA, et la pression qui pèse sur les négociateurs sur cette question. Ils ont même mené campagne sur des thématiques de gauche pour essayer de gagner. Et donc, maintenant, évidemment, ils ont des problèmes.",
+       "La question, c'est la mobilisation populaire. Il existe évidemment un lien entre la manifestation pour le climat – qui a rassemblé 60 000 personnes dimanche – et la pression ressentie par les négociateurs.",
+       "Natuurlijk is er een link! Bien sûr qu'il y a un lien entre la mobilisation de toute cette jeunesse à travers le pays et la pression exercée sur les négociateurs. C'est une évidence.",
+       "Het voorbeeld van de btw spreekt voor zich. Hoeveel druk wordt er uitgeoefend op het vlak van de btw? Uiteraard is er een verband tussen de 50.000 betogers die afgelopen vrijdag door de straten van Brussel trokken om meer koopkracht te eisen en niet wilden dat er aan de btw wordt geraakt, en de druk die de onderhandelaars in dit dossier voelen. Ze hebben zelfs campagne gevoerd rond linkse thema’s in een poging verkiezingen te winnen. Nogal wiedes dat ze dan nu problemen ondervinden.",
+       "De kern van de zaak is dat de bevolking de straat is opgegaan. Er bestaat uiteraard een verband tussen de klimaatbetoging – die zondag 60.000 mensen op de been bracht – en de druk die de onderhandelaars ondervinden.",
+       "Natuurlijk is er een verband tussen de mobilisatie van al die jongeren in het hele land en de druk die op de onderhandelaars wordt uitgeoefend. Dat spreekt voor zich.",
+       "Ik geef een tweede voorbeeld: de miljonairstaks, de belasting op grote vermogens. Het thema komt binnen. De PVDA is daarmee bezig, de vakbond is daarmee bezig, de publieke opinie is daarmee bezig. Dat sijpelt door in de onderhandelingen. De collega’s van Vooruit zijn zelfs met een petitie rond vermogensbelasting gekomen. Daarover wordt echter niet onderhandeld. Natuurlijk is er druk op de collega’s van Vooruit, dat ze geen begroting mogen goedkeuren zonder vermogensbelasting.",
+       "Dan zijn er de pensioenen. We hebben cd&v erover gehoord. Er wordt gezegd dat de opbrengst minder is dan voorzien, door de sociale strijd. En men kan de pensioenen niet opnieuw aanvallen, omdat de sociale beweging er is.",
+       "Je prends un deuxième exemple: la taxe des millionnaires, l'impôt sur les grandes fortunes. Ce thème prend corps. Il germe dans les esprits du PTB, des syndicats et de l'opinion publique. Il s'invite progressivement dans les négociations. Les collègues de Vooruit ont même lancé une pétition en faveur d'un impôt sur la fortune. Toutefois, ce point n'est pas abordé dans le cadre des négociations. Bien sûr, les collègues de Vooruit sont mis sous pression pour ne pas approuver un budget sans impôt sur la fortune.",
+       "Il y a également les pensions. Nous avons entendu le cd&v à ce sujet. On dit que les recettes sont inférieures aux prévisions en raison de la lutte sociale. Et on ne peut pas s’attaquer une nouvelle fois aux pensions compte tenu de la pression exercée par le mouvement social.",
+       "Vous aurez compris, chers collègues, que tous les sujets de crispation autour de la table des négociations viennent de l'extérieur des partis traditionnels. Voilà la nouveauté! C'est pourquoi, auparavant, ils parvenaient à conclure rapidement des accords entre eux. Désormais, cet acteur multiple et conscient de sa force est présent dans les rues et les consciences. Cette lutte des classes existe bel et bien. C'est la raison pour laquelle le premier ministre n'ose pas venir devant nous pour présenter un accord.",
+       "C'est vraiment le signal important d'une prise de confiance en soi du peuple. Ayons confiance en nous! Nous sommes des acteurs majeurs – pas seulement au Parlement, mais également en dehors de celui-ci.",
+       "U hebt al begrepen, beste collega ' s, dat alle onderwerpen die aan de onderhandelingstafel tot verkramping leiden niet door de traditionele partijen te berde gebracht werden. Dát is de nieuwigheid! Daarom slaagden die partijen er vroeger in om snel onderlinge akkoorden te sluiten. Voortaan is deze multipele speler, die zich bewust is van zijn macht, aanwezig tijdens betogingen en doorgedrongen tot in het bewustzijn van de mensen. Deze klassenstrijd bestaat wel degelijk. Dat is de reden waarom de eerste minister het niet aandurft om hier het woord tot ons te richten en een akkoord voor te stellen.",
+       "Dit is echt een belangrijk signaal dat het volk meer zelfvertrouwen krijgt. Laten we vertrouwen in onszelf hebben! Wij zijn belangrijke actoren – niet alleen in het Parlement, maar ook daarbuiten.",
+       "En welke ballonnetjes worden er toch opgelaten? Men denkt eraan om de btw te verhogen, argumenterend dat de btw in België een van de laagste in Europa is. Wat een idee is dat?",
+       "Et quels sont ces ballons d'essai? On envisage d’augmenter la TVA, en arguant que la TVA en Belgique est l’une des plus basses d’Europe. Quelle idée!",
+       "C'est en Belgique que la TVA serait la moins élevée? Mais regardez les chiffres! Chez nous, elle s'élève à 21 % maximum. À combien s'élève-t-elle en Allemagne? Elle atteint 19 %. En France, elle se situe à 20 % et, au Grand-Duché, à 17 %. Arrêtez de raconter que la TVA en Belgique… J'entendais Les Engagés dire: \"Si, si!\" Non, non, c'est très clair.",
+       "De btw in België zou het laagst zijn in heel Europa? Kijk naar de cijfers! Bij ons bedraagt de btw maximaal 21 %. Hoeveel bedraagt ze in Duitsland? Daar geldt er een btw-tarief van 19 %. In Frankrijk gaat het over 20 % en in het Groothertogdom Luxemburg over 17 %. Hou toch op met dat verhaal dat de btw in België… Ik hoorde Les Engagés zeggen dat het inderdaad zo is, maar nee, nee, het is heel duidelijk.",
+       "De verhoging van de btw is een des te slechter idee, omdat de werkende klasse proportioneel veel meer btw betaalt dan de superrijken. De KU Leuven heeft berekend dat de superrijken proportioneel zeven tot negen keer minder btw betalen dan de werkende klasse, omdat het loon van de werkende klasse en het pensioen van de gepensioneerden helemaal opgaan aan consumptie, terwijl dat bij de superrijken niet het geval is.",
+       "L’augmentation de la TVA est une idée d’autant plus mauvaise que la classe ouvrière paie proportionnellement beaucoup plus de TVA que les super-riches. La KU Leuven a calculé que les super-riches paient proportionnellement sept à neuf fois moins de TVA que la classe ouvrière, puisque le salaire des ouvriers et la pension des retraités sont entièrement consacrés à la consommation, ce qui n’est pas le cas pour les super-riches.",
+       "Par conséquent, l’augmentation de la TVA est socialement injuste. C'est très clair! C'est pourquoi cela ne doit pas passer.",
+       "Le troisième argument est qu'une augmentation de la TVA casse l'économie, vu qu'on diminue la demande intérieure. Ce sont donc de mauvaises idées.",
+       "On parle également de toucher à nouveau à l'indexation des salaires.",
+       "Daarom is het sociaal onrechtvaardig om de btw te verhogen. Dat is zo klaar als een klontje! Daarom mag dit er niet doorkomen.",
+       "Het derde argument is dat een btw-verhoging de economie ondermijnt, aangezien de binnenlandse vraag daardoor zal afnemen. Dat zijn dus slechte ideeën.",
+       "Er is ook sprake van om opnieuw aan de loonindexering te morrelen.",
+       "Nog een ballonnetje is de toepassing van een vierde centenindex. Wat zijn dat voor voorstellen? Als men de koopkracht van de mensen aantast, tast men ook onze economie aan.",
+       "Une autre idée lancée comme un ballon d’essai est l’application d’une quatrième indexation en centimes. À quoi riment de telles propositions? En portant atteinte au pouvoir d’achat des citoyens, on porte également atteinte à notre économie.",
+       "Ce ne sont donc que de fausses bonnes idées.",
+       "Je voulais aussi profiter des dix minutes qui me sont imparties pour m'en prendre aux dogmes qui enferment les négociateurs. L'un de ceux que l'on entend de plus en plus à droite consiste à dire que l' É tat belge dépense trop.",
+       "Dat zijn dus enkel valse goede ideeën.",
+       "Ik wilde de tien minuten die me zijn toegewezen ook benutten om de dogma’s aan de kaak te stellen die de onderhandelaars in een keurslijf dwingen. Een van de dogma’s die we steeds vaker van rechts horen, is dat de Belgische Staat te veel uitgeeft.",
+       "De Staat zou te veel uitgeven in België. Dat is een dogma van de culturele strijd die rechts vandaag voert.",
+       "L’État dépenserait trop en Belgique. Il s'agit là d'un dogme de la lutte culturelle que mène aujourd’hui la droite.",
+       "Mais c'est n'importe quoi! Comparons, par exemple, la Belgique avec les É tats-Unis, qui dépensent évidemment moins. Là-bas, l'argent ne passe pas par la sécurité sociale. Une confusion est souvent établie entre les différentes dépenses de l' É tat: Défense, Sécurité sociale, etc. Tout est mélangé. Or, la Sécurité sociale belge, monsieur Bouchez, dépense en effet beaucoup, mais pour quelle raison? C'est évident: parce que nous garantissons des soins de santé de qualité. Aux É tats-Unis d'Amérique, les gens dépensent moins en sécurité sociale. C'est clair et net. Toutefois, cela ne signifie pas qu'ils dépensent moins en soins de santé. Cela veut seulement dire qu'à côté d'une petite cotisation vers l' É tat, ils doivent verser énormément d'argent aux assurances privées.",
+       "Dat slaat echter nergens op! Laten we bijvoorbeeld België vergelijken met de Verenigde Staten, die uiteraard minder uitgeven. Daar wordt er geen geld uitgegeven via de sociale zekerheid. Er wordt vaak verwarring gezaaid tussen de verschillende uitgaven van de Staat: defensie, sociale zekerheid, enz. Alles wordt op één hoop gegooid. Welnu, de Belgische sociale zekerheid, mijnheer Bouchez, geeft inderdaad veel uit, maar waarom? Dat is evident: omdat wij kwaliteitsvolle gezondheidszorg garanderen. In de Verenigde Staten geven de mensen minder uit aan sociale zekerheid. Dat is overduidelijk. Dat betekent echter niet dat ze minder aan gezondheidszorg uitgeven. Het betekent enkel dat ze, naast een kleine bijdrage aan de overheid, enorm veel geld aan particuliere verzekeringen moeten betalen.",
+       "Dat is trouwens ook het geval in Nederland. Daar liggen de publieke uitgaven lager, omdat de Nederlanders gewoon honderden euro’s per maand moeten betalen voor hun zorg. Uiteraard. Het geld gaat niet meer via de sociale zekerheid, de mensen betalen hun zorg zelf.",
+       "C’est d’ailleurs également le cas aux Pays-Bas. Les dépenses publiques y sont moins élevées parce que les Néerlandais doivent tout simplement débourser des centaines d’euros par mois pour leurs soins de santé. Évidemment. L’argent ne passe plus par la sécurité sociale, les citoyens paient eux-mêmes leurs soins.",
+       "Regardez les chiffres aux États-Unis, chers collègues. C’est impressionnant! \"Les Américains donnent moins à la sécu.\" C’est clair. Mais combien dépensent-ils en soins de santé? Je vais vous le dire.",
+       "Kijk eens naar de cijfers in de Verenigde Staten, beste collega’s. Dat is indrukwekkend! \"De Amerikanen betalen minder voor de sociale zekerheid.\" Dat is duidelijk. Maar hoeveel geven ze uit aan gezondheidszorg? Ik zal het u vertellen.",
+       "In de Verenigde Staten vertegenwoordigen de uitgaven voor gezondheidszorg 17,6 % van het bbp, tegenover 11,2 % in België. Er wordt in de Verenigde Staten dus 6 % van het bbp meer aan zorg uitgegeven dan in België. Het is dus een fabeltje van rechts dat we te veel uitgeven. De sociale zekerheid geeft veel uit, maar hoeveel betalen de privéverzekeraars?",
+       "Aux États-Unis, les dépenses de santé représentent 17,6 % du PIB, contre 11,2 % en Belgique. Aux États-Unis, on consacre donc 6 % du PIB de plus aux soins de santé qu’en Belgique. L’idée selon laquelle nous dépensons trop est donc un mythe véhiculé par la droite. La sécurité sociale dépense beaucoup, mais combien versent les assureurs privés?",
+       "Savez-vous combien on paie aux Pays-Bas? Des centaines d’euros par mois pour avoir accès aux soins. En fait, le but derrière la campagne idéologique de la droite selon laquelle nous dépenserions trop, c’est qu’ils veulent tout simplement privatiser une partie des soins. Comme ça, dans les comptes de l’État, c’est 10 % du PIB en moins de dépensé. Oui, mais combien va aux soins de santé?",
+       "Aux États-Unis, on dépense 6 % de plus qu’en Belgique pour les soins de santé, mais pour un service encore plus mauvais. Aux États-Unis, il y a moins de docteurs par habitant, moins de lits d’hôpitaux par habitant. L’espérance de vie y est moindre qu’en Europe et qu’en Belgique.",
+       "Aux États-Unis quand vous confiez ces dépenses au marché, vous payez plus, mais vous avez moins de soins en retour. Idéologiquement, chers collègues – et c’est un combat que nous devons mener – , le dogme selon lequel moins dépenser offrira de meilleurs services est faux!",
+       "Le but, ici, des partis de droite est clairement, au nom d’une soi-disant austérité, d’une absence d’alternative, de nous pousser à la privatisation de secteurs aussi importants de la Sécurité sociale que les soins de santé et les pensions.",
+       "Ce combat idéologique – et là, c’est un appel que je fais au peuple et aux acteurs de ce monde –, nous devons le gagner.",
+       "Weet u hoeveel men in Nederland betaalt om toegang te krijgen tot zorg? Honderden euro’s per maand. Het doel achter de ideologische campagne van rechts, waarin wordt beweerd dat we te veel uitgeven, is eenvoudigweg de privatisering van een deel van de gezondheidszorg. Zo wordt er in de overheidsbegroting 10 % minder van het bbp uitgegeven. Ja, maar hoeveel gaat er naar de gezondheidszorg?",
+       "In de Verenigde Staten geeft men 6 % meer uit aan gezondheidszorg dan in België, maar voor een nog slechtere dienstverlening. Daar zijn er minder artsen en minder ziekenhuisbedden per inwoner. De levensverwachting ligt er lager dan in Europa en dan in België.",
+       "In de Verenigde Staten, als men dat allemaal vermarkt, als we die uitgaven aan de markt toevertrouwen, dan betaalt men meer, maar krijgt men er minder zorg voor terug. Beste collega’s, vanuit ideologisch oogpunt is het dogma dat minder uitgaven tot betere diensten leiden onjuist, en die strijd moeten we voeren!",
+       "De rechtse partijen zijn er hier duidelijk op uit om, onder het mom van bezuinigingen en het gebrek aan een alternatief, ons te doen overgaan tot de privatisering van zulke belangrijke sectoren van de sociale zekerheid als de gezondheidszorg en de pensioenen.",
+       "Die ideologische strijd moeten we winnen. Ik doe daarvoor een oproep aan het volk en aan de actoren in deze wereld.",
+       "Ons kamp heeft na de Tweede Wereldoorlog die strijd gewonnen door de beslissing om grote delen van onze economie, namelijk de zorg en de pensioenen, niet aan de markt over te laten, omdat dat duurder zou zijn en grotere risico's met zich zou meebrengen, en ze via de sociale zekerheid te regelen. De idee was om samen alles in te zetten op een sociale zekerheid die sterk staat, die de risico's veel meer over de samenleving spreidt, en om dat niet aan de private verzekeraars over te laten, in tegenstelling tot wat de rechtse partijen aan tafel in hun programma verdedigen.",
+       "Ik doe trouwens meteen een oproep aan de partijen die stellen niet rechts te zijn en die momenteel onderhandelen. Laat u niet beetnemen door de ideologische ingesteldheid van rechts. Die zal ons sociaal, economisch en democratisch kapotmaken.",
+       "Notre camp a remporté cette bataille après la Seconde Guerre mondiale, en affirmant que de larges pans de notre économie devaient rester en dehors du marché. En ce qui concerne la sécurité sociale, à l'époque, il a été décidé de ne pas laisser les soins de santé et les retraites dépendre du marché, car cela aurait été plus coûteux et aurait comporté des risques plus importants. Ensemble, mettons tout en œuvre pour maintenir une sécurité sociale forte et solide, qui répartisse beaucoup plus les risques au sein de la société. Ne laissons pas cela aux assureurs privés. Tel est le programme des partis de droite présents à la table des négociations.",
+       "C’est également un appel aux partis qui affirment ne pas être de droite et qui négocient actuellement. Ne vous laissez pas berner par cette attitude idéologique qui nous détruira sur les plans social, économique et démocratique.",
+       "C’est donc un appel, chers collègues – et un appel au peuple, aux travailleurs, etc. –: ne laissons rien tomber! Depuis 19 mois, nous mettons la pression sur ce gouvernement. C’est du jamais vu, depuis 30, 40 ans, qu’un mouvement social ne s’arrête pas. Een sociale beweging die verder gaat, grâce à l’air frais et combatif qui vient de la jeunesse, comme nous l’avons vu vendredi passé dans les rues de Bruxelles.",
+       "Nous continuerons le combat contre ce budget injuste, chers collègues!",
+       "Beste collega’s, dit is dus een oproep, aan het volk, aan de werknemers, enzovoort: laten we niets prijsgeven. Al 19 maanden lang oefenen we druk uit op deze regering. Dat een sociale beweging maar niet stilvalt, is ongezien in de voorbije 30 à 40 jaar. Een sociale beweging die verder gaat, dankzij de frisse en strijdlustige energie van de jeugd, zoals we afgelopen vrijdag in de straten van Brussel hebben gezien.",
+       "Beste collega’s, we zullen de strijd tegen deze onrechtvaardige begroting voortzetten!"
+      ]
+     }
+    },
+    {
+     "type": "speech",
+     "id": "06.04",
+     "name": "Georges-Louis Bouchez",
+     "party": "MR",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "(…)"
+     ],
+     "translation": {
+      "lang": "nl",
+      "paragraphs": [
+       "(…)"
+      ]
+     }
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Le président : Monsieur Bouchez, un fait personnel implique une accusation. Je n’ai pas entendu d’accusation. Ce n’est pas un fait personnel. Je suis désolé. Il a essayé de provoquer un fait personnel – c’est vrai."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Mijnheer Bouchez, voor een persoonlijk feit moet er een beschuldiging geuit worden. Ik heb geen beschuldiging gehoord. Dit is geen persoonlijk feit. Het spijt me. Het klopt wel dat de spreker geprobeerd heeft om een persoonlijk feit uit te lokken."
+    },
+    {
+     "type": "speech",
+     "id": "06.05",
+     "name": "Georges-Louis Bouchez",
+     "party": "MR",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "(…)"
+     ],
+     "translation": {
+      "lang": "nl",
+      "paragraphs": [
+       "(…)"
+      ]
+     }
+    },
+    {
+     "type": "speech",
+     "id": "06.06",
+     "name": "Matti Vandemaele",
+     "party": "Ecolo-Groen",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Vandaag, op de tweede dinsdag van oktober, blijven de regeringsbanken voor het tweede jaar op rij leeg. Voor het tweede jaar op rij hebben we geen premier die een State of the Union komt brengen. Met alle respect, een normaal functionerende regering zou hier vandaag haar begroting presenteren. Een normaal functionerende premier zou hier vandaag aanwezig zijn om zijn project voor te stellen. Een normaal functionerende meerderheid zou hier ook het woord nemen om, zelfs als de premier er niet is en er geen begroting is, op zijn minst haar project te verdedigen.",
+      "Deze meerderheid kiest er echter voor om te zwijgen. Blijkbaar is er in deze regering heel weinig normaal. Alhoewel, er is een soort nieuw normaal: als er een budgettaire deadline is, wordt die gemist. Op de tweede dinsdag van oktober rollen jullie vechtend over straat. Dat is dus het nieuwe normaal.",
+      "Beste collega's, ik zie politieke spelletjes. Ik zie partijvoorzitters die in de pers grote woorden gebruiken en daar gloeilampen willen inslikken, maar hier en in de regering geen compromis willen sluiten. Ga eens de straat op, ga eens op het voetbalveld staan en ga eens op café om te horen wat de bevolking zegt. De bevolking kijkt met open mond naar dit schouwspel. Het is een heel uitdagende tijd en jullie komen niet verder dan ruzie maken.",
+      "De burgers verwachten van jullie antwoorden op de uitdagingen die er zijn. De burgers hebben nood aan bescherming en zekerheid. Wat moeten we echter vaststellen? We discussiëren nog steeds over de methode en over de ingrediënten van de lasagne of de tiramisu.",
+      "Met alle respect, jullie cultiveren de onzekerheid. De vraag is niet alleen of we vandaag een begroting hebben. Zullen we volgende week een begroting hebben? Binnen twee weken? Of zullen we met voorlopige twaalfden werken? Niemand die het weet. Het enige dat we wel weten, is dat de premier niet op tijd is begonnen. Voor het tweede jaar op rij bewijst hij niet het leiderschap te hebben om op tijd met een begroting naar het Parlement te komen.",
+      "Ik kan dus niet anders dan teruggrijpen naar het criterium dat jullie zelf naar voren hebben geschoven: met BDW aan de macht zou alles veranderen, het rotten zou stoppen, er zou orde op zaken worden gesteld en alles zou in orde komen.",
+      "Collega's, wat is evenwel het resultaat? Het tekort is groter dan toen jullie begonnen zijn. We weten ook dat als er binnenkort een akkoord komt, jullie nadien nog wekenlang zullen discussiëren over de modaliteiten. Jullie zullen elkaar in de vernieling rijden en blijven discussiëren over het zogenaamde akkoord. Ik wil dan ook een oproep doen aan de regering. De regeringsbanken zijn hier leeg, maar collega's, geef de boodschap dan maar door aan jullie ministers. Volgens mij hebben we een begroting nodig waarin eindelijk werk wordt gemaakt van een eerlijke bijdrage van de sterkste schouders. Deze regering is al twee jaar aan het stampen naar beneden. Dat stampen naar beneden moet stoppen, om de vicepremier te citeren. Het is tijd dat de sterkste schouders de zwaarste lasten dragen.",
+      "Ik heb ook een tweede aanbeveling, beste collega's. Zondag hebben wij met 60.000 mensen betoogd om het klimaat opnieuw op de agenda te zetten. Jullie blijven er alles aan doen om de kop in het zand te steken. Mijn tweede oproep is dan ook om dat krachtige signaal van 60.000 burgers niet te negeren.",
+      "Beste collega's, hier zitten we dan, op de tweede dinsdag van oktober, met lege regeringsbanken. Er is geen begroting, er is geen perspectief en toch moeten we dat allemaal maar normaal vinden. Het spijt me, beste collega's, maar de manier waarop jullie omgaan met de uitdagingen waar we voor staan, is onverantwoord. Ga dus samen zitten, werk samen en zoek oplossingen. Zorg ervoor dat er een eerlijke en degelijke begroting op tafel komt, want vandaag is het resultaat: niets voor de koopkracht, niets voor het klimaat en geen perspectief. Ik denk, beste collega's, dat het tijd is voor iets anders."
+     ],
+     "translation": {
+      "lang": "fr",
+      "paragraphs": [
+       "Aujourd’hui, en ce deuxième mardi d’octobre, les bancs du gouvernement restent vides pour la deuxième année consécutive. Pour la deuxième année consécutive, pas de déclaration gouvernementale du premier ministre. Permettez-moi de dire, avec tout le respect que je vous dois, qu'un gouvernement fonctionnant normalement viendrait présenter aujourd’hui son budget dans cet hémicycle. Un premier ministre fonctionnant normalement serait présent ici aujourd’hui pour présenter son projet. Une majorité fonctionnant normalement prendrait également la parole ici, même en l’absence de son premier ministre et en l’absence de budget, pour défendre au moins son projet.",
+       "Cette majorité préfère toutefois garder le silence. Apparemment, très peu de choses sont \"normales\" dans ce gouvernement. On observe toutefois une nouvelle forme de normalité: lorsqu’il y a une échéance budgétaire, elle n’est pas respectée. Le deuxième mardi d’octobre, les membres du gouvernement se disputent comme des chiffonniers. Voilà la nouvelle normalité.",
+       "Chers collègues, je vois des jeux politiques. Je vois des présidents de parti qui tiennent des propos musclés dans la presse et qui sont prêts à avaler des ampoules, mais qui ne veulent accepter aucun compromis, ni ici ni au sein du gouvernement. Allez donc dans la rue, assistez à un match de foot et allez boire un verre pour entendre ce qu’en dit la population. La population regarde ce spectacle bouche bée. Nous vivons une période très difficile et vous ne faites rien d’autre que vous bagarrer.",
+       "Les citoyens attendent de vous des réponses aux défis auxquels nous faisons face. Les citoyens ont besoin de protection et de sécurité. Or, que constatons-nous? Nous continuons à débattre de la méthode et des ingrédients de la lasagne ou du tiramisu.",
+       "Avec tout le respect que je vous dois, permettez-moi de vous dire que vous entretenez l’incertitude. La question n’est pas seulement de savoir si nous avons un budget aujourd'hui. En aurons-nous un la semaine prochaine? Ou dans quinze jours? Ou devrons-nous recourir aux douzièmes provisoires? Nul ne le sait. La seule chose dont nous sommes sûrs, c’est que le premier ministre ne s’est pas mis au travail à temps. Pour la deuxième année consécutive, il se montre incapable de faire preuve du leadership nécessaire pour présenter un budget au Parlement dans les délais.",
+       "Je ne peux donc que revenir au critère que vous avez vous-mêmes mis en avant: avec BDW au pouvoir, tout changerait, il serait mis fin au pourrissement, la situation serait assainie et tout rentrerait dans l'ordre.",
+       "Chers collègues, quel est toutefois le résultat? Le déficit est plus important qu’au moment où vous êtes entrés en fonction. Nous savons également que si un accord est conclu prochainement, vous passerez encore des semaines à discuter de ses modalités. Vous allez vous entre-déchirer et continuer de discuter au sujet de ce prétendu accord. Je tiens donc à lancer un appel au gouvernement. Chers collègues, les bancs du gouvernement étant vides dans cet hémicycle, transmettez le message à vos ministres. Selon moi, nous avons besoin d’un budget qui prévoie enfin une contribution équitable des épaules les plus larges. Cela fait déjà deux ans que ce gouvernement ne fait qu'écraser les plus faibles. Il faut mettre un terme à cet écrasement, pour reprendre les mots du vice-premier ministre. Il est temps que les épaules les plus larges portent les charges les plus lourdes.",
+       "J’ai également une deuxième recommandation, chers collègues. Dimanche, nous avons manifesté avec 60 000 personnes pour remettre le climat à l’ordre du jour. Vous continuez de tout faire pour pratiquer la politique de l’autruche. Mon deuxième appel est donc de ne pas ignorer ce signal fort lancé par 60 000 citoyens.",
+       "Chers collègues, nous voici donc, en ce deuxième mardi d’octobre, face aux bancs vides du gouvernement. Il n’y a pas de budget, il n’y a pas de perspective, et pourtant, nous sommes censés trouver tout cela normal. Je suis désolé, chers collègues, mais la manière dont vous gérez les défis auxquels nous sommes confrontés est irresponsable. Asseyez-vous donc autour de la table, coopérez et trouvez des solutions. Veillez à ce qu’un budget équitable et solide soit mis sur la table, car à l'heure actuelle, le résultat est le suivant: rien pour le pouvoir d’achat, rien pour le climat et aucune perspective. Je pense, chers collègues, qu’il est temps de changer de cap."
+      ]
+     }
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Dank u wel, mijnheer Vandemaele."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Mevrouw Schlitz, u krijgt vijf minuten."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Le président : Merci, monsieur Vandemaele."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Madame Schlitz, il vous reste 5 minutes."
+    },
+    {
+     "type": "speech",
+     "id": "06.07",
+     "name": "Sarah Schlitz",
+     "party": "Ecolo-Groen",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Pour la deuxième année d'affilée, le premier ministre a décidé de venir demander une cote de présence pour son examen. En réalité, c'est encore pire: il n'est même pas venu signer, mais passe directement en deuxième session. C'est zéro pointé. Quel bel exemple pour les jeunes qu'il essaie, à travers ses discours autoritaires, de renvoyer à leurs cahiers!",
+      "Dans ce cas, l'échéance était pourtant bien connue. Ce n'est pas comme s'il s'agissait d'une crise à gérer ou d'un événement imprévu. Non, cette date était connue et est la même chaque année. Le travail attendu, lui aussi, est parfaitement connu. Ce que l'on constate, chers collègues, c'est simplement que vos ministres ne se donnent pas les moyens d'aboutir à un budget capable de répondre aux enjeux de notre société.",
+      "En réalité, tout cela n'est qu'un petit jeu. Bart De Wever est de toute façon gagnant à tous les coups dans ce petit jeu, qui est moins confortable pour les autres partis. S'il n'y a pas d'accord budgétaire, il prétendra que l'État fédéral est ingouvernable. Dans le cas contraire, il se fera passer pour un héros qui est parvenu, malgré tous ces partis qui ne s'entendent pas et se chamaillent, à fédérer tout le monde et à aboutir à un accord budgétaire. Évidemment, cela ne place pas ses partenaires de majorité dans les meilleures conditions pour négocier, mais cela les regarde.",
+      "Ce qui est plus grave, en revanche, c'est que ces décisions sont vitales pour beaucoup de citoyens. Ces derniers attendent des réponses, une réaction et des solutions aux enjeux qui se présentent et qui sont nombreux. Nous ressentons toutes et tous le malaise qui existe aujourd'hui dans la population, que ce soit chez les jeunes, chez les travailleurs âgés qui ne parviennent pas à retrouver un emploi lorsqu'ils ont perdu le leur, chez les enseignants ou encore chez les travailleurs qui, parfois, vivent eux-mêmes dans la précarité.",
+      "D'autres enjeux arriveront encore. À l'approche de l'hiver, avec la baisse des températures, nous risquons de nous retrouver une nouvelle fois confrontés à une grave crise de précarité énergétique. Or, aujourd'hui, aucune mesure n'est sur la table et aucune solution n'est proposée pour rassurer les citoyens.",
+      "Je dirais dès lors que la seule chose positive dans ce retard, c'est qu'il est désormais possible d'identifier les choix budgétaires opérés par les entités fédérées.",
+      "Cela au moins permet de clarifier le jeu, et l'on peut dire qu'il s'agit d'une masterclass de ce qu'il ne faut pas faire. Que cela vous serve au moins de leçon pour orienter les discussions des prochaines semaines. À Bruxelles, on décide de supprimer 7 millions d'euros dans la transition et de retirer 75 millions d'euros aux politiques de l'emploi. En Wallonie, on coupe dans les budgets de la santé et dans ceux des maisons de repos, ces mêmes structures où les travailleurs ne savaient plus quoi faire en période de canicule et qui ont cruellement besoin d'investisse-ments. On parle également de définancer le TEC, alors que nous avons aujourd'hui besoin d'investir dans les transports en commun. On coupe aussi dans les budgets des communes, déjà à la corde en raison des différentes mesures prises précisément par votre gouvernement.",
+      "Par ailleurs, on constate une absence totale de prise en compte de l'enjeu climatique. Pourtant, nous venons de passer un été meurtrier qui a tué près de 3 000 personnes et lors duquel 3 300 hectares des Fagnes sont partis en fumée. Malgré cela, il n'y a pas de réaction; le silence est assourdissant. Mais on ne peut pas simplement ignorer cette question et passer à autre chose. On ne négocie pas avec le climat!",
+      "Ne pas agir pour le climat est un enjeu de sécurité. C'est exposer nos citoyens à des dangers, c'est exposer leur santé et c'est aussi exposer nos finances. Les inondations de 2021 ont coûté 737 millions d'euros aux finances publiques wallonnes et 2,3 milliards d'euros aux assurances. Jusqu'à quand ces dernières accepteront-elles de payer, alors que les pouvoirs publics n'agissent pas? Rien que cet été, les vagues de chaleur ont coûté 6 milliards d'euros à la Belgique.",
+      "Alors, chers collègues, ne vous trompez pas de choix politique aujourd'hui. Car ce sont bien des choix politiques que vous devez poser. Allez chercher l'argent là où il se trouve pour financer la transition, pour protéger les citoyens, pour protéger les entreprises et pour faire en sorte d'atteindre vos propres objectifs budgétaires.",
+      "Je vous remercie."
+     ],
+     "translation": {
+      "lang": "nl",
+      "paragraphs": [
+       "Voor het tweede jaar op rij heeft de eerste minister besloten om een punt te komen vragen voor zijn aanwezigheid op het examen. In werkelijkheid is het nog erger: hij is niet eens gekomen om te tekenen, maar gaat direct voor de tweede zit. Dat is een vette onvoldoende. Wat een voorbeeld voor de jongeren die hij er met zijn autoritaire toespraken toe probeert te bewegen weer met hun hoofd boven de schoolboeken te gaan hangen!",
+       "In dit geval was de deadline echter wel degelijk bekend. Het is niet alsof het over een crisis ging die moest worden opgelost of over een onvoorziene gebeurtenis. Nee, de datum was bekend en is elk jaar dezelfde. Het werk dat er verwacht wordt, is ook zo klaar als een klontje. Wat we constateren, beste collega’s, is simpelweg dat uw ministers niet de middelen vinden om tot een begroting te komen waarmee er een antwoord kan worden geboden op de uitdagingen waarmee onze samenleving geconfronteerd wordt.",
+       "In werkelijkheid is dit allemaal slechts een spelletje. Bart De Wever wint bij dit spelletje sowieso altijd, terwijl de andere partijen in een lastig parket worden gebracht. Als er geen begrotingsakkoord bereikt wordt, zal hij beweren dat de federale Staat onbestuurbaar is. In het tegenovergestelde geval zal hij zich voordoen als een held die er, ondanks al die partijen die het niet met elkaar eens zijn en kibbelen, in geslaagd is iedereen te verenigen en tot een begrotingsakkoord te komen. Natuurlijk plaatst dit zijn meerderheidspartners niet in de beste onderhandelingspositie, maar dat is hun zaak.",
+       "Wat daarentegen ernstiger is, is dat deze beslissingen van cruciaal belang zijn voor veel burgers. Zij verwachten antwoorden, een reactie en oplossingen voor de talrijke uitdagingen waar we voor staan. We voelen allemaal de malaise die er vandaag de dag onder de bevolking heerst, of het nu gaat om jongeren, oudere werknemers die geen nieuwe baan kunnen vinden nadat ze op straat zijn komen te staan, leraren of werknemers die soms zelf in armoede leven.",
+       "Er komen nog meer uitdagingen aan. Nu de winter nadert en de temperaturen dalen, lopen we het risico opnieuw geconfronteerd te worden met een ernstige energiearmoedecrisis. Op dit moment ligt er echter geen enkele maatregel op tafel en wordt er geen enkele oplossing voorgesteld om de burgers gerust te stellen.",
+       "Ik zou dan ook willen zeggen dat het enige positieve aan deze vertraging is dat het nu mogelijk is om de begrotingskeuzes van de deelgebieden te bekijken.",
+       "Zo wordt ten minste een en ander duidelijk. We krijgen als het ware een masterclass over hoe het niet moet. Er moeten uit deze toestand op zijn minst lessen getrokken worden die richtinggevend zijn voor de onderhandelingen tijdens de komende weken. In Brussel wordt beslist om 7 miljoen euro voor de groene transitie te schrappen en 75 miljoen euro te besparen op het werkgelegenheidsbeleid. In Wallonië wordt bespaard op de middelen voor de gezondheidszorg en de rusthuizen. Dat zijn precies de instellingen waar het personeel tijdens de hittegolf volledig ontredderd was en waarin er dringend geïnvesteerd moet worden. Er wordt ook gesproken over een vermindering van de financiering van LETEC, terwijl we juist nu moeten investeren in het openbaar vervoer. Daarnaast wordt er bespaard op de middelen voor de gemeenten, die nu al aan de rand van de afgrond staan door de verschillende maatregelen die door uw regering genomen werden.",
+       "Voorts zien we dat er totaal geen rekening gehouden wordt met de klimaatuitdaging, terwijl we net een dodelijke zomer achter de rug hebben, tijdens welke er bijna 3.000 mensen overleden zijn en 3.300 hectare van de Hoge Venen in vlammen opgegaan is. Een reactie blijft echter uit; de stilte is oorverdovend. We kunnen deze kwestie echter niet zomaar negeren en de bladzijde omslaan. Met het klimaat valt niet te onderhandelen!",
+       "Het feit dat er geen klimaatmaatregelen genomen worden, vormt een veiligheidsprobleem. Daardoor worden onze burgers, hun gezondheid en onze financiën in gevaar gebracht. De overstromingen in 2021 hebben de Waalse overheidsfinanciën 737 miljoen euro en de verzekeraars 2,3 miljard euro gekost. Hoe lang zullen de verzekeraars nog bereid zijn te betalen, terwijl de overheid niets onderneemt? Alleen al deze zomer hebben de hittegolven België 6 miljard euro gekost.",
+       "Beste collega’s, u mag vandaag dus geen verkeerde politieke keuzes maken. Het gaat immers wel degelijk over politieke keuzes. U moet het geld gaan halen waar het zit om de groene transitie te financieren, de burgers en de bedrijven te beschermen, en ervoor te zorgen dat u uw eigen begrotingsdoelstellingen kunt waarmaken.",
+       "Ik dank u."
+      ]
+     }
+    },
+    {
+     "type": "speech",
+     "id": "06.08",
+     "name": "Alexia Bertrand",
+     "party": "Anders.",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Collega's, voor het tweede jaar op rij komt de premier niet naar het Parlement om zijn State of the Union te geven. Dat is ongezien. Alle andere premiers waren op de tweede dinsdag van oktober wel hier om hun State of the Union voor te stellen.",
+      "Eerlijk gezegd doet dit eerder denken aan een fabel dan aan de politieke realiteit. Denk bijvoorbeeld aan de fabel van de haas en de schildpad: de haas die zich niet haast en te laat aankomt, terwijl de schildpad wel op tijd begint en met veel doorzettingskracht de finish op tijd bereikt, omdat ze weet dat ze traag is. Of het doet denken aan de fabel van de krekel en de mier: de krekel geniet de hele zomer van het mooie weer, terwijl de hardwerkende mier reserves opbouwt voor de winter. Of misschien doet het denken aan het verhaal van de ezel die zich geen twee keer aan dezelfde steen stoot. Jammer genoeg is dit geen sprookje, maar de realiteit. Die is ernstig genoeg om er niet mee te lachen.",
+      "Het gaat er niet om dat de premier hier niet is om een toespraak te geven. Dat is niet het punt. Het gaat om wat dat in de praktijk betekent. Het betekent: geen akkoord, geen plan, geen perspectief, geen begroting en opnieuw het risico op voorlopige twaalfden. Dat hebben we dit jaar al drie maanden meegemaakt. Stilstand dus, en dat op een moment waarop onze economie het bijzonder moeilijk heeft. De inflatie loopt op richting 5 %, er is geen groei, het tekort zal onder deze regering een nieuw record bereiken en we hebben de op een na slechtste begroting van alle geïndustrialiseerde landen. We hebben al de slechtste begroting van de eurozone, de schulden gaan richting 120 % en de rentelasten blijven stijgen, terwijl onze ondernemers, onze kleine zelfstandigen en onze burgers antwoorden verwachten. Die mensen hebben maar één ding nodig en dat is zekerheid.",
+      "Terwijl ze op antwoorden wachten, is deze coalitie bezig met de vraag wie de schuld draagt en wie de zondebok is. \"Alles wat kan tegenzitten, zit tegen\", heeft een lid van de meerderheid gezegd. \"Het is de schuld van de geopolitieke situatie.\" Ja, alsof alle andere premiers onder zulke comfortabele omstandigheden hebben kunnen werken. Stel u eens voor dat u premier was tijdens 9/11, tijdens de bankencrisis, de Europese schuldencrisis, de coronacrisis, de Oekraïnecrisis of de energiecrisis. Toen was het allemaal veel gemakkelijker, zeker?",
+      "Als het niet de schuld van de geopolitiek is, dan ligt het aan de coalitiepartners. Wie krijgt de zwartepiet toegeschoven? De heer Bouchez, omdat hij rode lijnen heeft getrokken. Waar strijdt de heer Bouchez voor? Minder belastingen. Daar heeft hij gelijk in. We worden in dit land al zo zwaar belast dat wij iemand die strijdt tegen nieuwe belastingen alleen maar gelijk kunnen geven.",
+      "De heer Mahdi heeft gisteren op de radio gezegd dat eigenlijk alle partijen rode lijnen hebben. De heer Bouchez is niet de enige. Voor cd&v en Vooruit mag er niet aan de groeinorm worden geraakt en mag er niets gebeuren in de gezondheidszorg, vooral niet hervormen dus. Andere partijen hebben andere rode lijnen, maar die van de heer Bouchez was bijzonder voorspelbaar. Hij is daarin zeer consequent geweest. Al een jaar lang zegt hij dat er geen extra belastingen mogen komen en dat de btw niet mag worden verhoogd. Toch is er sprake van een btw-obsessie, want deze regering is de onderhandelingen gestart met een belastingverhoging, met name de btw-verhoging. De methode is dus fout.",
+      "Wiens fout is het? Eigenlijk maakt dat niet uit, collega's, want de burgers zijn daar niets mee. Zij wachten op oplossingen, perspectief, een plan en een begroting.",
+      "Mijn belangrijkste boodschap vandaag, zowel voor de collega's als voor de pers, is dat het anders kan. Mijnheer Vandemaele, u hebt gelijk. Het kan anders. Wij hebben een besparingsplan en een groeiplan opgesteld.",
+      "Ons besparingsplan bedraagt 17 miljard euro. Wij halen dat geld waar we het vandaag moeten halen. De overheidsuitgaven in ons land ontploffen immers en liggen veel hoger dan het Europese gemiddelde. Ook de inkomsten liggen hoger dan het Europese gemiddelde. Bespaar dus op de overheid en op de ambtenaren. Vervang ambtenaren die met pensioen gaan niet. Verminder het aantal overheidsgebouwen. Bespaar op de ziekenfondsen en de vakbonden. Schrap de groeinorm. Zo komen er al miljarden extra vrij voor de begroting.",
+      "Jullie hebben immers een aantal beslissingen genomen, maar zijn niet in staat om die uit te voeren.",
+      "Daarnaast moet er ook groei zijn. Onze economie heeft zuurstof nodig en een groeiplan. Daarom stellen wij voor om een echte fiscale hervorming door te voeren, namelijk de afschaffing van de schijf van 50 %. Dat is een echte fiscale hervorming, in tegenstelling tot de fiscale hervorming die jullie van plan zijn, die de werknemers 40 euro extra per maand zal opleveren en meer dan 3 miljard euro zal kosten. De afschaffing van de schijf van 50 % zal 2 miljard euro minder kosten. Daar kunnen jullie al geld voor vinden voor de begroting.",
+      "Geef zuurstof aan de bouwsector en aan de jonge gezinnen die willen bouwen. Verlaag de btw op de bouw naar 6 %. Dat zal onze economie ook een stimulans geven.",
+      "Voer daarnaast een Einsteinrekening in. Iedereen moet kunnen beleggen en daartoe door de overheid worden aangemoedigd. Met de Einsteinrekening moet iedereen op een bepaald moment een huis kunnen kopen of met voldoende kapitaal op pensioen kunnen gaan.",
+      "Het is tijd, collega's, voor een regeerakkoord 2.0. Het is tijd om te snoeien in de uitgaven. Het probleem met deze begroting zit volgens de meeste economen en experten aan de uitgavenkant, niet aan de inkomstenkant.",
+      "Collega's, ik zeg niet dat de premier ons plan moet overnemen, maar hij moet wel een plan hebben. Dat heeft hij vandaag niet.",
+      "De mensen verwachten antwoorden. Ze verdienen antwoorden. Ondernemers, kleine zelfstandigen en burgers kunnen niet wachten. Ook de economie wacht niet. De financiële markten hebben evenmin gewacht om het advies te geven de Belgische schuld te verkopen. Jullie hebben dat gezien. Als jullie niet heel binnenkort met een plan, een akkoord en een begroting komen, zal de situatie echt catastrofaal worden.",
+      "Ik hoop dus dat jullie hier werk van maken. Zoals altijd zullen we goede voorstellen steunen die gericht zijn op besparingen en groei."
+     ],
+     "translation": {
+      "lang": "fr",
+      "paragraphs": [
+       "Chers collègues, pour la deuxième année consécutive, le premier ministre ne se présente pas au Parlement pour prononcer sa déclaration. C'est du jamais vu. Tous les autres premiers ministres étaient pourtant présents au Parlement le deuxième mardi d’octobre pour prononcer leur déclaration.",
+       "À vrai dire, cette situation fait davantage penser à une fable qu’à la réalité politique. Prenons par exemple la fable du lièvre et de la tortue: le lièvre ne se dépêche pas et arrive en retard, tandis que la tortue part à l’heure et franchit la ligne d’arrivée à temps grâce à sa persévérance remarquable, car elle est consciente de sa lenteur. Cette situation fait également penser à la fable de la cigale et de la fourmi: la cigale profite du beau temps tout l’été, tandis que la fourmi laborieuse constitue des réserves pour l’hiver. Ou peut-être cette situation fait-elle penser à l’histoire de l’âne qui ne trébuche pas deux fois sur la même pierre. Malheureusement, ce n’est pas un conte, mais la réalité. Et celle-ci est suffisamment grave pour qu’on n’en rigole pas.",
+       "Le problème n’est pas l’absence du premier ministre et de son discours. Ce n’est pas de cela qu’il s’agit. Ce qui importe, ce sont les implications concrètes de cette situation, à savoir une absence d’accord, de plan, de perspective et de budget et, une fois de plus, le risque de recourir aux douzièmes provisoires. Nous en avons déjà fait l’expérience pendant trois mois cette année. Nous nous trouvons donc dans une impasse, et ce à un moment où notre économie traverse une période particulièrement difficile. L’inflation est en passe d’atteindre les 5 %, la croissance est atone, le déficit atteindra un nouveau record sous ce gouvernement et nous avons le deuxième plus mauvais budget de tous les pays industrialisés. Nous avons déjà le pire budget de la zone euro, la dette avoisine les 120 % et les charges d’intérêts ne cessent d’augmenter, alors que nos entrepreneurs, nos petits indépendants et nos citoyens attendent des réponses. Ces personnes n’aspirent qu’à une seule chose: la sécurité.",
+       "Alors que ces dernières attendent des réponses, cette coalition s’efforce de trouver le responsable de cette situation et le bouc émissaire. Un membre de la majorité a déclaré que tout ce qui pouvait aller de travers allait de travers et que c’était la situation géopolitique qui était en cause. En effet, comme si tous les autres premiers ministres avaient pu travailler dans des conditions aussi favorables. Supposez que vous ayez été premier ministre lors des attentats du 11 septembre, pendant la crise bancaire, la crise de la dette européenne, la crise du coronavirus, la crise ukrainienne ou la crise énergétique. À l’époque, la situation était beaucoup plus simple, n’est-ce pas?",
+       "Si ce n'est pas la faute de la géopolitique, c'est celle des partenaires de la coalition. À qui va-t-on faire porter le chapeau? À M. Bouchez, parce qu'il a tracé des lignes rouges. Pour quoi se bat M. Bouchez? Pour une baisse des impôts. Sur ce point, il a raison. Dans ce pays, nous sommes déjà tellement taxés que nous ne pouvons que donner raison à quelqu’un qui se bat contre de nouveaux impôts.",
+       "M. Mahdi a déclaré hier à la radio qu’en réalité, tous les partis ont des lignes rouges. M. Bouchez n’est pas le seul. Pour le cd&v et Vooruit, il ne faut pas toucher à la norme de croissance et rien ne doit changer dans les soins de santé; ces partis ne veulent donc surtout pas de réformes. D’autres partis ont d’autres lignes rouges, mais celle de M. Bouchez était particulièrement prévisible. Il s’est montré très cohérent sur ce point. Depuis un an déjà, il répète qu’il ne peut pas y avoir de nouvelles taxes ni d'augmentation de la TVA. Pourtant, on assiste à une véritable obsession en ce qui concerne la TVA puisque ce gouvernement a entamé les négociations en proposant une hausse des impôts, notamment de la TVA. La méthode ne tient pas la route.",
+       "À qui la faute? En réalité, cela n’a pas d’importance, chers collègues, car les citoyens s’en moquent. Ils attendent des solutions, des perspectives, un plan et un budget.",
+       "Mon message principal aujourd’hui, tant à l’intention de mes collègues que de la presse, est qu’une autre voie est possible. Monsieur Vandemaele, vous avez raison. Il est possible de faire autrement. Nous avons élaboré un plan d’économies et un plan de croissance.",
+       "Notre plan d’économies s’élève à 17 milliards d’euros. Nous trouverons cet argent là où il faut aller le chercher actuellement. En effet, les dépenses publiques explosent dans notre pays et sont bien supérieures à la moyenne européenne. Les recettes sont, elles aussi, supérieures à la moyenne européenne. Il faut donc réaliser des économies dans l’administration et sur les fonctionnaires. Ne remplacez pas les fonctionnaires qui partent à la retraite. Réduisez le nombre de bâtiments publics. Réalisez des économies sur les mutuelles et les syndicats. Supprimons la norme de croissance. Cela permettra déjà de dégager des milliards supplémentaires pour le budget.",
+       "Vous avez effectivement pris plusieurs décisions, mais vous n'êtes pas en mesure de les exécuter.",
+       "Il faut également de la croissance. Notre économie a besoin d'oxygène et d'un plan de croissance. C'est pourquoi nous proposons une véritable réforme fiscale, à savoir la suppression de la tranche d'imposition de 50 %. Il s'agit en l'occurrence d'une véritable réforme fiscale, contrairement à celle que vous prévoyez. Elle apportera 40 euros supplémentaires par mois aux travailleurs et coûtera plus de 3 milliards d'euros. La suppression de la tranche de 50 % coûtera 2 milliards d'euros de moins. Vous pouvez déjà y trouver des moyens pour le budget.",
+       "Donnez une bouffée d'oxygène au secteur de la construction et aux jeunes ménages qui souhaitent faire construire. Baissez la TVA sur la construction à 6 %. Une telle mesure stimulera également notre économie.",
+       "Instaurez, par ailleurs, un compte Einstein. Chacun doit pouvoir investir et y être incité par l'État. Le compte Einstein doit permettre à chacun d'acheter une maison à un moment donné ou de prendre sa retraite avec un capital suffisant.",
+       "Chers collègues, il est temps de conclure un accord de gouvernement 2.0. Il est temps de couper dans les dépenses. Selon la plupart des économistes et des experts, le problème de ce budget se situe du côté des dépenses et non des recettes.",
+       "Chers collègues, je ne prétends pas que le premier ministre doit reprendre notre plan, mais il lui faut un plan. Or, il n'en a pas à l'heure actuelle.",
+       "La population attend des réponses. Elle mérite des réponses. Les entrepreneurs, les petits indépendants et les citoyens ne peuvent pas attendre. L'économie n'attend pas non plus. Les marchés financiers n'ont pas non plus attendu pour recommander de vendre la dette belge. Vous l'avez constaté. Si vous ne présentez pas très prochainement un plan, un accord et un budget, la situation deviendra réellement catastrophique.",
+       "J'espère donc que vous vous y attellerez. Comme toujours, nous soutiendrons les propositions efficaces, qui sont axées sur les économies et sur la croissance."
+      ]
+     }
+    },
+    {
+     "type": "speech",
+     "id": "06.09",
+     "name": "François De Smet",
+     "party": "DéFI",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le président, chers collègues, j'ai de l'empathie pour les collègues de la majorité. J'ai peut-être trop d'empathie en général pour faire ce métier longtemps, mais j'en ai vraiment pour les collègues de la majorité, parce qu'ils ne traversent pas des journées faciles. Ils doivent néanmoins se mettre à notre place. Être parlementaire de l'opposition face à l'Arizona, ce n'est pas facile tous les jours, parce que nous sommes confrontés à un dilemme.",
+      "Faut-il attaquer l'Arizona parce que ses mesures sont brutales et injustes? Ou faut-il l'attaquer parce qu'en plus, elle est nulle et n'arrive même pas à atteindre ses propres objectifs? C'est un véritable dilemme car, même en se plaçant de votre propre point de vue, le déficit explose, la dette explose, les mesures que vous prenez ne fonctionnent pas. Vous êtes donc en échec sur tous les tableaux: la croissance reste en berne, la précarité augmente et les faillites se multiplient. Et non, ce n'est pas uniquement la faute des gouvernements précédents ou du contexte international. Bien sûr, cela joue un rôle important.",
+      "Mais il faut aussi pouvoir le dire: les 10 milliards d'euros que vous cherchez aujourd'hui, ainsi que ce déficit qui ne cesse de se creuser, constituent aussi en partie la dette de l'Arizona envers elle-même. Ce sont les huit mois de tergiversations qui ont marqué son faux départ. Ce sont vos effets retours complètement fantaisistes, évalués à environ 8 milliards d'euros. C'est toujours la même somme après laquelle vous courez. Ce n'est pas un hasard. Depuis le début, vous avez construit votre politique sur du sable. Ces difficultés sont donc aussi, en partie, le résultat de vos propres échecs. Aujourd'hui, vous nous offrez un spectacle de divisions assez comparable à celui de l'année dernière.",
+      "Cette crise – parce que l'on peut au moins s'accorder sur le fait qu'il s'agit bien d'une crise – pose plusieurs problèmes. D'abord, elle révèle un problème de méthode et de leadership de la part du premier ministre. Comment est-il possible de revivre exactement les mêmes débats que l'an dernier? Comment est-il possible de retrouver les mêmes discussions sur la TVA? Nous pouvons y être favorables comme nous pouvons y être opposés. Pour ma part, je suis plutôt opposé à une hausse de la TVA, pour des raisons que j'ai déjà expliquées: elle va faire hausser l'inflation, avec les effets que cela entraîne sur l'indexation, et il s'agit d'un impôt injuste.",
+      "Mais enfin, le fait qu'un partenaire de la majorité en particulier considère cette mesure comme inacceptable, nous le savons depuis un an. Dès lors, comment est-il possible de revenir constamment avec les mêmes demandes, sans avoir exploré d'alternatives pendant toute cette période? C'est comme si les partenaires de cette majorité n'avaient pas discuté entre eux. Cela traduit un manque de créativité. J'essaie parfois d'imaginer ce qu'aurait fait Jean-Luc Dehaene dans une telle situation. À mon avis, il ne serait pas revenu avec les mêmes tableaux Excel à trois ou quatre réunions successives.",
+      "Mais il y a aussi les comportements de certains partis, et je ne vise personne à part le MR, qui refusent de considérer l'intérêt général au-delà de leurs intérêts particuliers. Il n'y a peut-être pas que vous, le MR, en fait, mais il s'agit tout de même surtout de vous, parce que vous le faites extrêmement bruyamment. Et je crois que votre problème, et celui de votre président – c'est dommage qu'il soit parti –, c'est de considérer que la politique, c'est faire tout le temps la guerre. Et c'est ça qui permet de gagner les élections, de faire tout le temps la guerre, même à ses partenaires de majorité. C'est un peu comme la Russie de Poutine; si elle s'arrête de faire la guerre, c'est comme si elle disparaissait.",
+      "Bref, il faut continuer à faire la guerre, quels que soient les résultats. Mais à quoi bon obtenir le pouvoir, si c'est pour ne rien en faire après? Aucune grande page de notre histoire n'a été écrite par des blocages et des egos. Ceux qui écrivent l'histoire de notre pays, ce ne sont pas ceux qui quittent les réunions, c'est encore moins ceux qui font tomber les gouvernements, ce sont ceux qui parviennent à nouer des accords.",
+      "Au total, ici, le tableau est affligeant. Nous avons une population inquiète; nous avons une jeunesse particulièrement angoissée parce qu'elle doit vivre avec le changement climatique, l'intelligence artificielle et les problèmes que tous les partis traditionnels ont échoué à résoudre, le mien y compris, depuis 40 ans, à savoir la dette, le déficit, la gestion des pensions et des soins de santé. Nous avons une guerre en Europe, nous avons des prix de l'énergie qui explosent et vous êtes là à vous disputer sur les réseaux sociaux ou à lâcher des punchlines devant le 16 rue de la Loi comme si l'enjeu était de gagner un ou deux points au prochain sondage.",
+      "Vous êtes en train de nous envoyer dans le mur et je m'adresse aux cinq partis de cette coalition: vous êtes des irresponsables. C'est facile de blâmer celui qui a l'air de mettre le feu, sauf qu'il faut bien que quelqu'un lui ait fourni la boîte d'allumettes et donc vous êtes tous responsables de la situation. Il est temps que cette coalition ait un sursaut ou en tire des conclusions.",
+      "Mon conseil serait de se taire, de négocier discrètement, très discrètement et de gouverner enfin sérieusement ce pays. Et si vous n'y arrivez pas, au moins arrêtez de faire semblant, reconnaissez auprès de vos propres électeurs qu'en fait vous n'y arrivez pas, que vous n'êtes pas capables de remplir le mandat qui vous a été confié et tirez-en les conclusions. Mais cessez de nous prendre en otage, ce qui n'est pas le plus grave. Cessez de prendre en otage nos citoyens qui, chaque jour, je vous l'assure – ils nous le disent –, se sentent parfois trahis et méritent bien mieux que ce désert nommé Arizona.",
+      "Je vous remercie."
+     ],
+     "translation": {
+      "lang": "nl",
+      "paragraphs": [
+       "Mijnheer de voorzitter, beste collega’s, ik heb enige empathie voor de collega’s van de meerderheid. Misschien ben ik over het algemeen wel te empathisch om dit beroep lang te kunnen uitoefenen, maar ik leef echt mee met de collega’s van de meerderheid, want zij hebben het niet gemakkelijk. Toch moeten ze zich eens in onze situatie verplaatsen. Parlementslid zijn in de oppositie tegen de arizonacoalitie is niet elke dag gemakkelijk, want we staan voor een dilemma.",
+       "Moeten we de arizonacoalitie aanvallen vanwege haar harde en onrechtvaardige maatregelen? Of omdat ze bovendien waardeloos is en er niet eens in slaagt haar eigen doelstellingen te halen? Het is een heus dilemma, want zelfs vanuit uw eigen standpunt bekeken kan men er niet omheen dat het begrotingstekort uit de hand loopt, dat de staatsschuld ontspoort, en dat de maatregelen die u neemt, niet werken. U faalt dus op alle fronten: de groei blijft uit, de bestaansonzekerheid neemt toe en het aantal faillissementen stijgt. En nee, dat is niet alleen de schuld van vorige regeringen of van de internationale context, ook al spelen die zaken uiteraard een belangrijke rol.",
+       "We moeten het beestje echter bij de naam noemen: de 10 miljard euro waarnaar u vandaag op zoek bent, evenals het tekort dat maar blijft oplopen, zijn ook deels de schuld van de arizonacoalitie zelf. Door acht maanden van getalm hebt u een valse start genomen. U hebt ons ingebeelde terugverdieneffecten voorgespiegeld die u raamde op ongeveer 8 miljard euro. Het is steeds hetzelfde bedrag waarnaar u op zoek gaat. Dat is geen toeval. Vanaf het begin hebt u uw beleid op drijfzand gebouwd. Deze moeilijkheden zijn dus ook deels te wijten aan uw eigen mislukkingen. Het schouwspel van verdeeldheid dat u vandaag biedt, is nagenoeg vergelijkbaar met dat van vorig jaar.",
+       "Deze crisis – want we kunnen het er tenminste over eens zijn dat het wel degelijk over een crisis gaat – doet een aantal problemen rijzen. Ten eerste legt ze een probleem bloot met de werkwijze en het leiderschap van de eerste minister. Hoe is het mogelijk dat we precies dezelfde debatten als vorig jaar opnieuw meemaken? Hoe is het mogelijk dat men weer dezelfde btw-besprekingen voert? Er kunnen voor- en tegenstanders zijn. Zelf ben ik eerder tegen een btw-verhoging, om redenen die ik al heb toegelicht: het zal de inflatie doen stijgen, met alle gevolgen van dien voor de indexering, en het is een onrechtvaardige belasting.",
+       "We weten eigenlijk al een jaar dat die maatregel voor met name één partner in de meerderheid uit den boze is. Hoe is het dan mogelijk dat steeds weer dezelfde eisen op tafel komen, zonder dat men in al die tijd alternatieven heeft onderzocht? Het lijkt wel alsof de partners van deze meerderheid niet met elkaar hebben gepraat. Dit getuigt van een gebrek aan creativiteit. Soms probeer ik me voor te stellen wat Jean-Luc Dehaene in een dergelijke situatie zou hebben gedaan. Naar mijn mening zou hij niet tijdens drie of vier opeenvolgende vergaderingen steeds met dezelfde Exceltabellen zijn teruggekomen.",
+       "Dan is er ook nog het gedrag van bepaalde partijen – en ik doel hier op niemand anders dan de MR – die weigeren het algemeen belang boven hun eigen belangen te stellen. Misschien is de MR wel niet de enige, maar het is toch vooral de MR, omdat deze partij dat zo openlijk en luid en duidelijk doet. Het probleem van de MR en van de MR-voorzitter, die jammer genoeg vertrokken is, is dat u denkt dat politiek betekent dat u voortdurend oorlog moet voeren. Dat is wat ervoor zorgt dat u verkiezingen wint: voortdurend oorlog voeren, zelfs tegen uw eigen coalitiepartners. Het is een beetje zoals het Rusland van Poetin; als het stopt met oorlog voeren, is het alsof het verdwijnt.",
+       "Kortom, u moet doorgaan met oorlog voeren, ongeacht de resultaten. Wat heeft het echter voor zin om de macht te verwerven, als u er daarna niets mee doet? Geen enkel belangrijk hoofdstuk in onze geschiedenis werd geschreven dankzij impasses en ego’s. Degenen die de geschiedenis van ons land schrijven, zijn niet degenen die vergaderingen verlaten, en al helemaal niet degenen die regeringen ten val brengen, maar degenen die erin slagen overeenkomsten te sluiten.",
+       "Al met al is dit een triest tafereel. We hebben een bezorgde bevolking; we hebben een jeugd die bijzonder ongerust is omdat ze moet leven met de klimaatverandering, kunstmatige intelligentie en de problemen die alle traditionele partijen, inclusief de mijne, al veertig jaar lang niet hebben weten op te lossen, namelijk de staatsschuld, het begrotingstekort, het beheer van de pensioenen en de gezondheidszorg. Er is een oorlog gaande in Europa, de energieprijzen schieten omhoog en u ruziet op sociale media of debiteert oneliners voor de ingang van de Wetstraat 16, alsof alles draait om die één of twee punten winst in de volgende peiling.",
+       "U doet ons afstevenen op een ramp. Ik richt mij daarom tot de vijf partijen van deze coalitie: u bent onverantwoordelijk. Het is gemakkelijk om degene de schuld te geven die het vuur aan de lont lijkt te steken, maar iemand moet hem natuurlijk wel de lucifers hebben gegeven, en dus bent u allen verantwoordelijk voor deze situatie. Het wordt tijd dat deze coalitie wakker wordt of haar conclusies trekt.",
+       "Mijn advies zou zijn: doe er het zwijgen toe, onderhandel in alle stilte, heel discreet, en bestuur dit land eindelijk op een ernstige manier. Als u dat niet lukt, stop dan in ieder geval met doen alsof, geef tegenover uw eigen kiezers toe dat het u inderdaad niet lukt, dat u niet in staat bent de opdracht uit te voeren die u werd toevertrouwd, en trek daaruit uw conclusies. U moet er evenwel mee ophouden ons te gijzelen, wat nog niet eens het ergste is. U moet ermee ophouden onze burgers te gijzelen, die zich – dat verzeker ik u, want ze vertellen het ons zelf – soms verraden voelen en veel beter verdienen dan deze beleidswoestijn van de arizonacoalitie.",
+       "Ik dank u."
+      ]
+     }
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Dank u wel, mijnheer De Smet."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Collega's, ik dacht de vergadering te sluiten, maar ik krijg net een vraag van mevrouw Bertrand."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Le président : Merci beaucoup, monsieur De Smet."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Chers collègues, mon intention était de clore la séance, mais je viens de recevoir une demande de Mme Bertrand."
+    },
+    {
+     "type": "heading",
+     "level": 3,
+     "nl": "Schriftelijk voorstel tot vordering van een regeringslid",
+     "fr": "Proposition par écrit en vue de requérir la présence d'un membre du gouvernement"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Een voorstel werd ingediend door mevrouw Alexia Bertrand en luidt als volgt:"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "\"Overwegende de afwezigheid van de premier voor de State of the Union, vraagt de Anders.-fractie om vicepremier Jan Jambon op te vorderen.\""
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Une proposition a été déposée par Mme Alexia Bertrand et est libellée comme suit:"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "\"Vu l'absence du premier ministre pour la déclaration du gouvernement, le groupe Anders. requiert la présence du vice-premier ministre Jan Jambon.\""
+    },
+    {
+     "type": "speech",
+     "id": "06.10",
+     "name": "Alexia Bertrand",
+     "party": "Anders.",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de voorzitter, ik vraag een naamstemming over mijn voorstel."
+     ],
+     "translation": {
+      "lang": "fr",
+      "paragraphs": [
+       "Monsieur le président, je demande un vote nominatif sur ma motion."
+      ]
+     }
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Dan organiseren wij een naamstemming. Ik hoop dat het quorum wordt bereikt, anders moet de vicepremier sowieso niet komen."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Le président : Nous allons donc organiser un vote nominatif. J'espère que le quorum sera atteint, à défaut de quoi le vice-premier ministre ne devra pas être présent."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Begin van de stemming / Début du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Heeft iedereen gestemd en zijn stem nagekeken? / Tout le monde a-t-il voté et vérifié son vote?"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Einde van de stemming / Fin du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Uitslag van de stemming / Résultat du vote."
+    },
+    {
+     "type": "vote",
+     "number": 1,
+     "subject": null,
+     "yes": 43,
+     "no": 68,
+     "abstain": 14,
+     "total": 125,
+     "result": {
+      "nl": null,
+      "fr": null
+     }
+    }
+   ]
+  }
+ ],
+ "named_votes": {
+  "1": {
+   "yes": [
+    "Aerts Staf",
+    "Almaci Meyrem",
+    "Bertrand Alexia",
+    "Boukili Nabil",
+    "Bury Katleen",
+    "Coenegrachts Steven",
+    "D'Amico Roberto",
+    "Depoortere Ortwin",
+    "De Smet François",
+    "Dillen Marijke",
+    "Di Nunzio Sandro",
+    "Eggermont Natalie",
+    "Gabriëls Katja",
+    "Hedebouw Raoul",
+    "Hugon Lecharlier Claire",
+    "Huybrechts Britt",
+    "Jacquet Farah",
+    "Keuten Dieter",
+    "Maouane Rajae",
+    "Merckx Sofie",
+    "Moons Kurt",
+    "Orlians Arthur",
+    "Pas Barbara",
+    "Ponthier Annick",
+    "Ravyts Kurt",
+    "Ribaudo Julien",
+    "Samyn Ellen",
+    "Schlitz Sarah",
+    "Sneppe Dominiek",
+    "Somers Werner",
+    "Tonniau Robin",
+    "Troosters Frank",
+    "Van Belleghem Francesca",
+    "Vanbesien Dieter",
+    "Vandemaele Matti",
+    "Vander Elst Kjell",
+    "Van Hecke Stefaan",
+    "Van Hoecke Alexander",
+    "Van Lysebettens Jeroen",
+    "Van Rooy Sam",
+    "Verbelen Kristien",
+    "Vermeersch Wouter",
+    "Yigit Ayse"
+   ],
+   "no": [
+    "Bacquelaine Daniel",
+    "Bergers Jeroen",
+    "Bertels Jan",
+    "Bombled Christophe",
+    "Buysrogge Peter",
+    "Cuylaerts Dorien",
+    "Delcourt Catherine",
+    "De Maegd Michel",
+    "Demesmaeker Eva",
+    "Demon Franky",
+    "Depoorter Kathleen",
+    "De Roover Peter",
+    "De Vreese Maaike",
+    "De Wit Sophie",
+    "D'Haese Christoph",
+    "Dubois Xavier",
+    "Dufrane Anthony",
+    "El Yakhloufi Achraf",
+    "Farih Nawal",
+    "Foret Gilles",
+    "Frank Luc",
+    "Gatelier Jean-François",
+    "Gielis Tine",
+    "Gijbels Frieda",
+    "Goffin Philippe",
+    "Grillaert Leentje",
+    "Handichi Youssef",
+    "Hansez Isabelle",
+    "Hiligsmann Serge",
+    "Jadoul Pierre",
+    "Kompany Pierre",
+    "Lamarti Fatima",
+    "Lambrecht Annick",
+    "Lasseaux Stéphane",
+    "Lejeune Marc",
+    "Mahdi Sammy",
+    "Matagne Julien",
+    "Matheï Steven",
+    "Metsu Koen",
+    "Meuleman Brent",
+    "Michel Mathieu",
+    "Muylle Nathalie",
+    "Nuino Ismaël",
+    "Oru Funda",
+    "Peeters Lotte",
+    "Piedboeuf Benoît",
+    "Pirson Anne",
+    "Ramlot Carmen",
+    "Raskin Wouter",
+    "Reuter Florence",
+    "Ronse Axel",
+    "Safai Darya",
+    "Salenbien Jessy",
+    "Tas Niels",
+    "Taton Julie",
+    "Tourneur Aurore",
+    "Truyman Lieve",
+    "Vandeberg Victoria",
+    "Van den Heuvel Koen",
+    "Vandeput Steven",
+    "Van der Donckt Wim",
+    "Van Hoof Els",
+    "Van Keymolen Phaedra",
+    "van Riet Katrijn",
+    "Vanrobaeys Anja",
+    "Van Vaerenbergh Kristien",
+    "Weydts Axel",
+    "Wollants Bert"
+   ],
+   "abstain": [
+    "Aouasti Khalil",
+    "Chahid Ridouane",
+    "Courard Philippe",
+    "Daerden Frédéric",
+    "Dermagne Pierre-Yves",
+    "Désir Caroline",
+    "Lacroix Christophe",
+    "Legasse Dimitri",
+    "Magnette Paul",
+    "Meunier Marie",
+    "Mutyebele Ngoi Lydia",
+    "Prévot Patrick",
+    "Thémont Sophie",
+    "Thiébaut Éric"
+   ]
+  }
+ }
+}

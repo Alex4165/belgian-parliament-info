@@ -1,0 +1,1154 @@
+{
+ "source": {
+  "type": "plenary",
+  "legislature": 56,
+  "session": 79,
+  "url": "https://www.dekamer.be/doc/PCRI/html/56/ip079x.html",
+  "date": "2025-11-28",
+  "part": "afternoon",
+  "provisional": false
+ },
+ "items": [
+  {
+   "number": "01",
+   "section": {
+    "nl": "Naamstemmingen",
+    "fr": "Votes nominatifs"
+   },
+   "title": {
+    "nl": "Motie van vertrouwen ingediend door de eerste minister na de verklaring van de regering",
+    "fr": "Motion de confiance déposée par le premier ministre à l’issue de la déclaration du gouvernement"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Aan de orde is de stemming over de motie van vertrouwen ingediend door de eerste minister na de verklaring van de regering."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "L'ordre du jour appelle le vote sur la motion de confiance déposée par le premier ministre à l’issue de la déclaration du gouvernement."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Ik breng deze motie in stemming."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Je mets cette motion aux voix."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Vraagt iemand het woord voor een stemverklaring? (Nee)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Quelqu'un demande-t-il la parole pour une déclaration avant le vote? (Non)"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Begin van de stemming / Début du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Heeft iedereen gestemd en zijn stem nagekeken? / Tout le monde a-t-il voté et vérifié son vote?"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Einde van de stemming / Fin du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Uitslag van de stemming / Résultat du vote."
+    },
+    {
+     "type": "vote",
+     "number": 1,
+     "subject": null,
+     "yes": 77,
+     "no": 58,
+     "abstain": 0,
+     "total": 135,
+     "result": {
+      "nl": "De motie van vertrouwen is aangenomen.",
+      "fr": "La motion de confiance est adoptée."
+     }
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Mijnheer de eerste minister, ik wens u en de regering veel geluk."
+    },
+    {
+     "type": "note",
+     "lang": "nl",
+     "text": "(Langdurig applaus op de banken van de meerderheid)"
+    },
+    {
+     "type": "note",
+     "lang": "fr",
+     "text": "(Applaudissements nourris sur les bancs de la majorité)"
+    }
+   ]
+  },
+  {
+   "number": "02",
+   "section": {
+    "nl": "Naamstemmingen",
+    "fr": "Votes nominatifs"
+   },
+   "title": {
+    "nl": "Urgentieverzoek van de regering",
+    "fr": "Demande d'urgence émanant du gouvernement"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De regering heeft de urgentieverklaring gevraagd met toepassing van artikel 51 van het Reglement, bij de indiening van het wetsontwerp tot uitvoering van een versterkt terug naar werk-beleid in geval van arbeids­ongeschiktheid, nr. 1177/1."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Le gouvernement a demandé l'urgence conformément à l'article 51 du Règlement lors du dépôt du projet de loi exécutant une politique renforcée de retour au travail en cas d’incapacité de travail, n° 1177/1."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Ik geef het woord aan de regering om de vraag tot urgentieverklaring toe te lichten."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Je passe la parole au gouvernement pour développer la demande d'urgence."
+    },
+    {
+     "type": "speech",
+     "id": "02.01",
+     "name": "Frank Vandenbroucke",
+     "party": null,
+     "role": "government",
+     "lang": "nl",
+     "paragraphs": [
+      "Ik vraag in naam van de regering de urgentie voor het wetsontwerp nr. 1177/1. Dat wetsontwerp geeft uitvoering aan een derde golf van maatregelen die in het regeerakkoord staat. Het is belangrijk dat dit als één pakket in werking kan treden. Gezien de budgettaire impact is het nog belangrijker dat die op 1 januari in werking kan treden. We vragen daarvoor dus de urgentie. Dank u wel."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Ik stel u voor om ons over deze vraag uit te spreken."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Je vous propose de nous prononcer sur cette demande."
+    },
+    {
+     "type": "note",
+     "lang": "nl",
+     "text": "De urgentie wordt aangenomen bij zitten en opstaan."
+    },
+    {
+     "type": "note",
+     "lang": "fr",
+     "text": "L'urgence est adoptée par assis et levé."
+    }
+   ]
+  },
+  {
+   "number": "03",
+   "section": {
+    "nl": "Naamstemmingen",
+    "fr": "Votes nominatifs"
+   },
+   "title": {
+    "nl": "Inoverwegingnemingen",
+    "fr": "Prises en considération"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "In de laatst rondgedeelde agenda komt een lijst van voorstellen voor waarvan de inoverweging­neming is gevraagd."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Vous avez pris connaissance dans l'ordre du jour qui vous a été distribué de la liste des propositions dont la prise en considération est demandée."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Indien er geen bezwaar is, beschouw ik de inoverwegingneming van deze voorstellen als aangenomen. Overeenkomstig het Reglement worden die voorstellen naar de bevoegde commissies verzonden."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "S'il n'y a pas d'observations à ce sujet, je considère la prise en considération de ces propositions comme acquise. Je renvoie les propositions aux commissions compétentes conformément au Règlement."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Geen bezwaar? (Nee)"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Aldus zal geschieden."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Pas d'observation? (Non)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Il en sera ainsi."
+    },
+    {
+     "type": "heading",
+     "level": 4,
+     "nl": "Urgentieverzoeken",
+     "fr": "Demandes d'urgence"
+    },
+    {
+     "type": "speech",
+     "id": "03.01",
+     "name": "Werner Somers",
+     "party": "VB",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de voorzitter, ik vraag de urgentie voor het wetsvoorstel tot invoering van een Staatsburgerschapswetboek, nr. 1183/1.",
+      "Vijfentwintig jaar geleden zei de minister van Justitie, die behoorde tot de toenmalige VLD, de heer Marc Verwilghen, dat er met de nationaliteit werd gesmeten. Daarna werd er echter nog meer met de Belgische nationaliteit gesmeten. Onder de paars-groene regering-Verhofstadt I kwam de snel-Belgwet tot stand, waardoor er werkelijk met de Belgische nationaliteit gesmeten werd. In 2000 waren er ongeveer 60.000 nieuwe Belgen te noteren. Een jaar later, in 2001, werd het absolute record van 62.994 nieuwe Belgen genoteerd.",
+      "Tijdens de eerste acht maanden van dit jaar hebben al 43.170 mensen de Belgische nationaliteit verkregen. Wanneer dat aantal geëxtrapoleerd wordt naar het volledige jaar 2025, zullen zo'n 64.752 vreemdelingen de Belgische nationaliteit hebben verkregen. Dat is dus een absoluut record. Dat is meer dan ten tijde van de snel-Belgwet, vandaar ons verzoek om met urgentie ons voorstel tot invoering van het Wetboek staatsburgerschap in overweging te nemen.",
+      "Dat wetboek zal veel strengere voorwaarden verbinden aan de verwerving van de Belgische nationaliteit. We willen het ius sanguinis in ere herstellen, waardoor de loutere geboorte in België geen recht meer zal geven op de nationaliteit, ook niet voor de tweede en de derde generatie. We wensen een minimale wettelijke verblijfsduur van 10 jaar in te voeren. We vinden ook dat de verwerving van de Belgische nationaliteit de bekroning moet zijn van een geslaagd integratieproces. Het is niet omgekeerd, anders wordt de kar voor het paard gespannen. Nieuwe Belgen zullen ook moeten slagen voor een burgerschapsproef. Voortaan zal het bijvoorbeeld niet meer mogelijk zijn dat iemand die in Vlaanderen woont, Belg wordt door enkel Frans of Duits te kennen. Hij zal ook kennis van het Nederlands moeten hebben."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Ik stel u voor om ons over deze vraag uit te spreken."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Je vous propose de nous prononcer sur cette demande."
+    },
+    {
+     "type": "note",
+     "lang": "nl",
+     "text": "De urgentie wordt verworpen bij zitten en opstaan."
+    },
+    {
+     "type": "note",
+     "lang": "fr",
+     "text": "L'urgence est rejetée par assis et levé."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Collega's, er is ook een urgentieverzoek voor het wetsvoorstel van de heren Vereeck en Vermeersch en mevrouw Pas tot wijziging van het Wetboek van de inkomstenbelastingen 1992 wat de vrijstelling van de bezoldigingen uit flexi-jobarbeids­overeenkomsten betreft, nr. 1190/1."
+    },
+    {
+     "type": "speech",
+     "id": "03.02",
+     "name": "Lode Vereeck",
+     "party": "VB",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de voorzitter, doordat de bespreking van de wet houdende diverse bepalingen nogal lang heeft aangesleept, dachten we alvast dit onderdeel uit die wet te halen, zodat we het kunnen steunen. Dat doen we weliswaar met lange tanden, want puur fiscaal beschouwd zijn de flexi-jobs een koterij, maar we steunen elke verlaging van de lasten op arbeid. Omdat het risico bestond dat de wet houdende diverse bepalingen over het jaareinde wordt getild, hebben we dit onderdeel apart ingediend en vragen we om dat zeer urgent te bespreken. Zo kunnen we ook niet het verwijt krijgen dat we de goede elementen uit de wet houdende diverse bepalingen tegenhouden."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Ik stel u voor om ons over deze vraag uit te spreken."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Je vous propose de nous prononcer sur cette demande."
+    },
+    {
+     "type": "note",
+     "lang": "nl",
+     "text": "De urgentie wordt verworpen bij zitten en opstaan."
+    },
+    {
+     "type": "note",
+     "lang": "fr",
+     "text": "L'urgence est rejetée par assis et levé."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Vervolgens is er een urgentieverzoek voor het wetsvoorstel van de heer Bertels, de dames Depoorter, Gijbels en Taton, de heer Gatelier en mevrouw Farih houdende diverse dringende begrotings­bepalingen inzake gezondheidszorg, nr. 1195/1."
+    },
+    {
+     "type": "speech",
+     "id": "03.03",
+     "name": "Jan Bertels",
+     "party": "Vooruit",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Mijnheer de voorzitter, het gaat over een wetsvoorstel dat uitvoering geeft aan de beslissing van de Algemene Raad van het RIZIV met betrekking tot de gezondheidszorg­begroting, zijnde de gekende begroting van het RIZIV. Er moeten een aantal maatregelen worden getroffen om die gezondheidszorgbegroting te kunnen uitvoeren. Ze zijn strikt beperkt tot de maatregelen die begrotingsgewijs voor 31 december 2025 moeten worden goedgekeurd. We hebben ze nodig om de gezondheidszorg­begroting te kunnen uitvoeren en de financiering voor het RIZIV in te schrijven."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Ik stel u voor om ons over deze vraag uit te spreken."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Je vous propose de nous prononcer sur cette demande."
+    },
+    {
+     "type": "note",
+     "lang": "nl",
+     "text": "De urgentie wordt aangenomen bij zitten en opstaan."
+    },
+    {
+     "type": "note",
+     "lang": "fr",
+     "text": "L'urgence est adoptée par assis et levé."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "M. Matagne demande l’urgence pour la proposition de loi portant prolongation du mécanisme de réduction de la redevance d'utilisation de l'infrastructure ferroviaire en faveur du fret ferroviaire, établi par le titre 6 de la loi-programme du 27 décembre 2021, n° 1197/1."
+    },
+    {
+     "type": "speech",
+     "id": "03.04",
+     "name": "Julien Matagne",
+     "party": "Les Engagés",
+     "role": null,
+     "lang": "fr",
+     "paragraphs": [
+      "Monsieur le président, je sollicite effectivement l’urgence pour cette proposition qui vise, comme vous venez de le dire, à prolonger la réduction de la redevance d’utilisation de l’infrastructure ferroviaire en faveur du fret. Ce mécanisme a été mis en place en 2022. Nous vous proposons de le renouveler, de le pérenniser jusqu’au 31 décembre 2029. Cette prolongation soutient directement l’objectif du report modal et la mise en œuvre du plan marchandises.",
+      "L’urgence est justifiée par la nécessité de voter la prolongation avant le 31 décembre de cette année, pour qu’elle soit notifiée dans les temps à la Commission européenne. Je vous serais donc, chers collègues, très reconnaissant de bien vouloir soutenir cette demande."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Ik stel u voor om ons over deze vraag uit te spreken."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Je vous propose de nous prononcer sur cette demande."
+    },
+    {
+     "type": "note",
+     "lang": "nl",
+     "text": "De urgentie wordt aangenomen bij zitten en opstaan."
+    },
+    {
+     "type": "note",
+     "lang": "fr",
+     "text": "L'urgence est adoptée par assis et levé."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Ten slotte is er is nog een urgentieverzoek voor het wetsvoorstel nr. 1198/1 van de dames Demesmaeker, Reuter, Hansez, Vanrobaeys en Lanjri tot wijziging van de programmawet van 18 juli 2025 betreffende de toepassings­modaliteiten van de tijdelijke beperking van de indexering van de wettelijke pensioenen."
+    },
+    {
+     "type": "speech",
+     "id": "03.05",
+     "name": "Eva Demesmaeker",
+     "party": "N-VA",
+     "role": null,
+     "lang": "nl",
+     "paragraphs": [
+      "Collega's, het gaat hier over de orde van de voorrang die werd toegepast en waarbij we praktische problemen vaststellen. We willen het systeem vervangen door een systeem waarbij de beperkte indexering proportioneel wordt toegepast op de pensioenen.",
+      "Volgens het oorspronkelijke inflatievooruitzicht zou overschrijding van de spilindex plaatsvinden in januari 2026, wat gevolgen zou hebben voor de uitbetaling van de pensioenen in april. Het is dus cruciaal dat we de nodige ICT-ontwikkelingen tijdig kunnen toepassen, zodat de FPD kan werken met betrouwbare rekenprogramma's die het toelaten om de robuustheid van die cijferberekeningen te testen. Die robuustheidstesten moeten minstens een maand voor de uitbetaling plaatsvindt uitgevoerd zijn en een maand voor de uitbetaling plaatsvindt aantonen dat die resultaten wel degelijk betrouwbaar zijn. Het gaat hier dus over de rekenprogramma's die het pensioen van 2,7 miljoen gepensioneerden berekenen. Vandaar dat we hiervoor de urgentie vragen."
+     ]
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De voorzitter : Ik stel u voor om ons over deze vraag uit te spreken."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Je vous propose de nous prononcer sur cette demande."
+    },
+    {
+     "type": "note",
+     "lang": "nl",
+     "text": "De urgentie wordt aangenomen bij zitten en opstaan."
+    },
+    {
+     "type": "note",
+     "lang": "fr",
+     "text": "L'urgence est adoptée par assis et levé."
+    }
+   ]
+  },
+  {
+   "number": "04",
+   "section": {
+    "nl": "Naamstemmingen (voortzetting)",
+    "fr": "Votes nominatifs (continuation)"
+   },
+   "title": {
+    "nl": "Moties ingediend tot besluit van de interpellatie van mevrouw Britt Huybrechts over \"de plannen van de voorzitter van de Europese Raad om de toetredingsregels tot de EU te herschrijven\" (nr. 139)",
+    "fr": "Motions déposées en conclusion de l'interpellation de Mme Britt Huybrechts sur \"les projets du président du Conseil européen visant à remanier les règles d'adhésion à l'UE\" (n° 139)"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Deze interpellatie werd gehouden in de openbare vergadering van de commissie voor Buitenlandse Betrekkingen van 18 november 2025."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Cette interpellation a été développée en réunion publique de la commission des Relations extérieures du 18 novembre 2025."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Twee moties werden ingediend (MOT nr.139/1):"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "- een motie van aanbeveling werd ingediend door mevrouw Britt Huybrechts;"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "- een eenvoudige motie werd ingediend door de heer Pierre Kompany."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Deux motions ont été déposées (MOT n ° 139/1):"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "- une motion de recommandation a été déposée par Mme Britt Huybrechts;"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "- une motion pure et simple a été déposée par M. Pierre Kompany."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Daar de eenvoudige motie van rechtswege voorrang heeft, breng ik deze motie in stemming."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "La motion pure et simple ayant la priorité de droit, je mets cette motion aux voix."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Vraagt iemand het woord voor een stemverklaring? (Nee)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Quelqu'un demande-t-il la parole pour une déclaration avant le vote? (Non)"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Begin van de stemming / Début du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Heeft iedereen gestemd en zijn stem nagekeken? / Tout le monde a-t-il voté et vérifié son vote?"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Einde van de stemming / Fin du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Uitslag van de stemming / Résultat du vote."
+    },
+    {
+     "type": "vote",
+     "number": 2,
+     "subject": null,
+     "yes": 89,
+     "no": 48,
+     "abstain": 0,
+     "total": 137,
+     "result": {
+      "nl": "De eenvoudige motie is aangenomen. Bijgevolg vervalt de motie van aanbeveling.",
+      "fr": "La motion pure et simple est adoptée. Par conséquent, la motion de recommandation est caduque."
+     }
+    }
+   ]
+  },
+  {
+   "number": "05",
+   "section": {
+    "nl": "Naamstemmingen (voortzetting)",
+    "fr": "Votes nominatifs (continuation)"
+   },
+   "title": {
+    "nl": "Moties ingediend tot besluit van de interpellatie van mevrouw Britt Huybrechts over \"de internationale dimensie van het terreuronderzoek in Antwerpen\" (nr. 152)",
+    "fr": "Motions déposées en conclusion de l'interpellation de Mme Britt Huybrechts sur \"la dimension internationale de l'enquête sur le projet d'attentat terroriste à Anvers\" (n° 152)"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Deze interpellatie werd gehouden in de openbare vergadering van de commissie voor Buitenlandse Betrekkingen van 18 november 2025."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Cette interpellation a été développée en réunion publique de la commission des Relations extérieures du 18 novembre 2025."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Twee moties werden ingediend (MOT nr.152/1):"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "- een motie van aanbeveling werd ingediend door mevrouw Britt Huybrechts;"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "- een eenvoudige motie werd ingediend door de heer Pierre Kompany."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Deux motions ont été déposées (MOT n ° 152/1):"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "- une motion de recommandation a été déposée par Mme Britt Huybrechts;"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "- une motion pure et simple a été déposée par M. Pierre Kompany."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Daar de eenvoudige motie van rechtswege voorrang heeft, breng ik deze motie in stemming."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "La motion pure et simple ayant la priorité de droit, je mets cette motion aux voix."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Vraagt iemand het woord voor een stemverklaring? (Nee)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Quelqu'un demande-t-il la parole pour une déclaration avant le vote? (Non)"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Begin van de stemming / Début du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Heeft iedereen gestemd en zijn stem nagekeken? / Tout le monde a-t-il voté et vérifié son vote?"
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Einde van de stemming / Fin du vote."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "Uitslag van de stemming / Résultat du vote."
+    },
+    {
+     "type": "vote",
+     "number": 3,
+     "subject": null,
+     "yes": 99,
+     "no": 38,
+     "abstain": 0,
+     "total": 137,
+     "result": {
+      "nl": "De eenvoudige motie is aangenomen. Bijgevolg vervalt de motie van aanbeveling.",
+      "fr": "La motion pure et simple est adoptée. Par conséquent, la motion de recommandation est caduque."
+     }
+    }
+   ]
+  },
+  {
+   "number": "06",
+   "section": {
+    "nl": "Naamstemmingen (voortzetting)",
+    "fr": "Votes nominatifs (continuation)"
+   },
+   "title": {
+    "nl": "Goedkeuring van de agenda",
+    "fr": "Adoption de l’ordre du jour"
+   },
+   "subtitles": {
+    "nl": [],
+    "fr": []
+   },
+   "docs": [],
+   "events": [
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "We moeten overgaan tot de goedkeuring van de agenda voor de vergadering van volgende week."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Nous devons procéder à l'approbation de l'ordre du jour de la séance de la semaine prochaine."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Zijn er dienaangaande opmerkingen? (Nee)"
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "Bijgevolg is de agenda aangenomen."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "Y a-t-il une observation à ce sujet ? (Non)"
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "En conséquence, l'ordre du jour est adopté."
+    },
+    {
+     "type": "procedure",
+     "lang": "nl",
+     "text": "De vergadering wordt gesloten. Volgende vergadering donderdag 4 december 2025 om 14.15 uur."
+    },
+    {
+     "type": "procedure",
+     "lang": "fr",
+     "text": "La séance est levée. Prochaine séance le jeudi 4 décembre 2025 à 14 h 15."
+    },
+    {
+     "type": "note",
+     "lang": "nl",
+     "text": "De vergadering wordt gesloten om 14.02 uur."
+    },
+    {
+     "type": "note",
+     "lang": "fr",
+     "text": "La séance est levée à 14 h 02."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "De bijlage is opgenomen in een aparte brochure met nummer CRIV 56 PLEN 079 bijlage."
+    },
+    {
+     "type": "procedure",
+     "lang": null,
+     "text": "L'annexe est reprise dans une brochure séparée, portant le numéro CRIV 56 PLEN 079 annexe."
+    }
+   ]
+  }
+ ],
+ "named_votes": {
+  "1": {
+   "yes": [
+    "Bacquelaine Daniel",
+    "Bergers Jeroen",
+    "Bertels Jan",
+    "Bombled Christophe",
+    "Buysrogge Peter",
+    "Cornillie Hervé",
+    "Cuylaerts Dorien",
+    "Daenen Nele",
+    "Deborsu Charlotte",
+    "Delcourt Catherine",
+    "De Maegd Michel",
+    "Demesmaeker Eva",
+    "Demon Franky",
+    "Depoorter Kathleen",
+    "De Roover Peter",
+    "De Vreese Maaike",
+    "De Wit Sophie",
+    "D'Haese Christoph",
+    "Dubois Xavier",
+    "Ducarme Denis",
+    "Dufrane Anthony",
+    "El Yakhloufi Achraf",
+    "Farih Nawal",
+    "Foret Gilles",
+    "Frank Luc",
+    "Freilich Michael",
+    "Gatelier Jean-François",
+    "Gielis Tine",
+    "Gijbels Frieda",
+    "Goffin Philippe",
+    "Handichi Youssef",
+    "Hansez Isabelle",
+    "Hiligsmann Serge",
+    "Jadoul Pierre",
+    "Kompany Pierre",
+    "Lamarti Fatima",
+    "Lambrecht Annick",
+    "Lanjri Nahima",
+    "Lasseaux Stéphane",
+    "Lejeune Marc",
+    "Lutgen Benoît",
+    "Mahdi Sammy",
+    "Matagne Julien",
+    "Matheï Steven",
+    "Metsu Koen",
+    "Meuleman Brent",
+    "Michel Mathieu",
+    "Muylle Nathalie",
+    "Nuino Ismaël",
+    "Oru Funda",
+    "Peeters Lotte",
+    "Piedboeuf Benoît",
+    "Pirson Anne",
+    "Ramlot Carmen",
+    "Raskin Wouter",
+    "Reuter Florence",
+    "Ronse Axel",
+    "Safai Darya",
+    "Scourneau Vincent",
+    "Seuntjens Oskar",
+    "Soete Jeroen",
+    "Tas Niels",
+    "Taton Julie",
+    "Tourneur Aurore",
+    "Truyman Lieve",
+    "Vandeberg Victoria",
+    "Van den Heuvel Koen",
+    "Vandeput Steven",
+    "Van Hoof Els",
+    "Van Keymolen Phaedra",
+    "van Riet Katrijn",
+    "Vanrobaeys Anja",
+    "Van Vaerenbergh Kristien",
+    "Verkeyn Charlotte",
+    "Weydts Axel",
+    "Wollants Bert",
+    "Yzermans Alain"
+   ],
+   "no": [
+    "Almaci Meyrem",
+    "Aouasti Khalil",
+    "Bayet Hugues",
+    "Bertrand Alexia",
+    "Bilmez Kemal",
+    "Boukili Nabil",
+    "Bury Katleen",
+    "Chahid Ridouane",
+    "Coenegrachts Steven",
+    "Courard Philippe",
+    "Daems Greet",
+    "Daerden Frédéric",
+    "Dedonder Ludivine",
+    "De Knop Irina",
+    "Depoortere Ortwin",
+    "Dermagne Pierre-Yves",
+    "Désir Caroline",
+    "De Smet François",
+    "Dillen Marijke",
+    "Di Nunzio Sandro",
+    "Eggermont Natalie",
+    "Gabriëls Katja",
+    "Hedebouw Raoul",
+    "Huybrechts Britt",
+    "Jacquet Farah",
+    "Keuten Dieter",
+    "Magnette Paul",
+    "Maouane Rajae",
+    "Merckx Sofie",
+    "Meunier Marie",
+    "Moons Kurt",
+    "Pas Barbara",
+    "Ponthier Annick",
+    "Prévot Patrick",
+    "Ribaudo Julien",
+    "Samyn Ellen",
+    "Schlitz Sarah",
+    "Sneppe Dominiek",
+    "Somers Werner",
+    "Thémont Sophie",
+    "Thiébaut Éric",
+    "Tonniau Robin",
+    "Troosters Frank",
+    "Van Belleghem Francesca",
+    "Vanbesien Dieter",
+    "Vandemaele Matti",
+    "Vander Elst Kjell",
+    "Van der Straeten Tinne",
+    "Van Hecke Stefaan",
+    "Van Lommel Reccino",
+    "Van Lysebettens Jeroen",
+    "Van Quickenborne Vincent",
+    "Van Rooy Sam",
+    "Van Tigchelt Paul",
+    "Verbelen Kristien",
+    "Vereeck Lode",
+    "Vermeersch Wouter",
+    "Yigit Ayse"
+   ],
+   "abstain": []
+  },
+  "2": {
+   "yes": [
+    "Almaci Meyrem",
+    "Bacquelaine Daniel",
+    "Bergers Jeroen",
+    "Bertels Jan",
+    "Bombled Christophe",
+    "Buysrogge Peter",
+    "Cornillie Hervé",
+    "Cuylaerts Dorien",
+    "Daenen Nele",
+    "Deborsu Charlotte",
+    "Dedonder Ludivine",
+    "Delcourt Catherine",
+    "De Maegd Michel",
+    "Demesmaeker Eva",
+    "Demon Franky",
+    "Depoorter Kathleen",
+    "De Roover Peter",
+    "De Smet François",
+    "De Vreese Maaike",
+    "De Wit Sophie",
+    "D'Haese Christoph",
+    "Dubois Xavier",
+    "Ducarme Denis",
+    "Dufrane Anthony",
+    "El Yakhloufi Achraf",
+    "Farih Nawal",
+    "Foret Gilles",
+    "Frank Luc",
+    "Freilich Michael",
+    "Gatelier Jean-François",
+    "Gielis Tine",
+    "Gijbels Frieda",
+    "Goffin Philippe",
+    "Handichi Youssef",
+    "Hansez Isabelle",
+    "Hiligsmann Serge",
+    "Jadoul Pierre",
+    "Kompany Pierre",
+    "Lamarti Fatima",
+    "Lambrecht Annick",
+    "Lanjri Nahima",
+    "Lasseaux Stéphane",
+    "Lejeune Marc",
+    "Lutgen Benoît",
+    "Mahdi Sammy",
+    "Maouane Rajae",
+    "Matagne Julien",
+    "Matheï Steven",
+    "Metsu Koen",
+    "Meuleman Brent",
+    "Michel Mathieu",
+    "Muylle Nathalie",
+    "Nuino Ismaël",
+    "Oru Funda",
+    "Peeters Lotte",
+    "Piedboeuf Benoît",
+    "Pirson Anne",
+    "Ramlot Carmen",
+    "Raskin Wouter",
+    "Reuter Florence",
+    "Ronse Axel",
+    "Safai Darya",
+    "Schlitz Sarah",
+    "Scourneau Vincent",
+    "Seuntjens Oskar",
+    "Soete Jeroen",
+    "Tas Niels",
+    "Taton Julie",
+    "Thiébaut Éric",
+    "Tourneur Aurore",
+    "Truyman Lieve",
+    "Vanbesien Dieter",
+    "Vandeberg Victoria",
+    "Vandemaele Matti",
+    "Van den Heuvel Koen",
+    "Vandeput Steven",
+    "Van der Donckt Wim",
+    "Van der Straeten Tinne",
+    "Van Hecke Stefaan",
+    "Van Hoof Els",
+    "Van Keymolen Phaedra",
+    "Van Lysebettens Jeroen",
+    "van Riet Katrijn",
+    "Vanrobaeys Anja",
+    "Van Vaerenbergh Kristien",
+    "Verkeyn Charlotte",
+    "Weydts Axel",
+    "Wollants Bert",
+    "Yzermans Alain"
+   ],
+   "no": [
+    "Aouasti Khalil",
+    "Bayet Hugues",
+    "Bertrand Alexia",
+    "Bilmez Kemal",
+    "Boukili Nabil",
+    "Bury Katleen",
+    "Chahid Ridouane",
+    "Coenegrachts Steven",
+    "Courard Philippe",
+    "Daems Greet",
+    "Daerden Frédéric",
+    "De Knop Irina",
+    "Depoortere Ortwin",
+    "Désir Caroline",
+    "Dillen Marijke",
+    "Di Nunzio Sandro",
+    "Eggermont Natalie",
+    "Gabriëls Katja",
+    "Hedebouw Raoul",
+    "Huybrechts Britt",
+    "Jacquet Farah",
+    "Keuten Dieter",
+    "Lacroix Christophe",
+    "Magnette Paul",
+    "Merckx Sofie",
+    "Meunier Marie",
+    "Moons Kurt",
+    "Pas Barbara",
+    "Ponthier Annick",
+    "Prévot Patrick",
+    "Ribaudo Julien",
+    "Samyn Ellen",
+    "Sneppe Dominiek",
+    "Somers Werner",
+    "Thémont Sophie",
+    "Tonniau Robin",
+    "Troosters Frank",
+    "Van Belleghem Francesca",
+    "Van den Bosch Annik",
+    "Vander Elst Kjell",
+    "Van Hoecke Alexander",
+    "Van Lommel Reccino",
+    "Van Quickenborne Vincent",
+    "Van Rooy Sam",
+    "Verbelen Kristien",
+    "Vereeck Lode",
+    "Vermeersch Wouter",
+    "Yigit Ayse"
+   ],
+   "abstain": []
+  },
+  "3": {
+   "yes": [
+    "Almaci Meyrem",
+    "Aouasti Khalil",
+    "Bacquelaine Daniel",
+    "Bayet Hugues",
+    "Bergers Jeroen",
+    "Bertels Jan",
+    "Bombled Christophe",
+    "Buysrogge Peter",
+    "Chahid Ridouane",
+    "Cornillie Hervé",
+    "Courard Philippe",
+    "Cuylaerts Dorien",
+    "Daenen Nele",
+    "Daerden Frédéric",
+    "Deborsu Charlotte",
+    "Dedonder Ludivine",
+    "Delcourt Catherine",
+    "De Maegd Michel",
+    "Demesmaeker Eva",
+    "Demon Franky",
+    "Depoorter Kathleen",
+    "De Roover Peter",
+    "Désir Caroline",
+    "De Smet François",
+    "De Vreese Maaike",
+    "De Wit Sophie",
+    "D'Haese Christoph",
+    "Dubois Xavier",
+    "Ducarme Denis",
+    "Dufrane Anthony",
+    "El Yakhloufi Achraf",
+    "Farih Nawal",
+    "Foret Gilles",
+    "Frank Luc",
+    "Freilich Michael",
+    "Gatelier Jean-François",
+    "Gielis Tine",
+    "Gijbels Frieda",
+    "Goffin Philippe",
+    "Handichi Youssef",
+    "Hansez Isabelle",
+    "Hiligsmann Serge",
+    "Jadoul Pierre",
+    "Kompany Pierre",
+    "Lacroix Christophe",
+    "Lamarti Fatima",
+    "Lambrecht Annick",
+    "Lanjri Nahima",
+    "Lasseaux Stéphane",
+    "Lejeune Marc",
+    "Lutgen Benoît",
+    "Magnette Paul",
+    "Mahdi Sammy",
+    "Maouane Rajae",
+    "Matagne Julien",
+    "Matheï Steven",
+    "Metsu Koen",
+    "Meuleman Brent",
+    "Meunier Marie",
+    "Michel Mathieu",
+    "Muylle Nathalie",
+    "Nuino Ismaël",
+    "Oru Funda",
+    "Peeters Lotte",
+    "Piedboeuf Benoît",
+    "Pirson Anne",
+    "Prévot Patrick",
+    "Ramlot Carmen",
+    "Raskin Wouter",
+    "Reuter Florence",
+    "Ronse Axel",
+    "Safai Darya",
+    "Schlitz Sarah",
+    "Scourneau Vincent",
+    "Seuntjens Oskar",
+    "Soete Jeroen",
+    "Tas Niels",
+    "Taton Julie",
+    "Thémont Sophie",
+    "Thiébaut Éric",
+    "Tourneur Aurore",
+    "Vanbesien Dieter",
+    "Vandeberg Victoria",
+    "Vandemaele Matti",
+    "Van den Heuvel Koen",
+    "Vandeput Steven",
+    "Van der Donckt Wim",
+    "Van der Straeten Tinne",
+    "Van Hecke Stefaan",
+    "Van Hoof Els",
+    "Van Keymolen Phaedra",
+    "Van Lysebettens Jeroen",
+    "van Riet Katrijn",
+    "Vanrobaeys Anja",
+    "Van Vaerenbergh Kristien",
+    "Verkeyn Charlotte",
+    "Weydts Axel",
+    "Wollants Bert",
+    "Yzermans Alain"
+   ],
+   "no": [
+    "Bertrand Alexia",
+    "Bilmez Kemal",
+    "Boukili Nabil",
+    "Bury Katleen",
+    "Coenegrachts Steven",
+    "Daems Greet",
+    "De Knop Irina",
+    "Depoortere Ortwin",
+    "Dillen Marijke",
+    "Di Nunzio Sandro",
+    "Eggermont Natalie",
+    "Gabriëls Katja",
+    "Hedebouw Raoul",
+    "Huybrechts Britt",
+    "Jacquet Farah",
+    "Keuten Dieter",
+    "Merckx Sofie",
+    "Moons Kurt",
+    "Pas Barbara",
+    "Ponthier Annick",
+    "Ribaudo Julien",
+    "Samyn Ellen",
+    "Sneppe Dominiek",
+    "Somers Werner",
+    "Tonniau Robin",
+    "Troosters Frank",
+    "Van Belleghem Francesca",
+    "Van den Bosch Annik",
+    "Vander Elst Kjell",
+    "Van Hoecke Alexander",
+    "Van Lommel Reccino",
+    "Van Quickenborne Vincent",
+    "Van Rooy Sam",
+    "Van Tigchelt Paul",
+    "Verbelen Kristien",
+    "Vereeck Lode",
+    "Vermeersch Wouter",
+    "Yigit Ayse"
+   ],
+   "abstain": []
+  }
+ }
+}

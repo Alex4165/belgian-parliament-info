@@ -1,0 +1,903 @@
+{
+ "doc": "1591",
+ "docs": [
+  "1591"
+ ],
+ "legislature": 56,
+ "title": {
+  "nl": "Wetsontwerp tot wijziging van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen wat de woonstbetreding betreft (1591/1-11)",
+  "fr": "Projet de loi modifiant la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers en ce qui concerne la visite domiciliaire (1591/1-11)",
+  "subtitles": {
+   "nl": [],
+   "fr": []
+  }
+ },
+ "sessions": [
+  {
+   "session": 147,
+   "date": "2026-11-05",
+   "part": "afternoon",
+   "url": "https://www.dekamer.be/doc/PCRI/html/56/ip147x.html"
+  },
+  {
+   "session": 148,
+   "date": "2026-11-05",
+   "part": "evening",
+   "url": "https://www.dekamer.be/doc/PCRI/html/56/ip148x.html"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Maaike De Vreese",
+   "party": "N-VA",
+   "role": null,
+   "refs": [
+    "147/12.01",
+    "147/12.03",
+    "147/12.05",
+    "147/12.10",
+    "147/12.12",
+    "147/12.14",
+    "147/12.16",
+    "147/12.17",
+    "147/12.20",
+    "148/01.02",
+    "148/01.04",
+    "148/01.36",
+    "148/01.48",
+    "148/01.50",
+    "148/01.52",
+    "148/01.100",
+    "148/01.102",
+    "148/01.104",
+    "148/01.117",
+    "148/01.128"
+   ]
+  },
+  {
+   "name": "Matti Vandemaele",
+   "party": "Ecolo-Groen",
+   "role": null,
+   "refs": [
+    "147/12.02",
+    "147/12.04",
+    "147/12.07",
+    "147/12.15",
+    "148/01.21",
+    "148/01.62",
+    "148/01.66",
+    "148/01.71",
+    "148/01.73",
+    "148/01.78",
+    "148/01.80",
+    "148/01.82",
+    "148/01.85",
+    "148/01.119",
+    "148/01.120",
+    "148/01.121",
+    "148/01.122",
+    "148/01.123",
+    "148/01.124",
+    "148/01.125",
+    "148/01.126",
+    "148/01.132"
+   ]
+  },
+  {
+   "name": "Achraf El Yakhloufi",
+   "party": "Vooruit",
+   "role": null,
+   "refs": [
+    "147/12.06",
+    "147/12.24",
+    "147/12.27",
+    "147/12.53",
+    "148/01.06",
+    "148/01.08",
+    "148/01.09",
+    "148/01.12",
+    "148/01.30",
+    "148/01.43",
+    "148/01.69",
+    "148/01.72",
+    "148/01.75",
+    "148/01.77",
+    "148/01.79",
+    "148/01.81",
+    "148/01.83"
+   ]
+  },
+  {
+   "name": "Greet Daems",
+   "party": "PVDA-PTB",
+   "role": null,
+   "refs": [
+    "147/12.08",
+    "147/12.13",
+    "148/01.01",
+    "148/01.03",
+    "148/01.05",
+    "148/01.11",
+    "148/01.13",
+    "148/01.15",
+    "148/01.19",
+    "148/01.22",
+    "148/01.24",
+    "148/01.27",
+    "148/01.29",
+    "148/01.31",
+    "148/01.33",
+    "148/01.34",
+    "148/01.35",
+    "148/01.37",
+    "148/01.39",
+    "148/01.40",
+    "148/01.42",
+    "148/01.44",
+    "148/01.47",
+    "148/01.49",
+    "148/01.51",
+    "148/01.53",
+    "148/01.54",
+    "148/01.70",
+    "148/01.74",
+    "148/01.76",
+    "148/01.130"
+   ]
+  },
+  {
+   "name": "Claire Hugon Lecharlier",
+   "party": "Ecolo-Groen",
+   "role": null,
+   "refs": [
+    "147/12.09",
+    "147/12.11",
+    "148/01.57",
+    "148/01.60",
+    "148/01.65",
+    "148/01.87",
+    "148/01.89",
+    "148/01.91",
+    "148/01.93",
+    "148/01.95",
+    "148/01.97",
+    "148/01.99",
+    "148/01.101",
+    "148/01.103",
+    "148/01.105",
+    "148/01.107",
+    "148/01.110",
+    "148/01.112",
+    "148/01.131"
+   ]
+  },
+  {
+   "name": "Francesca Van Belleghem",
+   "party": "VB",
+   "role": null,
+   "refs": [
+    "147/12.18",
+    "147/12.19",
+    "147/12.21",
+    "147/12.23",
+    "147/12.26",
+    "147/12.28",
+    "147/12.30"
+   ]
+  },
+  {
+   "name": "Denis Ducarme",
+   "party": "MR",
+   "role": null,
+   "refs": [
+    "147/12.22",
+    "147/12.25",
+    "147/12.31",
+    "147/12.33",
+    "147/12.35",
+    "147/12.45",
+    "147/12.47",
+    "147/12.51",
+    "147/12.55",
+    "147/12.57",
+    "148/01.17",
+    "148/01.18",
+    "148/01.32",
+    "148/01.41",
+    "148/01.45",
+    "148/01.46",
+    "148/01.84",
+    "148/01.88",
+    "148/01.90",
+    "148/01.92",
+    "148/01.94",
+    "148/01.96",
+    "148/01.98",
+    "148/01.109",
+    "148/01.111"
+   ]
+  },
+  {
+   "name": "Aurore Tourneur",
+   "party": "Les Engagés",
+   "role": null,
+   "refs": [
+    "147/12.29",
+    "148/01.55",
+    "148/01.58",
+    "148/01.64"
+   ]
+  },
+  {
+   "name": "Hugues Bayet",
+   "party": "PS",
+   "role": null,
+   "refs": [
+    "147/12.32",
+    "147/12.34"
+   ]
+  },
+  {
+   "name": "Khalil Aouasti",
+   "party": "PS",
+   "role": null,
+   "refs": [
+    "147/12.36",
+    "147/12.50",
+    "147/12.52",
+    "147/12.54",
+    "147/12.56",
+    "147/12.58",
+    "148/01.129"
+   ]
+  },
+  {
+   "name": "Sarah Schlitz",
+   "party": "Ecolo-Groen",
+   "role": null,
+   "refs": [
+    "147/12.37",
+    "147/12.39",
+    "147/12.41",
+    "147/12.44",
+    "147/12.46"
+   ]
+  },
+  {
+   "name": "Pierre Kompany",
+   "party": "Les Engagés",
+   "role": null,
+   "refs": [
+    "147/12.38",
+    "147/12.40",
+    "147/12.48",
+    "147/12.49"
+   ]
+  },
+  {
+   "name": "Patrick Prévot",
+   "party": "PS",
+   "role": null,
+   "refs": [
+    "147/12.42",
+    "147/12.43"
+   ]
+  },
+  {
+   "name": "Peter Mertens",
+   "party": "PVDA-PTB",
+   "role": null,
+   "refs": [
+    "148/01.07"
+   ]
+  },
+  {
+   "name": "Christoph D'Haese",
+   "party": "N-VA",
+   "role": null,
+   "refs": [
+    "148/01.10",
+    "148/01.14",
+    "148/01.16",
+    "148/01.20",
+    "148/01.38"
+   ]
+  },
+  {
+   "name": "Axel Ronse",
+   "party": "N-VA",
+   "role": null,
+   "refs": [
+    "148/01.23",
+    "148/01.25",
+    "148/01.26",
+    "148/01.28"
+   ]
+  },
+  {
+   "name": "Julien Ribaudo",
+   "party": "PVDA-PTB",
+   "role": null,
+   "refs": [
+    "148/01.56",
+    "148/01.59",
+    "148/01.68",
+    "148/01.116",
+    "148/01.118"
+   ]
+  },
+  {
+   "name": "Ridouane Chahid",
+   "party": "PS",
+   "role": null,
+   "refs": [
+    "148/01.61",
+    "148/01.67"
+   ]
+  },
+  {
+   "name": "Michel De Maegd",
+   "party": "Les Engagés",
+   "role": null,
+   "refs": [
+    "148/01.63"
+   ]
+  },
+  {
+   "name": "Franky Demon",
+   "party": "cd&v",
+   "role": null,
+   "refs": [
+    "148/01.86"
+   ]
+  },
+  {
+   "name": "François De Smet",
+   "party": "DéFI",
+   "role": null,
+   "refs": [
+    "148/01.106",
+    "148/01.108",
+    "148/01.114"
+   ]
+  },
+  {
+   "name": "Sandro Di Nunzio",
+   "party": "Anders.",
+   "role": null,
+   "refs": [
+    "148/01.113"
+   ]
+  },
+  {
+   "name": "Victoria Vandeberg",
+   "party": "MR",
+   "role": null,
+   "refs": [
+    "148/01.115"
+   ]
+  },
+  {
+   "name": "Anneleen Van Bossuyt",
+   "party": null,
+   "role": "government",
+   "refs": [
+    "148/01.127"
+   ]
+  }
+ ],
+ "votes": [
+  {
+   "ref": "148/vote 4",
+   "session": 148,
+   "date": "2026-11-05",
+   "subject": "Stemming over amendement nr. 26 van Francesca Van Belleghem cs op artikel 5. (1591/12)",
+   "item_title": "Aangehouden amendement en artikel van het wetsontwerp tot wijziging van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen wat de woonstbetreding betreft (1591/1-12)",
+   "result": {
+    "nl": "Bijgevolg is het amendement verworpen en is artikel 5 aangenomen.",
+    "fr": "En conséquence, l'amendement est rejeté et l'article 5 est adopté."
+   },
+   "yes": 12,
+   "no": 115,
+   "abstain": 0,
+   "total": 127,
+   "reused": false,
+   "docs": [
+    "1591"
+   ],
+   "by_party": {
+    "Anders.": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 6,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 9,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 13,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 17,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 23,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 12,
+     "abstain": 0
+    },
+    "PVDA-PTB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 12,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "voor",
+     "yes": 12,
+     "no": 0,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 11,
+     "abstain": 0
+    }
+   },
+   "kind": "amendment",
+   "final": false
+  },
+  {
+   "ref": "148/vote 5",
+   "session": 148,
+   "date": "2026-11-05",
+   "subject": null,
+   "item_title": "Geheel van het wetsontwerp tot wijziging van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen wat de woonstbetreding betreft (1591/11)",
+   "result": {
+    "nl": "Bijgevolg neemt de Kamer het wetsontwerp aan. Het zal aan de Koning ter bekrachtiging worden voorgelegd.",
+    "fr": "En conséquence, la Chambre adopte le projet de loi. Il sera soumis à la sanction royale."
+   },
+   "yes": 80,
+   "no": 35,
+   "abstain": 12,
+   "total": 127,
+   "reused": false,
+   "docs": [
+    "1591"
+   ],
+   "by_party": {
+    "Anders.": {
+     "stance": "verdeeld",
+     "yes": 5,
+     "no": 1,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 9,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "voor",
+     "yes": 13,
+     "no": 0,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "voor",
+     "yes": 17,
+     "no": 0,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "voor",
+     "yes": 23,
+     "no": 0,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 12,
+     "abstain": 0
+    },
+    "PVDA-PTB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 12,
+     "abstain": 0
+    },
+    "VB": {
+     "stance": "onthouding",
+     "yes": 0,
+     "no": 0,
+     "abstain": 12
+    },
+    "Vooruit": {
+     "stance": "voor",
+     "yes": 11,
+     "no": 0,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "voor",
+     "yes": 11,
+     "no": 0,
+     "abstain": 0
+    }
+   },
+   "kind": "whole",
+   "final": true
+  }
+ ],
+ "summary": {
+  "plain_title": "Politie mag met toestemming van een rechter binnengaan bij mensen zonder verblijfsrecht die als gevaarlijk worden gezien",
+  "problem": "Volgens de regering en de meerderheid lukt het vaak niet om mensen zonder verblijfsrecht terug te sturen als zij niet willen meewerken. Bij een adrescontrole doen zij de deur niet open, en de politie mag dan niet naar binnen. In 2025 waren er 2.052 adrescontroles en werden daarbij 120 mensen gevonden. De indieners willen daarom een duidelijk wettelijk kader, vooral voor mensen die als gevaar voor de openbare orde of de nationale veiligheid worden gezien.",
+  "proposal": [
+   "De Dienst Vreemdelingenzaken (DVZ) kan samen met de politie een woning binnengaan om iemand zonder verblijfsrecht op te pakken en naar zijn land terug te sturen. Dat kan ook in het huis van iemand anders waar die persoon verblijft.",
+   "Er moet altijd eerst toestemming zijn van een onderzoeksrechter. Daarvoor moet aan zes voorwaarden tegelijk voldaan zijn. Zo moet er een gevaar zijn voor de openbare orde of de nationale veiligheid, moet de persoon weigeren mee te werken aan zijn terugkeer, en mag er geen minder ingrijpend middel zijn.",
+   "Alleen illegaal in België verblijven is niet genoeg. Tegen een minderjarige kan geen toestemming worden gevraagd. Als er kinderen in het huis wonen, bepaalt de rechter hoe het binnengaan moet gebeuren.",
+   "De rechter krijgt 7 dagen in plaats van 5 om te beslissen en mag extra informatie vragen. Na een weigering kan de DVZ alleen een nieuwe aanvraag doen als er nieuwe feiten zijn.",
+   "Na 18 maanden wordt de wet geëvalueerd. Daarbij wordt vooral gekeken naar de gevolgen voor kinderen."
+  ],
+  "positions": [
+   {
+    "actor": "N-VA",
+    "summary": "Steunt de wet. Volgens N-VA geeft de wet de politie en de DVZ eindelijk het kader waar zij om vroegen. Een onderzoeksrechter controleert elke aanvraag. N-VA zegt dat de partij zelf verder had willen gaan.",
+    "refs": [
+     "147/12.01",
+     "147/12.03",
+     "148/01.10",
+     "148/01.36"
+    ]
+   },
+   {
+    "actor": "Ecolo-Groen",
+    "summary": "Is tegen. De partij vindt het begrip 'openbare orde' te vaag en de rol van de onderzoeksrechter te beperkt. De wet is volgens haar niet nodig, schaadt de rechten van kinderen en treft mensen die anderen onderdak bieden.",
+    "refs": [
+     "147/12.02",
+     "147/12.09",
+     "148/01.87",
+     "148/01.119"
+    ]
+   },
+   {
+    "actor": "PVDA-PTB",
+    "summary": "Is tegen. Volgens de partij bestaan er al middelen om gevaarlijke personen aan te pakken. De wet schendt grondrechten, doorstaat de toets van evenredigheid niet en ontmoedigt solidariteit.",
+    "refs": [
+     "148/01.01",
+     "148/01.44",
+     "148/01.116"
+    ]
+   },
+   {
+    "actor": "VB",
+    "summary": "Is voor woonstbetredingen, maar onthoudt zich. Volgens VB is de wet door compromissen zo beperkt dat ze maar een handvol mensen raakt. De partij wilde de voorwaarde van gevaar voor de openbare orde schrappen.",
+    "refs": [
+     "147/12.19",
+     "147/12.21",
+     "147/12.26"
+    ]
+   },
+   {
+    "actor": "MR",
+    "summary": "Steunt de wet. Volgens MR maakt ze het mogelijk om gevaarlijke personen met een bevel om het land te verlaten echt te verwijderen. De onafhankelijke onderzoeksrechter beslist en kan weigeren.",
+    "refs": [
+     "147/12.31",
+     "147/12.35",
+     "148/01.17",
+     "148/01.115"
+    ]
+   },
+   {
+    "actor": "PS",
+    "summary": "Is tegen. Volgens PS tast de wet principes aan zoals de onschendbaarheid van de woning, de onafhankelijkheid van de rechter, het recht op beroep en de scheiding der machten. PS vindt ook dat een ontslagnemende regering zo'n wet niet mag laten goedkeuren.",
+    "refs": [
+     "147/12.36",
+     "147/12.50",
+     "147/12.58",
+     "148/01.129"
+    ]
+   },
+   {
+    "actor": "Vooruit",
+    "summary": "Steunt de wet. Volgens Vooruit zijn er nu genoeg waarborgen: zes voorwaarden, een rechter die vooraf beslist, kinderen die nooit het doelwit zijn en een evaluatie na 18 maanden.",
+    "refs": [
+     "147/12.53",
+     "148/01.69",
+     "148/01.75",
+     "148/01.79"
+    ]
+   },
+   {
+    "actor": "Les Engagés",
+    "summary": "Steunt de wet. De partij zegt dat het een uitzonderlijk middel blijft met strenge voorwaarden en een onafhankelijke rechter. Ze wijst op de extra bescherming van kinderen en op de evaluatie die zij heeft gevraagd.",
+    "refs": [
+     "148/01.55",
+     "148/01.58",
+     "148/01.64"
+    ]
+   },
+   {
+    "actor": "cd&v",
+    "summary": "Steunt de wet. Voor cd&v zijn terugkeer en een 'stok achter de deur' nodig voor wie weigert mee te werken. Aan de eisen van de partij (strikte voorwaarden en controle door een onderzoeksrechter) is voldaan.",
+    "refs": [
+     "148/01.86"
+    ]
+   },
+   {
+    "actor": "Anders.",
+    "summary": "De spreker van de partij steunt de wet. Hij vindt dat de rechter actief controleert, dat het binnengaan alleen als laatste middel kan en dat er echt een risico moet zijn. Bij de stemming was de fractie verdeeld.",
+    "refs": [
+     "148/01.113"
+    ]
+   },
+   {
+    "actor": "DéFI",
+    "summary": "Is tegen. Volgens DéFI zet de wet de onschendbaarheid van de woning onder te grote druk. Het begrip openbare orde is te vaag, er is geen echt beroep mogelijk en het nut is niet bewezen.",
+    "refs": [
+     "148/01.106",
+     "148/01.114"
+    ]
+   },
+   {
+    "actor": "Regering",
+    "summary": "Minister Van Bossuyt zegt dat de wet een gat in de wet opvult, voor de veiligheid van de burgers. Ze ontkent elke vergelijking met de Amerikaanse immigratiedienst ICE en laat de uitleg van 'openbare orde' over aan de onderzoeksrechter.",
+    "refs": [
+     "148/01.127"
+    ]
+   }
+  ],
+  "arguments_for": [
+   {
+    "point": "De politie en de DVZ vragen zelf om dit kader. Nu raken ze bij adrescontroles vaak niet binnen. Daardoor wordt maar een klein deel van de gezochte personen gevonden.",
+    "actors": [
+     "N-VA",
+     "Regering",
+     "Anders."
+    ],
+    "refs": [
+     "147/12.01",
+     "147/12.03",
+     "148/01.127",
+     "148/01.113"
+    ],
+    "quote": "De cijfers voor 2025 spreken voor zich, er werden 2.052 adrescontroles uitgevoerd, waarbij 120 mensen werden gevat.",
+    "quote_ref": "147/12.01"
+   },
+   {
+    "point": "Het gaat om een kleine groep. Zes voorwaarden moeten tegelijk vervuld zijn. Alleen illegaal verblijf is niet genoeg.",
+    "actors": [
+     "Vooruit",
+     "N-VA",
+     "cd&v",
+     "Les Engagés",
+     "Anders."
+    ],
+    "refs": [
+     "148/01.69",
+     "147/12.16",
+     "148/01.86",
+     "148/01.55",
+     "148/01.113"
+    ],
+    "quote": "Ontbreekt er één voorwaarde, dan blijft de deur dicht.",
+    "quote_ref": "148/01.69"
+   },
+   {
+    "point": "Niet de regering of de politie beslist, maar een onafhankelijke onderzoeksrechter. Die krijgt het volledige dossier, toetst of de maatregel in verhouding staat en kan weigeren.",
+    "actors": [
+     "MR",
+     "Vooruit",
+     "N-VA",
+     "cd&v",
+     "Regering"
+    ],
+    "refs": [
+     "147/12.51",
+     "147/12.35",
+     "148/01.69",
+     "148/01.36",
+     "148/01.86",
+     "148/01.127"
+    ],
+    "quote": "En effet, ce n'est pas l'exécutif qui décide, mais le juge d'instruction.",
+    "quote_ref": "147/12.51"
+   },
+   {
+    "point": "Kinderen worden beschermd: tegen minderjarigen kan geen toestemming gevraagd worden en de rechter legt regels op als er kinderen zijn, bijvoorbeeld alleen tijdens de schooluren. Daarnaast komt er een evaluatie na 18 maanden.",
+    "actors": [
+     "Les Engagés",
+     "Vooruit",
+     "MR",
+     "cd&v"
+    ],
+    "refs": [
+     "148/01.64",
+     "148/01.72",
+     "148/01.115",
+     "148/01.86"
+    ],
+    "quote": "Aucune visite domiciliaire ne peut être demandée à l'égard d'un étranger mineur.",
+    "quote_ref": "148/01.64"
+   },
+   {
+    "point": "Sommige personen met een hoog risico, zoals mensen op de OCAD-lijst of vrijgelaten veroordeelden, kunnen vandaag niet worden verwijderd, ook al weet men waar ze verblijven.",
+    "actors": [
+     "Anders.",
+     "MR",
+     "Regering",
+     "N-VA"
+    ],
+    "refs": [
+     "148/01.113",
+     "147/12.35",
+     "148/01.127",
+     "147/12.03"
+    ],
+    "quote": "Er is dus een categorie van hoogrisicoprofielen die effectief feiten kunnen plegen, maar die men niet kan vatten, terwijl men wel weet waar die personen zich bevinden.",
+    "quote_ref": "148/01.113"
+   },
+   {
+    "point": "Een geloofwaardig migratiebeleid vraagt dat wie geen recht heeft om hier te blijven, ook echt terugkeert.",
+    "actors": [
+     "cd&v",
+     "Les Engagés",
+     "Vooruit"
+    ],
+    "refs": [
+     "148/01.86",
+     "148/01.55",
+     "148/01.79"
+    ],
+    "quote": "Wie recht heeft op bescherming of verblijf in ons land, kan hier blijven. Wie dat niet heeft, moet terugkeren.",
+    "quote_ref": "148/01.86"
+   }
+  ],
+  "arguments_against": [
+   {
+    "point": "Het begrip 'gevaar voor de openbare orde' is te vaag. Het staat niet in de wet dat het alleen om zware misdadigers gaat. De DVZ gebruikt dit begrip vandaag al bij bijvoorbeeld werken zonder vergunning of deelnemen aan een betoging.",
+    "actors": [
+     "PVDA-PTB",
+     "Ecolo-Groen",
+     "PS",
+     "DéFI"
+    ],
+    "refs": [
+     "147/12.08",
+     "147/12.09",
+     "147/12.58",
+     "148/01.114"
+    ],
+    "quote": "Als de regering werkelijk alleen die gevallen wil viseren, namelijk verkrachters, pedofielen en moordenaars, waarom neemt ze die beperking dan niet ondubbelzinnig op in de wet?",
+    "quote_ref": "147/12.08"
+   },
+   {
+    "point": "De wet is niet nodig. Voor gevaarlijke personen bestaan al huiszoekingen, aanhoudingsbevelen en gesloten centra.",
+    "actors": [
+     "PVDA-PTB",
+     "Ecolo-Groen",
+     "PS",
+     "DéFI"
+    ],
+    "refs": [
+     "148/01.01",
+     "147/12.04",
+     "147/12.58",
+     "148/01.114"
+    ],
+    "quote": "Gevaarlijke mensen die criminele feiten plegen of dreigen te plegen, kunnen al aangehouden worden en hun huis kan al doorzocht worden op vraag van de onderzoeksrechter",
+    "quote_ref": "148/01.01"
+   },
+   {
+    "point": "De onderzoeksrechter kan zelf geen onderzoek voeren en beslist op basis van het dossier van de DVZ. Er is ook geen echt beroep mogelijk tegen zijn beslissing, ook niet voor medebewoners.",
+    "actors": [
+     "PS",
+     "Ecolo-Groen",
+     "PVDA-PTB",
+     "DéFI"
+    ],
+    "refs": [
+     "147/12.58",
+     "147/12.07",
+     "148/01.35",
+     "148/01.44",
+     "148/01.114"
+    ],
+    "quote": "Ce que vous créez n'est pas un juge d'instruction garant des libertés, c'est un juge vassal.",
+    "quote_ref": "147/12.58"
+   },
+   {
+    "point": "De wet raakt aan grondrechten zoals de onschendbaarheid van de woning en het privéleven. Daardoor dreigt ze in strijd te zijn met de Grondwet en het Europees Verdrag voor de Rechten van de Mens.",
+    "actors": [
+     "DéFI",
+     "PS",
+     "Ecolo-Groen",
+     "PVDA-PTB"
+    ],
+    "refs": [
+     "148/01.114",
+     "147/12.36",
+     "148/01.89",
+     "148/01.05"
+    ],
+    "quote": "ce projet met une pression forte et disproportionnée sur un principe ancien, précieux et constitutionnel, l'inviolabilité du domicile inscrite à l'article 15 de notre Constitution.",
+    "quote_ref": "148/01.114"
+   },
+   {
+    "point": "Organisaties voor kinderrechten vinden de waarborgen voor kinderen onvoldoende. Mensen die anderen onderdak bieden, kunnen ook getroffen worden. Daardoor kunnen burgers bang worden om te helpen.",
+    "actors": [
+     "Ecolo-Groen",
+     "PVDA-PTB",
+     "PS"
+    ],
+    "refs": [
+     "148/01.119",
+     "148/01.65",
+     "148/01.44",
+     "148/01.61",
+     "148/01.124"
+    ],
+    "quote": "Met alle respect, maar alle experten op het gebied van kinderrechten zeggen dat dit wetsontwerp een regelrechte aanval op de kinderrechten is.",
+    "quote_ref": "148/01.124"
+   },
+   {
+    "point": "De wet gaat niet ver genoeg. Ze raakt maar een tiental mensen per jaar en is door het vage begrip openbare orde vatbaar voor eindeloze betwistingen.",
+    "actors": [
+     "VB"
+    ],
+    "refs": [
+     "147/12.19",
+     "147/12.21"
+    ],
+    "quote": "Het zijn geen woonstbetredingen meer maar flopbetredingen geworden.",
+    "quote_ref": "147/12.19"
+   }
+  ]
+ },
+ "checks": [],
+ "meta": {
+  "generator": "claude-cli",
+  "prompt_version": "1",
+  "generated_at": "2026-11-22T21:58:29+00:00"
+ },
+ "repairs": [
+  "arguments_against[4]: quote attributed to 148/01.119, corrected to 148/01.124 (repaired)"
+ ]
+}

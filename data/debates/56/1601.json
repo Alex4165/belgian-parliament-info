@@ -1,0 +1,411 @@
+{
+ "doc": "1601",
+ "docs": [
+  "1601"
+ ],
+ "legislature": 56,
+ "title": {
+  "nl": "Wetsontwerp tot wijziging van de wet van 23 juli 1926 betreffende de NMBS en het personeel van de Belgische spoorwegen betreffende de modernisering van het personeelsbeheer van de Belgische Spoorwegen (II) (1601/1-5)",
+  "fr": "Interpellations jointes de",
+  "subtitles": {
+   "nl": [],
+   "fr": [
+    "Rajae Maouane à Maxime Prévot (VPM Affaires étrangères, Affaires européennes et Coopération au développement) sur \"Les visas pour les étudiants de Gaza\" (56000320I)",
+    "Khalil Aouasti à Maxime Prévot (VPM Affaires étrangères, Affaires européennes et Coopération au développement) sur \"L'octroi de visas à des étudiants de Gaza\" (56000323I)",
+    "François De Smet à Maxime Prévot (VPM Affaires étrangères, Affaires européennes et Coopération au développement) sur \"La renonciation du gouvernement à l'accueil des treize étudiants et chercheurs boursiers gazaouis\" (56000324I)",
+    "Meyrem Almaci à Maxime Prévot (VPM Affaires étrangères, Affaires européennes et Coopération au développement) sur \"Les étudiants de Gaza\" (56000326I)",
+    "Nabil Boukili à Maxime Prévot (VPM Affaires étrangères, Affaires européennes et Coopération au développement) sur \"Les étudiants et familles bloqués à Gaza\" (56000328I)"
+   ]
+  }
+ },
+ "sessions": [
+  {
+   "session": 145,
+   "date": "2026-10-15",
+   "part": "afternoon",
+   "url": "https://www.dekamer.be/doc/PCRI/html/56/ip145x.html"
+  }
+ ],
+ "speakers": [
+  {
+   "name": "Dorien Cuylaerts",
+   "party": "N-VA",
+   "role": null,
+   "refs": [
+    "145/11.01"
+   ]
+  },
+  {
+   "name": "Frank Troosters",
+   "party": "VB",
+   "role": null,
+   "refs": [
+    "145/11.02"
+   ]
+  },
+  {
+   "name": "Dimitri Legasse",
+   "party": "PS",
+   "role": null,
+   "refs": [
+    "145/11.03"
+   ]
+  },
+  {
+   "name": "Farah Jacquet",
+   "party": "PVDA-PTB",
+   "role": null,
+   "refs": [
+    "145/11.04",
+    "145/11.09"
+   ]
+  },
+  {
+   "name": "Serge Hiligsmann",
+   "party": "Les Engagés",
+   "role": null,
+   "refs": [
+    "145/11.05"
+   ]
+  },
+  {
+   "name": "Staf Aerts",
+   "party": "Ecolo-Groen",
+   "role": null,
+   "refs": [
+    "145/11.06"
+   ]
+  },
+  {
+   "name": "Irina De Knop",
+   "party": "Anders.",
+   "role": null,
+   "refs": [
+    "145/11.07"
+   ]
+  },
+  {
+   "name": "Jean-Luc Crucke",
+   "party": null,
+   "role": "government",
+   "refs": [
+    "145/11.08"
+   ]
+  }
+ ],
+ "votes": [
+  {
+   "ref": "145/vote 8",
+   "session": 145,
+   "date": "2026-10-15",
+   "subject": null,
+   "item_title": "Wetsontwerp tot wijziging van de wet van 23 juli 1926 betreffende de NMBS en het personeel van de Belgische Spoorwegen betreffende de modernisering van het personeelsbeheer van de Belgische Spoorwegen (II) (nieuw opschrift) (1601/5)",
+   "result": {
+    "nl": null,
+    "fr": null
+   },
+   "yes": 84,
+   "no": 35,
+   "abstain": 0,
+   "total": 119,
+   "reused": false,
+   "docs": [
+    "1601"
+   ],
+   "by_party": {
+    "Anders.": {
+     "stance": "voor",
+     "yes": 8,
+     "no": 0,
+     "abstain": 0
+    },
+    "DéFI": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 1,
+     "abstain": 0
+    },
+    "Ecolo-Groen": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 7,
+     "abstain": 0
+    },
+    "Les Engagés": {
+     "stance": "voor",
+     "yes": 14,
+     "no": 0,
+     "abstain": 0
+    },
+    "MR": {
+     "stance": "voor",
+     "yes": 16,
+     "no": 0,
+     "abstain": 0
+    },
+    "N-VA": {
+     "stance": "voor",
+     "yes": 23,
+     "no": 0,
+     "abstain": 0
+    },
+    "Onafhankelijk": {
+     "stance": "voor",
+     "yes": 1,
+     "no": 0,
+     "abstain": 0
+    },
+    "PS": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 14,
+     "abstain": 0
+    },
+    "PVDA-PTB": {
+     "stance": "tegen",
+     "yes": 0,
+     "no": 13,
+     "abstain": 0
+    },
+    "Vooruit": {
+     "stance": "voor",
+     "yes": 12,
+     "no": 0,
+     "abstain": 0
+    },
+    "cd&v": {
+     "stance": "voor",
+     "yes": 10,
+     "no": 0,
+     "abstain": 0
+    }
+   },
+   "kind": "whole",
+   "final": true
+  }
+ ],
+ "summary": {
+  "plain_title": "Nieuwe regels voor collectieve afspraken met het contractuele spoorpersoneel",
+  "problem": "De basisafspraak (cao nr. 0) voor het contractuele spoorpersoneel geldt voor onbepaalde tijd en kan niet worden opgezegd. Volgens de voorstanders kan die afspraak daardoor niet mee veranderen met nieuwe omstandigheden. Ze willen het overleg bij het spoor gelijkschakelen met de rest van het land. Ze vinden ook dat de spoorbedrijven vanaf 2033 klaar moeten zijn voor concurrentie van andere spoorbedrijven.",
+  "proposal": [
+   "Voor het contractuele spoorpersoneel gelden voortaan regels voor collectieve afspraken die lijken op die in de privésector.",
+   "Cao nr. 0 blijft bestaan, maar kan worden opgezegd. Dat kan door de raad van bestuur van HR Rail en ook door de vakbondsvertegenwoordigers, onder strenge voorwaarden.",
+   "Volgens PVDA-PTB is voor het opzeggen niet langer een tweederdemeerderheid nodig, maar 50 %.",
+   "De rechten die al in de individuele arbeidscontracten staan, blijven uitdrukkelijk behouden.",
+   "Er komen nieuwe regels over hoe lang toekomstige afspraken gelden en hoe ze kunnen eindigen."
+  ],
+  "positions": [
+   {
+    "actor": "N-VA",
+    "summary": "N-VA steunt het ontwerp. Volgens de partij is dit geen aanval op het personeel, maar een overstap naar normaal sociaal overleg, zodat de NMBS klaar is voor de vrijgemaakte spoormarkt.",
+    "refs": [
+     "145/11.01"
+    ]
+   },
+   {
+    "actor": "VB",
+    "summary": "Vlaams Belang vindt de modernisering van het personeelsbeleid nodig voor 2033, maar heeft bedenkingen bij de manier waarop de regering die doorvoert. De partij kondigde aan dat ze zich zou onthouden.",
+    "refs": [
+     "145/11.02"
+    ]
+   },
+   {
+    "actor": "PS",
+    "summary": "PS is tegen. De partij vindt het een ideologische hervorming die de openbare diensten en het sociaal overleg verzwakt en waarbij de regering zich bemoeit met de collectieve onderhandelingen.",
+    "refs": [
+     "145/11.03"
+    ]
+   },
+   {
+    "actor": "PVDA-PTB",
+    "summary": "PVDA-PTB is tegen. Volgens de partij bereidt het ontwerp de concurrentie op het spoor voor door de rechten van de spoorwerkers te verzwakken. Dat zou nadelig zijn voor reizigers, personeel en de samenleving.",
+    "refs": [
+     "145/11.04",
+     "145/11.09"
+    ]
+   },
+   {
+    "actor": "Les Engagés",
+    "summary": "Les Engagés steunt het ontwerp. Volgens de partij blijven cao nr. 0 en de verworven rechten bestaan, en is opzeggen alleen een laatste middel met waarborgen.",
+    "refs": [
+     "145/11.05"
+    ]
+   },
+   {
+    "actor": "Ecolo-Groen",
+    "summary": "Ecolo-Groen is tegen. Volgens de partij maakt het ontwerp het sociaal overleg moeilijker en krijgt de werkgever meer middelen. De partij verwijst naar het negatieve advies van de Raad van State.",
+    "refs": [
+     "145/11.06"
+    ]
+   },
+   {
+    "actor": "Anders.",
+    "summary": "Anders. steunt de hervorming van het personeelsbeleid om de NMBS klaar te maken voor concurrentie. De partij wil wel een duidelijker en verdergaand plan om het personenvervoer per spoor open te stellen voor andere bedrijven.",
+    "refs": [
+     "145/11.07"
+    ]
+   },
+   {
+    "actor": "Regering",
+    "summary": "Minister Crucke zegt dat het ontwerp over modernisering gaat en niet over het openstellen van de spoormarkt. Volgens hem was een afspraak die niet kan worden opgezegd een bron van stilstand, en is de tekst aangepast aan het advies van de Raad van State.",
+    "refs": [
+     "145/11.08"
+    ]
+   }
+  ],
+  "arguments_for": [
+   {
+    "point": "De spoorbedrijven moeten vanaf 2033 kunnen concurreren met andere spoorbedrijven. Daarvoor is een personeelsbeleid nodig dat past bij de markt.",
+    "actors": [
+     "N-VA",
+     "VB",
+     "Anders.",
+     "Regering"
+    ],
+    "refs": [
+     "145/11.01",
+     "145/11.02",
+     "145/11.07",
+     "145/11.08"
+    ],
+    "quote": "Een marktconform hr-beleid is daarbij essentieel om de overlevingskansen van de NMBS in haar geliberaliseerde markt te waarborgen",
+    "quote_ref": "145/11.01"
+   },
+   {
+    "point": "Het overleg bij het spoor wordt gelijkgeschakeld met de regels in de rest van het land en in de privésector. Volgens de voorstanders is dat geen aanval op het personeel.",
+    "actors": [
+     "N-VA",
+     "Anders."
+    ],
+    "refs": [
+     "145/11.01",
+     "145/11.07"
+    ],
+    "quote": "Dat is in geen geval een aanval op het personeel of de vakbonden, maar gewoon een broodnodige overstap naar een normaal sociaal overleg in het spoorwezen.",
+    "quote_ref": "145/11.01"
+   },
+   {
+    "point": "Een afspraak die voor altijd geldt en niet kan worden opgezegd, leidt tot stilstand. Ze kan dan niet worden aangepast aan nieuwe omstandigheden.",
+    "actors": [
+     "Regering",
+     "Les Engagés"
+    ],
+    "refs": [
+     "145/11.08",
+     "145/11.05"
+    ],
+    "quote": "Nous avions une convention collective conclue pour une durée indéterminée et qui ne pouvait pas être dénoncée.",
+    "quote_ref": "145/11.08"
+   },
+   {
+    "point": "Na het advies van de Raad van State is de tekst aangepast. Ook de vakbonden kunnen nu opzeggen en de individuele rechten blijven gewaarborgd. Opzeggen is alleen een laatste middel na overleg.",
+    "actors": [
+     "Les Engagés",
+     "Regering"
+    ],
+    "refs": [
+     "145/11.05",
+     "145/11.08"
+    ],
+    "quote": "le maintien des droits individuels intégrés dans les contrats de travail est désormais explicitement garanti.",
+    "quote_ref": "145/11.05"
+   },
+   {
+    "point": "Moderniseren is volgens de voorstanders niet hetzelfde als privatiseren. Ook zonder het openstellen van de spoormarkt was deze verandering nodig.",
+    "actors": [
+     "Regering",
+     "Les Engagés"
+    ],
+    "refs": [
+     "145/11.08",
+     "145/11.05"
+    ],
+    "quote": "même sans libéralisation du rail, cette évolution de la structure et de la concertation sociale au sein du rail était nécessaire.",
+    "quote_ref": "145/11.08"
+   }
+  ],
+  "arguments_against": [
+   {
+    "point": "Het ontwerp verzwakt het sociaal overleg. De werknemers krijgen minder middelen en de werkgever meer macht.",
+    "actors": [
+     "Ecolo-Groen",
+     "PS",
+     "PVDA-PTB"
+    ],
+    "refs": [
+     "145/11.06",
+     "145/11.03",
+     "145/11.04"
+    ],
+    "quote": "De werknemerszijde wordt hier gebypasst en de werkgever krijgt extra middelen om zijn zin op korte of lange termijn door te drijven.",
+    "quote_ref": "145/11.06"
+   },
+   {
+    "point": "De Raad van State gaf opnieuw een negatief advies, met fundamentele opmerkingen over het recht op collectief onderhandelen.",
+    "actors": [
+     "Ecolo-Groen"
+    ],
+    "refs": [
+     "145/11.06"
+    ],
+    "quote": "Over dit wetsontwerp heeft de Raad van State opnieuw een negatief advies uitgebracht, met fundamentele opmerkingen over het sociaal overleg.",
+    "quote_ref": "145/11.06"
+   },
+   {
+    "point": "Cao nr. 0 wordt gemakkelijker opgezegd: een gewone meerderheid volstaat in plaats van twee derde. Daardoor kunnen de vakbonden onder druk komen te staan om akkoorden te sluiten die minder gunstig zijn voor de werknemers.",
+    "actors": [
+     "PVDA-PTB"
+    ],
+    "refs": [
+     "145/11.04"
+    ],
+    "quote": "Aujourd'hui, il faut une majorité des deux tiers pour mettre fin à cet accord. Avec votre réforme, 50 % suffiront.",
+    "quote_ref": "145/11.04"
+   },
+   {
+    "point": "Het openstellen van het spoor voor concurrentie is volgens de tegenstanders elders in Europa mislukt. Ze verwijzen naar slechtere arbeidsomstandigheden, meer vertragingen, duurdere tickets en hogere kosten voor de overheid.",
+    "actors": [
+     "PS",
+     "PVDA-PTB"
+    ],
+    "refs": [
+     "145/11.03",
+     "145/11.04"
+    ],
+    "quote": "Partout en Europe, la démonstration est faite et c'est un échec.",
+    "quote_ref": "145/11.03"
+   },
+   {
+    "point": "Het ontwerp helpt volgens de tegenstanders niet om meer mensen betaalbaar met de trein te laten reizen. Ze vrezen dat minder winstgevende lijnen zullen verdwijnen, wat ingaat tegen de strijd tegen de klimaatopwarming.",
+    "actors": [
+     "PVDA-PTB",
+     "Ecolo-Groen"
+    ],
+    "refs": [
+     "145/11.04",
+     "145/11.06"
+    ],
+    "quote": "C'est en totale contradiction avec l'urgence écologique.",
+    "quote_ref": "145/11.04"
+   },
+   {
+    "point": "Het is volgens de tegenstanders een ideologische hervorming waarbij de regering zich rechtstreeks bemoeit met de onderhandelingen tussen werkgevers en vakbonden.",
+    "actors": [
+     "PS"
+    ],
+    "refs": [
+     "145/11.03"
+    ],
+    "quote": "le gouvernement s'immisce finalement directement, en quelque sorte, dans la négociation collective.",
+    "quote_ref": "145/11.03"
+   }
+  ]
+ },
+ "checks": [],
+ "meta": {
+  "generator": "claude-cli",
+  "prompt_version": "1",
+  "generated_at": "2026-11-22T21:58:02+00:00"
+ },
+ "repairs": []
+}
