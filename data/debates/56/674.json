@@ -272,7 +272,17 @@
    }
   ]
  },
- "checks": [],
+ "checks": [
+  "positions: missing party Anders.",
+  "positions: missing party DéFI",
+  "positions: missing party Ecolo-Groen",
+  "positions: missing party Les Engagés",
+  "positions: missing party MR",
+  "positions: missing party PS",
+  "positions: missing party PVDA-PTB",
+  "positions: missing party Vooruit",
+  "positions: missing party cd&v"
+ ],
  "meta": {
   "generator": "claude-cli",
   "prompt_version": "1",

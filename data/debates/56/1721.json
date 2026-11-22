@@ -785,7 +785,10 @@
    }
   ]
  },
- "checks": [],
+ "checks": [
+  "positions: missing party Anders.",
+  "positions: missing party DéFI"
+ ],
  "meta": {
   "generator": "claude-cli",
   "prompt_version": "1",

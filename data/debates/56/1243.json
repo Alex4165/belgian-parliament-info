@@ -294,12 +294,6 @@
     "1243"
    ],
    "by_party": {
-    "?": {
-     "stance": "voor",
-     "yes": 1,
-     "no": 0,
-     "abstain": 0
-    },
     "Anders.": {
      "stance": "voor",
      "yes": 7,
@@ -356,7 +350,7 @@
     },
     "Vooruit": {
      "stance": "voor",
-     "yes": 12,
+     "yes": 13,
      "no": 0,
      "abstain": 0
     },
@@ -389,12 +383,6 @@
     "1243"
    ],
    "by_party": {
-    "?": {
-     "stance": "tegen",
-     "yes": 0,
-     "no": 1,
-     "abstain": 0
-    },
     "Anders.": {
      "stance": "verdeeld",
      "yes": 6,
@@ -452,7 +440,7 @@
     "Vooruit": {
      "stance": "tegen",
      "yes": 0,
-     "no": 12,
+     "no": 13,
      "abstain": 0
     },
     "cd&v": {
@@ -484,12 +472,6 @@
     "1243"
    ],
    "by_party": {
-    "?": {
-     "stance": "tegen",
-     "yes": 0,
-     "no": 1,
-     "abstain": 0
-    },
     "Anders.": {
      "stance": "verdeeld",
      "yes": 6,
@@ -547,7 +529,7 @@
     "Vooruit": {
      "stance": "tegen",
      "yes": 0,
-     "no": 12,
+     "no": 13,
      "abstain": 0
     },
     "cd&v": {
@@ -579,12 +561,6 @@
     "1243"
    ],
    "by_party": {
-    "?": {
-     "stance": "tegen",
-     "yes": 0,
-     "no": 1,
-     "abstain": 0
-    },
     "Anders.": {
      "stance": "verdeeld",
      "yes": 6,
@@ -642,7 +618,7 @@
     "Vooruit": {
      "stance": "tegen",
      "yes": 0,
-     "no": 12,
+     "no": 13,
      "abstain": 0
     },
     "cd&v": {
@@ -674,12 +650,6 @@
     "1243"
    ],
    "by_party": {
-    "?": {
-     "stance": "voor",
-     "yes": 1,
-     "no": 0,
-     "abstain": 0
-    },
     "Anders.": {
      "stance": "verdeeld",
      "yes": 2,
@@ -736,7 +706,7 @@
     },
     "Vooruit": {
      "stance": "voor",
-     "yes": 12,
+     "yes": 13,
      "no": 0,
      "abstain": 0
     },
@@ -769,12 +739,6 @@
     "1243"
    ],
    "by_party": {
-    "?": {
-     "stance": "tegen",
-     "yes": 0,
-     "no": 1,
-     "abstain": 0
-    },
     "Anders.": {
      "stance": "verdeeld",
      "yes": 6,
@@ -832,7 +796,7 @@
     "Vooruit": {
      "stance": "tegen",
      "yes": 0,
-     "no": 12,
+     "no": 13,
      "abstain": 0
     },
     "cd&v": {
@@ -864,12 +828,6 @@
     "1243"
    ],
    "by_party": {
-    "?": {
-     "stance": "tegen",
-     "yes": 0,
-     "no": 1,
-     "abstain": 0
-    },
     "Anders.": {
      "stance": "verdeeld",
      "yes": 6,
@@ -927,7 +885,7 @@
     "Vooruit": {
      "stance": "tegen",
      "yes": 0,
-     "no": 11,
+     "no": 12,
      "abstain": 0
     },
     "cd&v": {
@@ -959,12 +917,6 @@
     "1243"
    ],
    "by_party": {
-    "?": {
-     "stance": "voor",
-     "yes": 1,
-     "no": 0,
-     "abstain": 0
-    },
     "Anders.": {
      "stance": "voor",
      "yes": 7,
@@ -1021,7 +973,7 @@
     },
     "Vooruit": {
      "stance": "voor",
-     "yes": 12,
+     "yes": 13,
      "no": 0,
      "abstain": 0
     },
@@ -1054,12 +1006,6 @@
     "1243"
    ],
    "by_party": {
-    "?": {
-     "stance": "voor",
-     "yes": 1,
-     "no": 0,
-     "abstain": 0
-    },
     "Anders.": {
      "stance": "onthouding",
      "yes": 0,
@@ -1116,7 +1062,7 @@
     },
     "Vooruit": {
      "stance": "voor",
-     "yes": 11,
+     "yes": 12,
      "no": 0,
      "abstain": 0
     },
@@ -1149,12 +1095,6 @@
     "1243"
    ],
    "by_party": {
-    "?": {
-     "stance": "voor",
-     "yes": 1,
-     "no": 0,
-     "abstain": 0
-    },
     "Anders.": {
      "stance": "voor",
      "yes": 7,
@@ -1211,7 +1151,7 @@
     },
     "Vooruit": {
      "stance": "voor",
-     "yes": 12,
+     "yes": 13,
      "no": 0,
      "abstain": 0
     },
@@ -1244,12 +1184,6 @@
     "1243"
    ],
    "by_party": {
-    "?": {
-     "stance": "tegen",
-     "yes": 0,
-     "no": 1,
-     "abstain": 0
-    },
     "Anders.": {
      "stance": "verdeeld",
      "yes": 6,
@@ -1307,7 +1241,7 @@
     "Vooruit": {
      "stance": "tegen",
      "yes": 0,
-     "no": 12,
+     "no": 13,
      "abstain": 0
     },
     "cd&v": {
@@ -1339,12 +1273,6 @@
     "1243"
    ],
    "by_party": {
-    "?": {
-     "stance": "voor",
-     "yes": 1,
-     "no": 0,
-     "abstain": 0
-    },
     "Anders.": {
      "stance": "voor",
      "yes": 7,
@@ -1401,7 +1329,7 @@
     },
     "Vooruit": {
      "stance": "voor",
-     "yes": 12,
+     "yes": 13,
      "no": 0,
      "abstain": 0
     },
@@ -1434,12 +1362,6 @@
     "1243"
    ],
    "by_party": {
-    "?": {
-     "stance": "tegen",
-     "yes": 0,
-     "no": 1,
-     "abstain": 0
-    },
     "Anders.": {
      "stance": "verdeeld",
      "yes": 6,
@@ -1497,7 +1419,7 @@
     "Vooruit": {
      "stance": "tegen",
      "yes": 0,
-     "no": 12,
+     "no": 13,
      "abstain": 0
     },
     "cd&v": {
@@ -1529,12 +1451,6 @@
     "1243"
    ],
    "by_party": {
-    "?": {
-     "stance": "voor",
-     "yes": 1,
-     "no": 0,
-     "abstain": 0
-    },
     "Anders.": {
      "stance": "voor",
      "yes": 7,
@@ -1591,7 +1507,7 @@
     },
     "Vooruit": {
      "stance": "voor",
-     "yes": 12,
+     "yes": 13,
      "no": 0,
      "abstain": 0
     },
@@ -1624,12 +1540,6 @@
     "1243"
    ],
    "by_party": {
-    "?": {
-     "stance": "voor",
-     "yes": 1,
-     "no": 0,
-     "abstain": 0
-    },
     "Anders.": {
      "stance": "voor",
      "yes": 7,
@@ -1686,7 +1596,7 @@
     },
     "Vooruit": {
      "stance": "voor",
-     "yes": 12,
+     "yes": 13,
      "no": 0,
      "abstain": 0
     },
@@ -1719,12 +1629,6 @@
     "1243"
    ],
    "by_party": {
-    "?": {
-     "stance": "voor",
-     "yes": 1,
-     "no": 0,
-     "abstain": 0
-    },
     "Anders.": {
      "stance": "voor",
      "yes": 7,
@@ -1781,7 +1685,7 @@
     },
     "Vooruit": {
      "stance": "voor",
-     "yes": 12,
+     "yes": 13,
      "no": 0,
      "abstain": 0
     },
@@ -1814,12 +1718,6 @@
     "1243"
    ],
    "by_party": {
-    "?": {
-     "stance": "tegen",
-     "yes": 0,
-     "no": 1,
-     "abstain": 0
-    },
     "Anders.": {
      "stance": "verdeeld",
      "yes": 6,
@@ -1877,7 +1775,7 @@
     "Vooruit": {
      "stance": "tegen",
      "yes": 0,
-     "no": 12,
+     "no": 13,
      "abstain": 0
     },
     "cd&v": {
@@ -1909,12 +1807,6 @@
     "1243"
    ],
    "by_party": {
-    "?": {
-     "stance": "tegen",
-     "yes": 0,
-     "no": 1,
-     "abstain": 0
-    },
     "Anders.": {
      "stance": "verdeeld",
      "yes": 6,
@@ -1972,7 +1864,7 @@
     "Vooruit": {
      "stance": "tegen",
      "yes": 0,
-     "no": 12,
+     "no": 13,
      "abstain": 0
     },
     "cd&v": {
@@ -2004,12 +1896,6 @@
     "1243"
    ],
    "by_party": {
-    "?": {
-     "stance": "voor",
-     "yes": 1,
-     "no": 0,
-     "abstain": 0
-    },
     "Anders.": {
      "stance": "voor",
      "yes": 7,
@@ -2066,7 +1952,7 @@
     },
     "Vooruit": {
      "stance": "voor",
-     "yes": 12,
+     "yes": 13,
      "no": 0,
      "abstain": 0
     },
@@ -2099,12 +1985,6 @@
     "1243"
    ],
    "by_party": {
-    "?": {
-     "stance": "tegen",
-     "yes": 0,
-     "no": 1,
-     "abstain": 0
-    },
     "Anders.": {
      "stance": "onthouding",
      "yes": 0,
@@ -2162,7 +2042,7 @@
     "Vooruit": {
      "stance": "tegen",
      "yes": 0,
-     "no": 12,
+     "no": 13,
      "abstain": 0
     },
     "cd&v": {
@@ -2194,12 +2074,6 @@
     "1243"
    ],
    "by_party": {
-    "?": {
-     "stance": "tegen",
-     "yes": 0,
-     "no": 1,
-     "abstain": 0
-    },
     "Anders.": {
      "stance": "onthouding",
      "yes": 0,
@@ -2257,7 +2131,7 @@
     "Vooruit": {
      "stance": "tegen",
      "yes": 0,
-     "no": 12,
+     "no": 13,
      "abstain": 0
     },
     "cd&v": {
@@ -2289,12 +2163,6 @@
     "1243"
    ],
    "by_party": {
-    "?": {
-     "stance": "voor",
-     "yes": 1,
-     "no": 0,
-     "abstain": 0
-    },
     "Anders.": {
      "stance": "voor",
      "yes": 6,
@@ -2351,7 +2219,7 @@
     },
     "Vooruit": {
      "stance": "voor",
-     "yes": 12,
+     "yes": 13,
      "no": 0,
      "abstain": 0
     },
@@ -2384,12 +2252,6 @@
     "1243"
    ],
    "by_party": {
-    "?": {
-     "stance": "tegen",
-     "yes": 0,
-     "no": 1,
-     "abstain": 0
-    },
     "Anders.": {
      "stance": "onthouding",
      "yes": 0,
@@ -2447,7 +2309,7 @@
     "Vooruit": {
      "stance": "tegen",
      "yes": 0,
-     "no": 12,
+     "no": 13,
      "abstain": 0
     },
     "cd&v": {
@@ -2479,12 +2341,6 @@
     "1243"
    ],
    "by_party": {
-    "?": {
-     "stance": "tegen",
-     "yes": 0,
-     "no": 1,
-     "abstain": 0
-    },
     "Anders.": {
      "stance": "onthouding",
      "yes": 0,
@@ -2542,7 +2398,7 @@
     "Vooruit": {
      "stance": "tegen",
      "yes": 0,
-     "no": 12,
+     "no": 13,
      "abstain": 0
     },
     "cd&v": {
@@ -2574,12 +2430,6 @@
     "1243"
    ],
    "by_party": {
-    "?": {
-     "stance": "voor",
-     "yes": 1,
-     "no": 0,
-     "abstain": 0
-    },
     "Anders.": {
      "stance": "voor",
      "yes": 7,
@@ -2636,7 +2486,7 @@
     },
     "Vooruit": {
      "stance": "voor",
-     "yes": 12,
+     "yes": 13,
      "no": 0,
      "abstain": 0
     },
@@ -2669,12 +2519,6 @@
     "1243"
    ],
    "by_party": {
-    "?": {
-     "stance": "voor",
-     "yes": 1,
-     "no": 0,
-     "abstain": 0
-    },
     "Anders.": {
      "stance": "voor",
      "yes": 7,
@@ -2731,7 +2575,7 @@
     },
     "Vooruit": {
      "stance": "voor",
-     "yes": 12,
+     "yes": 13,
      "no": 0,
      "abstain": 0
     },
@@ -2764,12 +2608,6 @@
     "1243"
    ],
    "by_party": {
-    "?": {
-     "stance": "tegen",
-     "yes": 0,
-     "no": 1,
-     "abstain": 0
-    },
     "Anders.": {
      "stance": "verdeeld",
      "yes": 6,
@@ -2827,7 +2665,7 @@
     "Vooruit": {
      "stance": "tegen",
      "yes": 0,
-     "no": 12,
+     "no": 13,
      "abstain": 0
     },
     "cd&v": {
@@ -2859,12 +2697,6 @@
     "1243"
    ],
    "by_party": {
-    "?": {
-     "stance": "voor",
-     "yes": 1,
-     "no": 0,
-     "abstain": 0
-    },
     "Anders.": {
      "stance": "voor",
      "yes": 7,
@@ -2921,7 +2753,7 @@
     },
     "Vooruit": {
      "stance": "voor",
-     "yes": 12,
+     "yes": 13,
      "no": 0,
      "abstain": 0
     },
@@ -2954,12 +2786,6 @@
     "1243"
    ],
    "by_party": {
-    "?": {
-     "stance": "voor",
-     "yes": 1,
-     "no": 0,
-     "abstain": 0
-    },
     "Anders.": {
      "stance": "voor",
      "yes": 7,
@@ -3016,7 +2842,7 @@
     },
     "Vooruit": {
      "stance": "voor",
-     "yes": 12,
+     "yes": 13,
      "no": 0,
      "abstain": 0
     },
@@ -3049,12 +2875,6 @@
     "1243"
    ],
    "by_party": {
-    "?": {
-     "stance": "voor",
-     "yes": 1,
-     "no": 0,
-     "abstain": 0
-    },
     "Anders.": {
      "stance": "voor",
      "yes": 7,
@@ -3111,7 +2931,7 @@
     },
     "Vooruit": {
      "stance": "voor",
-     "yes": 12,
+     "yes": 13,
      "no": 0,
      "abstain": 0
     },
@@ -3144,12 +2964,6 @@
     "1243"
    ],
    "by_party": {
-    "?": {
-     "stance": "tegen",
-     "yes": 0,
-     "no": 1,
-     "abstain": 0
-    },
     "Anders.": {
      "stance": "tegen",
      "yes": 0,
@@ -3207,7 +3021,7 @@
     "Vooruit": {
      "stance": "tegen",
      "yes": 0,
-     "no": 12,
+     "no": 13,
      "abstain": 0
     },
     "cd&v": {
@@ -3239,12 +3053,6 @@
     "1243"
    ],
    "by_party": {
-    "?": {
-     "stance": "tegen",
-     "yes": 0,
-     "no": 1,
-     "abstain": 0
-    },
     "Anders.": {
      "stance": "tegen",
      "yes": 0,
@@ -3302,7 +3110,7 @@
     "Vooruit": {
      "stance": "tegen",
      "yes": 0,
-     "no": 12,
+     "no": 13,
      "abstain": 0
     },
     "cd&v": {
@@ -3334,12 +3142,6 @@
     "1243"
    ],
    "by_party": {
-    "?": {
-     "stance": "voor",
-     "yes": 1,
-     "no": 0,
-     "abstain": 0
-    },
     "Anders.": {
      "stance": "verdeeld",
      "yes": 0,
@@ -3396,7 +3198,7 @@
     },
     "Vooruit": {
      "stance": "voor",
-     "yes": 12,
+     "yes": 13,
      "no": 0,
      "abstain": 0
     },
@@ -3429,12 +3231,6 @@
     "1243"
    ],
    "by_party": {
-    "?": {
-     "stance": "voor",
-     "yes": 1,
-     "no": 0,
-     "abstain": 0
-    },
     "Anders.": {
      "stance": "onthouding",
      "yes": 0,
@@ -3491,7 +3287,7 @@
     },
     "Vooruit": {
      "stance": "voor",
-     "yes": 12,
+     "yes": 13,
      "no": 0,
      "abstain": 0
     },
@@ -3524,12 +3320,6 @@
     "1243"
    ],
    "by_party": {
-    "?": {
-     "stance": "tegen",
-     "yes": 0,
-     "no": 1,
-     "abstain": 0
-    },
     "Anders.": {
      "stance": "onthouding",
      "yes": 0,
@@ -3587,7 +3377,7 @@
     "Vooruit": {
      "stance": "tegen",
      "yes": 0,
-     "no": 12,
+     "no": 13,
      "abstain": 0
     },
     "cd&v": {
@@ -3619,12 +3409,6 @@
     "1243"
    ],
    "by_party": {
-    "?": {
-     "stance": "tegen",
-     "yes": 0,
-     "no": 1,
-     "abstain": 0
-    },
     "Anders.": {
      "stance": "onthouding",
      "yes": 0,
@@ -3682,7 +3466,7 @@
     "Vooruit": {
      "stance": "tegen",
      "yes": 0,
-     "no": 12,
+     "no": 13,
      "abstain": 0
     },
     "cd&v": {
@@ -3714,12 +3498,6 @@
     "1243"
    ],
    "by_party": {
-    "?": {
-     "stance": "voor",
-     "yes": 1,
-     "no": 0,
-     "abstain": 0
-    },
     "Anders.": {
      "stance": "voor",
      "yes": 7,
@@ -3776,7 +3554,7 @@
     },
     "Vooruit": {
      "stance": "voor",
-     "yes": 12,
+     "yes": 13,
      "no": 0,
      "abstain": 0
     },
@@ -3809,12 +3587,6 @@
     "1243"
    ],
    "by_party": {
-    "?": {
-     "stance": "voor",
-     "yes": 1,
-     "no": 0,
-     "abstain": 0
-    },
     "Anders.": {
      "stance": "voor",
      "yes": 7,
@@ -3871,7 +3643,7 @@
     },
     "Vooruit": {
      "stance": "voor",
-     "yes": 12,
+     "yes": 13,
      "no": 0,
      "abstain": 0
     },
@@ -3904,12 +3676,6 @@
     "1243"
    ],
    "by_party": {
-    "?": {
-     "stance": "tegen",
-     "yes": 0,
-     "no": 1,
-     "abstain": 0
-    },
     "Anders.": {
      "stance": "verdeeld",
      "yes": 6,
@@ -3967,7 +3733,7 @@
     "Vooruit": {
      "stance": "tegen",
      "yes": 0,
-     "no": 12,
+     "no": 13,
      "abstain": 0
     },
     "cd&v": {
@@ -3999,12 +3765,6 @@
     "1243"
    ],
    "by_party": {
-    "?": {
-     "stance": "tegen",
-     "yes": 0,
-     "no": 1,
-     "abstain": 0
-    },
     "Anders.": {
      "stance": "verdeeld",
      "yes": 6,
@@ -4062,7 +3822,7 @@
     "Vooruit": {
      "stance": "tegen",
      "yes": 0,
-     "no": 12,
+     "no": 13,
      "abstain": 0
     },
     "cd&v": {
@@ -4094,12 +3854,6 @@
     "1243"
    ],
    "by_party": {
-    "?": {
-     "stance": "tegen",
-     "yes": 0,
-     "no": 1,
-     "abstain": 0
-    },
     "Anders.": {
      "stance": "verdeeld",
      "yes": 6,
@@ -4157,7 +3911,7 @@
     "Vooruit": {
      "stance": "tegen",
      "yes": 0,
-     "no": 12,
+     "no": 13,
      "abstain": 0
     },
     "cd&v": {
@@ -4189,12 +3943,6 @@
     "1243"
    ],
    "by_party": {
-    "?": {
-     "stance": "tegen",
-     "yes": 0,
-     "no": 1,
-     "abstain": 0
-    },
     "Anders.": {
      "stance": "verdeeld",
      "yes": 6,
@@ -4252,7 +4000,7 @@
     "Vooruit": {
      "stance": "tegen",
      "yes": 0,
-     "no": 12,
+     "no": 13,
      "abstain": 0
     },
     "cd&v": {
@@ -4284,12 +4032,6 @@
     "1243"
    ],
    "by_party": {
-    "?": {
-     "stance": "tegen",
-     "yes": 0,
-     "no": 1,
-     "abstain": 0
-    },
     "Anders.": {
      "stance": "verdeeld",
      "yes": 6,
@@ -4347,7 +4089,7 @@
     "Vooruit": {
      "stance": "tegen",
      "yes": 0,
-     "no": 12,
+     "no": 13,
      "abstain": 0
     },
     "cd&v": {
@@ -4379,12 +4121,6 @@
     "1243"
    ],
    "by_party": {
-    "?": {
-     "stance": "tegen",
-     "yes": 0,
-     "no": 1,
-     "abstain": 0
-    },
     "Anders.": {
      "stance": "verdeeld",
      "yes": 6,
@@ -4442,7 +4178,7 @@
     "Vooruit": {
      "stance": "tegen",
      "yes": 0,
-     "no": 12,
+     "no": 13,
      "abstain": 0
     },
     "cd&v": {
@@ -4474,12 +4210,6 @@
     "1243"
    ],
    "by_party": {
-    "?": {
-     "stance": "tegen",
-     "yes": 0,
-     "no": 1,
-     "abstain": 0
-    },
     "Anders.": {
      "stance": "verdeeld",
      "yes": 6,
@@ -4537,7 +4267,7 @@
     "Vooruit": {
      "stance": "tegen",
      "yes": 0,
-     "no": 11,
+     "no": 12,
      "abstain": 0
     },
     "cd&v": {
@@ -4569,12 +4299,6 @@
     "1243"
    ],
    "by_party": {
-    "?": {
-     "stance": "voor",
-     "yes": 1,
-     "no": 0,
-     "abstain": 0
-    },
     "Anders.": {
      "stance": "onthouding",
      "yes": 0,
@@ -4631,7 +4355,7 @@
     },
     "Vooruit": {
      "stance": "voor",
-     "yes": 12,
+     "yes": 13,
      "no": 0,
      "abstain": 0
     },
@@ -4648,78 +4372,58 @@
  ],
  "summary": {
   "plain_title": "Hervorming van de personenbelasting: minder belasting op werk",
-  "problem": "Volgens de regering en de partijen die het voorstel steunen, betalen werkende mensen in België een van de hoogste belastingen ter wereld. Daardoor houden ze te weinig netto over, en is het verschil tussen werken en niet werken te klein. Dat maakt het minder aantrekkelijk om te gaan werken of meer te werken. Ook vinden zij dat de belastingen niet meer passen bij de manier waarop gezinnen vandaag samenleven.",
+  "problem": "Volgens de regering betalen werkende mensen in België heel veel belasting op hun loon, meer dan in bijna alle andere landen. Daardoor loont werken te weinig ten opzichte van niet werken. De regering wil dat werkenden netto meer overhouden, vooral mensen met een laag of middelmatig loon. Het doel is dat een werkende minstens 500 euro per maand meer heeft dan iemand die niet werkt. Tegelijk wil ze de belastingen moderner maken en beter laten passen bij de manier waarop gezinnen vandaag leven.",
   "proposal": [
-   "Het bedrag waarop je geen belasting betaalt (de belastingvrije som), stijgt stap voor stap naar 15.600 euro in 2030. Daarnaast worden de fiscale werkbonus voor lage lonen verhoogd en de bijzondere bijdrage voor de sociale zekerheid gehalveerd. Die bijdrage wordt ook per persoon berekend.",
-   "Het huwelijksquotiënt (een belastingvoordeel voor koppels waarvan één partner weinig of geen inkomen heeft) wordt gehalveerd voor wie nog niet met pensioen is. Voor gepensioneerden verdwijnt het geleidelijk. De belastingvermindering op werkloosheidsuitkeringen verdwijnt. Het leefloon wordt in principe belastbaar.",
-   "Het belastingvoordeel voor het eerste en tweede kind gaat omhoog. De toeslagen voor kinderen worden tot 2030 niet meer aangepast aan de stijgende prijzen (niet geïndexeerd).",
-   "Gepensioneerden die als werknemer bijverdienen, betalen daarop een vast tarief van 33 %. Werknemers mogen meer vrijwillige overuren doen tegen een lagere belasting. Softwareontwikkelaars kunnen weer gebruikmaken van het voordelige belastingstelsel voor auteursrechten.",
-   "Voor zelfstandigen komt er een ondernemersaftrek, en de boete voor te lage voorafbetalingen verdwijnt. Bedrijfsleiders moeten zichzelf een hoger minimumloon uitbetalen om het lagere tarief van de vennootschapsbelasting te krijgen."
+   "Het deel van het inkomen waarop je geen belasting betaalt (de belastingvrije som), stijgt stap voor stap van 10.910 euro naar 15.600 euro in 2030. De werkbonus voor lage lonen gaat omhoog en de bijzondere bijdrage voor de sociale zekerheid wordt per persoon berekend en gehalveerd.",
+   "De extra belastingvoordelen voor kinderen worden gelijker gemaakt: het voordeel voor het eerste en het tweede kind stijgt. Tot 2030 stijgen alle extra voordelen voor kinderen niet mee met de prijzen. Voor kinderen met een handicap blijft het voordeel wel meestijgen.",
+   "De belastingvermindering op werkloosheidsuitkeringen verdwijnt stap voor stap. Het huwelijksquotiënt (een belastingvoordeel voor koppels waarvan één partner weinig of niets verdient) wordt gehalveerd voor wie niet met pensioen is. Voor gepensioneerden verdwijnt het helemaal, gespreid over 20 jaar.",
+   "Gepensioneerden die als werknemer bijverdienen, betalen daarop een vast tarief van 33 %. Werknemers mogen meer vrijwillige overuren doen met een belastingvoordeel. Jonge sporters krijgen vanaf 15 jaar een lager belastingtarief.",
+   "Zelfstandigen zonder vennootschap krijgen een extra aftrek (ondernemersaftrek) en er komt geen extra belasting meer als ze te weinig vooraf betalen. Softwareontwikkelaars vallen opnieuw onder de voordelige regeling voor auteursrechten. Het minimumloon voor bedrijfsleiders stijgt naar 50.000 euro per jaar."
   ],
   "positions": [
    {
     "actor": "N-VA",
-    "summary": "Steunt de hervorming als eerste stap: een lastenverlaging van 4 miljard euro zodat werken meer loont. Heeft wel bezwaar tegen het viseren van kleine vennootschappen van zelfstandigen.",
+    "summary": "N-VA steunt de hervorming als een eerste stap naar minder belasting op werk: werken moet lonen. De partij heeft wel bedenkingen bij de strengere regels voor kleine vennootschappen.",
     "refs": [
      "134/16.01",
      "134/16.13",
      "134/16.42",
-     "134/16.48"
-    ]
-   },
-   {
-    "actor": "Anders.",
-    "summary": "Noemt enkele maatregelen goed, zoals de auteursrechten voor de IT-sector, de ondernemersaftrek en meer overuren. Vindt de hervorming wel te duur voor te weinig effect: ze maakt de promotieval groter, doet weinig voor de middenklasse en behandelt gepensioneerde zelfstandigen anders dan gepensioneerde werknemers. De partij onthield zich bij de stemming.",
-    "refs": [
-     "134/16.02",
-     "134/16.12",
-     "135/01.06",
-     "135/01.10",
-     "135/01.28",
-     "135/01.45",
-     "135/01.51"
-    ]
-   },
-   {
-    "actor": "MR",
-    "summary": "Steunt de hervorming als een belangrijke eerste stap: werken moet meer opbrengen dan niet werken. Ze steunt ook zelfstandigen en de IT-sector. Volgens de partij heeft ze nooit 500 euro meer loon beloofd, wel een verschil van 500 euro tussen werken en niet werken.",
-    "refs": [
-     "134/16.09",
-     "134/16.16",
-     "134/16.23",
-     "134/16.29",
-     "134/16.43",
-     "135/01.44"
+     "56K1243004/p24",
+     "56K1243004/p28"
     ]
    },
    {
     "actor": "VB",
-    "summary": "Is voor minder belasting op arbeid, maar noemt de hervorming 'reclame': ze is onzeker en niet gefinancierd. Nieuwe belastingen nemen de winst weer weg, en harder werken of promotie maken loont minder. De partij onthield zich.",
+    "summary": "VB steunt de lagere belasting op werk, maar onthoudt zich. Volgens de partij is de hervorming niet zeker betaald, wordt ze tenietgedaan door andere belastingen en loont promotie maken minder.",
     "refs": [
      "134/16.14",
      "134/16.15",
      "135/01.07",
-     "135/01.11",
-     "135/01.14",
-     "135/01.48"
+     "56K1243004/p28",
+     "56K1243004/p31"
+    ]
+   },
+   {
+    "actor": "MR",
+    "summary": "MR steunt de hervorming als een keuze voor een samenleving waarin werk meer opbrengt dan niet werken. De partij noemt de belastingverlaging zelf wel nog te klein.",
+    "refs": [
+     "134/16.16",
+     "134/16.23",
+     "134/16.29"
     ]
    },
    {
     "actor": "PS",
-    "summary": "Stemt tegen. Vindt de hervorming te weinig en te laat, en niet zeker gefinancierd. Ze treft volgens de partij gepensioneerden, vrouwen, grote gezinnen en tijdelijk werklozen, terwijl de grootste vermogens niet worden belast.",
+    "summary": "PS stemt tegen. De partij vindt dat de winst voor werkenden klein is en te laat komt, terwijl gepensioneerden, vrouwen, grote gezinnen en tijdelijk werklozen erop achteruitgaan en de allerrijksten niets bijdragen.",
     "refs": [
-     "134/16.17",
-     "134/16.24",
-     "134/16.32"
+     "134/16.17"
     ]
    },
    {
     "actor": "PVDA-PTB",
-    "summary": "Stemt tegen, al steunt de partij de verhoging van de belastingvrije som (bij een aparte stemming over dat artikel). Ze vindt het voordeel te klein: 55 euro per maand in 2029 voor iemand met een gemiddeld loon. Werklozen, gezinnen en alleenstaande moeders met een leefloon gaan erop achteruit. De partij wil een belasting op miljonairs.",
+    "summary": "PVDA-PTB stemt tegen, maar steunt wel de hogere belastingvrije som. De partij vindt de hervorming onrechtvaardig voor werklozen, gezinnen en alleenstaande ouders met een leefloon, en vraagt een miljonairstaks.",
     "refs": [
-     "134/16.18",
      "134/16.22",
-     "134/16.45",
      "134/16.53",
      "134/16.60",
      "135/01.49"
@@ -4727,85 +4431,96 @@
    },
    {
     "actor": "Les Engagés",
-    "summary": "Steunt de hervorming als de meest ambitieuze in tientallen jaren: ze beloont werken, behandelt gezinsvormen gelijk en maakt de belastingen eenvoudiger. Het verlies voor alleenstaande ouders met een leefloon wil de partij oplossen bij het opstellen van de begroting.",
+    "summary": "Les Engagés steunt de hervorming omdat werk beter beloond wordt en de belastingen eenvoudiger en neutraler worden. Het verlies voor alleenstaande ouders met een leefloon wil de partij later oplossen bij de begroting.",
     "refs": [
-     "134/16.51",
+     "135/01.01",
      "134/16.54",
      "134/16.56",
-     "135/01.01",
-     "135/01.50",
-     "135/01.52"
+     "135/01.50"
     ]
    },
    {
     "actor": "Vooruit",
-    "summary": "Steunt de hervorming omdat vooral de laagste lonen netto meer overhouden. De verlaging wordt volgens de partij mee betaald doordat de mensen met de meeste middelen (de 'sterkste schouders') meer bijdragen.",
+    "summary": "Vooruit steunt de hervorming omdat vooral de laagste lonen erop vooruitgaan. Volgens de partij wordt ze mee betaald door een grotere bijdrage van de sterkste schouders.",
     "refs": [
      "135/01.02"
     ]
    },
    {
     "actor": "cd&v",
-    "summary": "Steunt de hervorming en noemt ze een ingeloste belofte. De belastingvrije som, de werkbonus en de lagere bijzondere bijdrage samen zorgen ervoor dat elke werkende Belg erop vooruitgaat.",
+    "summary": "cd&v steunt de hervorming als een ingeloste verkiezingsbelofte: elke werkende krijgt meer netto en meer mensen worden aangezet om te werken.",
     "refs": [
      "135/01.03",
-     "135/01.05",
      "135/01.09",
      "135/01.12"
     ]
    },
    {
     "actor": "Ecolo-Groen",
-    "summary": "Steunt een aantal onderdelen, zoals de hogere belastingvrije som, de werkbonus en de 33 % voor gepensioneerden, maar stemt tegen het geheel. Gepensioneerden, mensen met een uitkering en gezinnen worden volgens de partij benadeeld. Ze is tegen het voordelige stelsel voor auteursrechten in de IT-sector en vindt dat de hervorming een gat in de begroting slaat.",
+    "summary": "Ecolo-Groen stemt tegen. De partij steunt enkele onderdelen, zoals de werkbonus en het tarief van 33 % voor werkende gepensioneerden. Maar ze verzet zich tegen het verlies voor mensen met een uitkering of pensioen, voor grote gezinnen en tegen de regeling voor auteursrechten. Ze vindt ook dat de hervorming niet betaald is.",
     "refs": [
      "135/01.08",
      "135/01.15",
-     "135/01.18",
      "135/01.20"
     ]
    },
    {
+    "actor": "Anders.",
+    "summary": "Anders. onthoudt zich. De partij steunt sommige maatregelen, zoals de regeling voor auteursrechten en de ondernemersaftrek. Ze vindt de hervorming wel te duur voor te weinig effect, slecht voor de middenklasse en voor promotie, en oneerlijk voor gepensioneerde zelfstandigen.",
+    "refs": [
+     "134/16.02",
+     "134/16.12",
+     "135/01.06",
+     "135/01.23",
+     "135/01.28",
+     "135/01.45",
+     "135/01.51"
+    ]
+   },
+   {
     "actor": "DéFI",
-    "summary": "Deelt het doel om werken minder te belasten, maar vindt de hervorming niet gefinancierd, oneerlijk voor gepensioneerden en vrouwen, en juridisch onzeker. De partij onthield zich.",
+    "summary": "DéFI onthoudt zich. De partij is voor minder belasting op werk, maar vindt de hervorming niet betaald, oneerlijk voor gepensioneerden en vrouwen, en juridisch onzeker.",
     "refs": [
      "135/01.46"
     ]
    },
    {
     "actor": "Regering",
-    "summary": "Minister Jambon noemt de hervorming een gedragen compromis en een stevige stap naar een modernere fiscaliteit die werken aanmoedigt. Hij geeft toe dat de promotieval niet kleiner wordt en noemt dat een bewuste keuze voor de laagste lonen. Het probleem van de alleenstaande ouders met een leefloon wil hij bij de begroting bekijken.",
+    "summary": "Minister Jambon noemt de hervorming een gedragen compromis en een stap naar modernere belastingen die mensen aanzetten om te werken. Hij geeft toe dat promotie maken er niet aantrekkelijker door wordt: de regering koos ervoor de koopkracht van de laagste lonen voorrang te geven.",
     "refs": [
      "134/16.11",
      "134/16.58",
      "135/01.47",
-     "135/01.54"
+     "135/01.54",
+     "56K1243004/p3",
+     "56K1243004/p23"
     ]
    }
   ],
   "arguments_for": [
    {
-    "point": "Werkende mensen houden netto meer over omdat de belasting op arbeid daalt, met in totaal 4 miljard euro.",
+    "point": "Werk wordt minder belast, zodat werkende mensen netto meer overhouden. Zo wordt het verschil tussen werken en niet werken minstens 500 euro per maand.",
     "actors": [
      "N-VA",
-     "cd&v",
-     "Vooruit",
      "MR",
      "Les Engagés",
+     "cd&v",
+     "Vooruit",
      "Regering"
     ],
     "refs": [
      "134/16.01",
-     "135/01.03",
-     "135/01.02",
      "134/16.16",
      "135/01.01",
-     "135/01.47"
+     "135/01.12",
+     "56K1243004/p23",
+     "56K1243004/p24"
     ],
-    "quote": "Vandaag stemmen we over de loonbrief van elke werknemer en over het inkomen van elke zelfstandige in dit land.",
-    "quote_ref": "135/01.03"
+    "quote": "dit wetsvoorstel zorgt vooral voor een verlaging van de lasten op arbeid, waardoor mensen op het einde van de maand meer overhouden.",
+    "quote_ref": "134/16.01"
    },
    {
-    "point": "Vooral mensen met de laagste lonen gaan erop vooruit, bijvoorbeeld tot 150 euro netto per maand extra bij een minimumloon in 2030.",
+    "point": "Mensen met de laagste lonen gaan er het meest op vooruit. Wie het minimumloon verdient, houdt tegen 2030 tot ongeveer 150 euro per maand meer over.",
     "actors": [
      "Vooruit",
      "cd&v",
@@ -4816,77 +4531,82 @@
      "135/01.12",
      "135/01.47"
     ],
-    "quote": "Meer dan 90 % van deze belastingverlaging gaat naar maatregelen die de laagste lonen extra ondersteunen.",
+    "quote": "Ik wil vooral benadrukken dat het de werknemers met de laagste lonen zijn die er het meest op vooruitgaan.",
     "quote_ref": "135/01.02"
    },
    {
-    "point": "Het verschil tussen werken en niet werken wordt groter (minstens 500 euro per maand). Zo worden mensen aangemoedigd om te gaan werken.",
+    "point": "De belastingen worden neutraler en moderner. Ze bevoordelen geen bepaalde manier van samenleven meer, behandelen kinderen gelijker en zetten mensen aan om te gaan werken, bijvoorbeeld door het huwelijksquotiënt af te bouwen.",
     "actors": [
-     "MR",
      "N-VA",
-     "cd&v",
+     "MR",
+     "Les Engagés",
      "Regering"
     ],
     "refs": [
+     "134/16.01",
      "134/16.16",
-     "134/16.01",
-     "135/01.12",
-     "135/01.47"
-    ],
-    "quote": "Le travail doit davantage payer que l'inactivité.",
-    "quote_ref": "134/16.16"
-   },
-   {
-    "point": "De belastingen worden neutraler tegenover gezinsvormen: het afbouwen van het huwelijksquotiënt en de gelijkere kinderbijslagen passen bij hoe gezinnen vandaag samenleven.",
-    "actors": [
-     "Les Engagés",
-     "N-VA",
-     "MR"
-    ],
-    "refs": [
      "135/01.01",
-     "134/16.01",
-     "134/16.16"
+     "56K1243004/p13",
+     "56K1243004/p25"
     ],
     "quote": "L'impôt n'a pas vocation à favoriser un modèle familial plutôt qu'un autre.",
     "quote_ref": "135/01.01"
    },
    {
-    "point": "Zelfstandigen, de IT-sector en gepensioneerden die willen bijverdienen krijgen concrete voordelen. Voorbeelden zijn de ondernemersaftrek, het afschaffen van de boete voor te lage voorafbetalingen, de auteursrechten en de 33 % voor gepensioneerden. Ook enkele oppositiepartijen steunen sommige van deze maatregelen.",
+    "point": "Zelfstandigen krijgen meer ademruimte: er komt een ondernemersaftrek en geen extra belasting meer als ze te weinig vooraf betalen.",
     "actors": [
-     "N-VA",
-     "MR",
      "cd&v",
+     "N-VA",
      "Anders.",
-     "Ecolo-Groen"
+     "Regering"
     ],
     "refs": [
-     "134/16.13",
-     "134/16.16",
      "135/01.12",
+     "134/16.13",
      "135/01.23",
-     "135/01.18"
+     "56K1243004/p17"
     ],
-    "quote": "Voor beginnende zelfstandigen, collega Van Quickenborne, is dat zeker een goede zaak, omdat ze die middelen eerst in hun zaak kunnen investeren.",
-    "quote_ref": "134/16.13"
+    "quote": "We hebben 340.000 zelfstandigen in hoofd- en bijberoep en we hebben een bijkomende ondernemingsaftrek tot 830 euro.",
+    "quote_ref": "135/01.12"
    },
    {
-    "point": "De hervorming maakt de belastingen eenvoudiger en zorgt voor meer rechtszekerheid.",
+    "point": "Gepensioneerden die als werknemer bijverdienen, betalen een eenvoudig vast tarief van 33 %. Zo worden ze niet meer verrast door een hoge belastingaanslag achteraf.",
     "actors": [
-     "Les Engagés",
-     "MR"
+     "N-VA",
+     "Ecolo-Groen",
+     "Anders.",
+     "Regering"
     ],
     "refs": [
-     "135/01.01",
-     "134/16.16"
+     "134/16.01",
+     "135/01.20",
+     "134/16.02",
+     "56K1243004/p15"
     ],
-    "quote": "Une fiscalité plus juste doit aussi être une fiscalité compréhensible.",
-    "quote_ref": "135/01.01"
+    "quote": "Het is een maatregel die wij zullen steunen, want die is eenvoudig, duidelijk en naar onze mening ook fair.",
+    "quote_ref": "135/01.20"
+   },
+   {
+    "point": "Softwareontwikkelaars kunnen opnieuw de regeling voor auteursrechten gebruiken. Volgens voorstanders is dat goed voor een belangrijke sector en voor de concurrentiepositie van België.",
+    "actors": [
+     "MR",
+     "N-VA",
+     "Anders.",
+     "Regering"
+    ],
+    "refs": [
+     "134/16.16",
+     "134/16.13",
+     "135/01.23",
+     "56K1243004/p19"
+    ],
+    "quote": "La réintégration des développeurs dans le régime des droits d'auteur corrige une incohérence qui pénalisait inutilement un secteur essentiel pour notre compétitivité.",
+    "quote_ref": "134/16.16"
    }
   ],
   "arguments_against": [
    {
-    "point": "De hervorming is niet gefinancierd. De regering moet nog miljarden vinden in de begroting, en het is onzeker of de verlaging er volledig komt.",
+    "point": "De hervorming is niet betaald, terwijl de begroting een groot tekort heeft. Het is daarom niet zeker dat alle maatregelen echt worden uitgevoerd.",
     "actors": [
      "DéFI",
      "VB",
@@ -4901,11 +4621,11 @@
      "135/01.20",
      "135/01.28"
     ],
-    "quote": "Cette réforme n'est tout simplement pas financée.",
+    "quote": "Une baisse d'impôt que l'on ne sait pas financer, chers collègues, ce n'est pas vraiment une réforme, c'est une traite tirée sur les contribuables de demain.",
     "quote_ref": "135/01.46"
    },
    {
-    "point": "Andere belastingen en maatregelen van de regering nemen de winst weer weg, zoals hogere accijnzen, de beperkte indexering en de besparingen op pensioenen. Daardoor stijgt de koopkracht niet echt.",
+    "point": "De winst is klein en komt pas laat (rond 2029–2030). Ze wordt ook tenietgedaan door andere belastingen en maatregelen van de regering, zoals hogere accijnzen en een beperktere indexering. Daardoor stijgt de koopkracht niet.",
     "actors": [
      "VB",
      "PS",
@@ -4913,93 +4633,95 @@
      "DéFI"
     ],
     "refs": [
-     "134/16.14",
      "134/16.15",
      "134/16.17",
-     "134/16.27",
-     "135/01.46"
+     "134/16.22",
+     "135/01.46",
+     "56K1243004/p29"
     ],
-    "quote": "De conclusie is eigenlijk heel eenvoudig, de burger krijgt langs rechts een belastingverlaging maar langs links een spervuur aan hogere en nieuwe belastingen.",
+    "quote": "de burger krijgt langs rechts een belastingverlaging maar langs links een spervuur aan hogere en nieuwe belastingen.",
     "quote_ref": "134/16.15"
    },
    {
-    "point": "De promotieval wordt groter: wie bruto meer gaat verdienen, houdt netto steeds minder over. Volgens deze partijen remt dat de productiviteit en de groei af, en de middenklasse krijgt weinig.",
+    "point": "Gepensioneerden, werklozen en mensen met een uitkering gaan er niet op vooruit of gaan erop achteruit. Ook alleenstaande ouders met een leefloon verliezen geld. Volgens tegenstanders kan de armoede daardoor stijgen.",
     "actors": [
-     "VB",
-     "Anders.",
-     "Ecolo-Groen"
+     "Ecolo-Groen",
+     "PS",
+     "PVDA-PTB",
+     "DéFI",
+     "VB"
     ],
     "refs": [
-     "134/16.15",
-     "135/01.06",
-     "135/01.08",
-     "135/01.35",
-     "135/01.37"
+     "135/01.15",
+     "134/16.17",
+     "134/16.53",
+     "135/01.46",
+     "56K1243004/p32"
     ],
-    "quote": "Met andere woorden, werken loont iets meer, maar meer en harder werken loont minder.",
-    "quote_ref": "134/16.15"
+    "quote": "mensen met een hoog loon wel meer netto overhouden, terwijl mensen met een pensioen of een uitkering dat niet doen.",
+    "quote_ref": "135/01.15"
    },
    {
-    "point": "Gepensioneerden, werklozen, zieken, grote gezinnen en alleenstaande moeders met een leefloon gaan erop achteruit, onder meer door het afschaffen van het huwelijksquotiënt en het niet indexeren van de toeslagen voor kinderen.",
+    "point": "Grote gezinnen worden benadeeld, omdat de extra belastingvoordelen voor kinderen niet meer meestijgen met de prijzen. Ook het afbouwen van het huwelijksquotiënt treft vooral gepensioneerden en vrouwen.",
     "actors": [
      "PS",
      "PVDA-PTB",
      "Ecolo-Groen",
-     "DéFI"
+     "DéFI",
+     "VB"
     ],
     "refs": [
      "134/16.17",
      "134/16.53",
-     "134/16.55",
      "135/01.15",
-     "135/01.46"
+     "135/01.46",
+     "135/01.38"
     ],
-    "quote": "Alors que vous prétendez vouloir récompenser le travail, votre première mesure consiste précisément à punir ceux qui ont travaillé toute leur vie.",
+    "quote": "Mais pourquoi financez-vous cette harmonisation vers le haut en pénalisant les familles à partir de trois enfants?",
     "quote_ref": "134/16.17"
    },
    {
-    "point": "De Raad van State heeft juridische vragen. Gepensioneerde zelfstandigen worden anders behandeld dan gepensioneerde werknemers, en de uitbreiding van de auteursrechten zou kunnen ingaan tegen het principe dat iedereen gelijk is voor de belasting.",
+    "point": "De hervorming is duur en heeft weinig effect. Bovendien loont het nog minder om promotie te maken, wat slecht is voor de groei van de economie. De middenklasse krijgt bijna niets.",
+    "actors": [
+     "Anders.",
+     "VB",
+     "Ecolo-Groen"
+    ],
+    "refs": [
+     "135/01.06",
+     "135/01.28",
+     "135/01.07",
+     "135/01.08"
+    ],
+    "quote": "De promotieval – een situatie waarin men bruto meer verdient, maar er netto nauwelijks of niet op vooruitgaat – wordt erdoor versterkt.",
+    "quote_ref": "135/01.28"
+   },
+   {
+    "point": "Sommige maatregelen zijn juridisch onzeker. Zo behandelen ze gepensioneerde zelfstandigen anders dan gepensioneerde werknemers, en de regeling voor auteursrechten kan in strijd zijn met het gelijkheidsbeginsel. De Raad van State had daar kritiek op.",
     "actors": [
      "Anders.",
      "PS",
      "DéFI",
-     "Ecolo-Groen"
+     "Ecolo-Groen",
+     "VB"
     ],
     "refs": [
-     "134/16.02",
      "134/16.12",
      "134/16.17",
      "135/01.46",
-     "135/01.20"
+     "135/01.20",
+     "56K1243004/p33"
     ],
-    "quote": "Waarom voert men een discriminatie in tussen enerzijds gepensioneerde werknemers en anderzijds gepensioneerde zelfstandigen?",
-    "quote_ref": "134/16.02"
-   },
-   {
-    "point": "De verlaging is klein en komt laat, vooral pas in 2029-2030. Voor een gemiddeld loon gaat het om ongeveer 50 euro per maand. De grootste vermogens worden niet belast.",
-    "actors": [
-     "PS",
-     "PVDA-PTB",
-     "Anders.",
-     "Ecolo-Groen"
-    ],
-    "refs": [
-     "134/16.17",
-     "134/16.22",
-     "134/16.60",
-     "135/01.28",
-     "135/01.20"
-    ],
-    "quote": "Monsieur le ministre, votre réforme, c'est trop peu et c'est trop tard.",
-    "quote_ref": "134/16.17"
+    "quote": "Waarom mag een zelfstandige niet genieten van dat tarief van 33 % en een werknemer wel?",
+    "quote_ref": "134/16.12"
    }
   ]
  },
- "checks": [],
  "meta": {
   "generator": "claude-cli",
-  "prompt_version": "1",
-  "generated_at": "2026-11-22T21:54:29+00:00"
+  "prompt_version": "2",
+  "generated_at": "2026-11-22T22:04:57+00:00"
  },
- "repairs": []
+ "repairs": [],
+ "checks": []
 }
