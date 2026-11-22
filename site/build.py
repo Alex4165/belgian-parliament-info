@@ -44,8 +44,12 @@ def build(leg: int = 56) -> None:
         # facts are recomputed from the parsed reports, so parser fixes reach the site
         # without regenerating summaries
         facts = build_debate(d["doc"], leg)
+        reports = {}
+        for p in facts["committee"]:
+            reports.setdefault(p["report"], {"id": p["report"], "url": p["url"].split("#")[0],
+                                             "date": p["date"], "reading": p["reading"]})
         d.update(title=facts["title"], sessions=facts["sessions"], votes=facts["votes"],
-                 docs=facts["docs"], speakers=speakers(facts))
+                 docs=facts["docs"], speakers=speakers(facts), committee_reports=list(reports.values()))
         debates.append(d)
     debates.sort(key=lambda d: (d["sessions"][-1]["date"] or "", d["sessions"][-1]["session"]), reverse=True)
     (OUT / "data" / "debates.json").write_text(json.dumps(debates, ensure_ascii=False, separators=(",", ":")))

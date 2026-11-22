@@ -76,8 +76,12 @@ p { margin: 0; }
 .intro { display: grid; gap: .75rem; margin-bottom: 1.75rem; }
 .intro p { max-width: 38rem; }
 
-.search { display: grid; gap: .35rem; margin-bottom: 1.25rem; }
+.filters { display: grid; grid-template-columns: 2fr 1fr 1fr; gap: .75rem; margin-bottom: 1.25rem; }
+@media (max-width: 640px) { .filters { grid-template-columns: 1fr 1fr; } .filters .search:first-child { grid-column: 1 / -1; } }
+.search { display: grid; gap: .35rem; min-width: 0; }
 .search label { font-size: var(--step--1); font-weight: 600; letter-spacing: .04em; text-transform: uppercase; color: var(--muted); }
+.search select { font: inherit; padding: .6rem .5rem; border: 1px solid var(--line); border-radius: 6px; background: var(--surface); color: var(--fg); width: 100%; }
+.search select:disabled { opacity: .5; }
 .search input { font: inherit; padding: .65rem .8rem; border: 1px solid var(--line); border-radius: 6px; background: var(--surface); color: var(--fg); width: 100%; }
 
 .list { display: grid; gap: .75rem; list-style: none; padding: 0; margin: 0; }

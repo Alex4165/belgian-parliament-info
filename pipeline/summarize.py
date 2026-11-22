@@ -20,7 +20,8 @@ from pipeline.debate import build, speakers
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT_DIR = ROOT / "data" / "debates"
-PROMPT_VERSION = "1"
+PROMPT_VERSION = "2"
+INPUT_BUDGET = 520_000  # characters of source text sent to the model
 GOVERNMENT = "Regering"
 
 ARGUMENT = {
@@ -64,22 +65,28 @@ Regels:
   geen bijvoeglijke naamwoorden die partij kiezen.
 - "problem": 2–4 zinnen: welk maatschappelijk probleem wil de tekst aanpakken, volgens de indieners.
 - "proposal": 2–5 korte punten: wat verandert er concreet.
-- "positions": één item per partij die sprak, plus "{GOVERNMENT}" voor ministers. 1–2 zinnen
-  over hun standpunt, met "refs" naar de toespraken. Gebruik partijnamen exact zoals aangeleverd.
+- "positions": één item per partij die in de plenaire of in de commissie een standpunt innam,
+  plus "{GOVERNMENT}" voor ministers. 1–2 zinnen over het standpunt, met "refs" naar de bronnen.
+  Gebruik partijnamen exact zoals in de stemmingen (bv. "VB", "PVDA-PTB", "cd&v").
 - "arguments_for" / "arguments_against": de 3–6 belangrijkste argumenten aan elke kant.
   Voeg gelijkaardige argumenten van verschillende partijen samen (actors = alle partijen die het
   maakten). Behandel beide kanten even grondig en even neutraal.
 - Elk argument heeft een "quote": een LETTERLIJK citaat (max. 30 woorden, in de originele taal,
   exact gekopieerd zonder wijzigingen) uit de toespraak in "quote_ref".
-- refs hebben de vorm "150/19.05", exact zoals aangeleverd tussen vierkante haken.
+- refs hebben de vorm "150/19.05" (plenaire toespraak) of "56K1721004/p12" (pagina van het
+  commissieverslag), exact zoals aangeleverd tussen vierkante haken.
+- Als er een commissieverslag is: gebruik het om de standpunten en argumenten van ALLE partijen
+  te beschrijven, ook van partijen die in de plenaire niet spraken. Het verslag is tweetalig;
+  citeer uit de Nederlandse of de Franse tekst, letterlijk.
 - Het stemgedrag is aangeleverd als feit; spreek het niet tegen.
 """
 
 
 def norm(s: str) -> str:
-    s = unicodedata.normalize("NFKC", s).replace("’", "'").replace("‘", "'")
-    s = s.replace("“", '"').replace("”", '"').replace("­", "")
-    return re.sub(r"\s+", " ", s).strip().lower()
+    """Letters and digits only: quotes must match word for word, but punctuation, spacing and
+    PDF hyphenation differences are ignored."""
+    s = unicodedata.normalize("NFKC", s).lower()
+    return re.sub(r"[\W_]+", "", s)
 
 
 def render_input(d: dict) -> str:
@@ -94,10 +101,20 @@ def render_input(d: dict) -> str:
                      f"{v['abstain']} onthoudingen. {v['result']['nl']}")
         if v["by_party"]:
             lines.append("  Per partij: " + "; ".join(f"{p}: {x['stance']}" for p, x in v["by_party"].items()))
-    lines += ["", "## Toespraken"]
+    lines += ["", "## Plenaire vergadering: toespraken"]
     for s in d["speeches"]:
         who = s["name"] + (f" ({s['party']})" if s["party"] else f" ({GOVERNMENT})" if s["role"] == "government" else "")
         lines += ["", f"[{s['ref']}] {who} — {s['lang']}", s["text"]]
+    used = sum(len(x) for x in lines)
+    pages = d.get("committee", [])
+    if pages:
+        lines += ["", "## Commissieverslag (schriftelijk verslag van de commissiebespreking, tweetalig FR/NL)"]
+        for p in pages:
+            if used + len(p["text"]) > INPUT_BUDGET:
+                lines += ["", f"(Commissieverslag ingekort: volgende pagina's niet opgenomen vanaf [{p['ref']}].)"]
+                break
+            lines += ["", f"[{p['ref']}] {p['reading'] or ''} verslag, pagina {p['page']}", p["text"]]
+            used += len(p["text"])
     return "\n".join(lines)
 
 
@@ -117,7 +134,10 @@ def call_claude(prompt: str) -> dict:
 
 def check(summary: dict, d: dict) -> list[str]:
     texts = {s["ref"]: norm(s["text"] + "\n" + (s.get("translation") or "")) for s in d["speeches"]}
+    texts.update({p["ref"]: norm(p["text"]) for p in d.get("committee", [])})
     actors = {s["party"] for s in d["speeches"] if s["party"]} | {GOVERNMENT}
+    for v in d["votes"]:
+        actors |= set(v["by_party"] or {})
     by_ref = {s["ref"]: s for s in d["speeches"]}
     problems = []
     for p in summary["positions"]:
@@ -129,7 +149,7 @@ def check(summary: dict, d: dict) -> list[str]:
             tag = f"{side}[{i}]"
             problems += [f"{tag}: unknown actor {x!r}" for x in a["actors"] if x not in actors]
             problems += [f"{tag}: unknown ref {r}" for r in a["refs"] if r not in texts]
-            q = norm(a["quote"]).strip(" .\"'…")
+            q = norm(a["quote"])
             if a["quote_ref"] not in texts or q not in texts[a["quote_ref"]]:
                 found = [r for r, t in texts.items() if q in t]
                 if len(found) == 1:
@@ -142,11 +162,16 @@ def check(summary: dict, d: dict) -> list[str]:
                 else:
                     problems.append(f"{tag}: quote not found verbatim in {a['quote_ref']}")
                     continue
-            speaker = by_ref[a["quote_ref"]]
+            speaker = by_ref.get(a["quote_ref"])
+            if speaker is None:  # committee report page: several speakers, no single party
+                continue
             actor = speaker["party"] or (GOVERNMENT if speaker["role"] == "government" else None)
             if actor and actor not in a["actors"]:
                 problems.append(f"{tag}: quoted speaker's party {actor} not among actors")
     spoke = {s["party"] for s in d["speeches"] if s["party"]}
+    final = [v for v in d["votes"] if v["final"] and v["by_party"]]
+    if d.get("committee") and final:  # with a committee report, every voting party should be covered
+        spoke |= set(final[-1]["by_party"]) - {"Onbekend", "Onafhankelijk"}
     covered = {p["actor"] for p in summary["positions"]}
     problems += [f"positions: missing party {p}" for p in sorted(spoke - covered)]
     return problems
@@ -176,7 +201,10 @@ def apply_checks(out: dict, d: dict) -> None:
     problems = check(out["summary"], d)
     repairs = [p for p in problems if p.endswith("(repaired)")]
     out["repairs"] = sorted(set(out.get("repairs", [])) | set(repairs))
-    out["checks"] = [p for p in problems if not p.endswith("(repaired)")]
+    # a party without a recorded position is expected (no committee seat, did not speak):
+    # informational, shown on the page as such, not a failed check
+    out["notes"] = [p for p in problems if p.startswith("positions: missing party")]
+    out["checks"] = [p for p in problems if not p.endswith("(repaired)") and p not in out["notes"]]
 
 
 def recheck(leg: int = 56) -> None:

@@ -18,7 +18,7 @@ import shutil
 import urllib.request
 from pathlib import Path
 
-from pipeline import members, parse_plenary, summarize
+from pipeline import committee, members, parse_plenary, summarize
 from pipeline.catalog import debated_docs
 from pipeline.debate import build
 from pipeline.fetch import RAW_DIR, fetch
@@ -80,6 +80,8 @@ def main() -> None:
                     continue
                 count += 1
                 try:
+                    for doc in build(d["doc"], LEG)["docs"]:
+                        committee.fetch_reports(int(doc), LEG)
                     path = summarize.summarize(d["doc"], LEG)
                     done.add(path.stem)
                     print(f"summarised {d['doc']} -> {path.name}")

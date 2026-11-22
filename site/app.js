@@ -43,9 +43,28 @@
   }
 
   // ---------- list ----------
-  function renderList(query) {
-    const q = (query || "").trim().toLowerCase();
-    const items = debates.filter((d) => !q || d._haystack.includes(q));
+  const filter = { q: "", party: "", stance: "" };
+
+  function matches(d) {
+    if (filter.q && !d._haystack.includes(filter.q.trim().toLowerCase())) return false;
+    if (filter.party) {
+      const v = mainVote(d);
+      const x = v && v.by_party && v.by_party[filter.party];
+      if (!x) return false;
+      if (filter.stance && x.stance !== filter.stance) return false;
+    }
+    return true;
+  }
+
+  function allParties() {
+    const set = new Set();
+    debates.forEach((d) => { const v = mainVote(d); if (v && v.by_party) Object.keys(v.by_party).forEach((p) => set.add(p)); });
+    return [...set].filter((p) => p !== "Onbekend").sort((a, b) => a.localeCompare(b));
+  }
+
+  function renderList() {
+    const query = filter.q;
+    const items = debates.filter(matches);
     app.innerHTML = `
       <div class="intro">
         <h1>Wat bespreekt de Kamer, en wie vindt wat?</h1>
@@ -54,9 +73,20 @@
         <p class="small muted">Onafhankelijk proefproject, geen officiële website van de Kamer. Samenvattingen zijn gemaakt met AI op basis van het
         integraal verslag; elk citaat is automatisch nagekeken. <a href="#over">Hoe werkt dit?</a></p>
       </div>
-      <div class="search">
-        <label for="q">Zoek een debat</label>
-        <input id="q" type="search" placeholder="bv. pensioen, leefloon, N-VA" value="${esc(query || "")}" autocomplete="off">
+      <div class="filters">
+        <div class="search">
+          <label for="q">Zoek een debat</label>
+          <input id="q" type="search" placeholder="bv. pensioen, leefloon, energie" value="${esc(query || "")}" autocomplete="off">
+        </div>
+        <div class="search">
+          <label for="party">Partij</label>
+          <select id="party"><option value="">Alle partijen</option>${allParties().map((p) => `<option${p === filter.party ? " selected" : ""}>${esc(p)}</option>`).join("")}</select>
+        </div>
+        <div class="search">
+          <label for="stance">Stemde</label>
+          <select id="stance" ${filter.party ? "" : "disabled"}>${[["", "om het even"], ["voor", "voor"], ["tegen", "tegen"], ["onthouding", "onthouding"], ["verdeeld", "verdeeld"]]
+            .map(([v, l]) => `<option value="${v}"${v === filter.stance ? " selected" : ""}>${l}</option>`).join("")}</select>
+        </div>
       </div>
       <p class="small muted" style="margin-bottom:.75rem">${items.length} van ${debates.length} debatten</p>
       <ul class="list">
@@ -69,20 +99,38 @@
             ${outcomeLine(v)}
             ${stanceChips(v)}
           </a></li>`;
-        }).join("") || `<li class="empty">Geen debatten gevonden voor “${esc(query)}”.</li>`}
+        }).join("") || `<li class="empty">Geen debatten gevonden met deze filters.</li>`}
       </ul>`;
     const input = document.getElementById("q");
     input.addEventListener("input", () => {
       const pos = input.selectionStart;
-      renderList(input.value);
+      filter.q = input.value;
+      renderList();
       const again = document.getElementById("q");
       again.focus();
       try { again.setSelectionRange(pos, pos); } catch (e) { /* ignore */ }
+    });
+    document.getElementById("party").addEventListener("change", (e) => {
+      filter.party = e.target.value;
+      if (!filter.party) filter.stance = "";
+      renderList();
+      document.getElementById("party").focus();
+    });
+    document.getElementById("stance").addEventListener("change", (e) => {
+      filter.stance = e.target.value;
+      renderList();
+      document.getElementById("stance").focus();
     });
   }
 
   // ---------- debate ----------
   function refLink(d, ref) {
+    const cm = /^(\d+)K(\d{4})(\d{3})\/p(\d+)$/.exec(ref);
+    if (cm) {
+      const rep = (d.committee_reports || []).find((r) => ref.startsWith(r.id + "/"));
+      const label = `Commissieverslag ${Number(cm[2])}/${cm[3]} · p. ${cm[4]}`;
+      return rep ? `<a href="${esc(rep.url)}#page=${cm[4]}" target="_blank" rel="noopener" title="Schriftelijk verslag van de commissie (PDF), pagina ${cm[4]}">${esc(label)}</a>` : esc(label);
+    }
     const [session, id] = ref.split("/");
     const s = d.sessions.find((x) => String(x.session) === session);
     const who = d._refNames[ref] || "";
@@ -161,8 +209,8 @@
           return `<div class="position"><header><strong>${esc(p.actor)}</strong>${st ? `<span class="chip s-${st}">stemde ${STANCE_LABEL[st]}</span>` : ""}</header>
             <p>${esc(p.summary)}</p><div class="refs">${p.refs.map((r) => refLink(d, r)).join("")}</div></div>`;
         }).join("")}</div>
-        ${silent.length ? `<p class="silent">Spraken niet in het plenaire debat: ${silent.map((p) => `${esc(p)} (stemde ${STANCE_LABEL[v.by_party[p].stance]})`).join(", ")}.
-          Hun argumenten staan mogelijk in het <a href="${DOSSIER(d.doc)}" target="_blank" rel="noopener">commissieverslag</a>.</p>` : ""}
+        ${silent.length ? `<p class="silent">Geen standpunt gevonden in de verwerkte verslagen voor: ${silent.map((p) => `${esc(p)} (stemde ${STANCE_LABEL[v.by_party[p].stance]})`).join(", ")}.
+          ${(d.committee_reports || []).length ? "" : `Er is geen commissieverslag verwerkt; zie het <a href="${DOSSIER(d.doc)}" target="_blank" rel="noopener">dossier</a>.`}</p>` : ""}
       </section>
 
       <section>
@@ -181,6 +229,7 @@
         ${(d.repairs || []).length ? `<p>Automatisch gecorrigeerd: ${d.repairs.length} citaat stond bij de verkeerde spreker en is aan de juiste toespraak gekoppeld.</p>` : ""}
         <ul>
           ${d.sessions.map((x) => `<li><a href="${esc(x.url)}" target="_blank" rel="noopener">Integraal verslag CRIV 56 PLEN ${x.session}</a> (${fmtDate(x.date)})</li>`).join("")}
+          ${(d.committee_reports || []).map((r) => `<li><a href="${esc(r.url)}" target="_blank" rel="noopener">Commissieverslag ${esc(r.id.replace(/^56K0*/, "").replace(/(\d{3})$/, "/$1"))}</a>${r.reading ? ` (${esc(r.reading.toLowerCase())})` : ""}, ${fmtDate(r.date)}</li>`).join("")}
           ${d.docs.map((x) => `<li><a href="${DOSSIER(x)}" target="_blank" rel="noopener">Dossier ${esc(x)} op dekamer.be</a> (wetsontwerp, amendementen, commissieverslag)</li>`).join("")}
         </ul>
         <details><summary>Sprekers in dit debat (${d.speakers.length})</summary>
@@ -199,7 +248,9 @@
         (<a href="https://dekamer.mijnopinie.belgium.be/initiatives/i-1086/versions/3" target="_blank" rel="noopener">i-1086</a>), punt 2: toegankelijke informatie over debatten.</p>
         <h3>Waar komen de gegevens vandaan?</h3>
         <p>Uit het integraal verslag van de plenaire vergaderingen (CRIV) op dekamer.be. Een programma leest elk verslag in:
-        agendapunten, wie sprak (en voor welke partij), en de stemmingen met de naamlijsten.</p>
+        agendapunten, wie sprak (en voor welke partij), en de stemmingen met de naamlijsten.
+        Daarnaast het schriftelijk verslag van de commissie: daar gebeurt het meeste inhoudelijke werk, en daar komen
+        ook partijen aan bod die in de plenaire niet het woord namen.</p>
         <h3>Wat is feit en wat is samenvatting?</h3>
         <ul class="changes">
           <li><b>Feit</b>: de stemresultaten, het stemgedrag per partij (berekend uit de naamstemming) en wie sprak.</li>
@@ -209,7 +260,8 @@
         </ul>
         <h3>Beperkingen</h3>
         <ul class="changes">
-          <li>Alleen het plenaire debat. Veel inhoudelijke discussie gebeurt in de commissies; partijen die in de plenaire niet spraken, hebben hier geen argumenten.</li>
+          <li>Zeer lange commissieverslagen (honderden pagina's) worden ingekort: alleen het begin, met de algemene bespreking, wordt gebruikt.</li>
+          <li>Hoorzittingen met experten en adviezen (Raad van State) zijn nog niet apart verwerkt.</li>
           <li>Partijen worden afgeleid uit de huidige ledenlijst; wie van fractie wisselde, kan verkeerd staan bij oude stemmingen.</li>
           <li>AI kan nuances missen. Lees bij twijfel het verslag via de bronlinks.</li>
         </ul>
@@ -220,7 +272,7 @@
     const h = location.hash.replace(/^#/, "");
     if (h.startsWith("debat-")) renderDebate(h.slice(6));
     else if (h === "over") renderAbout();
-    else renderList("");
+    else renderList();
   }
 
   fetch("data/debates.json")
@@ -229,7 +281,7 @@
       debates = data.map((d) => {
         d._refNames = {};
         d.speakers.forEach((p) => p.refs.forEach((r) => { d._refNames[r] = p.name || "Voorzitter"; }));
-        const parties = d.summary.positions.map((p) => p.actor).join(" ");
+        const parties = d.summary.positions.map((p) => p.actor + " " + p.summary).join(" ");
         d._haystack = [d.summary.plain_title, d.title.nl, d.summary.problem, parties, d.docs.join(" ")].join(" ").toLowerCase();
         return d;
       });

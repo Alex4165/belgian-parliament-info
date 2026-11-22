@@ -9,6 +9,8 @@ import re
 from collections import defaultdict
 from pathlib import Path
 
+from pipeline.committee import load_reports
+
 ROOT = Path(__file__).resolve().parent.parent
 PLENARY_DIR = ROOT / "data" / "plenary"
 MEMBERS_DIR = ROOT / "data" / "members"
@@ -128,9 +130,17 @@ def build(doc: str, leg: int = 56) -> dict:
         raise SystemExit(f"document {doc} not found in parsed sessions")
     title.pop("_debated")
 
+    committee = []
+    for rep in load_reports(docs, leg):
+        for i, text in enumerate(rep["pages"], start=1):
+            if len(text) > 200:  # skip near-empty pages
+                committee.append({"ref": f"{rep['id']}/p{i}", "report": rep["id"], "page": i,
+                                  "url": f"{rep['url']}#page={i}", "date": rep["date"],
+                                  "reading": rep["reading"], "text": text})
+
     return {
         "doc": docs[0], "docs": docs, "legislature": leg, "title": title, "sessions": sessions,
-        "speeches": speeches, "votes": votes,
+        "speeches": speeches, "votes": votes, "committee": committee,
     }
 
 
