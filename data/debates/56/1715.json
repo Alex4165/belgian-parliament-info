@@ -554,5 +554,10 @@
   "prompt_version": "1",
   "generated_at": "2026-11-22T21:58:02+00:00"
  },
- "repairs": []
+ "repairs": [],
+ "notes": [
+  "positions: missing party DéFI",
+  "positions: missing party PS",
+  "positions: missing party Vooruit"
+ ]
 }

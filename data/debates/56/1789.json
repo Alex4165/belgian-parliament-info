@@ -742,5 +742,8 @@
   "prompt_version": "1",
   "generated_at": "2026-11-22T21:53:35+00:00"
  },
- "repairs": []
+ "repairs": [],
+ "notes": [
+  "positions: missing party DéFI"
+ ]
 }

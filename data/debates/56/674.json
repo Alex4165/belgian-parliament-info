@@ -272,7 +272,14 @@
    }
   ]
  },
- "checks": [
+ "checks": [],
+ "meta": {
+  "generator": "claude-cli",
+  "prompt_version": "1",
+  "generated_at": "2026-11-22T21:52:58+00:00"
+ },
+ "repairs": [],
+ "notes": [
   "positions: missing party Anders.",
   "positions: missing party DéFI",
   "positions: missing party Ecolo-Groen",
@@ -282,11 +289,5 @@
   "positions: missing party PVDA-PTB",
   "positions: missing party Vooruit",
   "positions: missing party cd&v"
- ],
- "meta": {
-  "generator": "claude-cli",
-  "prompt_version": "1",
-  "generated_at": "2026-11-22T21:52:58+00:00"
- },
- "repairs": []
+ ]
 }

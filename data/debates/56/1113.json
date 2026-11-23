@@ -466,7 +466,8 @@
   "generated_at": "2026-11-22T22:04:49+00:00"
  },
  "repairs": [],
- "checks": [
+ "checks": [],
+ "notes": [
   "positions: missing party Anders.",
   "positions: missing party DéFI"
  ]

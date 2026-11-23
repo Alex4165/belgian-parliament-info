@@ -481,7 +481,8 @@
   "generated_at": "2026-11-22T22:04:51+00:00"
  },
  "repairs": [],
- "checks": [
+ "checks": [],
+ "notes": [
   "positions: missing party DéFI"
  ]
 }

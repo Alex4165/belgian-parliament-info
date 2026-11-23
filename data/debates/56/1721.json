@@ -785,14 +785,15 @@
    }
   ]
  },
- "checks": [
-  "positions: missing party Anders.",
-  "positions: missing party DéFI"
- ],
+ "checks": [],
  "meta": {
   "generator": "claude-cli",
   "prompt_version": "1",
   "generated_at": "2026-11-22T21:53:20+00:00"
  },
- "repairs": []
+ "repairs": [],
+ "notes": [
+  "positions: missing party Anders.",
+  "positions: missing party DéFI"
+ ]
 }
