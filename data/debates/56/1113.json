@@ -466,7 +466,9 @@
   "generated_at": "2026-11-22T22:04:49+00:00"
  },
  "repairs": [],
- "checks": [],
+ "checks": [
+  "arguments_for[2]: quote not found verbatim in 147/11.01"
+ ],
  "notes": [
   "positions: missing party Anders.",
   "positions: missing party DéFI"
