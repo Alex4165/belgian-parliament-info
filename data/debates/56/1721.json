@@ -785,7 +785,10 @@
    }
   ]
  },
- "checks": [],
+ "checks": [
+  "arguments_for[2]: quote not found verbatim in 150/19.06",
+  "arguments_against[1]: quote not found verbatim in 150/19.05"
+ ],
  "meta": {
   "generator": "claude-cli",
   "prompt_version": "1",
